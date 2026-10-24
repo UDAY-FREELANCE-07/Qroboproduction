@@ -1,0 +1,12 @@
+{
+  "name": "qrobo",
+  "private": true,
+  "description": "Root convenience scripts. The app and all dependencies live in frontend/.",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run start",
+    "lint": "npm --prefix frontend run lint",
+    "typecheck": "npm --prefix frontend run typecheck"
+  }
+}
