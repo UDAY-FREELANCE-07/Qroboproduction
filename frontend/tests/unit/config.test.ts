@@ -43,8 +43,16 @@ describe('loadDbConfig', () => {
   it('refuses sslmode in the URL (cannot downgrade TLS)', () =>
     expectConfigError({ ...good, DATABASE_URL: `${good.DATABASE_URL}?sslmode=no-verify` }, /sslmode/));
 
-  it('refuses DATABASE_SSL=disable in production', () =>
+  it('refuses DATABASE_SSL=disable in production for a remote database', () =>
     expectConfigError({ ...good, DATABASE_SSL: 'disable', NODE_ENV: 'production' }, /not allowed/));
+
+  it.each(['localhost', '127.0.0.1', '[::1]'])('allows DATABASE_SSL=disable in production for a same-machine database (%s)', (host) => {
+    const cfg = loadDbConfig({ DATABASE_URL: `postgresql://qrobo_app:${SECRET}@${host}:5432/qrobo`, DATABASE_SSL: 'disable', NODE_ENV: 'production' });
+    expect(cfg.ssl).toBe(false);
+  });
+
+  it.each(['localhost.attacker.com', '127.0.0.2', '10.0.0.5'])('still refuses disable in production for look-alike or private hosts (%s)', (host) =>
+    expectConfigError({ DATABASE_URL: `postgresql://qrobo_app:${SECRET}@${host}:5432/qrobo`, DATABASE_SSL: 'disable', NODE_ENV: 'production' }, /not allowed/));
 
   it('verify-full always verifies the certificate', () => {
     const cfg = loadDbConfig(good);

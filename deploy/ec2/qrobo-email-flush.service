@@ -1,0 +1,15 @@
+[Unit]
+Description=QROBO email outbox retry (sends queued/failed emails)
+After=postgresql.service
+
+[Service]
+Type=oneshot
+User=qrobo
+Group=qrobo
+WorkingDirectory=/srv/qrobo/current/frontend
+EnvironmentFile=/etc/qrobo/app.env
+ExecStart=/usr/bin/node node_modules/tsx/dist/cli.mjs scripts/email/flush.ts
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true

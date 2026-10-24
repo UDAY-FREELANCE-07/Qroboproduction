@@ -40,6 +40,8 @@ export interface DbConfig {
 // Values copied from .env.example templates or obviously unfilled placeholders.
 const PLACEHOLDER_PATTERNS = [/placeholder/i, /your[-_]/i, /change[-_]?me/i, /[<>]/, /example\.(com|org)/i];
 const PLACEHOLDER_HOSTS = new Set(['host', 'hostname', 'db-host', 'rds-endpoint']);
+// URL.hostname keeps the brackets for IPv6 literals.
+const LOOPBACK_HOSTS = new Set(['localhost', '127.0.0.1', '[::1]']);
 
 function looksLikePlaceholder(value: string): boolean {
   return PLACEHOLDER_PATTERNS.some((re) => re.test(value));
@@ -102,8 +104,12 @@ export function loadDbConfig(
   if (sslRaw !== 'verify-full' && sslRaw !== 'disable') {
     throw new ConfigError('DATABASE_SSL must be set explicitly to "verify-full" or "disable".');
   }
-  if (sslRaw === 'disable' && isProduction) {
-    throw new ConfigError('DATABASE_SSL=disable is not allowed when NODE_ENV=production.');
+  // In production, plain-text connections are only allowed to a database on the same machine
+  // (self-hosted PostgreSQL on the EC2 instance): that traffic never leaves the loopback interface.
+  if (sslRaw === 'disable' && isProduction && !LOOPBACK_HOSTS.has(host.toLowerCase())) {
+    throw new ConfigError(
+      'DATABASE_SSL=disable is not allowed when NODE_ENV=production unless the database host is localhost/127.0.0.1/::1.',
+    );
   }
 
   let ssl: DbConfig['ssl'] = false;

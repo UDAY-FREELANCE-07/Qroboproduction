@@ -25,5 +25,6 @@ npm test           # unit + integration tests (throwaway local PostgreSQL, no Do
 ```
 
 PostgreSQL mode: set `DATA_SOURCE=postgres` plus the database variables from
-`backend/.env.example` (see `frontend/README.md`). Deployment: `docs/aws-deployment.md` (nothing
-is provisioned yet). Open issues: `docs/known-issues.md`.
+`backend/.env.example` (see `frontend/README.md`). Deployment: `docs/ec2-self-hosted.md` (one EC2
+instance with PostgreSQL on the same server, scripts in `deploy/ec2/`) or `docs/aws-deployment.md`
+(EC2 + Amazon RDS). Open issues: `docs/known-issues.md`.

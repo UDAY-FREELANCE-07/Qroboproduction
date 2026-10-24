@@ -1,0 +1,24 @@
+[Unit]
+Description=QROBO Next.js store
+After=network-online.target postgresql.service
+Wants=network-online.target
+Requires=postgresql.service
+
+[Service]
+User=qrobo
+Group=qrobo
+WorkingDirectory=/srv/qrobo/current/frontend
+EnvironmentFile=/etc/qrobo/app.env
+# Refuse to start on invalid/placeholder config or a DATA_SOURCE that differs from the build.
+ExecStartPre=/usr/bin/node node_modules/tsx/dist/cli.mjs scripts/check-config.ts --expect postgres
+ExecStart=/usr/bin/node node_modules/next/dist/bin/next start -p 3000 -H 127.0.0.1
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/srv/qrobo/releases
+
+[Install]
+WantedBy=multi-user.target
