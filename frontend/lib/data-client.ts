@@ -253,6 +253,9 @@ export type Database = {
           shipping_address: Record<string, string> | null;
           billing_address: Record<string, string> | null;
           notes: string | null;
+          courier?: string | null;
+          tracking_number?: string | null;
+          tracking_url?: string | null;
           created_at: string;
           updated_at: string;
         };

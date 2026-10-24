@@ -26,6 +26,8 @@ export const POST = handler(async (req: Request) => {
   const result = await withTransaction(async (db) => {
     const userId = await consumeEmailToken(db, token, 'verify_email');
     if (!userId) return null;
+    const before = await db.query<{ verified: boolean }>(`SELECT email_verified_at IS NOT NULL AS verified FROM users WHERE id = $1 FOR UPDATE`, [userId]);
+    const firstVerification = !before.rows[0]?.verified;
     const u = await db.query<{ email: string; full_name: string | null; role: string }>(
       `UPDATE users SET email_verified_at = COALESCE(email_verified_at, now()) WHERE id = $1
        RETURNING email, (SELECT full_name FROM profiles WHERE id = $1) AS full_name, (SELECT role FROM profiles WHERE id = $1) AS role`,
@@ -36,6 +38,14 @@ export const POST = handler(async (req: Request) => {
       await db.query(`UPDATE profiles SET role = 'admin' WHERE id = $1`, [userId]);
       await enqueueEmail(db, u.rows[0].email, templates.adminAccess(u.rows[0].full_name, baseUrl));
       role = 'admin';
+    } else if (firstVerification && role === 'customer') {
+      // Welcome email once per account, with the welcome coupon if it is currently active.
+      const coupon = await db.query<{ code: string; description: string | null }>(
+        `SELECT code, description FROM coupons
+          WHERE code = 'WELCOME10' AND is_active AND (expires_at IS NULL OR expires_at > now())
+            AND (usage_limit IS NULL OR COALESCE(used_count, 0) < usage_limit)`,
+      );
+      await enqueueEmail(db, u.rows[0].email, templates.welcome(u.rows[0].full_name, baseUrl, coupon.rows[0] ?? null));
     }
     return { role };
   });

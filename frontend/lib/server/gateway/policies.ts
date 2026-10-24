@@ -120,7 +120,7 @@ export const POLICIES: Record<TableName, TablePolicy> = {
 
   orders: {
     read: { who: 'user', scope: (uid) => [ownedBy('user_id', uid!)], hiddenForNonAdmin: ['idempotency_key', 'razorpay_signature'] },
-    update: { who: 'admin', columns: ['status'] },
+    update: { who: 'admin', columns: ['status', 'courier', 'tracking_number', 'tracking_url'] },
     relations: { order_items: { table: 'order_items', kind: 'many', localColumn: 'id', remoteColumn: 'order_id' } },
   },
   order_items: {

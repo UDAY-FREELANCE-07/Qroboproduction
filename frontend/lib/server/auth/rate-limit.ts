@@ -55,4 +55,6 @@ export const limits = (globalForRl.__qroboRateLimits ??= {
   emailTokenPerIp: new RateLimiter(30, FIFTEEN_MIN),
   resendVerifyPerUser: new RateLimiter(3, 60 * 60 * 1000),
   testEmailPerUser: new RateLimiter(5, 60 * 60 * 1000),
+  newsletterPerIp: new RateLimiter(10, 60 * 60 * 1000),
+  newsletterPerEmail: new RateLimiter(3, 24 * 60 * 60 * 1000),
 });

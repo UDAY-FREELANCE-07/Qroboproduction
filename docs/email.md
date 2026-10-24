@@ -10,12 +10,25 @@ Works in `DATA_SOURCE=postgres` mode (mock mode has no accounts; the pages show 
 | Admin access granted | An `ADMIN_EMAILS` address is verified | No |
 | Reset your password | `/forgot-password` | No |
 | Password changed | Password change or reset | No |
-| Order confirmed | Checkout | No (transactional) |
-| Order status update | Admin changes an order's status | Yes — "Order updates" |
-| New order alert | Checkout, to every **verified** admin | Yes — "New order alerts" (admins) |
+| Welcome (with `WELCOME10` while that coupon is active) | First email verification of a customer | No (sent once) |
+| Order confirmed (items + images, totals, address, payment, delivery) | Checkout | No (transactional) |
+| Order status update (progress tracker; courier/tracking on shipped; COD amount reminder; review links on delivered) | Admin changes an order's status | Yes — "Order updates" |
+| New order alert (customer, address, items) | Checkout, to every **verified** admin | Yes — "New order alerts" (admins) |
+| Low stock / out of stock alert | Checkout makes a product cross `low_stock_threshold` or reach 0 (once per crossing) | Same setting as new order alerts |
+| Newsletter confirm → welcome (with unsubscribe link) | Home page "Stay Updated" form, double opt-in | Yes — one-click unsubscribe |
 | Test email | Admin → Settings → "Send test email to me" (only to the admin's own address) | — |
 
-"Offers & new arrivals" is stored as a preference; no marketing emails are sent yet.
+### Shipping an order
+Admin → Orders → set status to **shipped**: a dialog asks for courier, tracking number and tracking
+link (`https://` only, optional). Saving emails the customer; "Tracking" edits later do not send
+another email. The details appear on Account → Orders.
+
+### Newsletter (`newsletter_subscribers`, migration 0003)
+`pending` (confirmation sent, nothing else) → `subscribed` (link clicked within 48 h) →
+`unsubscribed`. Same response for every address (no enumeration), 3 confirmations per address per
+day, 10 signups per IP per hour. Confirming/unsubscribing also updates a matching account's
+"Offers & new arrivals" setting. Sending bulk newsletters is not built yet; when it is, only send
+to `status = 'subscribed'` and include the per-address unsubscribe link.
 
 ## How it works
 * **Outbox.** Every email is inserted into `email_outbox` inside the same transaction as the event.
@@ -95,3 +108,4 @@ WantedBy=timers.target
 `backend/postgres/migrations/0002_email_profile_settings.sql` (additive): `users.email_verified_at`,
 notification columns on `profiles`, `email_tokens`, `email_outbox`. Apply with `npm run db:migrate`.
 Existing users are unverified until they use a verification or reset link.
+`0003_ecommerce_email.sql` (additive): `orders.courier/tracking_number/tracking_url`, `newsletter_subscribers`.

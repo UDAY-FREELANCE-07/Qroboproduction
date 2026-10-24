@@ -34,7 +34,7 @@ export const TABLES = {
     country is_default:bool ${TS}`),
   orders: cols(`id:uuid order_number user_id:uuid status payment_status payment_method payment_id razorpay_order_id
     razorpay_payment_id razorpay_signature subtotal:num discount:num shipping_cost:num tax:num total:num coupon_code
-    shipping_address:jsonb billing_address:jsonb notes idempotency_key ${TS}`),
+    shipping_address:jsonb billing_address:jsonb notes idempotency_key courier tracking_number tracking_url ${TS}`),
   order_items: cols(`id:uuid order_id:uuid product_id:uuid product_name product_image product_slug sku price:num
     quantity:int total:num created_at:ts`),
   coupons: cols(`id:uuid code description discount_type discount_value:num min_order_value:num max_discount:num

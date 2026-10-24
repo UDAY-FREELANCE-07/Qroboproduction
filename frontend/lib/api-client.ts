@@ -263,3 +263,9 @@ export const accountApi = {
   emailStatus: () => getJson<EmailStatus>('/api/admin/email'),
   sendTestEmail: () => postJson<{ queued: boolean; to: string; provider: string }>('/api/admin/email', {}),
 };
+
+export const newsletterApi = {
+  subscribe: (email: string) => postJson<{ message: string }>('/api/newsletter/subscribe', { email }),
+  confirm: (token: string) => postJson<{ subscribed: boolean }>('/api/newsletter/confirm', { token }),
+  unsubscribe: (token: string) => postJson<{ unsubscribed: boolean }>('/api/newsletter/unsubscribe', { token }),
+};

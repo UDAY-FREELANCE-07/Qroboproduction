@@ -161,6 +161,18 @@ export default function AccountPage() {
                         </div>
                       ))}
                     </div>
+                    {(order.tracking_number || order.courier) && (
+                      <div className="mt-4 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg bg-blue-50 px-3 py-2 text-xs text-navy">
+                        <span className="font-semibold">Shipment</span>
+                        {order.courier && <span>{order.courier}</span>}
+                        {order.tracking_number && <span>Tracking: <span className="font-mono">{order.tracking_number}</span></span>}
+                        {order.tracking_url && /^https:\/\//i.test(order.tracking_url) && (
+                          <a href={order.tracking_url} target="_blank" rel="noopener noreferrer" className="font-medium text-primary hover:underline">
+                            Track package
+                          </a>
+                        )}
+                      </div>
+                    )}
                   </div>
                 ))
               )}

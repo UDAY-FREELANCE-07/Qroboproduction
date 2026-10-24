@@ -6,7 +6,7 @@ import { ApiError } from './http';
 import { computeTotals, CouponError, type CouponRow } from './pricing';
 import { getOnlinePaymentStatus } from './payments/provider';
 import { appUrl, enqueueEmail, templates } from './email';
-import type { OrderSummary } from './email/templates';
+import type { LowStockItem, OrderSummary } from './email/templates';
 
 const Text = (max: number) => z.string().trim().min(1).max(max);
 
@@ -62,8 +62,8 @@ export async function createOrder(db: PoolClient, userId: string, input: Checkou
 
   // Lock product rows in a stable order to avoid deadlocks between concurrent checkouts.
   const ids = cart.rows.map((r) => r.product_id);
-  const products = await db.query<{ id: string; name: string; slug: string; sku: string; price: number; stock: number; primary_image: string | null; is_published: boolean }>(
-    `SELECT id, name, slug, sku, price, stock, primary_image, is_published FROM products WHERE id = ANY($1) ORDER BY id FOR UPDATE`,
+  const products = await db.query<{ id: string; name: string; slug: string; sku: string; price: number; stock: number; low_stock_threshold: number | null; primary_image: string | null; is_published: boolean }>(
+    `SELECT id, name, slug, sku, price, stock, low_stock_threshold, primary_image, is_published FROM products WHERE id = ANY($1) ORDER BY id FOR UPDATE`,
     [ids],
   );
   const byId = new Map(products.rows.map((p) => [p.id, p]));
@@ -108,6 +108,7 @@ export async function createOrder(db: PoolClient, userId: string, input: Checkou
   }
   const order = inserted.rows[0];
 
+  const lowStock: LowStockItem[] = [];
   for (const { item, product } of lines) {
     await db.query(
       `INSERT INTO order_items (order_id, product_id, product_name, product_image, product_slug, sku, price, quantity, total)
@@ -116,6 +117,12 @@ export async function createOrder(db: PoolClient, userId: string, input: Checkou
        Math.round(product.price * 100 * item.quantity) / 100],
     );
     await db.query(`UPDATE products SET stock = stock - $2 WHERE id = $1`, [product.id, item.quantity]);
+    // Alert admins once, when this order makes the product cross its threshold (or sell out).
+    const threshold = product.low_stock_threshold ?? 5;
+    const after = product.stock - item.quantity;
+    if (product.stock > threshold ? after <= threshold : after <= 0 && product.stock > 0) {
+      lowStock.push({ name: product.name, sku: product.sku, stock: after, threshold });
+    }
     await db.query(
       `INSERT INTO inventory_transactions (product_id, quantity, type, reference_id) VALUES ($1, $2, 'sale', $3)`,
       [product.id, -item.quantity, order.id],
@@ -145,17 +152,23 @@ export async function createOrder(db: PoolClient, userId: string, input: Checkou
     tax: totals.tax,
     status: 'confirmed',
     payment_method: 'cod',
+    coupon_code: coupon ? coupon.code : null,
+    delivery_method: input.delivery_method,
+    shipping_address: addr,
     items: lines.map(({ item, product }) => ({
       product_name: product.name,
       quantity: item.quantity,
+      price: Number(product.price),
       total: Math.round(product.price * 100 * item.quantity) / 100,
+      image: product.primary_image,
+      slug: product.slug,
     })),
-  });
+  }, lowStock);
 
   return { orderId: order.id, orderNumber: order.order_number, total: totals.total, replayed: false };
 }
 
-async function queueOrderEmails(db: PoolClient, userId: string, summary: OrderSummary) {
+async function queueOrderEmails(db: PoolClient, userId: string, summary: OrderSummary, lowStock: LowStockItem[]) {
   const baseUrl = appUrl();
   const customer = await db.query<{ email: string; full_name: string | null }>(
     `SELECT u.email, p.full_name FROM users u JOIN profiles p ON p.id = u.id WHERE u.id = $1`,
@@ -168,5 +181,8 @@ async function queueOrderEmails(db: PoolClient, userId: string, summary: OrderSu
     `SELECT u.email FROM users u JOIN profiles p ON p.id = u.id
       WHERE p.role = 'admin' AND p.notify_admin_new_orders AND u.email_verified_at IS NOT NULL`,
   );
-  for (const a of admins.rows) await enqueueEmail(db, a.email, templates.adminNewOrder(summary, c.email, baseUrl));
+  for (const a of admins.rows) {
+    await enqueueEmail(db, a.email, templates.adminNewOrder(summary, { email: c.email, name: c.full_name }, baseUrl));
+    if (lowStock.length) await enqueueEmail(db, a.email, templates.adminLowStock(lowStock, baseUrl));
+  }
 }

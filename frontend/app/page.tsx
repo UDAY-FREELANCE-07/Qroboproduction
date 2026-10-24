@@ -6,6 +6,7 @@ import { ChevronLeft, ChevronRight, ArrowRight, Clock, Star, Quote, Flame, Gift,
 import { dataClient } from '@/lib/data-client';
 import type { Database } from '@/lib/data-client';
 import { ProductCard } from '@/components/product/product-card';
+import { NewsletterForm } from '@/components/home/newsletter-form';
 import { Button } from '@/components/ui/button';
 import { formatPrice, timeLeftUntil } from '@/lib/format';
 import { cn } from '@/lib/utils';
@@ -343,7 +344,7 @@ export default function HomePage() {
       </Section>
 
       {/* Newsletter */}
-      <section className="w-full px-4 sm:px-8 lg:px-16 xl:px-24 py-12">
+      <section id="newsletter" className="w-full px-4 sm:px-8 lg:px-16 xl:px-24 py-12">
         <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-navy via-blue-900 to-navy p-8 sm:p-12 text-center">
           <div className="absolute inset-0 campaign-grid opacity-15" />
           <div className="absolute -left-10 -top-10 h-40 w-40 rounded-full border-[14px] border-blue-400/15 campaign-float" />
@@ -356,14 +357,7 @@ export default function HomePage() {
             <p className="text-gray-400 mb-6 max-w-md mx-auto">
               Subscribe to our newsletter for the latest products, deals, and project tutorials
             </p>
-            <form className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto" onSubmit={(e) => { e.preventDefault(); }}>
-              <input
-                type="email"
-                placeholder="Enter your email"
-                className="flex-1 px-4 py-3 rounded-lg bg-white/10 border border-gray-700 text-white placeholder:text-gray-500 focus:outline-none focus:border-yellow-300"
-              />
-              <Button type="submit" size="lg" className="campaign-pulse bg-yellow-300 font-black text-red-900 hover:bg-yellow-200">Subscribe</Button>
-            </form>
+            <NewsletterForm />
           </div>
         </div>
       </section>
