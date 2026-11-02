@@ -1,0 +1,122 @@
+[
+  {
+    "id": "prod-4-1",
+    "sku": "HIT-04-001",
+    "name": "LED 3mm Red",
+    "zipFile": "LED 3mm red.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/led-3mm-red.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-2",
+    "sku": "HIT-04-002",
+    "name": "LED 3mm Green",
+    "zipFile": "LED 3mm green.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/led-3mm-green.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-3",
+    "sku": "HIT-04-003",
+    "name": "LED 3mm Yellow",
+    "zipFile": "LED 3mm Yellow.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/led-3mm-yellow.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-6",
+    "sku": "HIT-04-006",
+    "name": "LED 5mm Red",
+    "zipFile": "LED 5mm Red.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/led-5mm-red.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-7",
+    "sku": "HIT-04-007",
+    "name": "LED 5mm Green",
+    "zipFile": "LED 5mm Green.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/led-5mm-green.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-8",
+    "sku": "HIT-04-008",
+    "name": "LED 5mm Yellow",
+    "zipFile": "LED 5mm Yellow.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/led-5mm-yellow.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-9",
+    "sku": "HIT-04-009",
+    "name": "LED 5mm Blue",
+    "zipFile": "LED 5mm Blue.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/led-5mm-blue.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-10",
+    "sku": "HIT-04-010",
+    "name": "LED 5mm White",
+    "zipFile": "LED 5mm White.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/led-5mm-white.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-12",
+    "sku": "HIT-04-012",
+    "name": "RGB LED Common Cathode",
+    "zipFile": "RGB LED Common Cathode.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/rgb-led-common-cathode.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-15",
+    "sku": "HIT-04-015",
+    "name": "High Power LED 1W",
+    "zipFile": "High Power LED 1W.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/high-power-led-1w.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-19",
+    "sku": "HIT-04-019",
+    "name": "SMD LED Strip 5050",
+    "zipFile": "SMD LED Strip 5050.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/smd-led-strip-5050.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-21",
+    "sku": "HIT-04-021",
+    "name": "WS2812B LED Strip",
+    "zipFile": "WS2812B LED Strip.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/ws2812b-led-strip.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-24",
+    "sku": "HIT-04-024",
+    "name": "IR LED 940nm",
+    "zipFile": "IR LED 940nm.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/ir-led-940nm.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-25",
+    "sku": "HIT-04-025",
+    "name": "TSOP1738 IR Receiver",
+    "zipFile": "TSOP1738 IR Receiver.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/tsop1738-ir-receiver.png",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-4-30",
+    "sku": "HIT-04-030",
+    "name": "Optocoupler PC817",
+    "zipFile": "Optocoupler PC817.png",
+    "imagePath": "/images/products/leds-and-optoelectronics/optocoupler-pc817.png",
+    "matchStatus": "EXACT_MATCH"
+  }
+]

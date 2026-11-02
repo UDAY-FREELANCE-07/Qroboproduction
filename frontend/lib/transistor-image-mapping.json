@@ -1,0 +1,114 @@
+[
+  {
+    "id": "prod-5-1",
+    "sku": "HIT-05-001",
+    "name": "NPN Transistor BC547",
+    "zipFile": "NPN Transistor BC547.jpg",
+    "imagePath": "/images/products/transistors/npn-transistor-bc547.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-2",
+    "sku": "HIT-05-002",
+    "name": "NPN Transistor BC548",
+    "zipFile": "NPN Transistor BC548.jpg",
+    "imagePath": "/images/products/transistors/npn-transistor-bc548.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-4",
+    "sku": "HIT-05-004",
+    "name": "NPN Transistor 2N2222",
+    "zipFile": "NPN Transistor 2N2222.jpg",
+    "imagePath": "/images/products/transistors/npn-transistor-2n2222.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-5",
+    "sku": "HIT-05-005",
+    "name": "NPN Transistor 2N3904",
+    "zipFile": "NPN Transistor 2N3904.jpg",
+    "imagePath": "/images/products/transistors/npn-transistor-2n3904.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-6",
+    "sku": "HIT-05-006",
+    "name": "NPN Transistor BC337",
+    "zipFile": "NPN Transistor BC337.jpg",
+    "imagePath": "/images/products/transistors/npn-transistor-bc337.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-9",
+    "sku": "HIT-05-009",
+    "name": "NPN Transistor BD139",
+    "zipFile": "NPN Transistor BD139.jpg",
+    "imagePath": "/images/products/transistors/npn-transistor-bd139.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-10",
+    "sku": "HIT-05-010",
+    "name": "NPN Transistor TIP31C",
+    "zipFile": "NPN Transistor TIP31C.jpg",
+    "imagePath": "/images/products/transistors/npn-transistor-tip31c.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-11",
+    "sku": "HIT-05-011",
+    "name": "NPN Transistor TIP122",
+    "zipFile": "NPN Transistor TIP122.jpg",
+    "imagePath": "/images/products/transistors/npn-transistor-tip122.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-12",
+    "sku": "HIT-05-012",
+    "name": "NPN Transistor 2N3055",
+    "zipFile": "NPN Transistor 2N3055.jpg",
+    "imagePath": "/images/products/transistors/npn-transistor-2n3055.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-18",
+    "sku": "HIT-05-018",
+    "name": "PNP Transistor BC557",
+    "zipFile": "PNP Transistor BC557.jpg",
+    "imagePath": "/images/products/transistors/pnp-transistor-bc557.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-20",
+    "sku": "HIT-05-020",
+    "name": "PNP Transistor 2N3906",
+    "zipFile": "PNP Transistor 2N3906.jpg",
+    "imagePath": "/images/products/transistors/pnp-transistor-2n3906.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-23",
+    "sku": "HIT-05-023",
+    "name": "PNP Transistor BD140",
+    "zipFile": "PNP Transistor BD140.jpg",
+    "imagePath": "/images/products/transistors/pnp-transistor-bd140.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-24",
+    "sku": "HIT-05-024",
+    "name": "PNP Transistor TIP32C",
+    "zipFile": "PNP Transistor TIP32C.jpg",
+    "imagePath": "/images/products/transistors/pnp-transistor-tip32c.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-5-25",
+    "sku": "HIT-05-025",
+    "name": "PNP Transistor TIP127",
+    "zipFile": "PNP Transistor TIP127.jpg",
+    "imagePath": "/images/products/transistors/pnp-transistor-tip127.jpg",
+    "matchStatus": "EXACT_MATCH"
+  }
+]

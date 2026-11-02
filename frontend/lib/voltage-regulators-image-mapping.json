@@ -1,0 +1,56 @@
+[
+  {
+    "productId": "prod-8-1",
+    "originalFile": "7805 Voltage Regulator (5V).jpg",
+    "webPath": "/images/products/voltage-regulators/7805-voltage-regulator-5v.jpg",
+    "bytes": 6112
+  },
+  {
+    "productId": "prod-8-3",
+    "originalFile": "7809 Voltage Regulator (9V).jpg",
+    "webPath": "/images/products/voltage-regulators/7809-voltage-regulator-9v.jpg",
+    "bytes": 6239
+  },
+  {
+    "productId": "prod-8-4",
+    "originalFile": "7812 Voltage Regulator (12V).jpg",
+    "webPath": "/images/products/voltage-regulators/7812-voltage-regulator-12v.jpg",
+    "bytes": 11078
+  },
+  {
+    "productId": "prod-8-6",
+    "originalFile": "7905 Voltage Regulator (-5V).jpg",
+    "webPath": "/images/products/voltage-regulators/7905-voltage-regulator-neg-5v.jpg",
+    "bytes": 9247
+  },
+  {
+    "productId": "prod-8-7",
+    "originalFile": "7912 Voltage Regulator (-12V).jpg",
+    "webPath": "/images/products/voltage-regulators/7912-voltage-regulator-neg-12v.jpg",
+    "bytes": 5314
+  },
+  {
+    "productId": "prod-8-10",
+    "originalFile": "AMS1117-3.3.jpg",
+    "webPath": "/images/products/voltage-regulators/ams1117-3-3.jpg",
+    "bytes": 8608
+  },
+  {
+    "productId": "prod-8-11",
+    "originalFile": "AMS1117-5.0.jpg",
+    "webPath": "/images/products/voltage-regulators/ams1117-5-0.jpg",
+    "bytes": 4126
+  },
+  {
+    "productId": "prod-8-8",
+    "originalFile": "LM317T Adjustable Voltage Regulator.jpg",
+    "webPath": "/images/products/voltage-regulators/lm317t-adjustable-voltage-regulator.jpg",
+    "bytes": 10858
+  },
+  {
+    "productId": "prod-8-14",
+    "originalFile": "TL431.jpg",
+    "webPath": "/images/products/voltage-regulators/tl431.jpg",
+    "bytes": 7750
+  }
+]

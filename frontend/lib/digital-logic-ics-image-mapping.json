@@ -1,0 +1,68 @@
+[
+  {
+    "productId": "prod-10-1",
+    "originalFile": "IC 7400.webp",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-7400.webp",
+    "bytes": 11046
+  },
+  {
+    "productId": "prod-10-2",
+    "originalFile": "IC 7402.webp",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-7402.webp",
+    "bytes": 4644
+  },
+  {
+    "productId": "prod-10-3",
+    "originalFile": "IC 7404.jpg",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-7404.jpg",
+    "bytes": 14838
+  },
+  {
+    "productId": "prod-10-4",
+    "originalFile": "IC 7408.jpg",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-7408.jpg",
+    "bytes": 4277
+  },
+  {
+    "productId": "prod-10-13",
+    "originalFile": "IC 74138.jpg",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-74138.jpg",
+    "bytes": 35472
+  },
+  {
+    "productId": "prod-10-5",
+    "originalFile": "IC 7432.jpg",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-7432.jpg",
+    "bytes": 40436
+  },
+  {
+    "productId": "prod-10-10",
+    "originalFile": "IC 7447.jpg",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-7447.jpg",
+    "bytes": 36447
+  },
+  {
+    "productId": "prod-10-7",
+    "originalFile": "IC 7474.jpg",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-7474.jpg",
+    "bytes": 40020
+  },
+  {
+    "productId": "prod-10-6",
+    "originalFile": "IC 7486.jpg",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-7486.jpg",
+    "bytes": 39095
+  },
+  {
+    "productId": "prod-10-9",
+    "originalFile": "IC 7490.jpg",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-7490.jpg",
+    "bytes": 32634
+  },
+  {
+    "productId": "prod-10-28",
+    "originalFile": "IC 74HC595.jpg",
+    "webPath": "/images/products/digital-logic-ics-74xx/ic-74hc595.jpg",
+    "bytes": 37355
+  }
+]

@@ -3,32 +3,48 @@
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import { useState, useEffect, useRef } from 'react';
-import { Search, Heart, User, ShoppingCart, Menu, X, Cpu, ChevronRight, ChevronDown, Flame } from 'lucide-react';
+import { Search, Heart, User, ShoppingCart, Menu, X, Cpu, ChevronRight, ChevronDown, Flame, ShieldCheck } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
 import { useWishlist } from '@/lib/wishlist-context';
 import { useAuth } from '@/lib/auth-context';
+import { getStoredAdminUser } from '@/lib/admin/admin-auth';
+import type { AdminUser } from '@/lib/admin/admin-types';
 import { dataClient } from '@/lib/data-client';
 import type { Database } from '@/lib/data-client';
 import { cn } from '@/lib/utils';
 import { SideMenu } from '@/components/layout/side-menu';
+import { BrandLogo } from '@/components/brand/brand-logo';
 
 type Product = Database['public']['Tables']['products']['Row'];
 
 // Category slugs that exist in the catalog (lib/mock-data.ts / seed SQL).
 const categories = [
-  { label: 'Robotics', value: 'robotics' },
-  { label: 'Development Boards', value: 'development-boards' },
-  { label: 'Arduino', value: 'arduino' },
-  { label: 'ESP32 / ESP8266', value: 'esp32-esp8266' },
-  { label: 'Raspberry Pi', value: 'raspberry-pi' },
-  { label: 'Sensors', value: 'sensors' },
-  { label: 'Motors & Drivers', value: 'motors' },
-  { label: 'Displays', value: 'displays' },
-  { label: '3D Printing', value: '3d-printing' },
-  { label: 'DIY Kits', value: 'diy-kits' },
-  { label: 'Student Project Kits', value: 'student-project-kits' },
-  { label: 'Electronics Components', value: 'electronics-components' },
-  { label: 'Tools', value: 'tools' },
+  { label: 'Development Boards & Shields', value: 'development-boards-and-shields' },
+  { label: 'Sensors (Temp, Humidity & Pressure)', value: 'sensors-temperature-humidity-and-pressure' },
+  { label: 'Sensors (Motion & Orientation)', value: 'sensors-motion-and-orientation' },
+  { label: 'Sensors (Distance & Ultrasonic)', value: 'sensors-distance' },
+  { label: 'Resistors & Variable Resistors', value: 'resistors-and-variable-resistors' },
+  { label: 'Capacitors', value: 'capacitors' },
+  { label: 'Diodes & Rectifiers', value: 'diodes-and-rectifiers' },
+  { label: 'LEDs & Optoelectronics', value: 'leds-and-optoelectronics' },
+  { label: 'Transistors', value: 'transistors' },
+  { label: 'MOSFETs, IGBT & JFET', value: 'mosfets-igbt-jfet-and-ujt' },
+  { label: 'Voltage Regulators', value: 'voltage-regulators' },
+  { label: 'Op-Amps & Timers', value: 'op-amps-comparators-timers-and-audio-amplifiers' },
+  { label: 'Digital Logic ICs (74xx)', value: 'digital-logic-ics-74xx' },
+  { label: 'CMOS ICs (CD4000)', value: 'cmos-ics-cd4000' },
+  { label: 'Motor Drivers & Special ICs', value: 'motor-drivers-and-special-purpose-ics' },
+  { label: 'Microcontroller Chips', value: 'microcontroller-chips' },
+  { label: 'Displays (LCD, OLED, TFT)', value: 'displays' },
+  { label: 'Communication & Wireless', value: 'communication-modules' },
+  { label: 'Motors, Actuators & Servos', value: 'motors-actuators-and-sound' },
+  { label: 'Relays & Switches', value: 'relays-switches-and-input-devices' },
+  { label: 'Power Modules & Converters', value: 'power-modules' },
+  { label: 'Batteries & Cells', value: 'batteries' },
+  { label: 'IoT Boards & Gateways', value: 'iot-boards-and-gateways' },
+  { label: 'Robot Chassis & Kits', value: 'robot-chassis-and-platform-kits' },
+  { label: 'DIY Project Kits', value: 'diy-and-educational-project-kits' },
+  { label: 'Tools & Consumables', value: 'tools-and-consumables' },
 ];
 
 const brands = [
@@ -69,10 +85,14 @@ function Dropdown({ label, items, hrefFor }: { label: string; items: { label: st
 
 export function Navbar() {
   const pathname = usePathname();
+  const isAdmin = (pathname && pathname.startsWith('/admin')) ||
+    (typeof window !== 'undefined' && window.location.pathname.startsWith('/admin'));
+
   const router = useRouter();
   const { totalItems, setIsOpen } = useCart();
   const { wishlistIds } = useWishlist();
   const { user } = useAuth();
+  const [adminUser, setAdminUser] = useState<AdminUser | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<Product[]>([]);
   const [showSearch, setShowSearch] = useState(false);
@@ -81,6 +101,7 @@ export function Navbar() {
   const debounceRef = useRef<NodeJS.Timeout | undefined>(undefined);
 
   useEffect(() => {
+    if (isAdmin) return;
     if (!searchQuery.trim() || searchQuery.length < 2) {
       setSearchResults([]);
       setShowSearch(false);
@@ -100,14 +121,22 @@ export function Navbar() {
     return () => {
       if (debounceRef.current) clearTimeout(debounceRef.current);
     };
-  }, [searchQuery]);
+  }, [searchQuery, isAdmin]);
 
   useEffect(() => {
+    if (isAdmin) return;
     const handleClickOutside = (e: MouseEvent) => {
       if (searchRef.current && !searchRef.current.contains(e.target as Node)) setShowSearch(false);
     };
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, [isAdmin]);
+
+  useEffect(() => {
+    setAdminUser(getStoredAdminUser());
+    const handleAuthChange = () => setAdminUser(getStoredAdminUser());
+    window.addEventListener('admin-auth-change', handleAuthChange);
+    return () => window.removeEventListener('admin-auth-change', handleAuthChange);
   }, []);
 
   const handleSearch = (e: React.FormEvent) => {
@@ -118,6 +147,10 @@ export function Navbar() {
       setSearchQuery('');
     }
   };
+
+  if (isAdmin) {
+    return null;
+  }
 
   const searchForm = (
     <form onSubmit={handleSearch} className="flex h-10 w-full overflow-hidden rounded-md border border-gray-200 bg-gray-100 focus-within:border-primary focus-within:bg-white">
@@ -137,26 +170,26 @@ export function Navbar() {
   );
 
   return (
-    <header className="sticky top-0 z-50 bg-white shadow-sm">
+    <header className="store-navbar sticky top-0 z-50 bg-white shadow-sm">
       <div className="h-1 w-full bg-primary" />
 
       {/* Main row */}
-      <div className="w-full px-4 sm:px-8 lg:px-16 xl:px-24">
-        <div className="flex h-16 items-center gap-3 sm:gap-6">
-          <button onClick={() => setMenuOpen(true)} className="rounded-md p-1.5 text-navy hover:bg-gray-100" aria-label="Open menu">
-            <Menu className="h-6 w-6" />
-          </button>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex h-16 items-center justify-between gap-2 sm:gap-4">
+          {/* Brand & Menu */}
+          <div className="flex items-center gap-2 sm:gap-3 shrink-0">
+            <button
+              onClick={() => setMenuOpen(true)}
+              className="rounded-md p-1.5 text-navy hover:bg-gray-100 transition-colors"
+              aria-label="Open menu"
+            >
+              <Menu className="h-6 w-6" />
+            </button>
+            <BrandLogo size="md" priority className="shrink-0" />
+          </div>
 
-          <Link href="/" className="flex shrink-0 items-center gap-2">
-            <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
-              <Cpu className="h-5 w-5 text-white" />
-            </div>
-            <span className="text-2xl font-black tracking-tight text-navy">
-              Q<span className="text-primary">robo</span>
-            </span>
-          </Link>
-
-          <div ref={searchRef} className="relative mx-auto hidden w-full max-w-2xl md:block">
+          {/* Search Form - responsive & fluid */}
+          <div ref={searchRef} className="relative hidden md:flex flex-1 min-w-[200px] max-w-xl mx-3 lg:mx-8 xl:max-w-2xl">
             {searchForm}
             {showSearch && searchResults.length > 0 && (
               <div className="absolute top-full z-50 mt-1 w-full overflow-hidden rounded-lg border border-gray-200 bg-white shadow-xl animate-scale-in">
@@ -187,14 +220,15 @@ export function Navbar() {
             )}
           </div>
 
-          <div className="ml-auto flex items-center gap-1 sm:gap-2 md:ml-0">
-            <button onClick={() => setIsOpen(true)} className="relative rounded-full p-2 text-navy hover:bg-gray-100" title="Cart" aria-label="Cart">
+          {/* Right Action Icons */}
+          <div className="flex items-center gap-1 sm:gap-2 shrink-0 ml-auto md:ml-0">
+            <button onClick={() => setIsOpen(true)} className="relative rounded-full p-2 text-navy hover:bg-gray-100 transition-colors" title="Cart" aria-label="Cart">
               <ShoppingCart className="h-6 w-6" />
               <span className="absolute right-0 top-0 flex h-4 min-w-4 items-center justify-center rounded-full bg-red-500 px-1 text-[10px] font-bold text-white">
                 {totalItems}
               </span>
             </button>
-            <Link href="/account?tab=wishlist" className="relative rounded-full p-2 text-navy hover:bg-gray-100" title="Wishlist" aria-label="Wishlist">
+            <Link href="/account?tab=wishlist" className="relative rounded-full p-2 text-navy hover:bg-gray-100 transition-colors" title="Wishlist" aria-label="Wishlist">
               <Heart className="h-6 w-6" />
               {wishlistIds.length > 0 && (
                 <span className="absolute right-0 top-0 flex h-4 min-w-4 items-center justify-center rounded-full bg-red-500 px-1 text-[10px] font-bold text-white">
@@ -202,9 +236,20 @@ export function Navbar() {
                 </span>
               )}
             </Link>
-            <Link href={user ? '/account' : '/login'} className="rounded-full p-2 text-navy hover:bg-gray-100" title="Account" aria-label="Account">
+            <Link href={adminUser ? '/admin' : user ? '/account' : '/login'} className="rounded-full p-2 text-navy hover:bg-gray-100 transition-colors" title={adminUser ? `Admin: ${adminUser.name}` : user ? 'Account' : 'Sign In'} aria-label="Account">
               <User className="h-6 w-6" />
             </Link>
+
+            {adminUser && (
+              <Link
+                href="/admin"
+                className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-900 text-white text-xs font-semibold hover:bg-slate-800 transition-all shadow-sm ml-1"
+                title={`Admin Workspace: ${adminUser.name} (${adminUser.role})`}
+              >
+                <ShieldCheck className="w-3.5 h-3.5 text-sky-400" />
+                <span>Admin</span>
+              </Link>
+            )}
           </div>
         </div>
         <div className="pb-3 md:hidden">{searchForm}</div>
@@ -212,21 +257,23 @@ export function Navbar() {
 
       {/* Category nav */}
       <nav className="hidden w-full border-t border-blue-100 bg-blue-50/70 lg:block">
-        <div className="flex items-center justify-center gap-8">
-          <Dropdown label="Shop By Category" items={categories} hrefFor={(v) => `/shop?category=${v}`} />
-          <Dropdown label="Shop By Brand" items={brands} hrefFor={() => '/shop'} />
-          {navLinks.slice(1).filter((l) => l.href !== '/deals').map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              className={cn('py-3 text-sm font-medium hover:text-primary', pathname === link.href ? 'text-primary' : 'text-navy')}
-            >
-              {link.label === 'Learn' ? 'Knowledge Hub' : link.label}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex items-center justify-center gap-8">
+            <Dropdown label="Shop By Category" items={categories} hrefFor={(v) => `/shop?category=${v}`} />
+            <Dropdown label="Shop By Brand" items={brands} hrefFor={() => '/shop'} />
+            {navLinks.slice(1).filter((l) => l.href !== '/deals').map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={cn('py-3 text-sm font-medium hover:text-primary', pathname === link.href ? 'text-primary' : 'text-navy')}
+              >
+                {link.label === 'Learn' ? 'Knowledge Hub' : link.label}
+              </Link>
+            ))}
+            <Link href="/deals" className="campaign-pulse flex items-center gap-1 rounded-md bg-red-600 px-3 py-1 text-sm font-bold text-white hover:bg-red-700">
+              <Flame className="h-4 w-4 text-amber-300" /> Top Deals
             </Link>
-          ))}
-          <Link href="/deals" className="campaign-pulse flex items-center gap-1 rounded-md bg-red-600 px-3 py-1 text-sm font-bold text-white hover:bg-red-700">
-            <Flame className="h-4 w-4 text-amber-300" /> Top Deals
-          </Link>
+          </div>
         </div>
       </nav>
 

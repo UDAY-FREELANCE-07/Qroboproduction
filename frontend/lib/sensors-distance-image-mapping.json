@@ -1,0 +1,38 @@
+[
+  {
+    "productId": "prod-17-7",
+    "originalFile": "FC-51 IR Obstacle Sensor.png",
+    "webPath": "/images/products/sensors-distance/fc-51-ir-obstacle-sensor.png",
+    "bytes": 1727053
+  },
+  {
+    "productId": "prod-17-1",
+    "originalFile": "HC-SR04 Ultrasonic.png",
+    "webPath": "/images/products/sensors-distance/hc-sr04-ultrasonic.png",
+    "bytes": 2399050
+  },
+  {
+    "productId": "prod-17-2",
+    "originalFile": "JSN-SR04T Waterproof Ultrasonic.png",
+    "webPath": "/images/products/sensors-distance/jsn-sr04t-waterproof-ultrasonic.png",
+    "bytes": 1845183
+  },
+  {
+    "productId": "prod-17-8",
+    "originalFile": "TCRT5000 Line Sensor.png",
+    "webPath": "/images/products/sensors-distance/tcrt5000-line-sensor.png",
+    "bytes": 1702547
+  },
+  {
+    "productId": "prod-17-3",
+    "originalFile": "VL53L0X Time-of-Flight Distance Sensor.png",
+    "webPath": "/images/products/sensors-distance/vl53l0x-time-of-flight-distance-sensor.png",
+    "bytes": 2128340
+  },
+  {
+    "productId": "prod-17-4",
+    "originalFile": "VL53L1X Time-of-Flight Distance Sensor.png",
+    "webPath": "/images/products/sensors-distance/vl53l1x-time-of-flight-distance-sensor.png",
+    "bytes": 2019521
+  }
+]

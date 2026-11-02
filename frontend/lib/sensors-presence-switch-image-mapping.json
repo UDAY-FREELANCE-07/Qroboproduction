@@ -1,0 +1,50 @@
+[
+  {
+    "productId": "prod-18-4",
+    "originalFile": "A3144 Hall Sensor.png",
+    "webPath": "/images/products/sensors-presence-and-switch-type/a3144-hall-sensor.png",
+    "bytes": 1279510
+  },
+  {
+    "productId": "prod-18-8",
+    "originalFile": "Flame sensorrrr.png",
+    "webPath": "/images/products/sensors-presence-and-switch-type/flame-sensor.png",
+    "bytes": 1460102
+  },
+  {
+    "productId": "prod-18-1",
+    "originalFile": "HC-SR501 PIR.png",
+    "webPath": "/images/products/sensors-presence-and-switch-type/hc-sr501-pir.png",
+    "bytes": 1585467
+  },
+  {
+    "productId": "prod-18-10",
+    "originalFile": "KY-038 Sound Sensor.png",
+    "webPath": "/images/products/sensors-presence-and-switch-type/ky-038-sound-sensor.png",
+    "bytes": 1384239
+  },
+  {
+    "productId": "prod-18-12",
+    "originalFile": "Limit Switch.png",
+    "webPath": "/images/products/sensors-presence-and-switch-type/limit-switch.png",
+    "bytes": 1531415
+  },
+  {
+    "productId": "prod-18-2",
+    "originalFile": "RCWL-0516 Microwave Radar.png",
+    "webPath": "/images/products/sensors-presence-and-switch-type/rcwl-0516-microwave-radar.png",
+    "bytes": 1853170
+  },
+  {
+    "productId": "prod-18-3",
+    "originalFile": "Reed Switch.png",
+    "webPath": "/images/products/sensors-presence-and-switch-type/reed-switch.png",
+    "bytes": 1231634
+  },
+  {
+    "productId": "prod-18-9",
+    "originalFile": "TTP223 Touch Sensor.png",
+    "webPath": "/images/products/sensors-presence-and-switch-type/ttp223-touch-sensor.png",
+    "bytes": 1859577
+  }
+]

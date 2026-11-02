@@ -1,0 +1,56 @@
+[
+  {
+    "productId": "prod-15-5",
+    "originalFile": "BME280 Temperature, Humidity and Pressure Sensor.png",
+    "webPath": "/images/products/sensors-temperature-humidity-and-pressure/bme280-temperature-humidity-and-pressure-sensor.png",
+    "bytes": 1725732
+  },
+  {
+    "productId": "prod-15-7",
+    "originalFile": "BMP180 Pressure Sensor.png",
+    "webPath": "/images/products/sensors-temperature-humidity-and-pressure/bmp180-pressure-sensor.png",
+    "bytes": 1787172
+  },
+  {
+    "productId": "prod-15-6",
+    "originalFile": "BMP280 Pressure Sensor.png",
+    "webPath": "/images/products/sensors-temperature-humidity-and-pressure/bmp280-pressure-sensor.png",
+    "bytes": 1883286
+  },
+  {
+    "productId": "prod-15-1",
+    "originalFile": "DHT11 Temperature and Humidity Sensor.png",
+    "webPath": "/images/products/sensors-temperature-humidity-and-pressure/dht11-temperature-and-humidity-sensor.png",
+    "bytes": 1529803
+  },
+  {
+    "productId": "prod-15-2",
+    "originalFile": "DHT22 Temperature and Humidity Sensor.png",
+    "webPath": "/images/products/sensors-temperature-humidity-and-pressure/dht22-temperature-and-humidity-sensor.png",
+    "bytes": 1520008
+  },
+  {
+    "productId": "prod-15-3",
+    "originalFile": "DS18B20 Temperature Sensor.png",
+    "webPath": "/images/products/sensors-temperature-humidity-and-pressure/ds18b20-temperature-sensor.png",
+    "bytes": 1349134
+  },
+  {
+    "productId": "prod-15-10",
+    "originalFile": "K-type Thermocouple with MAX6675.png",
+    "webPath": "/images/products/sensors-temperature-humidity-and-pressure/k-type-thermocouple-with-max6675.png",
+    "bytes": 1726430
+  },
+  {
+    "productId": "prod-15-4",
+    "originalFile": "LM35 Temperature Sensor.png",
+    "webPath": "/images/products/sensors-temperature-humidity-and-pressure/lm35-temperature-sensor.png",
+    "bytes": 1378893
+  },
+  {
+    "productId": "prod-15-12",
+    "originalFile": "NTC Thermistor Module.png",
+    "webPath": "/images/products/sensors-temperature-humidity-and-pressure/ntc-thermistor-module.png",
+    "bytes": 1434870
+  }
+]

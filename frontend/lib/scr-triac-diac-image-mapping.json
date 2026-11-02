@@ -1,0 +1,26 @@
+[
+  {
+    "productId": "prod-7-8",
+    "originalFile": "DIAC DB3.png",
+    "webPath": "/images/products/scr-triac-and-diac/diac-db3.png",
+    "bytes": 1193498
+  },
+  {
+    "productId": "prod-7-2",
+    "originalFile": "SCR C106.png",
+    "webPath": "/images/products/scr-triac-and-diac/scr-c106.png",
+    "bytes": 1356950
+  },
+  {
+    "productId": "prod-7-3",
+    "originalFile": "TRIAC BT136.png",
+    "webPath": "/images/products/scr-triac-and-diac/triac-bt136.png",
+    "bytes": 1327856
+  },
+  {
+    "productId": "prod-7-6",
+    "originalFile": "TRIAC BTA16.png",
+    "webPath": "/images/products/scr-triac-and-diac/triac-bta16.png",
+    "bytes": 1336735
+  }
+]

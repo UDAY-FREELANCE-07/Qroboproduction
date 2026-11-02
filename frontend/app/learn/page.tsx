@@ -31,7 +31,7 @@ export default function LearnPage() {
   const filtered = category === 'all' ? tutorials : tutorials.filter((t) => t.category === category);
 
   return (
-    <div className="w-full px-4 sm:px-8 lg:px-16 xl:px-24 py-6">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
       <div className="text-center mb-8">
         <h1 className="text-3xl font-bold text-navy mb-2">Learn</h1>
         <p className="text-muted-foreground">Expand your knowledge with our tutorials and guides</p>

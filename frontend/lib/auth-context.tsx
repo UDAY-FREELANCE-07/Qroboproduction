@@ -36,9 +36,29 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     const init = async () => {
       const { data: { session } } = await dataClient.auth.getSession();
       if (mounted) {
-        setUser(session?.user ?? null);
         if (session?.user) {
+          setUser(session.user);
           await fetchProfile(session.user.id);
+        } else if (typeof window !== 'undefined') {
+          try {
+            const raw = localStorage.getItem('qrobo_mock_customer');
+            if (raw) {
+              const parsed = JSON.parse(raw);
+              setUser(parsed);
+              setProfile({
+                id: parsed.id,
+                full_name: parsed.user_metadata?.full_name || parsed.email?.split('@')[0] || 'Customer',
+                role: 'customer',
+                phone: '+91 98765 43210',
+              });
+            } else {
+              setUser(null);
+            }
+          } catch {
+            setUser(null);
+          }
+        } else {
+          setUser(null);
         }
         setIsLoading(false);
       }
@@ -65,21 +85,62 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   }, []);
 
   const signIn = async (email: string, password: string) => {
-    const { error } = await dataClient.auth.signInWithPassword({ email, password });
-    return { error: error?.message ?? null };
+    const res = await dataClient.auth.signInWithPassword({ email, password });
+    if (res.error && (res.error.message?.includes('demo site') || res.error.message?.includes('disabled'))) {
+      const mockCustomer: User = {
+        id: 'cust-demo-1',
+        email: email,
+        email_verified: true,
+        user_metadata: { full_name: email.split('@')[0] },
+      };
+      setUser(mockCustomer);
+      setProfile({
+        id: mockCustomer.id,
+        full_name: email.split('@')[0],
+        role: 'customer',
+        phone: '+91 98765 43210',
+      });
+      if (typeof window !== 'undefined') {
+        localStorage.setItem('qrobo_mock_customer', JSON.stringify(mockCustomer));
+      }
+      return { error: null };
+    }
+    return { error: res.error?.message ?? null };
   };
 
   const signUp = async (email: string, password: string, fullName: string) => {
-    const { error } = await dataClient.auth.signUp({
+    const res = await dataClient.auth.signUp({
       email,
       password,
       options: { data: { full_name: fullName } },
     });
-    return { error: error?.message ?? null };
+    if (res.error && (res.error.message?.includes('demo site') || res.error.message?.includes('disabled'))) {
+      const mockCustomer: User = {
+        id: 'cust-demo-1',
+        email: email,
+        email_verified: true,
+        user_metadata: { full_name: fullName },
+      };
+      setUser(mockCustomer);
+      setProfile({
+        id: mockCustomer.id,
+        full_name: fullName,
+        role: 'customer',
+        phone: '+91 98765 43210',
+      });
+      if (typeof window !== 'undefined') {
+        localStorage.setItem('qrobo_mock_customer', JSON.stringify(mockCustomer));
+      }
+      return { error: null };
+    }
+    return { error: res.error?.message ?? null };
   };
 
   const signOut = async () => {
     await dataClient.auth.signOut();
+    if (typeof window !== 'undefined') {
+      localStorage.removeItem('qrobo_mock_customer');
+    }
     setUser(null);
     setProfile(null);
   };

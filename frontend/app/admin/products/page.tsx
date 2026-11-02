@@ -1,309 +1,468 @@
 'use client';
 
-import { useEffect, useState } from 'react';
-import { dataClient } from '@/lib/data-client';
-import type { Database } from '@/lib/data-client';
+import React, { useState, useEffect } from 'react';
+import Link from 'next/link';
+import { useRouter } from 'next/navigation';
+import {
+  Plus,
+  Search,
+  Filter,
+  MoreVertical,
+  Edit2,
+  Copy,
+  Trash2,
+  CheckCircle2,
+  XCircle,
+  Eye,
+  ArrowUpDown,
+  RefreshCw,
+  Package,
+} from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
-import { Label } from '@/components/ui/label';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
-import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from '@/components/ui/dialog';
-import { Switch } from '@/components/ui/switch';
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
-import { Plus, Search, Pencil, Trash2, Package } from 'lucide-react';
-import { formatPrice } from '@/lib/format';
-import { toast } from 'sonner';
-import { cn } from '@/lib/utils';
-
-type Product = Database['public']['Tables']['products']['Row'];
-type Category = Database['public']['Tables']['categories']['Row'];
-type Brand = Database['public']['Tables']['brands']['Row'];
+import { Checkbox } from '@/components/ui/checkbox';
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from '@/components/ui/dropdown-menu';
+import { StatusBadge } from '@/components/admin/StatusBadge';
+import { ConfirmDialog } from '@/components/admin/ConfirmDialog';
+import { EmptyState } from '@/components/admin/EmptyState';
+import { adminService } from '@/lib/admin/admin-service';
+import { AdminProduct } from '@/lib/admin/admin-types';
+import { formatPrice, formatDate } from '@/lib/format';
 
 export default function AdminProductsPage() {
-  const [products, setProducts] = useState<Product[]>([]);
-  const [categories, setCategories] = useState<Category[]>([]);
-  const [brands, setBrands] = useState<Brand[]>([]);
+  const router = useRouter();
+  const [products, setProducts] = useState<AdminProduct[]>([]);
   const [isLoading, setIsLoading] = useState(true);
-  const [search, setSearch] = useState('');
-  const [editingProduct, setEditingProduct] = useState<Product | null>(null);
-  const [isDialogOpen, setIsDialogOpen] = useState(false);
 
-  const load = async () => {
+  // Filters & Search
+  const [search, setSearch] = useState('');
+  const [categoryFilter, setCategoryFilter] = useState('ALL');
+  const [brandFilter, setBrandFilter] = useState('ALL');
+  const [statusFilter, setStatusFilter] = useState('ALL');
+  const [sortBy, setSortBy] = useState<'updatedAt' | 'price' | 'stock' | 'name'>('updatedAt');
+  const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('desc');
+
+  // Bulk selection
+  const [selectedIds, setSelectedIds] = useState<string[]>([]);
+
+  // Dialogs
+  const [deleteDialogOpen, setDeleteDialogOpen] = useState(false);
+  const [productToDelete, setProductToDelete] = useState<string | null>(null);
+
+  const fetchProducts = async () => {
     setIsLoading(true);
-    const [prodRes, catRes, brandRes] = await Promise.all([
-      dataClient.from('products').select('*').order('created_at', { ascending: false }),
-      dataClient.from('categories').select('*').order('sort_order'),
-      dataClient.from('brands').select('*').order('name'),
-    ]);
-    setProducts(prodRes.data || []);
-    setCategories(catRes.data || []);
-    setBrands(brandRes.data || []);
+    const data = await adminService.getProducts();
+    setProducts(data);
     setIsLoading(false);
   };
 
-  useEffect(() => { load(); }, []);
+  useEffect(() => {
+    fetchProducts();
+  }, []);
 
-  const filtered = products.filter((p) =>
-    p.name.toLowerCase().includes(search.toLowerCase()) || p.sku.toLowerCase().includes(search.toLowerCase())
-  );
-
-  const handleDelete = async (id: string) => {
-    if (!confirm('Are you sure you want to delete this product?')) return;
-    const { error } = await dataClient.from('products').delete().eq('id', id);
-    if (error) { toast.error('Failed to delete product'); }
-    else { toast.success('Product deleted'); load(); }
+  const handleDuplicate = async (id: string) => {
+    await adminService.duplicateProduct(id);
+    fetchProducts();
   };
 
-  const handleSave = async (data: Partial<Product>) => {
-    if (editingProduct) {
-      const { error } = await dataClient.from('products').update(data).eq('id', editingProduct.id);
-      if (error) { toast.error('Failed to update product'); }
-      else { toast.success('Product updated'); setIsDialogOpen(false); load(); }
+  const handleTogglePublish = async (p: AdminProduct) => {
+    const nextStatus = p.status === 'published' ? 'draft' : 'published';
+    await adminService.updateProduct(p.id, { status: nextStatus });
+    fetchProducts();
+  };
+
+  const handleDeleteConfirm = async () => {
+    if (productToDelete) {
+      await adminService.deleteProduct(productToDelete);
+      setProductToDelete(null);
+      fetchProducts();
+    }
+  };
+
+  const handleBulkDelete = async () => {
+    for (const id of selectedIds) {
+      await adminService.deleteProduct(id);
+    }
+    setSelectedIds([]);
+    fetchProducts();
+  };
+
+  const handleBulkStatusChange = async (status: 'published' | 'draft') => {
+    for (const id of selectedIds) {
+      await adminService.updateProduct(id, { status });
+    }
+    setSelectedIds([]);
+    fetchProducts();
+  };
+
+  // Filtered & Sorted List
+  const filteredProducts = products.filter((p) => {
+    const matchesSearch =
+      p.name.toLowerCase().includes(search.toLowerCase()) ||
+      p.sku.toLowerCase().includes(search.toLowerCase());
+    const matchesCat = categoryFilter === 'ALL' || p.category === categoryFilter;
+    const matchesBrand = brandFilter === 'ALL' || p.brand === brandFilter;
+    const matchesStatus = statusFilter === 'ALL' || p.status === statusFilter;
+    return matchesSearch && matchesCat && matchesBrand && matchesStatus;
+  });
+
+  const sortedProducts = [...filteredProducts].sort((a, b) => {
+    let comparison = 0;
+    if (sortBy === 'price') comparison = a.price - b.price;
+    else if (sortBy === 'stock') comparison = a.stock - b.stock;
+    else if (sortBy === 'name') comparison = a.name.localeCompare(b.name);
+    else comparison = new Date(a.updatedAt).getTime() - new Date(b.updatedAt).getTime();
+    return sortOrder === 'asc' ? comparison : -comparison;
+  });
+
+  const categories = Array.from(new Set(products.map((p) => p.category)));
+  const brands = Array.from(new Set(products.map((p) => p.brand)));
+
+  const allSelected =
+    sortedProducts.length > 0 && selectedIds.length === sortedProducts.length;
+
+  const toggleSelectAll = () => {
+    if (allSelected) {
+      setSelectedIds([]);
     } else {
-      const { error } = await dataClient.from('products').insert(data);
-      if (error) { toast.error('Failed to create product'); }
-      else { toast.success('Product created'); setIsDialogOpen(false); load(); }
+      setSelectedIds(sortedProducts.map((p) => p.id));
+    }
+  };
+
+  const toggleSelectOne = (id: string) => {
+    if (selectedIds.includes(id)) {
+      setSelectedIds(selectedIds.filter((item) => item !== id));
+    } else {
+      setSelectedIds([...selectedIds, id]);
     }
   };
 
   return (
-    <div>
-      <div className="flex items-center justify-between mb-6">
-        <h1 className="text-2xl font-bold text-navy">Products</h1>
-        <Dialog open={isDialogOpen} onOpenChange={(open) => { setIsDialogOpen(open); if (!open) setEditingProduct(null); }}>
-          <DialogTrigger asChild>
-            <Button><Plus className="w-4 h-4 mr-2" /> Add Product</Button>
-          </DialogTrigger>
-          <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
-            <DialogHeader>
-              <DialogTitle>{editingProduct ? 'Edit Product' : 'Add Product'}</DialogTitle>
-            </DialogHeader>
-            <ProductForm
-              product={editingProduct}
-              categories={categories}
-              brands={brands}
-              onSave={handleSave}
-              onCancel={() => { setIsDialogOpen(false); setEditingProduct(null); }}
+    <div className="space-y-6">
+      {/* Top Header */}
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+        <div>
+          <h1 className="text-2xl font-bold tracking-tight text-slate-900">Product Catalog</h1>
+          <p className="text-xs sm:text-sm text-slate-500 mt-1">
+            Manage your hardware inventory, pricing, specifications, and e-commerce listings.
+          </p>
+        </div>
+        <div className="flex items-center gap-2">
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={fetchProducts}
+            className="h-9 gap-1.5 text-xs text-slate-600"
+          >
+            <RefreshCw className="h-3.5 w-3.5" />
+            <span>Refresh</span>
+          </Button>
+          <Link href="/admin/products/new">
+            <Button size="sm" className="h-9 gap-1.5 text-xs">
+              <Plus className="h-3.5 w-3.5" />
+              <span>Add Hardware Item</span>
+            </Button>
+          </Link>
+        </div>
+      </div>
+
+      {/* Filter and Search Bar */}
+      <div className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm space-y-3">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3">
+          {/* Search */}
+          <div className="relative sm:col-span-2">
+            <Search className="absolute left-3 top-2.5 h-4 w-4 text-slate-400" />
+            <Input
+              placeholder="Search by product name or SKU..."
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              className="pl-9 text-xs h-9"
             />
-          </DialogContent>
-        </Dialog>
-      </div>
+          </div>
 
-      <div className="mb-4 relative max-w-md">
-        <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
-        <Input placeholder="Search by name or SKU..." value={search} onChange={(e) => setSearch(e.target.value)} className="pl-10" />
-      </div>
-
-      {isLoading ? (
-        <div className="animate-pulse text-muted-foreground">Loading products...</div>
-      ) : filtered.length === 0 ? (
-        <div className="text-center py-20">
-          <Package className="w-12 h-12 text-gray-300 mx-auto mb-4" />
-          <p className="text-muted-foreground">No products found</p>
-        </div>
-      ) : (
-        <div className="bg-white rounded-xl border border-gray-200 overflow-hidden overflow-x-auto">
-          <Table>
-            <TableHeader>
-              <TableRow>
-                <TableHead>Product</TableHead>
-                <TableHead>SKU</TableHead>
-                <TableHead>Price</TableHead>
-                <TableHead>Stock</TableHead>
-                <TableHead>Status</TableHead>
-                <TableHead>Actions</TableHead>
-              </TableRow>
-            </TableHeader>
-            <TableBody>
-              {filtered.map((product) => (
-                <TableRow key={product.id}>
-                  <TableCell>
-                    <div className="flex items-center gap-3">
-                      {product.primary_image && (
-                        <img src={product.primary_image} alt={product.name} className="w-10 h-10 rounded-lg object-cover" />
-                      )}
-                      <span className="text-sm font-medium text-navy line-clamp-1">{product.name}</span>
-                    </div>
-                  </TableCell>
-                  <TableCell className="text-sm text-muted-foreground">{product.sku}</TableCell>
-                  <TableCell className="text-sm font-medium text-navy">{formatPrice(product.price)}</TableCell>
-                  <TableCell>
-                    <span className={cn(
-                      'text-xs font-bold px-2 py-1 rounded-full',
-                      product.stock <= 0 ? 'bg-red-100 text-red-700' :
-                      product.stock <= product.low_stock_threshold ? 'bg-amber-100 text-amber-700' :
-                      'bg-green-100 text-green-700'
-                    )}>
-                      {product.stock}
-                    </span>
-                  </TableCell>
-                  <TableCell>
-                    <span className={cn(
-                      'text-xs px-2 py-1 rounded-full',
-                      product.is_published ? 'bg-green-100 text-green-700' : 'bg-gray-100 text-gray-600'
-                    )}>
-                      {product.is_published ? 'Published' : 'Draft'}
-                    </span>
-                  </TableCell>
-                  <TableCell>
-                    <div className="flex items-center gap-1">
-                      <Button
-                        size="sm"
-                        variant="ghost"
-                        onClick={() => { setEditingProduct(product); setIsDialogOpen(true); }}
-                      >
-                        <Pencil className="w-4 h-4" />
-                      </Button>
-                      <Button size="sm" variant="ghost" onClick={() => handleDelete(product.id)}>
-                        <Trash2 className="w-4 h-4 text-red-500" />
-                      </Button>
-                    </div>
-                  </TableCell>
-                </TableRow>
+          {/* Category Filter */}
+          <Select value={categoryFilter} onValueChange={setCategoryFilter}>
+            <SelectTrigger className="h-9 text-xs">
+              <SelectValue placeholder="Category: All" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="ALL">All Categories</SelectItem>
+              {categories.map((c) => (
+                <SelectItem key={c} value={c}>
+                  {c}
+                </SelectItem>
               ))}
-            </TableBody>
-          </Table>
+            </SelectContent>
+          </Select>
+
+          {/* Brand Filter */}
+          <Select value={brandFilter} onValueChange={setBrandFilter}>
+            <SelectTrigger className="h-9 text-xs">
+              <SelectValue placeholder="Brand: All" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="ALL">All Brands</SelectItem>
+              {brands.map((b) => (
+                <SelectItem key={b} value={b}>
+                  {b}
+                </SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
+
+          {/* Status Filter */}
+          <Select value={statusFilter} onValueChange={setStatusFilter}>
+            <SelectTrigger className="h-9 text-xs">
+              <SelectValue placeholder="Status: All" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="ALL">All Statuses</SelectItem>
+              <SelectItem value="published">Published</SelectItem>
+              <SelectItem value="draft">Draft</SelectItem>
+              <SelectItem value="archived">Archived</SelectItem>
+            </SelectContent>
+          </Select>
         </div>
-      )}
+
+        {/* Bulk Action Bar (Visible when items selected) */}
+        {selectedIds.length > 0 && (
+          <div className="flex items-center justify-between bg-primary/5 border border-primary/20 rounded-lg px-4 py-2 text-xs">
+            <span className="font-semibold text-primary">
+              {selectedIds.length} product{selectedIds.length === 1 ? '' : 's'} selected
+            </span>
+            <div className="flex items-center gap-2">
+              <Button
+                variant="outline"
+                size="sm"
+                onClick={() => handleBulkStatusChange('published')}
+                className="h-7 text-xs"
+              >
+                Publish Selected
+              </Button>
+              <Button
+                variant="outline"
+                size="sm"
+                onClick={() => handleBulkStatusChange('draft')}
+                className="h-7 text-xs"
+              >
+                Unpublish Selected
+              </Button>
+              <Button
+                variant="destructive"
+                size="sm"
+                onClick={handleBulkDelete}
+                className="h-7 text-xs"
+              >
+                Delete Selected
+              </Button>
+            </div>
+          </div>
+        )}
+      </div>
+
+      {/* Products Table */}
+      <div className="rounded-xl border border-slate-200 bg-white shadow-sm overflow-hidden">
+        {isLoading ? (
+          <div className="p-8 text-center text-xs text-slate-500">Loading catalog...</div>
+        ) : sortedProducts.length === 0 ? (
+          <EmptyState
+            icon={Package}
+            title="No products found"
+            description="No items match your filter criteria. Try clearing search or add a new hardware item."
+            actionLabel="Add Product"
+            onAction={() => router.push('/admin/products/new')}
+          />
+        ) : (
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs">
+              <thead className="bg-slate-50 text-slate-600 font-semibold uppercase tracking-wider border-b border-slate-200">
+                <tr>
+                  <th className="py-3 px-4 w-10">
+                    <Checkbox
+                      checked={allSelected}
+                      onCheckedChange={toggleSelectAll}
+                      aria-label="Select all"
+                    />
+                  </th>
+                  <th className="py-3 px-3">Item</th>
+                  <th className="py-3 px-3">SKU</th>
+                  <th className="py-3 px-3">Category</th>
+                  <th className="py-3 px-3">Brand</th>
+                  <th
+                    className="py-3 px-3 cursor-pointer select-none"
+                    onClick={() => {
+                      setSortBy('price');
+                      setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
+                    }}
+                  >
+                    <div className="flex items-center gap-1">
+                      <span>Price</span>
+                      <ArrowUpDown className="h-3 w-3" />
+                    </div>
+                  </th>
+                  <th
+                    className="py-3 px-3 cursor-pointer select-none"
+                    onClick={() => {
+                      setSortBy('stock');
+                      setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
+                    }}
+                  >
+                    <div className="flex items-center gap-1">
+                      <span>Stock</span>
+                      <ArrowUpDown className="h-3 w-3" />
+                    </div>
+                  </th>
+                  <th className="py-3 px-3">Status</th>
+                  <th className="py-3 px-3">Updated</th>
+                  <th className="py-3 px-4 text-right">Actions</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-slate-100">
+                {sortedProducts.map((p) => {
+                  const isChecked = selectedIds.includes(p.id);
+                  return (
+                    <tr
+                      key={p.id}
+                      className={`hover:bg-slate-50/80 transition-colors ${
+                        isChecked ? 'bg-primary/5' : ''
+                      }`}
+                    >
+                      <td className="py-3 px-4">
+                        <Checkbox
+                          checked={isChecked}
+                          onCheckedChange={() => toggleSelectOne(p.id)}
+                          aria-label={`Select ${p.name}`}
+                        />
+                      </td>
+                      <td className="py-3 px-3">
+                        <div className="flex items-center gap-3 min-w-[200px]">
+                          {p.primaryImage ? (
+                            <img
+                              src={p.primaryImage}
+                              alt=""
+                              className="h-10 w-10 rounded-md object-contain border border-slate-200 shrink-0 bg-white p-0.5"
+                            />
+                          ) : (
+                            <div className="h-10 w-10 rounded-md border border-slate-200 shrink-0 bg-slate-50 flex items-center justify-center text-slate-400">
+                              <Package className="h-4 w-4 text-slate-300" />
+                            </div>
+                          )}
+                          <div className="min-w-0">
+                            <Link
+                              href={`/admin/products/${p.id}`}
+                              className="font-bold text-slate-900 hover:text-primary transition-colors line-clamp-1"
+                            >
+                              {p.name}
+                            </Link>
+                            <span className="text-[10px] text-slate-400">
+                              {p.warehouse}
+                            </span>
+                          </div>
+                        </div>
+                      </td>
+                      <td className="py-3 px-3 font-mono font-medium text-slate-600">{p.sku}</td>
+                      <td className="py-3 px-3 text-slate-700">{p.category}</td>
+                      <td className="py-3 px-3 text-slate-700 font-medium">{p.brand}</td>
+                      <td className="py-3 px-3 font-bold text-slate-900">{formatPrice(p.price)}</td>
+                      <td className="py-3 px-3">
+                        <StatusBadge
+                          status={
+                            p.stock <= 0
+                              ? 'out_of_stock'
+                              : p.stock <= p.lowStockThreshold
+                              ? 'low_stock'
+                              : 'in_stock'
+                          }
+                          size="sm"
+                        />
+                        <span className="ml-1.5 text-[11px] text-slate-500 font-semibold">
+                          ({p.stock})
+                        </span>
+                      </td>
+                      <td className="py-3 px-3">
+                        <StatusBadge status={p.status} size="sm" />
+                      </td>
+                      <td className="py-3 px-3 text-slate-500">{formatDate(p.updatedAt)}</td>
+                      <td className="py-3 px-4 text-right">
+                        <DropdownMenu>
+                          <DropdownMenuTrigger asChild>
+                            <Button variant="ghost" size="sm" className="h-8 w-8 p-0">
+                              <MoreVertical className="h-4 w-4 text-slate-500" />
+                            </Button>
+                          </DropdownMenuTrigger>
+                          <DropdownMenuContent align="end" className="w-40 text-xs">
+                            <DropdownMenuItem asChild>
+                              <Link
+                                href={`/admin/products/${p.id}`}
+                                className="flex items-center gap-2 cursor-pointer"
+                              >
+                                <Edit2 className="h-3.5 w-3.5" />
+                                <span>Edit Product</span>
+                              </Link>
+                            </DropdownMenuItem>
+                            <DropdownMenuItem
+                              onClick={() => handleDuplicate(p.id)}
+                              className="flex items-center gap-2 cursor-pointer"
+                            >
+                              <Copy className="h-3.5 w-3.5" />
+                              <span>Duplicate</span>
+                            </DropdownMenuItem>
+                            <DropdownMenuItem
+                              onClick={() => handleTogglePublish(p)}
+                              className="flex items-center gap-2 cursor-pointer"
+                            >
+                              {p.status === 'published' ? (
+                                <>
+                                  <XCircle className="h-3.5 w-3.5 text-amber-500" />
+                                  <span>Unpublish</span>
+                                </>
+                              ) : (
+                                <>
+                                  <CheckCircle2 className="h-3.5 w-3.5 text-emerald-500" />
+                                  <span>Publish</span>
+                                </>
+                              )}
+                            </DropdownMenuItem>
+                            <DropdownMenuSeparator />
+                            <DropdownMenuItem
+                              onClick={() => {
+                                setProductToDelete(p.id);
+                                setDeleteDialogOpen(true);
+                              }}
+                              className="flex items-center gap-2 text-rose-600 cursor-pointer"
+                            >
+                              <Trash2 className="h-3.5 w-3.5" />
+                              <span>Delete</span>
+                            </DropdownMenuItem>
+                          </DropdownMenuContent>
+                        </DropdownMenu>
+                      </td>
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
+        )}
+      </div>
+
+      {/* Delete Confirmation Dialog */}
+      <ConfirmDialog
+        open={deleteDialogOpen}
+        onOpenChange={setDeleteDialogOpen}
+        title="Delete Product"
+        description="Are you sure you want to permanently delete this product? This action cannot be undone."
+        confirmLabel="Delete"
+        destructive
+        onConfirm={handleDeleteConfirm}
+      />
     </div>
-  );
-}
-
-function ProductForm({ product, categories, brands, onSave, onCancel }: {
-  product: Product | null;
-  categories: Category[];
-  brands: Brand[];
-  onSave: (data: Partial<Product>) => void;
-  onCancel: () => void;
-}) {
-  const [name, setName] = useState(product?.name || '');
-  const [slug, setSlug] = useState(product?.slug || '');
-  const [description, setDescription] = useState(product?.description || '');
-  const [shortDescription, setShortDescription] = useState(product?.short_description || '');
-  const [categoryId, setCategoryId] = useState(product?.category_id || '');
-  const [brandId, setBrandId] = useState(product?.brand_id || '');
-  const [sku, setSku] = useState(product?.sku || '');
-  const [price, setPrice] = useState(product?.price?.toString() || '');
-  const [compareAtPrice, setCompareAtPrice] = useState(product?.compare_at_price?.toString() || '');
-  const [stock, setStock] = useState(product?.stock?.toString() || '0');
-  const [primaryImage, setPrimaryImage] = useState(product?.primary_image || '');
-  const [images, setImages] = useState((product?.images || []).join(', '));
-  const [isPublished, setIsPublished] = useState(product?.is_published ?? true);
-  const [isFeatured, setIsFeatured] = useState(product?.is_featured ?? false);
-  const [isBestseller, setIsBestseller] = useState(product?.is_bestseller ?? false);
-  const [isNewArrival, setIsNewArrival] = useState(product?.is_new_arrival ?? false);
-  const [tags, setTags] = useState((product?.tags || []).join(', '));
-
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    const data: Partial<Product> = {
-      name,
-      slug: slug || name.toLowerCase().replace(/\s+/g, '-'),
-      description,
-      short_description: shortDescription,
-      category_id: categoryId || null,
-      brand_id: brandId || null,
-      sku,
-      price: parseFloat(price) || 0,
-      compare_at_price: compareAtPrice ? parseFloat(compareAtPrice) : null,
-      stock: parseInt(stock) || 0,
-      primary_image: primaryImage,
-      images: images.split(',').map((s) => s.trim()).filter(Boolean),
-      is_published: isPublished,
-      is_featured: isFeatured,
-      is_bestseller: isBestseller,
-      is_new_arrival: isNewArrival,
-      tags: tags.split(',').map((s) => s.trim()).filter(Boolean),
-      specifications: product?.specifications || {},
-      features: product?.features || [],
-      whats_included: product?.whats_included || [],
-      compatibility: product?.compatibility || [],
-    };
-    onSave(data);
-  };
-
-  return (
-    <form onSubmit={handleSubmit} className="space-y-4">
-      <div className="grid grid-cols-2 gap-4">
-        <div>
-          <Label htmlFor="name">Name</Label>
-          <Input id="name" value={name} onChange={(e) => setName(e.target.value)} required className="mt-1" />
-        </div>
-        <div>
-          <Label htmlFor="slug">Slug</Label>
-          <Input id="slug" value={slug} onChange={(e) => setSlug(e.target.value)} className="mt-1" placeholder="auto-generated if empty" />
-        </div>
-      </div>
-      <div>
-        <Label htmlFor="description">Description</Label>
-        <textarea id="description" value={description} onChange={(e) => setDescription(e.target.value)} className="w-full mt-1 px-3 py-2 border rounded-lg text-sm" rows={3} />
-      </div>
-      <div>
-        <Label htmlFor="shortDescription">Short Description</Label>
-        <Input id="shortDescription" value={shortDescription} onChange={(e) => setShortDescription(e.target.value)} className="mt-1" />
-      </div>
-      <div className="grid grid-cols-2 gap-4">
-        <div>
-          <Label>Category</Label>
-          <Select value={categoryId} onValueChange={setCategoryId}>
-            <SelectTrigger className="mt-1"><SelectValue placeholder="Select category" /></SelectTrigger>
-            <SelectContent>
-              {categories.map((c) => <SelectItem key={c.id} value={c.id}>{c.name}</SelectItem>)}
-            </SelectContent>
-          </Select>
-        </div>
-        <div>
-          <Label>Brand</Label>
-          <Select value={brandId} onValueChange={setBrandId}>
-            <SelectTrigger className="mt-1"><SelectValue placeholder="Select brand" /></SelectTrigger>
-            <SelectContent>
-              {brands.map((b) => <SelectItem key={b.id} value={b.id}>{b.name}</SelectItem>)}
-            </SelectContent>
-          </Select>
-        </div>
-      </div>
-      <div className="grid grid-cols-3 gap-4">
-        <div>
-          <Label htmlFor="sku">SKU</Label>
-          <Input id="sku" value={sku} onChange={(e) => setSku(e.target.value)} required className="mt-1" />
-        </div>
-        <div>
-          <Label htmlFor="price">Price (Rs)</Label>
-          <Input id="price" type="number" step="0.01" value={price} onChange={(e) => setPrice(e.target.value)} required className="mt-1" />
-        </div>
-        <div>
-          <Label htmlFor="compareAtPrice">Compare at Price</Label>
-          <Input id="compareAtPrice" type="number" step="0.01" value={compareAtPrice} onChange={(e) => setCompareAtPrice(e.target.value)} className="mt-1" />
-        </div>
-      </div>
-      <div className="grid grid-cols-2 gap-4">
-        <div>
-          <Label htmlFor="stock">Stock</Label>
-          <Input id="stock" type="number" value={stock} onChange={(e) => setStock(e.target.value)} required className="mt-1" />
-        </div>
-        <div>
-          <Label htmlFor="tags">Tags (comma separated)</Label>
-          <Input id="tags" value={tags} onChange={(e) => setTags(e.target.value)} className="mt-1" />
-        </div>
-      </div>
-      <div>
-        <Label htmlFor="primaryImage">Primary Image URL</Label>
-        <Input id="primaryImage" value={primaryImage} onChange={(e) => setPrimaryImage(e.target.value)} className="mt-1" />
-      </div>
-      <div>
-        <Label htmlFor="images">Image URLs (comma separated)</Label>
-        <Input id="images" value={images} onChange={(e) => setImages(e.target.value)} className="mt-1" />
-      </div>
-      <div className="flex flex-wrap gap-4">
-        <label className="flex items-center gap-2"><Switch checked={isPublished} onCheckedChange={setIsPublished} /> <span className="text-sm">Published</span></label>
-        <label className="flex items-center gap-2"><Switch checked={isFeatured} onCheckedChange={setIsFeatured} /> <span className="text-sm">Featured</span></label>
-        <label className="flex items-center gap-2"><Switch checked={isBestseller} onCheckedChange={setIsBestseller} /> <span className="text-sm">Bestseller</span></label>
-        <label className="flex items-center gap-2"><Switch checked={isNewArrival} onCheckedChange={setIsNewArrival} /> <span className="text-sm">New Arrival</span></label>
-      </div>
-      <div className="flex gap-3 justify-end">
-        <Button type="button" variant="outline" onClick={onCancel}>Cancel</Button>
-        <Button type="submit">{product ? 'Update' : 'Create'} Product</Button>
-      </div>
-    </form>
   );
 }

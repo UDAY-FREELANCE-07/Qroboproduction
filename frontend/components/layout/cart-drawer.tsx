@@ -18,6 +18,10 @@ export function CartDrawer() {
     setIsOpen(false);
   }, [pathname, setIsOpen]);
 
+  if (pathname?.startsWith('/admin')) {
+    return null;
+  }
+
   return (
     <Sheet open={isOpen} onOpenChange={setIsOpen}>
       <SheetContent className="w-full sm:max-w-md flex flex-col p-0">

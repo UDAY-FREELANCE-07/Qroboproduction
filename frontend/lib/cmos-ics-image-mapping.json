@@ -1,0 +1,50 @@
+[
+  {
+    "productId": "prod-11-1",
+    "originalFile": "fdab4b3b-4a84-4fa1-9eb9-772171fd6d74.png",
+    "webPath": "/images/products/cmos-ics-cd4000/ic-cd4001.png",
+    "bytes": 1703648
+  },
+  {
+    "productId": "prod-11-2",
+    "originalFile": "IC CD4011.png",
+    "webPath": "/images/products/cmos-ics-cd4000/ic-cd4011.png",
+    "bytes": 1676454
+  },
+  {
+    "productId": "prod-11-3",
+    "originalFile": "IC CD4013.png",
+    "webPath": "/images/products/cmos-ics-cd4000/ic-cd4013.png",
+    "bytes": 1685160
+  },
+  {
+    "productId": "prod-11-4",
+    "originalFile": "IC CD4017.png",
+    "webPath": "/images/products/cmos-ics-cd4000/ic-cd4017.png",
+    "bytes": 1657151
+  },
+  {
+    "productId": "prod-11-6",
+    "originalFile": "IC CD4026.png",
+    "webPath": "/images/products/cmos-ics-cd4000/ic-cd4026.png",
+    "bytes": 1706053
+  },
+  {
+    "productId": "prod-11-15",
+    "originalFile": "IC CD4060.png",
+    "webPath": "/images/products/cmos-ics-cd4000/ic-cd4060.png",
+    "bytes": 1605895
+  },
+  {
+    "productId": "prod-11-19",
+    "originalFile": "IC CD4093.png",
+    "webPath": "/images/products/cmos-ics-cd4000/ic-cd4093.png",
+    "bytes": 1663756
+  },
+  {
+    "productId": "prod-11-20",
+    "originalFile": "IC CD4511.png",
+    "webPath": "/images/products/cmos-ics-cd4000/ic-cd4511.png",
+    "bytes": 1647096
+  }
+]

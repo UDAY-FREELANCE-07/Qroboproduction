@@ -1,0 +1,14 @@
+[
+  {
+    "productId": "prod-20-1",
+    "originalFile": "LDR Module .png",
+    "webPath": "/images/products/sensors-light-and-colour/ldr-module.png",
+    "bytes": 1304230
+  },
+  {
+    "productId": "prod-20-2",
+    "originalFile": "BH1750 Light Sensor .png",
+    "webPath": "/images/products/sensors-light-and-colour/bh1750-light-sensor.png",
+    "bytes": 1432571
+  }
+]

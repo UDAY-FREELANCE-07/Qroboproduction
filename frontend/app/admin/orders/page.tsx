@@ -1,210 +1,243 @@
 'use client';
 
-import { useEffect, useState } from 'react';
-import { dataClient } from '@/lib/data-client';
-import type { Database } from '@/lib/data-client';
+import React, { useState, useEffect } from 'react';
+import Link from 'next/link';
+import { useSearchParams } from 'next/navigation';
+import {
+  ShoppingCart,
+  Search,
+  Filter,
+  Eye,
+  RefreshCw,
+  Clock,
+  CheckCircle2,
+  Truck,
+  ArrowRight,
+} from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
-import { Label } from '@/components/ui/label';
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
-import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog';
-import { Truck } from 'lucide-react';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
+import { StatusBadge } from '@/components/admin/StatusBadge';
+import { EmptyState } from '@/components/admin/EmptyState';
+import { adminService } from '@/lib/admin/admin-service';
+import { AdminOrder, OrderStatus } from '@/lib/admin/admin-types';
 import { formatPrice, formatDate } from '@/lib/format';
-import { cn } from '@/lib/utils';
-import { toast } from 'sonner';
-
-type Order = Database['public']['Tables']['orders']['Row'];
-
-const COURIERS = ['Delhivery', 'Blue Dart', 'DTDC', 'Ecom Express', 'Xpressbees', 'Shadowfax', 'India Post', 'Shiprocket'];
-
-const orderStatuses = ['pending', 'confirmed', 'processing', 'packed', 'shipped', 'out_for_delivery', 'delivered', 'cancelled', 'returned', 'refunded'];
 
 export default function AdminOrdersPage() {
-  const [orders, setOrders] = useState<(Order & { order_items: any[] })[]>([]);
+  const searchParams = useSearchParams();
+  const initialStatusParam = searchParams.get('status') || 'ALL';
+
+  const [orders, setOrders] = useState<AdminOrder[]>([]);
+  const [search, setSearch] = useState('');
+  const [statusFilter, setStatusFilter] = useState<string>(initialStatusParam);
+  const [paymentFilter, setPaymentFilter] = useState('ALL');
   const [isLoading, setIsLoading] = useState(true);
-  const [filter, setFilter] = useState('all');
-  // Shipping dialog: opened when an order is moved to "shipped" (or "Edit tracking" is clicked).
-  const [shipFor, setShipFor] = useState<Order | null>(null);
-  const [ship, setShip] = useState({ courier: '', tracking_number: '', tracking_url: '' });
-  const [saving, setSaving] = useState(false);
+
+  const fetchOrders = async () => {
+    setIsLoading(true);
+    const data = await adminService.getOrders();
+    setOrders(data);
+    setIsLoading(false);
+  };
 
   useEffect(() => {
-    const load = async () => {
-      const { data } = await dataClient
-        .from('orders')
-        .select('*, order_items(*)')
-        .order('created_at', { ascending: false });
-      setOrders((data as any) || []);
-      setIsLoading(false);
-    };
-    load();
+    fetchOrders();
   }, []);
 
-  const filtered = filter === 'all' ? orders : orders.filter((o) => o.status === filter);
-
-  const applyUpdate = async (id: string, values: Partial<Order>) => {
-    const { error } = await dataClient.from('orders').update(values).eq('id', id);
-    if (error) {
-      toast.error(error.message || 'Failed to update order');
-      return false;
-    }
-    setOrders((prev) => prev.map((o) => (o.id === id ? { ...o, ...values } : o)));
-    return true;
+  const handleQuickStatusUpdate = async (id: string, status: OrderStatus) => {
+    await adminService.updateOrderStatus(id, status);
+    fetchOrders();
   };
 
-  const updateStatus = async (order: Order, status: string) => {
-    if (status === 'shipped') {
-      setShip({ courier: order.courier ?? '', tracking_number: order.tracking_number ?? '', tracking_url: order.tracking_url ?? '' });
-      setShipFor(order);
-      return;
-    }
-    if (await applyUpdate(order.id, { status })) toast.success('Order status updated. The customer has been emailed.');
-  };
-
-  const saveShipment = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!shipFor) return;
-    const url = ship.tracking_url.trim();
-    if (url && !/^https:\/\//i.test(url)) {
-      toast.error('Tracking link must start with https://');
-      return;
-    }
-    setSaving(true);
-    const values = {
-      status: 'shipped',
-      courier: ship.courier.trim() || null,
-      tracking_number: ship.tracking_number.trim() || null,
-      tracking_url: url || null,
-    };
-    const notify = shipFor.status !== 'shipped';
-    const ok = await applyUpdate(shipFor.id, notify ? values : { courier: values.courier, tracking_number: values.tracking_number, tracking_url: values.tracking_url });
-    setSaving(false);
-    if (ok) {
-      toast.success(notify ? 'Marked as shipped. The customer has been emailed the tracking details.' : 'Tracking details saved.');
-      setShipFor(null);
-    }
-  };
+  const filteredOrders = orders.filter((o) => {
+    const matchesSearch =
+      o.orderNumber.toLowerCase().includes(search.toLowerCase()) ||
+      o.customerName.toLowerCase().includes(search.toLowerCase()) ||
+      o.customerEmail.toLowerCase().includes(search.toLowerCase());
+    const matchesStatus = statusFilter === 'ALL' || o.orderStatus === statusFilter;
+    const matchesPayment = paymentFilter === 'ALL' || o.paymentStatus === paymentFilter;
+    return matchesSearch && matchesStatus && matchesPayment;
+  });
 
   return (
-    <div>
-      <h1 className="text-2xl font-bold text-navy mb-6">Orders</h1>
-
-      <div className="flex gap-2 mb-4 overflow-x-auto no-scrollbar">
-        <button
-          onClick={() => setFilter('all')}
-          className={cn('px-3 py-1.5 rounded-lg text-sm font-medium shrink-0', filter === 'all' ? 'bg-primary text-white' : 'bg-gray-100 text-navy')}
+    <div className="space-y-6">
+      {/* Top Header */}
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+        <div>
+          <h1 className="text-2xl font-bold tracking-tight text-slate-900">Order Management</h1>
+          <p className="text-xs sm:text-sm text-slate-500 mt-1">
+            Track customer transactions, dispatch workflows, tracking barcodes, and fulfillment status.
+          </p>
+        </div>
+        <Button
+          variant="outline"
+          size="sm"
+          onClick={fetchOrders}
+          className="h-9 gap-1.5 text-xs text-slate-600 self-start sm:self-auto"
         >
-          All ({orders.length})
-        </button>
-        {orderStatuses.map((status) => (
-          <button
-            key={status}
-            onClick={() => setFilter(status)}
-            className={cn('px-3 py-1.5 rounded-lg text-sm font-medium shrink-0 capitalize', filter === status ? 'bg-primary text-white' : 'bg-gray-100 text-navy')}
-          >
-            {status.replace(/_/g, ' ')} ({orders.filter((o) => o.status === status).length})
-          </button>
-        ))}
+          <RefreshCw className="h-3.5 w-3.5" />
+          <span>Refresh Orders</span>
+        </Button>
       </div>
 
-      {isLoading ? (
-        <div className="animate-pulse text-muted-foreground">Loading orders...</div>
-      ) : filtered.length === 0 ? (
-        <div className="text-center py-20"><p className="text-muted-foreground">No orders found</p></div>
-      ) : (
-        <div className="bg-white rounded-xl border border-gray-200 overflow-hidden overflow-x-auto">
-          <Table>
-            <TableHeader>
-              <TableRow>
-                <TableHead>Order #</TableHead>
-                <TableHead>Date</TableHead>
-                <TableHead>Items</TableHead>
-                <TableHead>Total</TableHead>
-                <TableHead>Payment</TableHead>
-                <TableHead>Status</TableHead>
-              </TableRow>
-            </TableHeader>
-            <TableBody>
-              {filtered.map((order) => (
-                <TableRow key={order.id}>
-                  <TableCell className="text-sm font-medium text-navy">
-                    {order.order_number}
-                    {(order.tracking_number || order.courier) && (
-                      <div className="mt-1 flex items-center gap-1 text-xs font-normal text-muted-foreground">
-                        <Truck className="h-3 w-3" aria-hidden="true" />
-                        {[order.courier, order.tracking_number].filter(Boolean).join(' ? ')}
-                      </div>
-                    )}
-                  </TableCell>
-                  <TableCell className="text-sm text-muted-foreground">{formatDate(order.created_at)}</TableCell>
-                  <TableCell className="text-sm text-muted-foreground">{order.order_items?.length || 0} items</TableCell>
-                  <TableCell className="text-sm font-bold text-navy">{formatPrice(order.total)}</TableCell>
-                  <TableCell>
-                    <span className={cn('text-xs px-2 py-1 rounded-full', order.payment_status === 'paid' ? 'bg-green-100 text-green-700' : 'bg-amber-100 text-amber-700')}>
-                      {order.payment_status}
-                    </span>
-                  </TableCell>
-                  <TableCell>
-                    <div className="flex items-center gap-2">
-                      <select
-                        aria-label={`Status of order ${order.order_number}`}
-                        value={order.status}
-                        onChange={(e) => updateStatus(order, e.target.value)}
-                        className="text-xs border rounded-md px-2 py-1 bg-white"
-                      >
-                        {orderStatuses.map((s) => <option key={s} value={s}>{s.replace(/_/g, ' ')}</option>)}
-                      </select>
-                      {['shipped', 'out_for_delivery'].includes(order.status) && (
-                        <button
-                          type="button"
-                          onClick={() => { setShip({ courier: order.courier ?? '', tracking_number: order.tracking_number ?? '', tracking_url: order.tracking_url ?? '' }); setShipFor(order); }}
-                          className="text-xs font-medium text-primary hover:underline"
-                        >
-                          Tracking
-                        </button>
-                      )}
-                    </div>
-                  </TableCell>
-                </TableRow>
-              ))}
-            </TableBody>
-          </Table>
-        </div>
-      )}
+      {/* Filters Bar */}
+      <div className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          <div className="relative">
+            <Search className="absolute left-3 top-2.5 h-4 w-4 text-slate-400" />
+            <Input
+              placeholder="Search by order #, customer, or email..."
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              className="pl-9 text-xs h-9"
+            />
+          </div>
 
-      <Dialog open={!!shipFor} onOpenChange={(open) => { if (!open) setShipFor(null); }}>
-        <DialogContent>
-          <form onSubmit={saveShipment}>
-            <DialogHeader>
-              <DialogTitle>Ship order {shipFor?.order_number}</DialogTitle>
-              <DialogDescription>
-                {shipFor?.status === 'shipped'
-                  ? 'Update the shipment details shown in the customer\'s account.'
-                  : 'The customer gets a "your order is on the way" email with these details. All fields are optional.'}
-              </DialogDescription>
-            </DialogHeader>
-            <div className="space-y-4 py-4">
-              <div>
-                <Label htmlFor="ship-courier">Courier</Label>
-                <Input id="ship-courier" list="ship-couriers" maxLength={60} value={ship.courier} onChange={(e) => setShip({ ...ship, courier: e.target.value })} placeholder="e.g. Delhivery" />
-                <datalist id="ship-couriers">{COURIERS.map((c) => <option key={c} value={c} />)}</datalist>
-              </div>
-              <div>
-                <Label htmlFor="ship-number">Tracking number</Label>
-                <Input id="ship-number" maxLength={80} value={ship.tracking_number} onChange={(e) => setShip({ ...ship, tracking_number: e.target.value })} placeholder="AWB / consignment number" />
-              </div>
-              <div>
-                <Label htmlFor="ship-url">Tracking link</Label>
-                <Input id="ship-url" type="url" maxLength={500} value={ship.tracking_url} onChange={(e) => setShip({ ...ship, tracking_url: e.target.value })} placeholder="https://..." />
-              </div>
-            </div>
-            <DialogFooter>
-              <Button type="button" variant="outline" onClick={() => setShipFor(null)}>Cancel</Button>
-              <Button type="submit" disabled={saving}>{shipFor?.status === 'shipped' ? 'Save tracking' : 'Mark as shipped & email customer'}</Button>
-            </DialogFooter>
-          </form>
-        </DialogContent>
-      </Dialog>
+          <Select value={statusFilter} onValueChange={setStatusFilter}>
+            <SelectTrigger className="h-9 text-xs">
+              <SelectValue placeholder="Order Status" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="ALL">All Order Statuses</SelectItem>
+              <SelectItem value="pending">Pending</SelectItem>
+              <SelectItem value="processing">Processing</SelectItem>
+              <SelectItem value="packed">Packed</SelectItem>
+              <SelectItem value="shipped">Shipped</SelectItem>
+              <SelectItem value="delivered">Delivered</SelectItem>
+              <SelectItem value="cancelled">Cancelled</SelectItem>
+            </SelectContent>
+          </Select>
+
+          <Select value={paymentFilter} onValueChange={setPaymentFilter}>
+            <SelectTrigger className="h-9 text-xs">
+              <SelectValue placeholder="Payment Status" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="ALL">All Payment Statuses</SelectItem>
+              <SelectItem value="paid">Paid</SelectItem>
+              <SelectItem value="pending">Pending (e.g. COD)</SelectItem>
+              <SelectItem value="failed">Failed</SelectItem>
+              <SelectItem value="refunded">Refunded</SelectItem>
+            </SelectContent>
+          </Select>
+        </div>
+      </div>
+
+      {/* Orders Table */}
+      <div className="rounded-xl border border-slate-200 bg-white shadow-sm overflow-hidden">
+        {isLoading ? (
+          <div className="p-8 text-center text-xs text-slate-500">Loading orders...</div>
+        ) : filteredOrders.length === 0 ? (
+          <EmptyState
+            icon={ShoppingCart}
+            title="No orders found"
+            description="No customer transactions match your filter criteria."
+          />
+        ) : (
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-xs">
+              <thead className="bg-slate-50 text-slate-600 font-semibold uppercase tracking-wider border-b border-slate-200">
+                <tr>
+                  <th className="py-3 px-4">Order #</th>
+                  <th className="py-3 px-3">Customer</th>
+                  <th className="py-3 px-3">Date</th>
+                  <th className="py-3 px-3">Items</th>
+                  <th className="py-3 px-3">Total Amount</th>
+                  <th className="py-3 px-3">Payment</th>
+                  <th className="py-3 px-3">Fulfillment</th>
+                  <th className="py-3 px-3">Quick Advance</th>
+                  <th className="py-3 px-4 text-right">Inspect</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-slate-100">
+                {filteredOrders.map((o) => (
+                  <tr key={o.id} className="hover:bg-slate-50/80 transition-colors">
+                    <td className="py-3 px-4 font-mono font-bold text-primary">
+                      <Link href={`/admin/orders/${o.id}`} className="hover:underline">
+                        {o.orderNumber}
+                      </Link>
+                    </td>
+                    <td className="py-3 px-3">
+                      <p className="font-semibold text-slate-900">{o.customerName}</p>
+                      <p className="text-[11px] text-slate-400">{o.customerEmail}</p>
+                    </td>
+                    <td className="py-3 px-3 text-slate-500">{formatDate(o.createdAt)}</td>
+                    <td className="py-3 px-3 font-medium text-slate-700">
+                      {o.items.length} item{o.items.length === 1 ? '' : 's'}
+                    </td>
+                    <td className="py-3 px-3 font-bold text-slate-900">
+                      {formatPrice(o.grandTotal)}
+                    </td>
+                    <td className="py-3 px-3">
+                      <StatusBadge status={o.paymentStatus} size="sm" />
+                      <span className="block text-[10px] text-slate-400 mt-0.5">
+                        {o.paymentMethod}
+                      </span>
+                    </td>
+                    <td className="py-3 px-3">
+                      <StatusBadge status={o.orderStatus} size="sm" />
+                    </td>
+                    <td className="py-3 px-3">
+                      {o.orderStatus === 'pending' && (
+                        <Button
+                          variant="outline"
+                          size="sm"
+                          onClick={() => handleQuickStatusUpdate(o.id, 'processing')}
+                          className="h-7 text-[11px]"
+                        >
+                          Confirm & Process
+                        </Button>
+                      )}
+                      {o.orderStatus === 'processing' && (
+                        <Button
+                          variant="outline"
+                          size="sm"
+                          onClick={() => handleQuickStatusUpdate(o.id, 'packed')}
+                          className="h-7 text-[11px]"
+                        >
+                          Mark Packed
+                        </Button>
+                      )}
+                      {o.orderStatus === 'packed' && (
+                        <Button
+                          variant="outline"
+                          size="sm"
+                          onClick={() => handleQuickStatusUpdate(o.id, 'shipped')}
+                          className="h-7 text-[11px]"
+                        >
+                          Mark Shipped
+                        </Button>
+                      )}
+                      {o.orderStatus === 'shipped' && (
+                        <Button
+                          variant="outline"
+                          size="sm"
+                          onClick={() => handleQuickStatusUpdate(o.id, 'delivered')}
+                          className="h-7 text-[11px] text-emerald-700"
+                        >
+                          Confirm Delivery
+                        </Button>
+                      )}
+                      {['delivered', 'cancelled', 'returned'].includes(o.orderStatus) && (
+                        <span className="text-[11px] text-slate-400 italic">Complete</span>
+                      )}
+                    </td>
+                    <td className="py-3 px-4 text-right">
+                      <Link
+                        href={`/admin/orders/${o.id}`}
+                        className="inline-flex items-center gap-1 font-semibold text-primary hover:underline"
+                      >
+                        <Eye className="h-3.5 w-3.5" />
+                        <span>Details</span>
+                      </Link>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        )}
+      </div>
     </div>
   );
 }

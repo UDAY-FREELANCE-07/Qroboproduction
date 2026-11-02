@@ -1,0 +1,146 @@
+[
+  {
+    "id": "prod-2-2",
+    "sku": "HIT-02-002",
+    "name": "Ceramic Capacitor 22pF",
+    "zipFile": "Ceramic Capacitor 22pF .png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/ceramic-capacitor-22pf.png"
+  },
+  {
+    "id": "prod-2-3",
+    "sku": "HIT-02-003",
+    "name": "Ceramic Capacitor 33pF",
+    "zipFile": "Ceramic Capacitor 33pF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/ceramic-capacitor-33pf.png"
+  },
+  {
+    "id": "prod-2-4",
+    "sku": "HIT-02-004",
+    "name": "Ceramic Capacitor 100pF",
+    "zipFile": "Ceramic Capacitor 100pF .png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/ceramic-capacitor-100pf.png"
+  },
+  {
+    "id": "prod-2-5",
+    "sku": "HIT-02-005",
+    "name": "Ceramic Capacitor 1nF",
+    "zipFile": "Ceramic Capacitor 1nF .png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/ceramic-capacitor-1nf.png"
+  },
+  {
+    "id": "prod-2-6",
+    "sku": "HIT-02-006",
+    "name": "Ceramic Capacitor 10nF",
+    "zipFile": "Ceramic Capacitor 10nF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/ceramic-capacitor-10nf.png"
+  },
+  {
+    "id": "prod-2-7",
+    "sku": "HIT-02-007",
+    "name": "Ceramic Capacitor 100nF",
+    "zipFile": "Ceramic Capacitor 100nF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/ceramic-capacitor-100nf.png"
+  },
+  {
+    "id": "prod-2-17",
+    "sku": "HIT-02-017",
+    "name": "Electrolytic Capacitor (16V-50V) 10uF",
+    "zipFile": "Electrolytic Capacitor (16V-50V) 10uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/electrolytic-capacitor-16v-50v-10uf.png"
+  },
+  {
+    "id": "prod-2-18",
+    "sku": "HIT-02-018",
+    "name": "Electrolytic Capacitor (16V-50V) 22uF",
+    "zipFile": "Electrolytic Capacitor (16V-50V) 22uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/electrolytic-capacitor-16v-50v-22uf.png"
+  },
+  {
+    "id": "prod-2-19",
+    "sku": "HIT-02-019",
+    "name": "Electrolytic Capacitor (16V-50V) 47uF",
+    "zipFile": "Electrolytic Capacitor (16V-50V) 47uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/electrolytic-capacitor-16v-50v-47uf.png"
+  },
+  {
+    "id": "prod-2-20",
+    "sku": "HIT-02-020",
+    "name": "Electrolytic Capacitor (16V-50V) 100uF",
+    "zipFile": "Electrolytic Capacitor (16V-50V) 100uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/electrolytic-capacitor-16v-50v-100uf.png"
+  },
+  {
+    "id": "prod-2-21",
+    "sku": "HIT-02-021",
+    "name": "Electrolytic Capacitor (16V-50V) 220uF",
+    "zipFile": "Electrolytic Capacitor (16V-50V) 220uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/electrolytic-capacitor-16v-50v-220uf.png"
+  },
+  {
+    "id": "prod-2-22",
+    "sku": "HIT-02-022",
+    "name": "Electrolytic Capacitor (16V-50V) 470uF",
+    "zipFile": "Electrolytic Capacitor (16V-50V) 470uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/electrolytic-capacitor-16v-50v-470uf.png"
+  },
+  {
+    "id": "prod-2-23",
+    "sku": "HIT-02-023",
+    "name": "Electrolytic Capacitor (16V-50V) 1000uF",
+    "zipFile": "Electrolytic Capacitor (16V-50V) 1000uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/electrolytic-capacitor-16v-50v-1000uf.png"
+  },
+  {
+    "id": "prod-2-24",
+    "sku": "HIT-02-024",
+    "name": "Electrolytic Capacitor (16V-50V) 2200uF",
+    "zipFile": "Electrolytic Capacitor (16V-50V) 2200uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/electrolytic-capacitor-16v-50v-2200uf.png"
+  },
+  {
+    "id": "prod-2-35",
+    "sku": "HIT-02-035",
+    "name": "Fan/Motor Run Capacitor 1.5uF",
+    "zipFile": "Fan Motor Run Capacitor 1 5uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/fanmotor-run-capacitor-15uf.png"
+  },
+  {
+    "id": "prod-2-36",
+    "sku": "HIT-02-036",
+    "name": "Fan/Motor Run Capacitor 2.5uF",
+    "zipFile": "Fan Motor Run Capacitor 2 5uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/fanmotor-run-capacitor-25uf.png"
+  },
+  {
+    "id": "prod-2-37",
+    "sku": "HIT-02-037",
+    "name": "Fan/Motor Run Capacitor 4uF",
+    "zipFile": "Fan Motor Run Capacitor 4uF.png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/fanmotor-run-capacitor-4uf.png"
+  },
+  {
+    "id": "prod-2-43",
+    "sku": "HIT-02-043",
+    "name": "Capacitor Kit (20 pcs x 10 values)",
+    "zipFile": "Capacitor Kit (20 pcs x 10 values).png",
+    "matchStatus": "EXACT_MATCH",
+    "imagePath": "/images/products/capacitors/capacitor-kit-20-pcs-x-10-values.png"
+  }
+]

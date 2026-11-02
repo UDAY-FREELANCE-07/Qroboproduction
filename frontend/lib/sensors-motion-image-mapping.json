@@ -1,0 +1,32 @@
+[
+  {
+    "productId": "prod-16-3",
+    "originalFile": "ADXL345 Accelerometer.png",
+    "webPath": "/images/products/sensors-motion-and-orientation/adxl345-accelerometer.png",
+    "bytes": 1705615
+  },
+  {
+    "productId": "prod-16-5",
+    "originalFile": "HMC5883L Magnetometer.png",
+    "webPath": "/images/products/sensors-motion-and-orientation/hmc5883l-magnetometer.png",
+    "bytes": 1688684
+  },
+  {
+    "productId": "prod-16-1",
+    "originalFile": "MPU6050 Accelerometer and Gyroscope Module.png",
+    "webPath": "/images/products/sensors-motion-and-orientation/mpu6050-accelerometer-and-gyroscope-module.png",
+    "bytes": 1854366
+  },
+  {
+    "productId": "prod-16-2",
+    "originalFile": "MPU9250 9-Axis Motion Sensor.png",
+    "webPath": "/images/products/sensors-motion-and-orientation/mpu9250-9-axis-motion-sensor.png",
+    "bytes": 1737740
+  },
+  {
+    "productId": "prod-16-6",
+    "originalFile": "QMC5883L Magnetometer.png",
+    "webPath": "/images/products/sensors-motion-and-orientation/qmc5883l-magnetometer.png",
+    "bytes": 1674656
+  }
+]

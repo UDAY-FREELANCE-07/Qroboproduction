@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
-import { ChevronLeft, ChevronRight, ArrowRight, Clock, Star, Quote, Flame, Gift, Percent, Rocket, Sparkles, ShieldCheck, Truck, BadgePercent, Wrench, RotateCcw } from 'lucide-react';
+import { ChevronLeft, ChevronRight, ArrowRight, Clock, Star, Quote, Flame, Gift, Percent, Rocket, Sparkles, ShieldCheck, Truck, BadgePercent, Wrench, RotateCcw, Bot, Zap } from 'lucide-react';
 import { dataClient } from '@/lib/data-client';
 import type { Database } from '@/lib/data-client';
 import { ProductCard } from '@/components/product/product-card';
@@ -59,13 +59,13 @@ export default function HomePage() {
         dataClient.from('products').select('*').eq('is_featured', true).eq('is_published', true).limit(10),
         dataClient.from('products').select('*').eq('is_bestseller', true).eq('is_published', true).limit(10),
         dataClient.from('products').select('*').eq('is_new_arrival', true).eq('is_published', true).limit(10),
-        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'robotics-kits').maybeSingle()).data?.id, (await dataClient.from('categories').select('id').eq('slug', 'robotics').maybeSingle()).data?.id].filter(Boolean)).limit(6),
-        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'development-boards').maybeSingle()).data?.id].filter(Boolean)).limit(6),
-        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'sensors').maybeSingle()).data?.id].filter(Boolean)).limit(6),
-        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'arduino').maybeSingle()).data?.id].filter(Boolean)).limit(6),
-        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', '3d-printing').maybeSingle()).data?.id].filter(Boolean)).limit(6),
-        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'diy-kits').maybeSingle()).data?.id].filter(Boolean)).limit(6),
-        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'student-project-kits').maybeSingle()).data?.id].filter(Boolean)).limit(6),
+        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'robot-chassis-and-platform-kits').maybeSingle()).data?.id].filter(Boolean)).limit(6),
+        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'development-boards-and-shields').maybeSingle()).data?.id].filter(Boolean)).limit(6),
+        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'sensors-temperature-humidity-and-pressure').maybeSingle()).data?.id, (await dataClient.from('categories').select('id').eq('slug', 'sensors-distance').maybeSingle()).data?.id].filter(Boolean)).limit(6),
+        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'microcontroller-chips').maybeSingle()).data?.id].filter(Boolean)).limit(6),
+        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'power-modules').maybeSingle()).data?.id].filter(Boolean)).limit(6),
+        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'diy-and-educational-project-kits').maybeSingle()).data?.id].filter(Boolean)).limit(6),
+        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'motors-actuators-and-sound').maybeSingle()).data?.id].filter(Boolean)).limit(6),
         dataClient.from('projects').select('*').eq('is_published', true).limit(6),
         dataClient.from('tutorials').select('*').eq('is_published', true).limit(6),
       ]);
@@ -116,45 +116,156 @@ export default function HomePage() {
       <TrustBar />
       <div className="h-3" />
 
-      {/* Campaign spotlight */}
-      <section className="w-full px-4 sm:px-8 lg:px-16 xl:px-24 py-5">
+      {/* Campaign spotlight - Decent vibes modern layout with hardware visuals */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
         <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
-          <Link href="/deals" className="group relative min-h-[180px] overflow-hidden rounded-2xl bg-gradient-to-br from-red-600 via-orange-500 to-amber-400 p-5 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
-            <div className="absolute inset-0 campaign-grid opacity-25" />
-            <div className="campaign-shine absolute -inset-y-1/2 left-0 w-1/3 bg-white/25 blur-xl" />
-            <Flame className="absolute right-5 top-5 h-12 w-12 text-yellow-200/80 campaign-float" />
-            <div className="relative flex h-full flex-col justify-between">
+          {/* Card 1: Super Deals (Arduino & Microcontrollers) */}
+          <Link
+            href="/deals"
+            className="group relative min-h-[200px] overflow-hidden rounded-2xl bg-gradient-to-br from-white via-sky-50/60 to-blue-50/80 p-5 sm:p-6 border border-blue-200/80 shadow-sm transition-all duration-300 hover:-translate-y-1.5 hover:border-blue-400 hover:shadow-xl flex flex-col justify-between"
+          >
+            {/* Tech grid & glow accents */}
+            <div className="absolute inset-0 campaign-grid-blue opacity-40 pointer-events-none" />
+            <div className="absolute top-0 right-0 w-44 h-44 bg-blue-300/15 rounded-full blur-2xl pointer-events-none" />
+
+            {/* Hardware cutout image on the right */}
+            <div className="absolute -right-3 -bottom-3 w-40 sm:w-44 h-36 sm:h-40 rounded-2xl overflow-hidden shadow-lg border-2 border-white/90 transform rotate-[-4deg] group-hover:rotate-0 group-hover:scale-105 transition-all duration-500 select-none">
+              <img
+                src="https://images.pexels.com/photos/35673120/pexels-photo-35673120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                alt="Microcontrollers & Arduino Deals"
+                className="w-full h-full object-cover"
+                loading="lazy"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
+            </div>
+
+            {/* Floating -45% Discount badge */}
+            <div className="absolute top-4 right-4 z-10">
+              <span className="bg-[#FF4D00] text-white text-[11px] font-black h-8 w-8 rounded-full flex items-center justify-center shadow-md animate-pulse">
+                -45%
+              </span>
+            </div>
+
+            {/* Text & Action */}
+            <div className="relative z-10 flex flex-col justify-between h-full">
               <div>
-                <span className="inline-flex items-center gap-1 rounded-full bg-white/20 px-2.5 py-1 text-[10px] font-black uppercase tracking-widest text-white"><Sparkles className="h-3 w-3" /> Hot right now</span>
-                <h2 className="mt-4 text-3xl font-black leading-none text-white">SUPER<br />DEALS</h2>
+                <span className="inline-flex items-center gap-1.5 rounded-full bg-blue-600 px-3 py-1 text-[10px] font-black uppercase tracking-wider text-white shadow-sm">
+                  <Flame className="h-3 w-3 text-amber-300 fill-amber-300" /> Hot Right Now
+                </span>
+                <h3 className="mt-3 text-2xl sm:text-3xl font-black text-navy tracking-tight leading-none">
+                  SUPER<br />
+                  <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-sky-600 bg-clip-text text-transparent">DEALS</span>
+                </h3>
+                <p className="mt-1 text-xs text-muted-foreground font-medium max-w-[150px] sm:max-w-[160px] leading-relaxed">
+                  Sensors, ICs & dev boards starting at ₹3
+                </p>
               </div>
-              <span className="flex items-center gap-1 text-sm font-bold text-yellow-100">Shop the fire <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" /></span>
+
+              <div className="mt-4">
+                <span className="inline-flex items-center gap-1.5 rounded-full bg-navy px-3.5 py-1.5 text-xs font-bold text-white shadow-sm group-hover:bg-blue-600 transition-colors">
+                  Shop deals <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+                </span>
+              </div>
             </div>
           </Link>
-          <Link href="/shop?category=3d-printing" className="group relative min-h-[180px] overflow-hidden rounded-2xl bg-gradient-to-br from-blue-700 to-cyan-500 p-5 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
-            <div className="absolute -right-7 -top-7 h-32 w-32 rounded-full border-[14px] border-white/15 campaign-float" />
-            <div className="absolute bottom-0 right-5 text-[90px] font-black leading-none text-white/10">3D</div>
-            <Rocket className="absolute right-6 top-6 h-10 w-10 text-cyan-100" />
-            <div className="relative flex h-full flex-col justify-between">
+
+          {/* Card 2: Robotics & STEM DIY Kits */}
+          <Link
+            href="/shop?category=robotics"
+            className="group relative min-h-[200px] overflow-hidden rounded-2xl bg-gradient-to-br from-blue-700 via-blue-600 to-indigo-800 p-5 sm:p-6 text-white shadow-sm transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl flex flex-col justify-between"
+          >
+            {/* Tech grid & energy accents */}
+            <div className="absolute inset-0 campaign-grid opacity-20 pointer-events-none" />
+            <div className="absolute -left-10 -bottom-10 w-44 h-44 bg-cyan-400/20 rounded-full blur-2xl pointer-events-none" />
+
+            {/* Hardware cutout image on the right */}
+            <div className="absolute -right-3 -bottom-3 w-40 sm:w-44 h-36 sm:h-40 rounded-2xl overflow-hidden shadow-lg border-2 border-white/20 transform rotate-[4deg] group-hover:rotate-0 group-hover:scale-105 transition-all duration-500 select-none">
+              <img
+                src="https://images.pexels.com/photos/8438967/pexels-photo-8438967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                alt="Robotics & DIY Kits"
+                className="w-full h-full object-cover"
+                loading="lazy"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-blue-900/60 via-transparent to-transparent" />
+            </div>
+
+            {/* Floating STEM badge */}
+            <div className="absolute top-4 right-4 z-10">
+              <span className="bg-cyan-400 text-blue-950 text-[10px] font-black px-2.5 py-1 rounded-full shadow-md uppercase tracking-wider flex items-center gap-1">
+                <Bot className="w-3 h-3" /> STEM
+              </span>
+            </div>
+
+            {/* Text & Action */}
+            <div className="relative z-10 flex flex-col justify-between h-full">
               <div>
-                <span className="text-[10px] font-black uppercase tracking-widest text-cyan-100">Fresh collection</span>
-                <h2 className="mt-4 text-2xl font-black leading-tight text-white">PRINT.<br />PLAY. REPEAT.</h2>
+                <span className="inline-flex items-center gap-1.5 rounded-full bg-white/20 backdrop-blur-md px-3 py-1 text-[10px] font-black uppercase tracking-wider text-cyan-200 border border-white/20 shadow-sm">
+                  <Rocket className="h-3 w-3" /> Robotics & DIY
+                </span>
+                <h3 className="mt-3 text-2xl sm:text-3xl font-black text-white tracking-tight leading-tight">
+                  BUILD &<br />
+                  <span className="text-cyan-200">INNOVATE</span>
+                </h3>
+                <p className="mt-1 text-xs text-blue-100 font-medium max-w-[150px] sm:max-w-[160px] leading-relaxed">
+                  Chassis, motors, drivers & learning kits
+                </p>
               </div>
-              <span className="flex items-center gap-1 text-sm font-bold text-white">Explore 3D toys <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" /></span>
+
+              <div className="mt-4">
+                <span className="inline-flex items-center gap-1.5 rounded-full bg-white px-3.5 py-1.5 text-xs font-bold text-blue-700 shadow-md group-hover:bg-cyan-50 transition-colors">
+                  Explore kits <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+                </span>
+              </div>
             </div>
           </Link>
-          <Link href="/shop?sort=newest" className="group relative min-h-[180px] overflow-hidden rounded-2xl bg-gradient-to-br from-navy to-blue-900 p-5 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
-            <div className="absolute inset-0 campaign-grid opacity-20" />
-            <div className="absolute right-5 top-5 flex h-16 w-16 rotate-6 items-center justify-center rounded-full border-4 border-yellow-300 bg-yellow-300 text-center shadow-lg">
-              <span className="text-xs font-black leading-tight text-red-800">NEW<br />DROP</span>
+
+          {/* Card 3: 3D Printing & New Drops */}
+          <Link
+            href="/shop?category=3d-printing"
+            className="group relative min-h-[200px] overflow-hidden rounded-2xl bg-gradient-to-br from-[#0B132B] via-[#1C2541] to-[#1E293B] p-5 sm:p-6 text-white border border-slate-700/60 shadow-sm transition-all duration-300 hover:-translate-y-1.5 hover:border-cyan-500/50 hover:shadow-xl flex flex-col justify-between"
+          >
+            {/* Tech grid & cyber cyan accents */}
+            <div className="absolute inset-0 campaign-grid opacity-25 pointer-events-none" />
+            <div className="absolute top-0 right-0 w-44 h-44 bg-cyan-500/15 rounded-full blur-2xl pointer-events-none" />
+
+            {/* Hardware cutout image on the right */}
+            <div className="absolute -right-3 -bottom-3 w-40 sm:w-44 h-36 sm:h-40 rounded-2xl overflow-hidden shadow-lg border-2 border-cyan-500/30 transform rotate-[-3deg] group-hover:rotate-0 group-hover:scale-105 transition-all duration-500 select-none">
+              <img
+                src="https://images.pexels.com/photos/33977799/pexels-photo-33977799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                alt="3D Printing & New Drops"
+                className="w-full h-full object-cover"
+                loading="lazy"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
             </div>
-            <Percent className="absolute bottom-5 right-16 h-10 w-10 text-blue-300/40" />
-            <div className="relative flex h-full flex-col justify-between">
+
+            {/* Floating New Drop badge */}
+            <div className="absolute top-4 right-4 z-10">
+              <span className="bg-amber-400 text-navy text-[10px] font-black px-2.5 py-1 rounded-full shadow-md uppercase tracking-wider">
+                NEW 2026
+              </span>
+            </div>
+
+            {/* Text & Action */}
+            <div className="relative z-10 flex flex-col justify-between h-full">
               <div>
-                <span className="inline-flex items-center gap-1 text-[10px] font-black uppercase tracking-widest text-blue-300"><Gift className="h-3 w-3" /> Just landed</span>
-                <h2 className="mt-4 text-2xl font-black leading-tight text-white">BUILD<br />WHAT'S NEXT</h2>
+                <span className="inline-flex items-center gap-1.5 rounded-full bg-cyan-500/20 px-3 py-1 text-[10px] font-black uppercase tracking-wider text-cyan-300 border border-cyan-400/30 shadow-sm">
+                  <Sparkles className="h-3 w-3" /> Fresh Drop
+                </span>
+                <h3 className="mt-3 text-2xl sm:text-3xl font-black text-white tracking-tight leading-tight">
+                  3D TOYS &<br />
+                  <span className="text-cyan-300">PRINT LAB</span>
+                </h3>
+                <p className="mt-1 text-xs text-gray-300 font-medium max-w-[150px] sm:max-w-[160px] leading-relaxed">
+                  Filaments, 3D printers & IoT modules
+                </p>
               </div>
-              <span className="flex items-center gap-1 text-sm font-bold text-blue-200">See new arrivals <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" /></span>
+
+              <div className="mt-4">
+                <span className="inline-flex items-center gap-1.5 rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 px-3.5 py-1.5 text-xs font-bold text-white shadow-md group-hover:from-cyan-400 group-hover:to-blue-500 transition-all">
+                  See arrivals <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+                </span>
+              </div>
             </div>
           </Link>
         </div>
@@ -373,8 +484,8 @@ function Section({ title, subtitle, link, linkLabel, children }: {
   children: React.ReactNode;
 }) {
   return (
-    <section className="w-full px-4 sm:px-8 lg:px-16 xl:px-24 py-1.5">
-      <div className="rounded-xl bg-white p-4 shadow-sm sm:p-5">
+    <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2">
+      <div className="rounded-xl bg-white p-4 shadow-sm sm:p-5 border border-gray-100">
         <div className="mb-4 flex items-end justify-between gap-4">
           <div>
             <h2 className="text-lg font-bold text-navy sm:text-xl">{title}</h2>
@@ -591,17 +702,19 @@ const trustItems = [
 
 function TrustBar() {
   return (
-    <section className="w-full border-b border-gray-100 bg-white py-8 px-4 sm:px-8 lg:px-16 xl:px-24">
-      <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 lg:grid-cols-5">
-        {trustItems.map(({ icon: Icon, title, text }) => (
-          <div key={title} className="flex flex-col items-center text-center">
-            <div className="mb-3 flex h-12 w-12 items-center justify-center rounded-full bg-navy text-white">
-              <Icon className="h-6 w-6" />
+    <section className="w-full border-b border-gray-100 bg-white py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 lg:grid-cols-5">
+          {trustItems.map(({ icon: Icon, title, text }) => (
+            <div key={title} className="flex flex-col items-center text-center">
+              <div className="mb-3 flex h-12 w-12 items-center justify-center rounded-full bg-navy text-white">
+                <Icon className="h-6 w-6" />
+              </div>
+              <h3 className="text-sm font-bold text-navy">{title}</h3>
+              <p className="mt-1 max-w-[12rem] text-xs text-muted-foreground">{text}</p>
             </div>
-            <h3 className="text-sm font-bold text-navy">{title}</h3>
-            <p className="mt-1 max-w-[12rem] text-xs text-muted-foreground">{text}</p>
-          </div>
-        ))}
+          ))}
+        </div>
       </div>
     </section>
   );
@@ -615,27 +728,34 @@ function DealCard({ deal }: { deal: Deal & { product: Product } }) {
     return () => clearInterval(timer);
   }, [deal.ends_at]);
 
+  if (!deal.product) return null;
+
   return (
     <Link href={`/product/${deal.product.slug}`}>
-      <div className="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all">
-        <div className="relative aspect-square bg-gray-50 overflow-hidden">
-          {deal.product.primary_image && (
-            <img src={deal.product.primary_image} alt={deal.product.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+      <div className="group bg-white rounded-2xl border border-gray-200/90 overflow-hidden hover:shadow-lg hover:border-sky-400 transition-all flex flex-col justify-between">
+        <div className="relative h-44 sm:h-48 w-full bg-[#f8f9fa] flex items-center justify-center p-3 sm:p-4 overflow-hidden rounded-t-2xl">
+          {deal.product.primary_image ? (
+            <img src={deal.product.primary_image} alt={deal.product.name} className="max-h-full max-w-full object-contain group-hover:scale-105 transition-transform duration-300" />
+          ) : (
+            <div className="flex flex-col items-center justify-center text-gray-400 gap-1.5 p-4 text-center">
+              <span className="text-[10px] font-semibold text-gray-400 uppercase tracking-wider">Component</span>
+            </div>
           )}
-          <span className="absolute top-2 left-2 bg-gradient-to-br from-red-500 to-orange-500 text-white text-xs font-black px-2.5 py-1 rounded-md shadow-md flex items-center gap-1">
-            <Flame className="w-3 h-3" />
+          <span className="absolute top-2.5 left-2.5 bg-[#FF4D00] text-white text-[11px] font-extrabold h-7 w-7 rounded-full flex items-center justify-center shadow-sm">
             -{deal.discount_percentage ?? 0}%
           </span>
         </div>
-        <div className="p-3">
-          <h3 className="text-sm font-medium text-navy line-clamp-2 mb-2">{deal.product.name}</h3>
-          <div className="flex items-center gap-2 mb-2">
-            <span className="text-base font-bold text-red-500">{formatPrice(deal.sale_price)}</span>
-            <span className="text-xs text-muted-foreground line-through">{formatPrice(deal.original_price)}</span>
+        <div className="p-3.5 flex flex-col justify-between flex-1">
+          <div>
+            <h3 className="text-xs sm:text-sm font-semibold text-[#1E293B] line-clamp-2 min-h-[36px] mb-2 leading-snug">{deal.product.name}</h3>
+            <div className="flex items-center gap-2 mb-2">
+              <span className="text-sm sm:text-base font-bold text-red-600">{formatPrice(deal.sale_price)}</span>
+              <span className="text-xs text-muted-foreground line-through">{formatPrice(deal.original_price)}</span>
+            </div>
           </div>
           {!timeLeft.expired ? (
-            <div className="flex items-center gap-1 text-xs text-muted-foreground">
-              <Clock className="w-3 h-3" />
+            <div className="flex items-center gap-1 text-xs text-muted-foreground mt-1">
+              <Clock className="w-3 h-3 text-amber-500" />
               <span>{timeLeft.days}d {timeLeft.hours}h {timeLeft.minutes}m {timeLeft.seconds}s</span>
             </div>
           ) : (

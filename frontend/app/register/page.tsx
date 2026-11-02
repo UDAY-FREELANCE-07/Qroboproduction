@@ -9,6 +9,7 @@ import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Cpu, Mail, Lock, User, ArrowRight } from 'lucide-react';
 import { toast } from 'sonner';
+import { BrandLogo } from '@/components/brand/brand-logo';
 
 export default function RegisterPage() {
   const router = useRouter();
@@ -42,13 +43,8 @@ export default function RegisterPage() {
 
   return (
     <div className="max-w-md mx-auto px-4 py-12">
-      <div className="text-center mb-8">
-        <Link href="/" className="inline-flex items-center gap-2 mb-6">
-          <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center">
-            <Cpu className="w-6 h-6 text-white" />
-          </div>
-          <span className="text-2xl font-bold text-navy">Qrobo</span>
-        </Link>
+      <div className="text-center mb-8 flex flex-col items-center">
+        <BrandLogo size="lg" className="mb-6" />
         <h1 className="text-2xl font-bold text-navy mb-1">Create an account</h1>
         <p className="text-sm text-muted-foreground">Join the Qrobo maker community</p>
       </div>

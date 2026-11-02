@@ -1,7 +1,9 @@
 'use client';
 
 import Link from 'next/link';
-import { Cpu, Mail, Phone, MapPin, Facebook, Twitter, Instagram, Youtube, Github } from 'lucide-react';
+import { usePathname } from 'next/navigation';
+import { BrandLogo } from '@/components/brand/brand-logo';
+import { Mail, Phone, MapPin, Facebook, Twitter, Instagram, Youtube } from 'lucide-react';
 
 const footerLinks = {
   shop: [
@@ -27,18 +29,27 @@ const footerLinks = {
 };
 
 export function Footer() {
+  const pathname = usePathname();
+  const isAdmin = (pathname && pathname.startsWith('/admin')) ||
+    (typeof window !== 'undefined' && window.location.pathname.startsWith('/admin'));
+
+  if (isAdmin) {
+    return null;
+  }
+
   return (
-    <footer className="bg-navy text-white mt-20">
-      <div className="w-full px-4 sm:px-8 lg:px-16 xl:px-24 py-12">
+    <footer className="store-footer bg-navy text-white mt-20">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
           {/* Brand */}
           <div className="lg:col-span-2">
-            <Link href="/" className="flex items-center gap-2 mb-4">
-              <div className="w-9 h-9 rounded-lg bg-primary flex items-center justify-center">
-                <Cpu className="w-5 h-5 text-white" />
-              </div>
-              <span className="text-xl font-bold tracking-tight">Qrobo</span>
-            </Link>
+            <BrandLogo
+              size="md"
+              theme="dark"
+              showSubtitle
+              subtitleText="Robotics & Electronics Platform"
+              className="mb-4"
+            />
             <p className="text-sm text-gray-400 max-w-xs mb-4">
               Your one-stop shop for electronics, robotics, maker hardware, and DIY project kits. Build something amazing with Qrobo.
             </p>
@@ -50,7 +61,7 @@ export function Footer() {
                 <Phone className="w-4 h-4" /> +91 98765 43210
               </div>
               <div className="flex items-center gap-2">
-                <MapPin className="w-4 h-4" /> Bengaluru, India
+                <MapPin className="w-4 h-4" /> Warangal, Hyderabad, India
               </div>
             </div>
           </div>
@@ -105,7 +116,6 @@ export function Footer() {
             <a href="#" className="text-gray-400 hover:text-white transition-colors"><Twitter className="w-5 h-5" /></a>
             <a href="#" className="text-gray-400 hover:text-white transition-colors"><Instagram className="w-5 h-5" /></a>
             <a href="#" className="text-gray-400 hover:text-white transition-colors"><Youtube className="w-5 h-5" /></a>
-            <a href="#" className="text-gray-400 hover:text-white transition-colors"><Github className="w-5 h-5" /></a>
           </div>
         </div>
       </div>

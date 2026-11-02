@@ -1,0 +1,68 @@
+[
+  {
+    "productId": "prod-23-6",
+    "originalFile": "0.96 inch SSD1306 OLED.png",
+    "webPath": "/images/products/displays/0-96-inch-ssd1306-oled.png",
+    "bytes": 1560197
+  },
+  {
+    "productId": "prod-23-8",
+    "originalFile": "1.8 inch ST7735 TFT.png",
+    "webPath": "/images/products/displays/1-8-inch-st7735-tft.png",
+    "bytes": 1509564
+  },
+  {
+    "productId": "prod-23-4",
+    "originalFile": "12864 Graphic LCD.png",
+    "webPath": "/images/products/displays/12864-graphic-lcd.png",
+    "bytes": 1957933
+  },
+  {
+    "productId": "prod-23-1",
+    "originalFile": "16x2 LCD.png",
+    "webPath": "/images/products/displays/16x2-lcd.png",
+    "bytes": 1589455
+  },
+  {
+    "productId": "prod-23-9",
+    "originalFile": "2.4 inch ILI9341 TFT.png",
+    "webPath": "/images/products/displays/2-4-inch-ili9341-tft.png",
+    "bytes": 1495845
+  },
+  {
+    "productId": "prod-23-2",
+    "originalFile": "20x4 LCD.png",
+    "webPath": "/images/products/displays/20x4-lcd.png",
+    "bytes": 1544635
+  },
+  {
+    "productId": "prod-23-12",
+    "originalFile": "7-Segment 1-Digit.png",
+    "webPath": "/images/products/displays/7-segment-1-digit.png",
+    "bytes": 1309099
+  },
+  {
+    "productId": "prod-23-13",
+    "originalFile": "7-Segment 4-Digit.png",
+    "webPath": "/images/products/displays/7-segment-4-digit.png",
+    "bytes": 1635802
+  },
+  {
+    "productId": "prod-23-3",
+    "originalFile": "I2C Backpack for LCD.png",
+    "webPath": "/images/products/displays/i2c-backpack-for-lcd.png",
+    "bytes": 1446878
+  },
+  {
+    "productId": "prod-23-15",
+    "originalFile": "MAX7219 8x8 LED Matrix.png",
+    "webPath": "/images/products/displays/max7219-8x8-led-matrix.png",
+    "bytes": 1812649
+  },
+  {
+    "productId": "prod-23-14",
+    "originalFile": "TM1637 Display Module.png",
+    "webPath": "/images/products/displays/tm1637-display-module.png",
+    "bytes": 1820962
+  }
+]

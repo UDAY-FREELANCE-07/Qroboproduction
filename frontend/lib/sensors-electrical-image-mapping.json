@@ -1,0 +1,50 @@
+[
+  {
+    "productId": "prod-21-1",
+    "originalFile": "ACS712 5A Current Sensor.png",
+    "webPath": "/images/products/sensors-electrical/acs712-5a-current-sensor.png",
+    "bytes": 1592348
+  },
+  {
+    "productId": "prod-21-2",
+    "originalFile": "ACS712 20A Current Sensor.png",
+    "webPath": "/images/products/sensors-electrical/acs712-20a-current-sensor.png",
+    "bytes": 1593916
+  },
+  {
+    "productId": "prod-21-4",
+    "originalFile": "INA219 Current Sensor Module.png",
+    "webPath": "/images/products/sensors-electrical/ina219-current-sensor-module.png",
+    "bytes": 1583201
+  },
+  {
+    "productId": "prod-21-6",
+    "originalFile": "ZMPT101B Voltage Sensor .png",
+    "webPath": "/images/products/sensors-electrical/zmpt101b-voltage-sensor.png",
+    "bytes": 1750672
+  },
+  {
+    "productId": "prod-21-8",
+    "originalFile": "25V Voltage Sensor Module.png",
+    "webPath": "/images/products/sensors-electrical/25v-voltage-sensor-module.png",
+    "bytes": 1552058
+  },
+  {
+    "productId": "prod-21-9",
+    "originalFile": "PZEM-004T.png",
+    "webPath": "/images/products/sensors-electrical/pzem-004t.png",
+    "bytes": 1676941
+  },
+  {
+    "productId": "prod-21-10",
+    "originalFile": "HX711 Load Cell Amplifier .png",
+    "webPath": "/images/products/sensors-electrical/hx711-load-cell-amplifier.png",
+    "bytes": 1871794
+  },
+  {
+    "productId": "prod-21-11",
+    "originalFile": "Load Cell 5kg.png",
+    "webPath": "/images/products/sensors-electrical/load-cell-5kg.png",
+    "bytes": 1547408
+  }
+]

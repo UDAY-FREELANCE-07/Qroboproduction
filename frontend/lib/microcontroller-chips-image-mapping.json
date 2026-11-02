@@ -1,0 +1,56 @@
+[
+  {
+    "productId": "prod-13-8",
+    "originalFile": "AT89C51.png",
+    "webPath": "/images/products/microcontroller-chips/at89c51.png",
+    "bytes": 1891709
+  },
+  {
+    "productId": "prod-13-9",
+    "originalFile": "AT89S52.jpeg",
+    "webPath": "/images/products/microcontroller-chips/at89s52.jpeg",
+    "bytes": 683127
+  },
+  {
+    "productId": "prod-13-3",
+    "originalFile": "ATmega16.jpeg",
+    "webPath": "/images/products/microcontroller-chips/atmega16.jpeg",
+    "bytes": 670404
+  },
+  {
+    "productId": "prod-13-4",
+    "originalFile": "ATmega32.png",
+    "webPath": "/images/products/microcontroller-chips/atmega32.png",
+    "bytes": 1865103
+  },
+  {
+    "productId": "prod-13-1",
+    "originalFile": "ATmega328P.png",
+    "webPath": "/images/products/microcontroller-chips/atmega328p.png",
+    "bytes": 1843136
+  },
+  {
+    "productId": "prod-13-2",
+    "originalFile": "ATmega8.jpeg",
+    "webPath": "/images/products/microcontroller-chips/atmega8.jpeg",
+    "bytes": 629490
+  },
+  {
+    "productId": "prod-13-7",
+    "originalFile": "ATtiny85.jpeg",
+    "webPath": "/images/products/microcontroller-chips/attiny85.jpeg",
+    "bytes": 696686
+  },
+  {
+    "productId": "prod-13-11",
+    "originalFile": "PIC16F877A.png",
+    "webPath": "/images/products/microcontroller-chips/pic16f877a.png",
+    "bytes": 1799974
+  },
+  {
+    "productId": "prod-13-14",
+    "originalFile": "STM32F103C8T6.jpg",
+    "webPath": "/images/products/microcontroller-chips/stm32f103c8t6.jpg",
+    "bytes": 341074
+  }
+]

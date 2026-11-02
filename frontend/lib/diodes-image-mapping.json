@@ -1,0 +1,68 @@
+[
+  {
+    "productId": "prod-3-22",
+    "originalFile": "Bridge Rectifier 2W10.png",
+    "webPath": "/images/products/diodes-and-rectifiers/bridge-rectifier-2w10.png",
+    "bytes": 1561080
+  },
+  {
+    "productId": "prod-3-21",
+    "originalFile": "Bridge Rectifier DB107.png",
+    "webPath": "/images/products/diodes-and-rectifiers/bridge-rectifier-db107.png",
+    "bytes": 1821359
+  },
+  {
+    "productId": "prod-3-1",
+    "originalFile": "Diode  1N4001.png",
+    "webPath": "/images/products/diodes-and-rectifiers/diode-1n4001.png",
+    "bytes": 1177728
+  },
+  {
+    "productId": "prod-3-2",
+    "originalFile": "Diode 1N4007.png",
+    "webPath": "/images/products/diodes-and-rectifiers/diode-1n4007.png",
+    "bytes": 1184570
+  },
+  {
+    "productId": "prod-3-4",
+    "originalFile": "Diode 1N4148.png",
+    "webPath": "/images/products/diodes-and-rectifiers/diode-1n4148.png",
+    "bytes": 1129928
+  },
+  {
+    "productId": "prod-3-3",
+    "originalFile": "Diode 1N5408.png",
+    "webPath": "/images/products/diodes-and-rectifiers/diode-1n5408.png",
+    "bytes": 1205647
+  },
+  {
+    "productId": "prod-3-5",
+    "originalFile": "Diode 1N5819 (Schottky ).png",
+    "webPath": "/images/products/diodes-and-rectifiers/diode-1n5819-schottky.png",
+    "bytes": 1191570
+  },
+  {
+    "productId": "prod-3-6",
+    "originalFile": "Diode 1N5822 (Schottky).png",
+    "webPath": "/images/products/diodes-and-rectifiers/diode-1n5822-schottky.png",
+    "bytes": 1220221
+  },
+  {
+    "productId": "prod-3-16",
+    "originalFile": "Zener Diode 0.5W 12V.png",
+    "webPath": "/images/products/diodes-and-rectifiers/zener-diode-0-5w-12v.png",
+    "bytes": 1136891
+  },
+  {
+    "productId": "prod-3-11",
+    "originalFile": "Zener Diode 0.5W 3.3V.png",
+    "webPath": "/images/products/diodes-and-rectifiers/zener-diode-0-5w-3-3v.png",
+    "bytes": 1126353
+  },
+  {
+    "productId": "prod-3-13",
+    "originalFile": "Zener Diode 0.5W 5.1V.png",
+    "webPath": "/images/products/diodes-and-rectifiers/zener-diode-0-5w-5-1v.png",
+    "bytes": 1139040
+  }
+]

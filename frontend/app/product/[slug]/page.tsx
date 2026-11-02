@@ -73,7 +73,7 @@ export default function ProductDetailPage() {
 
   if (isLoading) {
     return (
-      <div className="w-full px-4 sm:px-8 lg:px-16 xl:px-24 py-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           <Skeleton className="aspect-square rounded-xl" />
           <div className="space-y-4">
@@ -89,7 +89,7 @@ export default function ProductDetailPage() {
 
   if (!product) {
     return (
-      <div className="w-full px-4 sm:px-8 lg:px-16 xl:px-24 py-20 text-center">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
         <h1 className="text-2xl font-bold text-navy mb-4">Product not found</h1>
         <p className="text-muted-foreground mb-6">The product you're looking for doesn't exist or has been removed.</p>
         <Link href="/shop"><Button>Back to Shop</Button></Link>
@@ -128,7 +128,7 @@ export default function ProductDetailPage() {
   };
 
   return (
-    <div className="w-full px-4 sm:px-8 lg:px-16 xl:px-24 py-6">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
       {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-sm text-muted-foreground mb-6">
         <Link href="/" className="hover:text-navy">Home</Link>
@@ -141,9 +141,9 @@ export default function ProductDetailPage() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
         {/* Image Gallery */}
         <div>
-          <div className="aspect-square rounded-xl overflow-hidden border border-gray-200 bg-gray-50 mb-4">
+          <div className="aspect-square rounded-xl overflow-hidden border border-gray-200 bg-[#f8f9fa] mb-4 flex items-center justify-center p-4">
             {images[selectedImage] && (
-              <img src={images[selectedImage]} alt={product.name} className="w-full h-full object-cover" />
+              <img src={images[selectedImage]} alt={product.name} className="max-h-full max-w-full object-contain" />
             )}
           </div>
           {images.length > 1 && (

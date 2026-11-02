@@ -50,3 +50,6 @@ __pycache__/
 
 # local restructure backups
 backups/
+
+# scratch directory
+scratch/

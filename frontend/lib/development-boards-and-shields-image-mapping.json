@@ -1,0 +1,164 @@
+[
+  {
+    "productId": "prod-14-1",
+    "originalFile": "Arduino Uno R3.png",
+    "webPath": "/images/products/development-boards-and-shields/arduino-uno-r3.png",
+    "bytes": 2444055
+  },
+  {
+    "productId": "prod-14-2",
+    "originalFile": "Arduino UNO CH340 Clone.png",
+    "webPath": "/images/products/development-boards-and-shields/arduino-uno-ch340-clone.png",
+    "bytes": 2103388
+  },
+  {
+    "productId": "prod-14-3",
+    "originalFile": "Arduino Nano.png",
+    "webPath": "/images/products/development-boards-and-shields/arduino-nano.png",
+    "bytes": 2362086
+  },
+  {
+    "productId": "prod-14-4",
+    "originalFile": "Arduino Pro Mini.png",
+    "webPath": "/images/products/development-boards-and-shields/arduino-pro-mini.png",
+    "bytes": 2196927
+  },
+  {
+    "productId": "prod-14-5",
+    "originalFile": "Arduino Mega 2560.png",
+    "webPath": "/images/products/development-boards-and-shields/arduino-mega-2560.png",
+    "bytes": 2422621
+  },
+  {
+    "productId": "prod-14-9",
+    "originalFile": "ESP32 DevKit.png",
+    "webPath": "/images/products/development-boards-and-shields/esp32-devkit.png",
+    "bytes": 2946175
+  },
+  {
+    "productId": "prod-14-10",
+    "originalFile": "ESP32-CAM.png",
+    "webPath": "/images/products/development-boards-and-shields/esp32-cam.png",
+    "bytes": 2547783
+  },
+  {
+    "productId": "prod-14-13",
+    "originalFile": "NodeMCU ESP8266.png",
+    "webPath": "/images/products/development-boards-and-shields/nodemcu-esp8266.png",
+    "bytes": 2634542
+  },
+  {
+    "productId": "prod-14-14",
+    "originalFile": "Wemos D1 Mini.png",
+    "webPath": "/images/products/development-boards-and-shields/wemos-d1-mini.png",
+    "bytes": 2164411
+  },
+  {
+    "productId": "prod-14-16",
+    "originalFile": "Raspberry Pi 4.png",
+    "webPath": "/images/products/development-boards-and-shields/raspberry-pi-4.png",
+    "bytes": 2728385
+  },
+  {
+    "productId": "prod-14-17",
+    "originalFile": "Raspberry Pi 5.png",
+    "webPath": "/images/products/development-boards-and-shields/raspberry-pi-5.png",
+    "bytes": 2898635
+  },
+  {
+    "productId": "prod-14-18",
+    "originalFile": "Raspberry Pi Zero 2 W.png",
+    "webPath": "/images/products/development-boards-and-shields/raspberry-pi-zero-2-w.png",
+    "bytes": 1964213
+  },
+  {
+    "productId": "prod-14-19",
+    "originalFile": "Raspberry Pi Pico.png",
+    "webPath": "/images/products/development-boards-and-shields/raspberry-pi-pico.png",
+    "bytes": 2183826
+  },
+  {
+    "productId": "prod-14-20",
+    "originalFile": "Raspberry Pi Pico W.png",
+    "webPath": "/images/products/development-boards-and-shields/raspberry-pi-pico-w.png",
+    "bytes": 2364926
+  },
+  {
+    "productId": "prod-14-21",
+    "originalFile": "STM32 Blue Pill.png",
+    "webPath": "/images/products/development-boards-and-shields/stm32-blue-pill.png",
+    "bytes": 2033510
+  },
+  {
+    "productId": "prod-14-22",
+    "originalFile": "STM32 Black Pill.png",
+    "webPath": "/images/products/development-boards-and-shields/stm32-black-pill.png",
+    "bytes": 2192086
+  },
+  {
+    "productId": "prod-14-23",
+    "originalFile": "STM32 Nucleo F401RE.png",
+    "webPath": "/images/products/development-boards-and-shields/stm32-nucleo-f401re.png",
+    "bytes": 1805933
+  },
+  {
+    "productId": "prod-14-29",
+    "originalFile": "LCD Keypad Shield.png",
+    "webPath": "/images/products/development-boards-and-shields/lcd-keypad-shield.png",
+    "bytes": 1932426
+  },
+  {
+    "productId": "prod-14-31",
+    "originalFile": "Sensor Shield V5.png",
+    "webPath": "/images/products/development-boards-and-shields/sensor-shield-v5.png",
+    "bytes": 2081342
+  },
+  {
+    "productId": "prod-14-36",
+    "originalFile": "ESP32-CAM WiFiBluetooth Module with 3MP OV3660 Camera.png",
+    "webPath": "/images/products/development-boards-and-shields/esp32-cam-wifibluetooth-module-with-3mp-ov3660-camera.png",
+    "bytes": 1968366
+  },
+  {
+    "productId": "prod-14-38",
+    "originalFile": "ESP32-CAM Base Board.png",
+    "webPath": "/images/products/development-boards-and-shields/esp32-cam-mb-base-board.png",
+    "bytes": 1620603
+  },
+  {
+    "productId": "prod-14-39",
+    "originalFile": "XIAO ESP32-S3 Sense.png",
+    "webPath": "/images/products/development-boards-and-shields/xiao-esp32-s3-sense.png",
+    "bytes": 1816593
+  },
+  {
+    "productId": "prod-14-40",
+    "originalFile": "Raspberry Pi 5 Cooler.png",
+    "webPath": "/images/products/development-boards-and-shields/raspberry-pi-5-cooler.png",
+    "bytes": 1847259
+  },
+  {
+    "productId": "prod-14-41",
+    "originalFile": "Raspberry Pi Adapter and Cable.png",
+    "webPath": "/images/products/development-boards-and-shields/raspberry-pi-power-adapter-and-cable.png",
+    "bytes": 2038781
+  },
+  {
+    "productId": "prod-14-42",
+    "originalFile": "MicroSD Card(32 GB).png",
+    "webPath": "/images/products/development-boards-and-shields/microsd-card-32-gb.png",
+    "bytes": 1757111
+  },
+  {
+    "productId": "prod-14-45",
+    "originalFile": "Raspberry Pi 3 Model B+.png",
+    "webPath": "/images/products/development-boards-and-shields/raspberry-pi-3-model-b.png",
+    "bytes": 2318264
+  },
+  {
+    "productId": "prod-14-48",
+    "originalFile": "Blue WeMos D1 R2 (ESP8266).png",
+    "webPath": "/images/products/development-boards-and-shields/wemos-d1-r2-esp8266.png",
+    "bytes": 2160068
+  }
+]

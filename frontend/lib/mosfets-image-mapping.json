@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prod-6-1",
+    "sku": "HIT-06-001",
+    "name": "MOSFET IRF540N",
+    "zipFile": "MOSFET IRF540N.jpg",
+    "imagePath": "/images/products/mosfets-igbt-jfet-and-ujt/mosfet-irf540n.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-6-2",
+    "sku": "HIT-06-002",
+    "name": "MOSFET IRF520",
+    "zipFile": "MOSFET IRF520.jpg",
+    "imagePath": "/images/products/mosfets-igbt-jfet-and-ujt/mosfet-irf520.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-6-3",
+    "sku": "HIT-06-003",
+    "name": "MOSFET IRFZ44N",
+    "zipFile": "MOSFET IRFZ44N.jpg",
+    "imagePath": "/images/products/mosfets-igbt-jfet-and-ujt/mosfet-irfz44n.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-6-4",
+    "sku": "HIT-06-004",
+    "name": "MOSFET IRLZ44N",
+    "zipFile": "MOSFET IRLZ44N.jpg",
+    "imagePath": "/images/products/mosfets-igbt-jfet-and-ujt/mosfet-irlz44n.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-6-5",
+    "sku": "HIT-06-005",
+    "name": "MOSFET IRF3205",
+    "zipFile": "MOSFET IRF3205.jpg",
+    "imagePath": "/images/products/mosfets-igbt-jfet-and-ujt/mosfet-irf3205.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-6-6",
+    "sku": "HIT-06-006",
+    "name": "MOSFET IRF9540",
+    "zipFile": "MOSFET IRF9540.jpg",
+    "imagePath": "/images/products/mosfets-igbt-jfet-and-ujt/mosfet-irf9540.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-6-11",
+    "sku": "HIT-06-011",
+    "name": "MOSFET IRF840",
+    "zipFile": "MOSFET IRF840.jpg",
+    "imagePath": "/images/products/mosfets-igbt-jfet-and-ujt/mosfet-irf840.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-6-12",
+    "sku": "HIT-06-012",
+    "name": "MOSFET 2N7000",
+    "zipFile": "MOSFET 2N7000.jpg",
+    "imagePath": "/images/products/mosfets-igbt-jfet-and-ujt/mosfet-2n7000.jpg",
+    "matchStatus": "EXACT_MATCH"
+  },
+  {
+    "id": "prod-6-14",
+    "sku": "HIT-06-014",
+    "name": "MOSFET IRFP250",
+    "zipFile": "MOSFET IRFP250.jpg",
+    "imagePath": "/images/products/mosfets-igbt-jfet-and-ujt/mosfet-irfp250.jpg",
+    "matchStatus": "EXACT_MATCH"
+  }
+]

@@ -41,6 +41,9 @@
   * {
     @apply border-border;
   }
+  html, body {
+    overflow-x: hidden;
+  }
   body {
     @apply bg-background text-foreground;
     font-feature-settings: "rlig" 1, "calt" 1;
@@ -127,8 +130,8 @@
 }
 
 @keyframes campaignPulse {
-  0%, 100% { box-shadow: 0 0 0 0 rgba(255, 177, 0, 0.35); }
-  50% { box-shadow: 0 0 0 10px rgba(255, 177, 0, 0); }
+  0%, 100% { box-shadow: 0 0 0 0 rgba(147, 197, 253, 0.6); }
+  50% { box-shadow: 0 0 0 10px rgba(147, 197, 253, 0); }
 }
 
 .campaign-shine {
@@ -141,6 +144,11 @@
 
 .campaign-pulse {
   animation: campaignPulse 2s ease-out infinite;
+}
+
+.campaign-grid-blue {
+  background-image: linear-gradient(rgba(37,99,235,0.08) 1px, transparent 1px), linear-gradient(90deg, rgba(37,99,235,0.08) 1px, transparent 1px);
+  background-size: 28px 28px;
 }
 
 .campaign-grid {
@@ -193,4 +201,11 @@
     animation-iteration-count: 1 !important;
     scroll-behavior: auto !important;
   }
+}
+
+/* Ensure customer store header and footer never show inside admin pages */
+body:has([data-admin-layout]) .store-navbar,
+body:has([data-admin-layout]) .store-announcement,
+body:has([data-admin-layout]) .store-footer {
+  display: none !important;
 }

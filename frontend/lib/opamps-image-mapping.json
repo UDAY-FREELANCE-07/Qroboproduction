@@ -1,0 +1,86 @@
+[
+  {
+    "productId": "prod-9-25",
+    "originalFile": "Audio Amplifier IC LM386.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/audio-amplifier-ic-lm386.png",
+    "bytes": 1636848
+  },
+  {
+    "productId": "prod-9-29",
+    "originalFile": "Audio Amplifier IC PAM8403.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/audio-amplifier-ic-pam8403.png",
+    "bytes": 1673247
+  },
+  {
+    "productId": "prod-9-26",
+    "originalFile": "Audio Amplifier IC TDA2030.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/audio-amplifier-ic-tda2030.png",
+    "bytes": 1473336
+  },
+  {
+    "productId": "prod-9-28",
+    "originalFile": "Audio Amplifier IC TDA7297.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/audio-amplifier-ic-tda7297.png",
+    "bytes": 1735750
+  },
+  {
+    "productId": "prod-9-13",
+    "originalFile": "Comparator LM393.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/comparator-lm393.png",
+    "bytes": 1685495
+  },
+  {
+    "productId": "prod-9-2",
+    "originalFile": "Op-Amp LM324.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/op-amp-lm324.png",
+    "bytes": 1629438
+  },
+  {
+    "productId": "prod-9-1",
+    "originalFile": "Op-Amp LM358.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/op-amp-lm358.png",
+    "bytes": 1505917
+  },
+  {
+    "productId": "prod-9-3",
+    "originalFile": "Op-Amp LM741.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/op-amp-lm741.png",
+    "bytes": 1555541
+  },
+  {
+    "productId": "prod-9-7",
+    "originalFile": "Op-Amp NE5532.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/op-amp-ne5532.png",
+    "bytes": 1570231
+  },
+  {
+    "productId": "prod-9-5",
+    "originalFile": "Op-Amp TL072.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/op-amp-tl072.png",
+    "bytes": 1530647
+  },
+  {
+    "productId": "prod-9-23",
+    "originalFile": "Timer PWM Driver IC IR2110.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ir2110.png",
+    "bytes": 1910482
+  },
+  {
+    "productId": "prod-9-16",
+    "originalFile": "Timer PWM Driver IC NE555.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png",
+    "bytes": 1685954
+  },
+  {
+    "productId": "prod-9-21",
+    "originalFile": "Timer PWM Driver IC SG3525.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-sg3525.png",
+    "bytes": 1834557
+  },
+  {
+    "productId": "prod-9-20",
+    "originalFile": "Timer PWM Driver IC TL494.png",
+    "webPath": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-tl494.png",
+    "bytes": 1915977
+  }
+]

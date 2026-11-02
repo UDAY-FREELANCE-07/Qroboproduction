@@ -1,0 +1,110 @@
+[
+  {
+    "productId": "prod-24-1",
+    "originalFile": "HC-05 Bluetooth.png",
+    "webPath": "/images/products/communication-modules/hc-05-bluetooth.png",
+    "bytes": 1818408
+  },
+  {
+    "productId": "prod-24-2",
+    "originalFile": "HC-06 Bluetooth.png",
+    "webPath": "/images/products/communication-modules/hc-06-bluetooth.png",
+    "bytes": 1861027
+  },
+  {
+    "productId": "prod-24-4",
+    "originalFile": "NRF24L01.png",
+    "webPath": "/images/products/communication-modules/nrf24l01.png",
+    "bytes": 1799082
+  },
+  {
+    "productId": "prod-24-5",
+    "originalFile": "NRF24L01 PA LNA.png",
+    "webPath": "/images/products/communication-modules/nrf24l01-pa-lna.png",
+    "bytes": 1651729
+  },
+  {
+    "productId": "prod-24-6",
+    "originalFile": "LoRa RA-02 (SX1278).png",
+    "webPath": "/images/products/communication-modules/lora-ra-02-sx1278.png",
+    "bytes": 1898017
+  },
+  {
+    "productId": "prod-24-7",
+    "originalFile": "LoRa SX1276.png",
+    "webPath": "/images/products/communication-modules/lora-sx1276.png",
+    "bytes": 1981025
+  },
+  {
+    "productId": "prod-24-9",
+    "originalFile": "SIM800L GSM.png",
+    "webPath": "/images/products/communication-modules/sim800l-gsm.png",
+    "bytes": 2022148
+  },
+  {
+    "productId": "prod-24-10",
+    "originalFile": "SIM900A GSM.png",
+    "webPath": "/images/products/communication-modules/sim900a-gsm.png",
+    "bytes": 1794265
+  },
+  {
+    "productId": "prod-24-11",
+    "originalFile": "SIM7600 4G.png",
+    "webPath": "/images/products/communication-modules/sim7600-4g.png",
+    "bytes": 1800982
+  },
+  {
+    "productId": "prod-24-12",
+    "originalFile": "RC522 RFID.png",
+    "webPath": "/images/products/communication-modules/rc522-rfid.png",
+    "bytes": 1868860
+  },
+  {
+    "productId": "prod-24-13",
+    "originalFile": "EM-18 125kHz RFID Reader.png",
+    "webPath": "/images/products/communication-modules/em-18-125khz-rfid-reader.png",
+    "bytes": 2123545
+  },
+  {
+    "productId": "prod-24-15",
+    "originalFile": "433MHz TX RX Pair.png",
+    "webPath": "/images/products/communication-modules/433mhz-tx-rx-pair.png",
+    "bytes": 1960586
+  },
+  {
+    "productId": "prod-24-16",
+    "originalFile": "433MHz 4-Channel Remote.png",
+    "webPath": "/images/products/communication-modules/433mhz-4-channel-remote.png",
+    "bytes": 2223709
+  },
+  {
+    "productId": "prod-24-17",
+    "originalFile": "IR Remote with Receiver.png",
+    "webPath": "/images/products/communication-modules/ir-remote-with-receiver.png",
+    "bytes": 1344212
+  },
+  {
+    "productId": "prod-24-23",
+    "originalFile": "CP2102 USB-Serial.png",
+    "webPath": "/images/products/communication-modules/cp2102-usb-serial.png",
+    "bytes": 1909983
+  },
+  {
+    "productId": "prod-24-24",
+    "originalFile": "CH340G USB-Serial.png",
+    "webPath": "/images/products/communication-modules/ch340g-usb-serial.png",
+    "bytes": 1843120
+  },
+  {
+    "productId": "prod-24-27",
+    "originalFile": "433 MHz Receiver Module.png",
+    "webPath": "/images/products/communication-modules/433-mhz-receiver-module.png",
+    "bytes": 1565681
+  },
+  {
+    "productId": "prod-24-29",
+    "originalFile": "SIM7670L GSM Module.png",
+    "webPath": "/images/products/communication-modules/sim7670l-gsm-module.png",
+    "bytes": 2044951
+  }
+]

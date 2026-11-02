@@ -196,7 +196,7 @@ export class MockQueryBuilder implements PromiseLike<{ data: any; error: null; c
     if (this.tableName === 'deals') {
       result = result.map((d) => ({
         ...d,
-        product: mockProducts.find((p) => p.id === d.product_id || p.slug === String(d.product_id).replace(/^prod-/, '')) || null,
+        product: (mockDataMap.products || []).find((p) => p.id === d.product_id || p.slug === String(d.product_id).replace(/^prod-/, '')) || null,
       }));
     }
     if (this.sortFn) result = [...result].sort(this.sortFn);
