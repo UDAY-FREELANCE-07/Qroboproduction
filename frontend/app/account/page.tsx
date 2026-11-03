@@ -5,13 +5,15 @@ import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '@/lib/auth-context';
+import { useWishlist } from '@/lib/wishlist-context';
 import { dataClient } from '@/lib/data-client';
 import type { Database } from '@/lib/data-client';
 import { Button } from '@/components/ui/button';
-import { User as UserIcon, Package, Heart, MapPin, Settings, LogOut, ShoppingBag, ShieldCheck } from 'lucide-react';
+import { User as UserIcon, Package, Heart, MapPin, Settings, LogOut, ShoppingBag, ShieldCheck, Trash2, Cpu } from 'lucide-react';
 import { ChangePasswordCard, EmailVerificationCard, NotificationsCard, ProfileCard } from '@/components/account/settings-panels';
 import { formatPrice, formatDate } from '@/lib/format';
 import { cn } from '@/lib/utils';
+import { toast } from 'sonner';
 
 type Order = Database['public']['Tables']['orders']['Row'];
 type OrderItem = Database['public']['Tables']['order_items']['Row'];
@@ -22,6 +24,7 @@ export default function AccountPage() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const { user, profile, signOut } = useAuth();
+  const { wishlistIds, toggle: toggleWishlist } = useWishlist();
   const initialTab = searchParams.get('tab');
   const [activeTab, setActiveTab] = useState(initialTab === 'password' ? 'settings' : initialTab || 'profile');
   const [orders, setOrders] = useState<(Order & { order_items: OrderItem[] })[]>([]);
@@ -51,11 +54,51 @@ export default function AccountPage() {
           .order('created_at', { ascending: false }),
       ]);
       setOrders((ordersRes.data as any) || []);
-      setWishlistProducts((wishlistRes.data?.map((w: any) => w.product).filter(Boolean)) || []);
+
+      let products = (wishlistRes.data?.map((w: any) => w.product).filter(Boolean)) || [];
+      if (products.length === 0 && wishlistIds.length > 0) {
+        const { data: matched } = await dataClient
+          .from('products')
+          .select('*')
+          .in('id', wishlistIds);
+        if (matched && matched.length > 0) {
+          products = matched;
+        }
+      }
+      setWishlistProducts(products);
       setAddresses(addrRes.data || []);
     };
     loadData();
   }, [user, router]);
+
+  // Keep wishlistProducts synchronized whenever wishlistIds change
+  useEffect(() => {
+    if (wishlistIds.length === 0) {
+      setWishlistProducts([]);
+      return;
+    }
+    const currentProductIds = new Set(wishlistProducts.map((p) => p.id));
+    const missingIds = wishlistIds.filter((id) => !currentProductIds.has(id));
+
+    if (missingIds.length > 0) {
+      (async () => {
+        const { data } = await dataClient
+          .from('products')
+          .select('*')
+          .in('id', wishlistIds);
+        if (data && data.length > 0) {
+          setWishlistProducts(data);
+        }
+      })();
+    } else {
+      setWishlistProducts((prev) => prev.filter((p) => wishlistIds.includes(p.id)));
+    }
+  }, [wishlistIds]);
+
+  const handleRemoveFromWishlist = async (productId: string) => {
+    await toggleWishlist(productId);
+    toast.success('Removed from wishlist');
+  };
 
   if (!user) return null;
 
@@ -97,7 +140,15 @@ export default function AccountPage() {
                 )}
               >
                 <Icon className="w-4 h-4" />
-                {tab.label}
+                <span className="flex-1">{tab.label}</span>
+                {tab.value === 'wishlist' && wishlistIds.length > 0 && (
+                  <span className={cn(
+                    'px-2 py-0.5 rounded-full text-xs font-bold',
+                    activeTab === 'wishlist' ? 'bg-white text-primary' : 'bg-red-500 text-white'
+                  )}>
+                    {wishlistIds.length}
+                  </span>
+                )}
               </button>
             );
           })}
@@ -181,6 +232,17 @@ export default function AccountPage() {
 
           {activeTab === 'wishlist' && (
             <div>
+              <div className="flex items-center justify-between mb-4">
+                <h2 className="text-xl font-bold text-navy">
+                  Wishlist {wishlistProducts.length > 0 && `(${wishlistProducts.length})`}
+                </h2>
+                {wishlistProducts.length > 0 && (
+                  <Link href="/shop" className="text-sm font-semibold text-primary hover:underline">
+                    Continue Shopping
+                  </Link>
+                )}
+              </div>
+
               {wishlistProducts.length === 0 ? (
                 <div className="bg-white rounded-xl border border-gray-200 p-12 text-center">
                   <Heart className="w-12 h-12 text-gray-300 mx-auto mb-4" />
@@ -189,19 +251,81 @@ export default function AccountPage() {
                   <Link href="/shop"><Button>Browse Products</Button></Link>
                 </div>
               ) : (
-                <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
+                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 gap-4">
                   {wishlistProducts.map((product) => (
-                    <Link key={product.id} href={`/product/${product.slug}`} className="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all">
-                      {product.primary_image && (
-                        <div className="aspect-square overflow-hidden bg-gray-50">
-                          <img src={product.primary_image} alt={product.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
-                        </div>
-                      )}
-                      <div className="p-3">
-                        <h3 className="text-sm font-medium text-navy line-clamp-2 mb-1">{product.name}</h3>
-                        <p className="text-sm font-bold text-navy">{formatPrice(product.price)}</p>
+                    <div
+                      key={product.id}
+                      className="group relative bg-white rounded-2xl border border-gray-200/90 overflow-hidden flex flex-col justify-between hover:shadow-lg hover:border-sky-400 transition-all"
+                    >
+                      {/* Product Image Frame */}
+                      <div className="relative aspect-square w-full bg-[#f8f9fa] flex items-center justify-center p-3.5 sm:p-4 overflow-hidden select-none">
+                        <Link href={`/product/${product.slug}`} className="w-full h-full flex items-center justify-center">
+                          {product.primary_image ? (
+                            <img
+                              src={product.primary_image}
+                              alt={product.name}
+                              className="max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-105"
+                            />
+                          ) : (
+                            <Cpu className="w-10 h-10 text-gray-300" />
+                          )}
+                        </Link>
+                        {/* Remove from wishlist button */}
+                        <button
+                          type="button"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            e.stopPropagation();
+                            handleRemoveFromWishlist(product.id);
+                          }}
+                          className="absolute top-2.5 right-2.5 p-1.5 rounded-full bg-white/95 text-red-500 hover:text-red-700 hover:bg-red-50 shadow-sm border border-gray-100 transition-all"
+                          title="Remove from wishlist"
+                          aria-label="Remove from wishlist"
+                        >
+                          <Trash2 className="w-4 h-4" />
+                        </button>
                       </div>
-                    </Link>
+
+                      {/* Details */}
+                      <div className="p-3.5 sm:p-4 flex flex-col flex-1 justify-between bg-white">
+                        <div>
+                          <Link href={`/product/${product.slug}`} className="block">
+                            <h3 className="text-sm font-semibold text-navy line-clamp-2 hover:text-primary transition-colors leading-snug">
+                              {product.name}
+                            </h3>
+                          </Link>
+                          <div className="mt-2 flex items-baseline gap-2">
+                            <span className="text-base font-extrabold text-red-600">
+                              {formatPrice(product.price)}
+                            </span>
+                            {product.compare_at_price && (
+                              <span className="text-xs text-muted-foreground line-through">
+                                {formatPrice(product.compare_at_price)}
+                              </span>
+                            )}
+                          </div>
+                        </div>
+
+                        {/* Stock & Link */}
+                        <div className="mt-3 pt-2.5 border-t border-gray-100 flex items-center justify-between">
+                          {product.stock <= 0 ? (
+                            <span className="text-[11px] font-semibold text-gray-600 bg-gray-100 px-2.5 py-0.5 rounded-full">
+                              Sold out
+                            </span>
+                          ) : (
+                            <span className="text-[11px] font-semibold text-emerald-700 bg-emerald-50 px-2.5 py-0.5 rounded-full">
+                              In Stock
+                            </span>
+                          )}
+                          <Link
+                            href={`/product/${product.slug}`}
+                            className="text-xs font-bold text-primary hover:text-blue-700 hover:underline"
+                          >
+                            Read More &rarr;
+                          </Link>
+                        </div>
+                      </div>
+                    </div>
                   ))}
                 </div>
               )}

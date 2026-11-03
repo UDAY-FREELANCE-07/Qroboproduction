@@ -26,7 +26,18 @@ export class MockQueryBuilder implements PromiseLike<{ data: any; error: null; c
   }
 
   private get table(): any[] {
-    if (!mockDataMap[this.tableName]) mockDataMap[this.tableName] = [];
+    if (!mockDataMap[this.tableName]) {
+      if (this.tableName === 'wishlists' && typeof window !== 'undefined') {
+        try {
+          const stored = localStorage.getItem('qrobo_mock_wishlists');
+          mockDataMap[this.tableName] = stored ? JSON.parse(stored) : [];
+        } catch {
+          mockDataMap[this.tableName] = [];
+        }
+      } else {
+        mockDataMap[this.tableName] = [];
+      }
+    }
     return mockDataMap[this.tableName];
   }
 
@@ -172,6 +183,11 @@ export class MockQueryBuilder implements PromiseLike<{ data: any; error: null; c
         created_at: now,
       }));
       this.table.unshift(...inserted);
+      if (this.tableName === 'wishlists' && typeof window !== 'undefined') {
+        try {
+          localStorage.setItem('qrobo_mock_wishlists', JSON.stringify(this.table));
+        } catch {}
+      }
       return this.shape(this.returning ? inserted : [], null);
     }
     if (this.op === 'update') {
@@ -186,15 +202,20 @@ export class MockQueryBuilder implements PromiseLike<{ data: any; error: null; c
     }
     if (this.op === 'delete') {
       mockDataMap[this.tableName] = this.table.filter((row) => !this.matches(row));
+      if (this.tableName === 'wishlists' && typeof window !== 'undefined') {
+        try {
+          localStorage.setItem('qrobo_mock_wishlists', JSON.stringify(mockDataMap[this.tableName]));
+        } catch {}
+      }
       return { data: null, error: null, count: null };
     }
 
     let result = this.table.filter(this.matches);
     const totalCount = result.length;
 
-    // Embedded product relation used by the deals pages.
-    if (this.tableName === 'deals') {
-      result = result.map((d) => ({
+    // Embedded product relation used by deals, wishlists, cart_items, and project components.
+    if (this.tableName === 'deals' || this.tableName === 'wishlists' || this.tableName === 'cart_items' || this.tableName === 'project_components') {
+      result = result.map((d: any) => ({
         ...d,
         product: (mockDataMap.products || []).find((p) => p.id === d.product_id || p.slug === String(d.product_id).replace(/^prod-/, '')) || null,
       }));

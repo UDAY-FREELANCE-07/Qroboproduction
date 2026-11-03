@@ -33,16 +33,54 @@ export function WishlistProvider({ children }: { children: React.ReactNode }) {
     setIsLoading(true);
     try {
       if (user) {
+        // Merge any guest wishlist items saved before signing in
+        const guest = loadGuestWishlist();
+        if (guest.length > 0) {
+          for (const pid of guest) {
+            try {
+              await dataClient.from('wishlists').insert({ user_id: user.id, product_id: pid });
+            } catch {}
+          }
+          try {
+            localStorage.removeItem(GUEST_WISHLIST_KEY);
+          } catch {}
+        }
+
         const { data } = await dataClient
           .from('wishlists')
           .select('product_id')
           .eq('user_id', user.id);
-        setWishlistIds((data as { product_id: string }[] | null)?.map((w) => w.product_id) ?? []);
+        const serverIds = (data as { product_id: string }[] | null)?.map((w) => w.product_id) ?? [];
+
+        if (serverIds.length > 0) {
+          setWishlistIds(serverIds);
+          try {
+            localStorage.setItem(`qrobo_user_wishlist_${user.id}`, JSON.stringify(serverIds));
+          } catch {}
+        } else {
+          // Fallback to local storage cache if server returned empty (e.g. mock session reload)
+          let cachedIds: string[] = [];
+          try {
+            const raw = localStorage.getItem(`qrobo_user_wishlist_${user.id}`);
+            if (raw) cachedIds = JSON.parse(raw);
+          } catch {}
+
+          if (cachedIds.length > 0) {
+            setWishlistIds(cachedIds);
+            for (const pid of cachedIds) {
+              try {
+                await dataClient.from('wishlists').insert({ user_id: user.id, product_id: pid });
+              } catch {}
+            }
+          } else {
+            setWishlistIds([]);
+          }
+        }
       } else {
         setWishlistIds(loadGuestWishlist());
       }
     } catch {
-      setWishlistIds([]);
+      setWishlistIds(loadGuestWishlist());
     } finally {
       setIsLoading(false);
     }
@@ -54,33 +92,38 @@ export function WishlistProvider({ children }: { children: React.ReactNode }) {
 
   const toggle = async (productId: string) => {
     const isWishlisted = wishlistIds.includes(productId);
+    const nextWishlist = isWishlisted
+      ? wishlistIds.filter((id) => id !== productId)
+      : [...wishlistIds, productId];
+
+    // Optimistically update React state immediately
+    setWishlistIds(nextWishlist);
 
     if (user) {
-      if (isWishlisted) {
-        await dataClient
-          .from('wishlists')
-          .delete()
-          .eq('user_id', user.id)
-          .eq('product_id', productId);
-      } else {
-        await dataClient
-          .from('wishlists')
-          .insert({ user_id: user.id, product_id: productId });
+      try {
+        localStorage.setItem(`qrobo_user_wishlist_${user.id}`, JSON.stringify(nextWishlist));
+      } catch {}
+
+      try {
+        if (isWishlisted) {
+          await dataClient
+            .from('wishlists')
+            .delete()
+            .eq('user_id', user.id)
+            .eq('product_id', productId);
+        } else {
+          await dataClient
+            .from('wishlists')
+            .insert({ user_id: user.id, product_id: productId });
+        }
+      } catch (err) {
+        console.error('Error toggling wishlist:', err);
       }
     } else {
-      const guest = loadGuestWishlist();
-      if (isWishlisted) {
-        const filtered = guest.filter((id) => id !== productId);
-        localStorage.setItem(GUEST_WISHLIST_KEY, JSON.stringify(filtered));
-      } else {
-        guest.push(productId);
-        localStorage.setItem(GUEST_WISHLIST_KEY, JSON.stringify(guest));
-      }
+      try {
+        localStorage.setItem(GUEST_WISHLIST_KEY, JSON.stringify(nextWishlist));
+      } catch {}
     }
-
-    setWishlistIds((prev) =>
-      isWishlisted ? prev.filter((id) => id !== productId) : [...prev, productId]
-    );
   };
 
   const has = (productId: string) => wishlistIds.includes(productId);
