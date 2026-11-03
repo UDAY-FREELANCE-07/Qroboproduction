@@ -328,7 +328,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "ToggleLeft",
     "is_featured": false,
     "sort_order": 26,
-    "product_count": 27,
+    "product_count": 18,
     "highlighted_count": 18
   },
   {
@@ -17890,8 +17890,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 80,
     "compare_at_price": 100,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -17901,9 +17901,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "5V Relay Module 1-Channel - Relays, Switches and Input Devices",
     "description": "High-grade 5V Relay Module 1-Channel selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/5v-relay-module-1-channel.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/5v-relay-module-1-channel.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -17944,8 +17944,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 140,
     "compare_at_price": 175,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -17955,9 +17955,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "5V Relay Module 2-Channel - Relays, Switches and Input Devices",
     "description": "High-grade 5V Relay Module 2-Channel selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/5v-relay-module-2-channel.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/5v-relay-module-2-channel.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -17998,8 +17998,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 240,
     "compare_at_price": 300,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18009,9 +18009,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "5V Relay Module 4-Channel - Relays, Switches and Input Devices",
     "description": "High-grade 5V Relay Module 4-Channel selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/5v-relay-module-4-channel.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/5v-relay-module-4-channel.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18052,8 +18052,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 420,
     "compare_at_price": 525,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18063,9 +18063,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "5V Relay Module 8-Channel - Relays, Switches and Input Devices",
     "description": "High-grade 5V Relay Module 8-Channel selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/5v-relay-module-8-channel.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/5v-relay-module-8-channel.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18106,8 +18106,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 80,
     "compare_at_price": 100,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -18117,9 +18117,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "SSR-25DA Solid State Relay - Relays, Switches and Input Devices",
     "description": "High-grade SSR-25DA Solid State Relay selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/ssr-25da-solid-state-relay.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/ssr-25da-solid-state-relay.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18149,59 +18149,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-26-6",
-    "name": "SSR Module",
-    "slug": "ssr-module",
-    "sku": "HIT-26-006",
-    "category_id": "cat-relays-switches-and-input-devices",
-    "category_name": "Relays, Switches and Input Devices",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "SSR Module - Relays, Switches and Input Devices",
-    "description": "High-grade SSR Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "SSR Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x SSR Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-26-7",
     "name": "12V 10A SPDT Relay",
     "slug": "12v-10a-spdt-relay",
@@ -18212,8 +18159,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 80,
     "compare_at_price": 100,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18223,9 +18170,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "12V 10A SPDT Relay - Relays, Switches and Input Devices",
     "description": "High-grade 12V 10A SPDT Relay selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/12v-10a-spdt-relay.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/12v-10a-spdt-relay.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18267,8 +18214,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 80,
     "compare_at_price": 100,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18278,9 +18225,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "SRD 5V Relay - Relays, Switches and Input Devices",
     "description": "High-grade SRD 5V Relay selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/srd-5v-relay.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/srd-5v-relay.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18321,8 +18268,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 80,
     "compare_at_price": 100,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18332,9 +18279,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "24V Relay - Relays, Switches and Input Devices",
     "description": "High-grade 24V Relay selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/24v-relay.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/24v-relay.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18365,59 +18312,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-26-10",
-    "name": "Reed Relay",
-    "slug": "reed-relay",
-    "sku": "HIT-26-010",
-    "category_id": "cat-relays-switches-and-input-devices",
-    "category_name": "Relays, Switches and Input Devices",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 80,
-    "compare_at_price": 100,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Reed Relay - Relays, Switches and Input Devices",
-    "description": "High-grade Reed Relay selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Reed Relay",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Reed Relay"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-26-11",
     "name": "Tactile Switch 6x6",
     "slug": "tactile-switch-6x6",
@@ -18428,8 +18322,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18439,9 +18333,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "Tactile Switch 6x6 - Relays, Switches and Input Devices",
     "description": "High-grade Tactile Switch 6x6 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/tactile-switch-6x6.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/tactile-switch-6x6.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18481,8 +18375,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18492,9 +18386,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "Tactile Switch 12x12 - Relays, Switches and Input Devices",
     "description": "High-grade Tactile Switch 12x12 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/tactile-switch-12x12.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/tactile-switch-12x12.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18534,8 +18428,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18545,9 +18439,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "Push-Lock Switch - Relays, Switches and Input Devices",
     "description": "High-grade Push-Lock Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/push-lock-switch.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/push-lock-switch.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18587,8 +18481,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18598,9 +18492,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "Slide Switch - Relays, Switches and Input Devices",
     "description": "High-grade Slide Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/slide-switch.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/slide-switch.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18640,8 +18534,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -18651,9 +18545,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "Toggle Switch - Relays, Switches and Input Devices",
     "description": "High-grade Toggle Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/toggle-switch.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/toggle-switch.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18693,8 +18587,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18704,9 +18598,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Rocker Switch - Relays, Switches and Input Devices",
     "description": "High-grade Rocker Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/rocker-switch.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/rocker-switch.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18746,8 +18640,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18757,9 +18651,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "DIP Switch - Relays, Switches and Input Devices",
     "description": "High-grade DIP Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/dip-switch.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/dip-switch.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18789,59 +18683,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-26-18",
-    "name": "Micro/Limit Switch",
-    "slug": "microlimit-switch",
-    "sku": "HIT-26-018",
-    "category_id": "cat-relays-switches-and-input-devices",
-    "category_name": "Relays, Switches and Input Devices",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Micro/Limit Switch - Relays, Switches and Input Devices",
-    "description": "High-grade Micro/Limit Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Micro/Limit Switch",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Micro/Limit Switch"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-26-19",
     "name": "Joystick Module",
     "slug": "joystick-module",
@@ -18852,8 +18693,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18863,9 +18704,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "Joystick Module - Relays, Switches and Input Devices",
     "description": "High-grade Joystick Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/joystick-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/joystick-module.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18905,8 +18746,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -18916,9 +18757,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "4x4 Keypad - Relays, Switches and Input Devices",
     "description": "High-grade 4x4 Keypad selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/4x4-keypad.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/4x4-keypad.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18958,8 +18799,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18969,9 +18810,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "4x3 Keypad - Relays, Switches and Input Devices",
     "description": "High-grade 4x3 Keypad selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/relays-switches-and-input-devices/4x3-keypad.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/4x3-keypad.png"
     ],
     "specifications": {
       "Category": "Relays, Switches and Input Devices",
@@ -18998,325 +18839,6 @@ export const pdfProducts: PdfProduct[] = [
       "electronics",
       "components",
       "in-stock"
-    ]
-  },
-  {
-    "id": "prod-26-22",
-    "name": "Key Switch",
-    "slug": "key-switch",
-    "sku": "HIT-26-022",
-    "category_id": "cat-relays-switches-and-input-devices",
-    "category_name": "Relays, Switches and Input Devices",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Key Switch - Relays, Switches and Input Devices",
-    "description": "High-grade Key Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Key Switch",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Key Switch"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-26-23",
-    "name": "Emergency Stop Button",
-    "slug": "emergency-stop-button",
-    "sku": "HIT-26-023",
-    "category_id": "cat-relays-switches-and-input-devices",
-    "category_name": "Relays, Switches and Input Devices",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Emergency Stop Button - Relays, Switches and Input Devices",
-    "description": "High-grade Emergency Stop Button selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Emergency Stop Button",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Emergency Stop Button"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-26-24",
-    "name": "Momentary Push Switch (Type A)",
-    "slug": "momentary-push-switch-type-a",
-    "sku": "HIT-26-024",
-    "category_id": "cat-relays-switches-and-input-devices",
-    "category_name": "Relays, Switches and Input Devices",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Momentary Push Switch (Type A) - Relays, Switches and Input Devices",
-    "description": "High-grade Momentary Push Switch (Type A) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Momentary Push Switch (Type A)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Momentary Push Switch (Type A)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-26-25",
-    "name": "Knob for Optical Encoder",
-    "slug": "knob-for-optical-encoder",
-    "sku": "HIT-26-025",
-    "category_id": "cat-relays-switches-and-input-devices",
-    "category_name": "Relays, Switches and Input Devices",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Knob for Optical Encoder - Relays, Switches and Input Devices",
-    "description": "High-grade Knob for Optical Encoder selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Knob for Optical Encoder",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Knob for Optical Encoder"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-26-26",
-    "name": "Mini Power Relay SPDT",
-    "slug": "mini-power-relay-spdt",
-    "sku": "HIT-26-026",
-    "category_id": "cat-relays-switches-and-input-devices",
-    "category_name": "Relays, Switches and Input Devices",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 80,
-    "compare_at_price": 100,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Mini Power Relay SPDT - Relays, Switches and Input Devices",
-    "description": "High-grade Mini Power Relay SPDT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Mini Power Relay SPDT",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Mini Power Relay SPDT"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-26-27",
-    "name": "Button Switch Set (100 assorted)",
-    "slug": "button-switch-set-100-assorted",
-    "sku": "HIT-26-027",
-    "category_id": "cat-relays-switches-and-input-devices",
-    "category_name": "Relays, Switches and Input Devices",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Button Switch Set (100 assorted) - Relays, Switches and Input Devices",
-    "description": "High-grade Button Switch Set (100 assorted) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Button Switch Set (100 assorted)",
-      "Current Rating": "100 a",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Button Switch Set (100 assorted)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
     ]
   },
   {

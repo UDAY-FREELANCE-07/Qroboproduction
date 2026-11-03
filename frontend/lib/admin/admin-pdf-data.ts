@@ -282,7 +282,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "relays-switches-and-input-devices",
     "description": "Official Relays, Switches and Input Devices component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 27,
+    "productCount": 18,
     "sortOrder": 26,
     "isFeatured": false,
     "status": "active"
@@ -13637,13 +13637,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 100,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/5v-relay-module-1-channel.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/5v-relay-module-1-channel.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -13678,13 +13678,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 175,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/5v-relay-module-2-channel.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/5v-relay-module-2-channel.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -13719,13 +13719,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 300,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/5v-relay-module-4-channel.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/5v-relay-module-4-channel.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -13760,13 +13760,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 525,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/5v-relay-module-8-channel.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/5v-relay-module-8-channel.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -13801,13 +13801,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 100,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/ssr-25da-solid-state-relay.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/ssr-25da-solid-state-relay.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -13828,46 +13828,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-26-6",
-    "name": "SSR Module",
-    "slug": "ssr-module",
-    "sku": "HIT-26-006",
-    "brand": "Hi Technology",
-    "category": "Relays, Switches and Input Devices",
-    "subcategory": "Relays, Switches and Input Devices",
-    "shortDescription": "SSR Module - Relays, Switches and Input Devices",
-    "description": "High-grade SSR Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "SSR Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-26-7",
     "name": "12V 10A SPDT Relay",
     "slug": "12v-10a-spdt-relay",
@@ -13881,13 +13841,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 100,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/12v-10a-spdt-relay.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/12v-10a-spdt-relay.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -13923,13 +13883,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 100,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/srd-5v-relay.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/srd-5v-relay.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -13964,13 +13924,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 100,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/24v-relay.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/24v-relay.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -13992,46 +13952,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-26-10",
-    "name": "Reed Relay",
-    "slug": "reed-relay",
-    "sku": "HIT-26-010",
-    "brand": "Hi Technology",
-    "category": "Relays, Switches and Input Devices",
-    "subcategory": "Relays, Switches and Input Devices",
-    "shortDescription": "Reed Relay - Relays, Switches and Input Devices",
-    "description": "High-grade Reed Relay selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 80,
-    "originalPrice": 100,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Reed Relay",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-26-11",
     "name": "Tactile Switch 6x6",
     "slug": "tactile-switch-6x6",
@@ -14045,13 +13965,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/tactile-switch-6x6.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/tactile-switch-6x6.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14085,13 +14005,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/tactile-switch-12x12.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/tactile-switch-12x12.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14125,13 +14045,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/push-lock-switch.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/push-lock-switch.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14165,13 +14085,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/slide-switch.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/slide-switch.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14205,13 +14125,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/toggle-switch.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/toggle-switch.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -14245,13 +14165,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/rocker-switch.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/rocker-switch.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14285,13 +14205,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/dip-switch.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/dip-switch.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14312,46 +14232,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-26-18",
-    "name": "Micro/Limit Switch",
-    "slug": "microlimit-switch",
-    "sku": "HIT-26-018",
-    "brand": "Hi Technology",
-    "category": "Relays, Switches and Input Devices",
-    "subcategory": "Relays, Switches and Input Devices",
-    "shortDescription": "Micro/Limit Switch - Relays, Switches and Input Devices",
-    "description": "High-grade Micro/Limit Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Micro/Limit Switch",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-26-19",
     "name": "Joystick Module",
     "slug": "joystick-module",
@@ -14365,13 +14245,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/joystick-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/joystick-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14405,13 +14285,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/4x4-keypad.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/4x4-keypad.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -14445,13 +14325,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/relays-switches-and-input-devices/4x3-keypad.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/relays-switches-and-input-devices/4x3-keypad.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14467,247 +14347,6 @@ export const pdfAdminProducts: AdminProduct[] = [
       "electronics",
       "components",
       "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-26-22",
-    "name": "Key Switch",
-    "slug": "key-switch",
-    "sku": "HIT-26-022",
-    "brand": "Hi Technology",
-    "category": "Relays, Switches and Input Devices",
-    "subcategory": "Relays, Switches and Input Devices",
-    "shortDescription": "Key Switch - Relays, Switches and Input Devices",
-    "description": "High-grade Key Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Key Switch",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-26-23",
-    "name": "Emergency Stop Button",
-    "slug": "emergency-stop-button",
-    "sku": "HIT-26-023",
-    "brand": "Hi Technology",
-    "category": "Relays, Switches and Input Devices",
-    "subcategory": "Relays, Switches and Input Devices",
-    "shortDescription": "Emergency Stop Button - Relays, Switches and Input Devices",
-    "description": "High-grade Emergency Stop Button selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Emergency Stop Button",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-26-24",
-    "name": "Momentary Push Switch (Type A)",
-    "slug": "momentary-push-switch-type-a",
-    "sku": "HIT-26-024",
-    "brand": "Hi Technology",
-    "category": "Relays, Switches and Input Devices",
-    "subcategory": "Relays, Switches and Input Devices",
-    "shortDescription": "Momentary Push Switch (Type A) - Relays, Switches and Input Devices",
-    "description": "High-grade Momentary Push Switch (Type A) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Momentary Push Switch (Type A)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-26-25",
-    "name": "Knob for Optical Encoder",
-    "slug": "knob-for-optical-encoder",
-    "sku": "HIT-26-025",
-    "brand": "Hi Technology",
-    "category": "Relays, Switches and Input Devices",
-    "subcategory": "Relays, Switches and Input Devices",
-    "shortDescription": "Knob for Optical Encoder - Relays, Switches and Input Devices",
-    "description": "High-grade Knob for Optical Encoder selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Knob for Optical Encoder",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-26-26",
-    "name": "Mini Power Relay SPDT",
-    "slug": "mini-power-relay-spdt",
-    "sku": "HIT-26-026",
-    "brand": "Hi Technology",
-    "category": "Relays, Switches and Input Devices",
-    "subcategory": "Relays, Switches and Input Devices",
-    "shortDescription": "Mini Power Relay SPDT - Relays, Switches and Input Devices",
-    "description": "High-grade Mini Power Relay SPDT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 80,
-    "originalPrice": 100,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Mini Power Relay SPDT",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-26-27",
-    "name": "Button Switch Set (100 assorted)",
-    "slug": "button-switch-set-100-assorted",
-    "sku": "HIT-26-027",
-    "brand": "Hi Technology",
-    "category": "Relays, Switches and Input Devices",
-    "subcategory": "Relays, Switches and Input Devices",
-    "shortDescription": "Button Switch Set (100 assorted) - Relays, Switches and Input Devices",
-    "description": "High-grade Button Switch Set (100 assorted) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Relays, Switches and Input Devices",
-      "Model": "Button Switch Set (100 assorted)",
-      "Current Rating": "100 a",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "relays-switches-and-input-devices",
-      "electronics",
-      "components",
-      "order-request"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"

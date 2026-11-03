@@ -2589,10 +2589,9 @@ export const mockProducts: any[] = [
     "price": 299.0,
     "compare_at_price": 499.0,
     "images": [
-      "https://images.pexels.com/photos/5276099/pexels-photo-5276099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "https://images.pexels.com/photos/35686442/pexels-photo-35686442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "/images/products/relays-switches-and-input-devices/5v-relay-module-4-channel.png"
     ],
-    "primary_image": "https://images.pexels.com/photos/5276099/pexels-photo-5276099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "primary_image": "/images/products/relays-switches-and-input-devices/5v-relay-module-4-channel.png",
     "specifications": {
       "Channels": "4",
       "Trigger Voltage": "5V DC",
