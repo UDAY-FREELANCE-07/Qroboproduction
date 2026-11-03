@@ -37,9 +37,9 @@ export default function HomePage() {
   const [roboticsProducts, setRoboticsProducts] = useState<Product[]>([]);
   const [devBoardProducts, setDevBoardProducts] = useState<Product[]>([]);
   const [sensorProducts, setSensorProducts] = useState<Product[]>([]);
-  const [arduinoProducts, setArduinoProducts] = useState<Product[]>([]);
-  const [threeDProducts, setThreeDProducts] = useState<Product[]>([]);
-  const [studentProducts, setStudentProducts] = useState<Product[]>([]);
+  const [microcontrollerProducts, setMicrocontrollerProducts] = useState<Product[]>([]);
+  const [powerModuleProducts, setPowerModuleProducts] = useState<Product[]>([]);
+  const [motorProducts, setMotorProducts] = useState<Product[]>([]);
   const [projects, setProjects] = useState<Project[]>([]);
   const [tutorials, setTutorials] = useState<Tutorial[]>([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -49,8 +49,8 @@ export default function HomePage() {
       const [
         bannersRes, promoRes, dealsRes,
         featuredRes, bestSellerRes, newArrivalRes,
-        roboticsRes, devBoardRes, sensorRes, arduinoRes,
-        threeDRes, studentRes, projectsRes, tutorialsRes
+        roboticsRes, devBoardRes, sensorRes, microcontrollerRes,
+        powerModuleRes, motorRes, projectsRes, tutorialsRes
       ] = await Promise.all([
         dataClient.from('banners').select('*').eq('is_active', true).order('sort_order'),
         dataClient.from('promo_cards').select('*').eq('is_active', true).order('sort_order'),
@@ -77,9 +77,9 @@ export default function HomePage() {
       setRoboticsProducts(roboticsRes.data || []);
       setDevBoardProducts(devBoardRes.data || []);
       setSensorProducts(sensorRes.data || []);
-      setArduinoProducts(arduinoRes.data || []);
-      setThreeDProducts(threeDRes.data || []);
-      setStudentProducts(studentRes.data || []);
+      setMicrocontrollerProducts(microcontrollerRes.data || []);
+      setPowerModuleProducts(powerModuleRes.data || []);
+      setMotorProducts(motorRes.data || []);
       setProjects(projectsRes.data || []);
       setTutorials(tutorialsRes.data || []);
       setIsLoading(false);
@@ -166,9 +166,9 @@ export default function HomePage() {
             </div>
           </Link>
 
-          {/* Card 2: Robotics & STEM DIY Kits */}
+          {/* Card 2: Robotics Chassis & Kits */}
           <Link
-            href="/shop?category=robotics"
+            href="/shop?category=robot-chassis-and-platform-kits"
             className="group relative min-h-[200px] overflow-hidden rounded-2xl bg-gradient-to-br from-blue-700 via-blue-600 to-indigo-800 p-5 sm:p-6 text-white shadow-sm transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl flex flex-col justify-between"
           >
             {/* Tech grid & energy accents */}
@@ -197,14 +197,14 @@ export default function HomePage() {
             <div className="relative z-10 flex flex-col justify-between h-full">
               <div>
                 <span className="inline-flex items-center gap-1.5 rounded-full bg-white/20 backdrop-blur-md px-3 py-1 text-[10px] font-black uppercase tracking-wider text-cyan-200 border border-white/20 shadow-sm">
-                  <Rocket className="h-3 w-3" /> Robotics & DIY
+                  <Rocket className="h-3 w-3" /> Robotics
                 </span>
                 <h3 className="mt-3 text-2xl sm:text-3xl font-black text-white tracking-tight leading-tight">
                   BUILD &<br />
                   <span className="text-cyan-200">INNOVATE</span>
                 </h3>
                 <p className="mt-1 text-xs text-blue-100 font-medium max-w-[150px] sm:max-w-[160px] leading-relaxed">
-                  Chassis, motors, drivers & learning kits
+                  Chassis, motors, drivers & robot kits
                 </p>
               </div>
 
@@ -216,9 +216,9 @@ export default function HomePage() {
             </div>
           </Link>
 
-          {/* Card 3: 3D Printing & New Drops */}
+          {/* Card 3: Power Modules & Regulators */}
           <Link
-            href="/shop?category=3d-printing"
+            href="/shop?category=power-modules"
             className="group relative min-h-[200px] overflow-hidden rounded-2xl bg-gradient-to-br from-[#0B132B] via-[#1C2541] to-[#1E293B] p-5 sm:p-6 text-white border border-slate-700/60 shadow-sm transition-all duration-300 hover:-translate-y-1.5 hover:border-cyan-500/50 hover:shadow-xl flex flex-col justify-between"
           >
             {/* Tech grid & cyber cyan accents */}
@@ -229,7 +229,7 @@ export default function HomePage() {
             <div className="absolute -right-3 -bottom-3 w-40 sm:w-44 h-36 sm:h-40 rounded-2xl overflow-hidden shadow-lg border-2 border-cyan-500/30 transform rotate-[-3deg] group-hover:rotate-0 group-hover:scale-105 transition-all duration-500 select-none">
               <img
                 src="https://images.pexels.com/photos/33977799/pexels-photo-33977799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-                alt="3D Printing & New Drops"
+                alt="Power Modules"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -239,7 +239,7 @@ export default function HomePage() {
             {/* Floating New Drop badge */}
             <div className="absolute top-4 right-4 z-10">
               <span className="bg-amber-400 text-navy text-[10px] font-black px-2.5 py-1 rounded-full shadow-md uppercase tracking-wider">
-                NEW 2026
+                ESSENTIALS
               </span>
             </div>
 
@@ -247,20 +247,20 @@ export default function HomePage() {
             <div className="relative z-10 flex flex-col justify-between h-full">
               <div>
                 <span className="inline-flex items-center gap-1.5 rounded-full bg-cyan-500/20 px-3 py-1 text-[10px] font-black uppercase tracking-wider text-cyan-300 border border-cyan-400/30 shadow-sm">
-                  <Sparkles className="h-3 w-3" /> Fresh Drop
+                  <Sparkles className="h-3 w-3" /> Power Labs
                 </span>
                 <h3 className="mt-3 text-2xl sm:text-3xl font-black text-white tracking-tight leading-tight">
-                  3D TOYS &<br />
-                  <span className="text-cyan-300">PRINT LAB</span>
+                  POWER &<br />
+                  <span className="text-cyan-300">MODULES</span>
                 </h3>
                 <p className="mt-1 text-xs text-gray-300 font-medium max-w-[150px] sm:max-w-[160px] leading-relaxed">
-                  Filaments, 3D printers & IoT modules
+                  Buck, boost converters & power regulators
                 </p>
               </div>
 
               <div className="mt-4">
                 <span className="inline-flex items-center gap-1.5 rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 px-3.5 py-1.5 text-xs font-bold text-white shadow-md group-hover:from-cyan-400 group-hover:to-blue-500 transition-all">
-                  See arrivals <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+                  See modules <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
                 </span>
               </div>
             </div>
@@ -293,56 +293,45 @@ export default function HomePage() {
         </Section>
       )}
 
-      {/* Robotics & Automation */}
+      {/* Robot Chassis & Platform Kits */}
       {roboticsProducts.length > 0 && (
-        <Section title="Robotics & Automation" subtitle="Build robots with our robotics kits and components" link="/shop?category=robotics" linkLabel="View all">
+        <Section title="Robot Chassis & Platform Kits" subtitle="Chassis kits, wheel platforms, and robotics hardware" link="/shop?category=robot-chassis-and-platform-kits" linkLabel="View all">
           <ProductRow products={roboticsProducts} />
         </Section>
       )}
 
-      {/* Development Boards */}
+      {/* Development Boards & Shields */}
       {devBoardProducts.length > 0 && (
-        <Section title="Development Boards" subtitle="Microcontroller and single-board computers for every project" link="/shop?category=development-boards" linkLabel="View all">
+        <Section title="Development Boards & Shields" subtitle="Arduino, ESP32, and development boards for prototyping" link="/shop?category=development-boards-and-shields" linkLabel="View all">
           <ProductRow products={devBoardProducts} />
         </Section>
       )}
 
       {/* Sensors & Modules */}
       {sensorProducts.length > 0 && (
-        <Section title="Sensors & Modules" subtitle="Detect and measure the world around your projects" link="/shop?category=sensors" linkLabel="View all">
+        <Section title="Sensors & Modules" subtitle="Detect and measure temperature, humidity, and distance" link="/shop?category=sensors-temperature-humidity-and-pressure" linkLabel="View all">
           <ProductRow products={sensorProducts} />
         </Section>
       )}
 
-      {/* Arduino / ESP / Raspberry Pi */}
-      {arduinoProducts.length > 0 && (
-        <Section title="Arduino & Development Boards" subtitle="Official Arduino boards and compatible alternatives" link="/shop?category=arduino" linkLabel="View all">
-          <ProductRow products={arduinoProducts} />
+      {/* Microcontroller Chips & ICs */}
+      {microcontrollerProducts.length > 0 && (
+        <Section title="Microcontroller Chips & ICs" subtitle="Standalone ATmega, ATtiny, and microcontrollers for custom circuits" link="/shop?category=microcontroller-chips" linkLabel="View all">
+          <ProductRow products={microcontrollerProducts} />
         </Section>
       )}
 
-      {/* 3D Printing */}
-      {threeDProducts.length > 0 && (
-        <Section title="3D Printing" subtitle="3D printers, filament, and upgrade parts" link="/shop?category=3d-printing" linkLabel="View all">
-          <ProductRow products={threeDProducts} />
+      {/* Power Modules & Regulators */}
+      {powerModuleProducts.length > 0 && (
+        <Section title="Power Modules & Regulators" subtitle="DC-DC step-down buck converters, boost modules, and power supplies" link="/shop?category=power-modules" linkLabel="View all">
+          <ProductRow products={powerModuleProducts} />
         </Section>
       )}
 
-      {/* 3D Printing Toys */}
-      {threeDProducts.length > 0 && (
-        <Section title="3D Printing Toys & Figures" subtitle="Fun 3D-printed toys, figurines, and creative prints" link="/shop?category=3d-printing" linkLabel="View all">
-          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
-            {threeDProducts.slice(0, 5).map((product) => (
-              <ProductCard key={product.id} product={product} />
-            ))}
-          </div>
-        </Section>
-      )}
-
-      {/* Student Project Products */}
-      {studentProducts.length > 0 && (
-        <Section title="Student Project Products" subtitle="Educational kits perfect for school and college projects" link="/shop?category=student-project-kits" linkLabel="View all">
-          <ProductRow products={studentProducts} />
+      {/* Motors, Servos & Actuators */}
+      {motorProducts.length > 0 && (
+        <Section title="Motors, Servos & Actuators" subtitle="Micro servos, high-torque metal gear servos, and DC motors" link="/shop?category=motors-actuators-and-sound" linkLabel="View all">
+          <ProductRow products={motorProducts} />
         </Section>
       )}
 
