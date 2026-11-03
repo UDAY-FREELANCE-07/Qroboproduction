@@ -40,6 +40,11 @@ function LoginForm() {
       if (isAdminEmail(cleanEmail)) {
         const { user: adminUser, error: adminErr } = await adminSignIn(cleanEmail, cleanPassword);
         if (adminUser) {
+          try {
+            await signIn(cleanEmail, cleanPassword);
+          } catch (e) {
+            console.warn('Server session sync skipped:', e);
+          }
           toast.success(`Welcome back, ${adminUser.name}! (${adminUser.role})`);
           const dest = redirectParam && redirectParam.startsWith('/admin') ? redirectParam : '/admin';
           router.push(dest);

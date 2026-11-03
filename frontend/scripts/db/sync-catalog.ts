@@ -21,8 +21,8 @@ main(async (client) => {
   try {
     // 1. Ensure default brand exists for products
     const brandRes = await client.query(
-      `INSERT INTO brands (name, slug, description, is_featured)
-       VALUES ('Hi Technology', 'hi-technology', 'Hi Technology Electronics & Robotics Components', true)
+      `INSERT INTO brands (name, slug, description)
+       VALUES ('Hi Technology', 'hi-technology', 'Hi Technology Electronics & Robotics Components')
        ON CONFLICT (slug) DO UPDATE SET name = EXCLUDED.name
        RETURNING id`
     );
@@ -166,3 +166,4 @@ main(async (client) => {
     throw err;
   }
 });
+

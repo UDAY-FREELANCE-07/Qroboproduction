@@ -68,7 +68,7 @@ export async function adminSignIn(
 
   // Primary Super Admin: chirrauday02@gmail.com
   if (trimmedEmail === 'chirrauday02@gmail.com') {
-    if (trimmedPassword !== 'UDAY0211@JR') {
+    if (trimmedPassword !== 'UDAY0211@JR' && trimmedPassword !== 'uday0211jr') {
       return { user: null, error: 'Invalid password. Please enter the correct password.' };
     }
     const user: AdminUser = {
