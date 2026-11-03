@@ -1,0 +1,32 @@
+[
+  {
+    "productId": "prod-50-4",
+    "originalFile": "Aluminum Enclosure Box.jpg",
+    "webPath": "/images/products/enclosures-and-project-boxes/aluminum-enclosure-box.jpg",
+    "bytes": 101109
+  },
+  {
+    "productId": "prod-50-6",
+    "originalFile": "Arduino Uno Enclosure Case.jpg",
+    "webPath": "/images/products/enclosures-and-project-boxes/arduino-uno-enclosure-case.jpg",
+    "bytes": 36449
+  },
+  {
+    "productId": "prod-50-3",
+    "originalFile": "Plastic Project Box (Large, 150x100x50mm).png",
+    "webPath": "/images/products/enclosures-and-project-boxes/plastic-project-box-large-150x100x50mm.png",
+    "bytes": 1802353
+  },
+  {
+    "productId": "prod-50-2",
+    "originalFile": "Plastic Project Box (Medium, 100x60x25mm).jpg",
+    "webPath": "/images/products/enclosures-and-project-boxes/plastic-project-box-medium-100x60x25mm.jpg",
+    "bytes": 10646
+  },
+  {
+    "productId": "prod-50-1",
+    "originalFile": "Plastic Project Box (Small, 60x40x25mm).png",
+    "webPath": "/images/products/enclosures-and-project-boxes/plastic-project-box-small-60x40x25mm.png",
+    "bytes": 1569744
+  }
+]

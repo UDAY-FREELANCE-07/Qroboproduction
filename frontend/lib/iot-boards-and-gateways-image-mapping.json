@@ -1,0 +1,26 @@
+[
+  {
+    "productId": "prod-36-3",
+    "originalFile": "ESP32-WROOM-32 Module.jpg",
+    "webPath": "/images/products/iot-boards-and-gateways/esp32-wroom-32-module.jpg",
+    "bytes": 21669
+  },
+  {
+    "productId": "prod-36-5",
+    "originalFile": "ESP8266 ESP-12F Module.png",
+    "webPath": "/images/products/iot-boards-and-gateways/esp8266-esp-12f-module.png",
+    "bytes": 2326985
+  },
+  {
+    "productId": "prod-36-14",
+    "originalFile": "Heltec WiFi LoRa 32 Board.jpg",
+    "webPath": "/images/products/iot-boards-and-gateways/heltec-wifi-lora-32-board.jpg",
+    "bytes": 16373
+  },
+  {
+    "productId": "prod-36-15",
+    "originalFile": "LILYGO TTGO LoRa32 Board.jpg",
+    "webPath": "/images/products/iot-boards-and-gateways/lilygo-ttgo-lora32-board.jpg",
+    "bytes": 19552
+  }
+]

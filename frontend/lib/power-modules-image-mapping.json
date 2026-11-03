@@ -1,0 +1,128 @@
+[
+  {
+    "productId": "prod-27-9",
+    "originalFile": "18650 Holder 1S.jpg",
+    "webPath": "/images/products/power-modules/18650-holder-1s.jpg",
+    "bytes": 85594
+  },
+  {
+    "productId": "prod-27-10",
+    "originalFile": "18650 Holder 2S.png",
+    "webPath": "/images/products/power-modules/18650-holder-2s.png",
+    "bytes": 1677798
+  },
+  {
+    "productId": "prod-27-11",
+    "originalFile": "18650 Holder 3S.webp",
+    "webPath": "/images/products/power-modules/18650-holder-3s.webp",
+    "bytes": 59792
+  },
+  {
+    "productId": "prod-27-12",
+    "originalFile": "18650 Holder 4S.png",
+    "webPath": "/images/products/power-modules/18650-holder-4s.png",
+    "bytes": 1638159
+  },
+  {
+    "productId": "prod-27-13",
+    "originalFile": "BMS Board 1S.png",
+    "webPath": "/images/products/power-modules/bms-board-1s.png",
+    "bytes": 1813290
+  },
+  {
+    "productId": "prod-27-14",
+    "originalFile": "BMS Board 2S.png",
+    "webPath": "/images/products/power-modules/bms-board-2s.png",
+    "bytes": 1811203
+  },
+  {
+    "productId": "prod-27-15",
+    "originalFile": "BMS Board 3S.png",
+    "webPath": "/images/products/power-modules/bms-board-3s.png",
+    "bytes": 1930472
+  },
+  {
+    "productId": "prod-27-16",
+    "originalFile": "BMS Board 4S.png",
+    "webPath": "/images/products/power-modules/bms-board-4s.png",
+    "bytes": 1938004
+  },
+  {
+    "productId": "prod-27-27",
+    "originalFile": "Charger for 7.4V 3000mAh 2S Li-ion Battery.png",
+    "webPath": "/images/products/power-modules/charger-for-74v-3000mah-2s-li-ion-battery.png",
+    "bytes": 1994373
+  },
+  {
+    "productId": "prod-27-32",
+    "originalFile": "DC Power Adapter 5V 2A.png",
+    "webPath": "/images/products/power-modules/dc-power-adapter-5v-2a.png",
+    "bytes": 1850736
+  },
+  {
+    "productId": "prod-27-17",
+    "originalFile": "IP5306 Power Bank Module.png",
+    "webPath": "/images/products/power-modules/ip5306-power-bank-module.png",
+    "bytes": 2054846
+  },
+  {
+    "productId": "prod-27-1",
+    "originalFile": "LM2596 Buck Module.png",
+    "webPath": "/images/products/power-modules/lm2596-buck-module.png",
+    "bytes": 1812562
+  },
+  {
+    "productId": "prod-27-6",
+    "originalFile": "LM317 Adjustable Module.png",
+    "webPath": "/images/products/power-modules/lm317-adjustable-module.png",
+    "bytes": 1773597
+  },
+  {
+    "productId": "prod-27-4",
+    "originalFile": "MT3608 Boost Module.png",
+    "webPath": "/images/products/power-modules/mt3608-boost-module.png",
+    "bytes": 1820809
+  },
+  {
+    "productId": "prod-27-18",
+    "originalFile": "SMPS 12V 2A.png",
+    "webPath": "/images/products/power-modules/smps-12v-2a.png",
+    "bytes": 1986613
+  },
+  {
+    "productId": "prod-27-19",
+    "originalFile": "SMPS 12V 5A.png",
+    "webPath": "/images/products/power-modules/smps-12v-5a.png",
+    "bytes": 1943134
+  },
+  {
+    "productId": "prod-27-20",
+    "originalFile": "SMPS 5V 3A.png",
+    "webPath": "/images/products/power-modules/smps-5v-3a.png",
+    "bytes": 1849197
+  },
+  {
+    "productId": "prod-27-7",
+    "originalFile": "TP4056 (Micro-USB).png",
+    "webPath": "/images/products/power-modules/tp4056-micro-usb.png",
+    "bytes": 1532823
+  },
+  {
+    "productId": "prod-27-8",
+    "originalFile": "TP4056 (USB-C).png",
+    "webPath": "/images/products/power-modules/tp4056-usb-c.png",
+    "bytes": 1576422
+  },
+  {
+    "productId": "prod-27-2",
+    "originalFile": "XL4015 Buck Module.png",
+    "webPath": "/images/products/power-modules/xl4015-buck-module.png",
+    "bytes": 1796168
+  },
+  {
+    "productId": "prod-27-5",
+    "originalFile": "XL6009 Boost Module.png",
+    "webPath": "/images/products/power-modules/xl6009-boost-module.png",
+    "bytes": 1909950
+  }
+]

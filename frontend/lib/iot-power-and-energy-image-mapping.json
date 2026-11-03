@@ -1,0 +1,32 @@
+[
+  {
+    "productId": "prod-40-5",
+    "originalFile": "12V to 5V USB Converter Module.png",
+    "webPath": "/images/products/iot-power-and-energy/12v-to-5v-usb-converter-module.png",
+    "bytes": 2075106
+  },
+  {
+    "productId": "prod-40-6",
+    "originalFile": "AA Battery Holder (4-Cell).png",
+    "webPath": "/images/products/iot-power-and-energy/aa-battery-holder-4-cell.png",
+    "bytes": 1931530
+  },
+  {
+    "productId": "prod-40-3",
+    "originalFile": "AMS1117-3.3 Power Module.png",
+    "webPath": "/images/products/iot-power-and-energy/ams1117-33-power-module.png",
+    "bytes": 1957083
+  },
+  {
+    "productId": "prod-40-4",
+    "originalFile": "Buck-Boost Converter Module (Adjustable).png",
+    "webPath": "/images/products/iot-power-and-energy/buck-boost-converter-module-adjustable.png",
+    "bytes": 2266966
+  },
+  {
+    "productId": "prod-40-1",
+    "originalFile": "Solar Charge Controller (MPPT, CN3791).png",
+    "webPath": "/images/products/iot-power-and-energy/solar-charge-controller-mppt-cn3791.png",
+    "bytes": 2139154
+  }
+]

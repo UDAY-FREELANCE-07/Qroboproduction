@@ -293,7 +293,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "power-modules",
     "description": "Official Power Modules component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 32,
+    "productCount": 21,
     "sortOrder": 27,
     "isFeatured": false,
     "status": "active"
@@ -304,7 +304,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "batteries",
     "description": "Official Batteries component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 18,
+    "productCount": 15,
     "sortOrder": 28,
     "isFeatured": false,
     "status": "active"
@@ -315,7 +315,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "inductors-crystals-transformers-fuses-and-heatsinks",
     "description": "Official Inductors, Crystals, Transformers, Fuses and Heatsinks component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 27,
+    "productCount": 11,
     "sortOrder": 29,
     "isFeatured": false,
     "status": "active"
@@ -326,7 +326,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "boards-connectors-and-wiring",
     "description": "Official Boards, Connectors and Wiring component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 51,
+    "productCount": 18,
     "sortOrder": 30,
     "isFeatured": false,
     "status": "active"
@@ -337,7 +337,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "tools-and-consumables",
     "description": "Official Tools and Consumables component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 44,
+    "productCount": 20,
     "sortOrder": 31,
     "isFeatured": false,
     "status": "active"
@@ -370,7 +370,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "mechanical-electric-and-measurement-tools",
     "description": "Official Mechanical, Electric and Measurement Tools component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 36,
+    "productCount": 7,
     "sortOrder": 34,
     "isFeatured": false,
     "status": "active"
@@ -381,7 +381,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "safety-equipment-and-hardware-accessories",
     "description": "Official Safety Equipment and Hardware Accessories component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 13,
+    "productCount": 3,
     "sortOrder": 35,
     "isFeatured": false,
     "status": "active"
@@ -392,7 +392,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "iot-boards-and-gateways",
     "description": "Official IoT Boards and Gateways component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 29,
+    "productCount": 4,
     "sortOrder": 36,
     "isFeatured": false,
     "status": "active"
@@ -403,7 +403,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "iot-connectivity-modules-and-antennas",
     "description": "Official IoT Connectivity Modules and Antennas component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 29,
+    "productCount": 9,
     "sortOrder": 37,
     "isFeatured": false,
     "status": "active"
@@ -414,7 +414,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "iot-sensors-and-interface-modules",
     "description": "Official IoT Sensors and Interface Modules component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 44,
+    "productCount": 11,
     "sortOrder": 38,
     "isFeatured": false,
     "status": "active"
@@ -425,7 +425,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "iot-actuators-and-control",
     "description": "Official IoT Actuators and Control component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 12,
+    "productCount": 5,
     "sortOrder": 39,
     "isFeatured": false,
     "status": "active"
@@ -436,7 +436,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "iot-power-and-energy",
     "description": "Official IoT Power and Energy component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 6,
+    "productCount": 5,
     "sortOrder": 40,
     "isFeatured": false,
     "status": "active"
@@ -447,7 +447,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "iot-enclosures-hats-and-accessories",
     "description": "Official IoT Enclosures, HATs and Accessories component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 15,
+    "productCount": 1,
     "sortOrder": 41,
     "isFeatured": false,
     "status": "active"
@@ -458,7 +458,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "specialty-and-interface-ics",
     "description": "Official Specialty and Interface ICs component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 12,
+    "productCount": 4,
     "sortOrder": 42,
     "isFeatured": false,
     "status": "active"
@@ -469,7 +469,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "robot-chassis-and-platform-kits",
     "description": "Official Robot Chassis and Platform Kits component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 15,
+    "productCount": 7,
     "sortOrder": 43,
     "isFeatured": false,
     "status": "active"
@@ -491,7 +491,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "connectors-headers-and-sockets",
     "description": "Official Connectors, Headers and Sockets component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 25,
+    "productCount": 5,
     "sortOrder": 45,
     "isFeatured": false,
     "status": "active"
@@ -502,7 +502,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "batteries-cells-and-holders",
     "description": "Official Batteries, Cells and Holders component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 13,
+    "productCount": 12,
     "sortOrder": 46,
     "isFeatured": false,
     "status": "active"
@@ -513,7 +513,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "test-and-measurement-equipment",
     "description": "Official Test and Measurement Equipment component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 14,
+    "productCount": 4,
     "sortOrder": 47,
     "isFeatured": false,
     "status": "active"
@@ -524,7 +524,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "audio-components",
     "description": "Official Audio Components component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 12,
+    "productCount": 7,
     "sortOrder": 48,
     "isFeatured": false,
     "status": "active"
@@ -546,7 +546,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "enclosures-and-project-boxes",
     "description": "Official Enclosures and Project Boxes component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 12,
+    "productCount": 5,
     "sortOrder": 50,
     "isFeatured": false,
     "status": "active"
@@ -557,7 +557,7 @@ export const pdfAdminCategories: AdminCategory[] = [
     "slug": "prototyping-and-wiring-supplies",
     "description": "Official Prototyping and Wiring Supplies component collection from Hi Technology component catalog.",
     "iconName": "Cpu",
-    "productCount": 14,
+    "productCount": 5,
     "sortOrder": 51,
     "isFeatured": false,
     "status": "active"
@@ -14365,13 +14365,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/lm2596-buck-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/lm2596-buck-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14405,13 +14405,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/xl4015-buck-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/xl4015-buck-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14420,46 +14420,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "specifications": {
       "Category": "Power Modules",
       "Model": "XL4015 Buck Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-27-3",
-    "name": "MP1584 Buck Module",
-    "slug": "mp1584-buck-module",
-    "sku": "HIT-27-003",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "MP1584 Buck Module - Power Modules",
-    "description": "High-grade MP1584 Buck Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 95,
-    "originalPrice": 119,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "MP1584 Buck Module",
       "RoHS Compliant": "Yes"
     },
     "tags": [
@@ -14485,13 +14445,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/mt3608-boost-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/mt3608-boost-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14525,13 +14485,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/xl6009-boost-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/xl6009-boost-module.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -14565,13 +14525,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/lm317-adjustable-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/lm317-adjustable-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14606,13 +14566,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/tp4056-micro-usb.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/tp4056-micro-usb.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14646,13 +14606,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/tp4056-usb-c.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/tp4056-usb-c.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14686,13 +14646,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/18650-holder-1s.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/18650-holder-1s.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14726,13 +14686,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/18650-holder-2s.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/18650-holder-2s.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -14766,13 +14726,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/18650-holder-3s.webp",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/18650-holder-3s.webp"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14806,13 +14766,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/18650-holder-4s.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/18650-holder-4s.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14846,13 +14806,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/bms-board-1s.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/bms-board-1s.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14886,13 +14846,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/bms-board-2s.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/bms-board-2s.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -14926,13 +14886,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/bms-board-3s.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/bms-board-3s.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -14966,13 +14926,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/bms-board-4s.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/bms-board-4s.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15006,13 +14966,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/ip5306-power-bank-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/ip5306-power-bank-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15046,13 +15006,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 563,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/smps-12v-2a.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-12v-2a.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15088,13 +15048,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 563,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/smps-12v-5a.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-12v-5a.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15130,13 +15090,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 563,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/smps-5v-3a.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-5v-3a.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -15159,250 +15119,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-27-21",
-    "name": "SMPS 24V 10A",
-    "slug": "smps-24v-10a",
-    "sku": "HIT-27-021",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "SMPS 24V 10A - Power Modules",
-    "description": "High-grade SMPS 24V 10A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 1450,
-    "originalPrice": 1813,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "SMPS 24V 10A",
-      "Voltage": "24V",
-      "Current Rating": "10A",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-27-22",
-    "name": "HLK-PM01",
-    "slug": "hlk-pm01",
-    "sku": "HIT-27-022",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "HLK-PM01 - Power Modules",
-    "description": "High-grade HLK-PM01 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 95,
-    "originalPrice": 119,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "HLK-PM01",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-27-23",
-    "name": "HLK-5M05",
-    "slug": "hlk-5m05",
-    "sku": "HIT-27-023",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "HLK-5M05 - Power Modules",
-    "description": "High-grade HLK-5M05 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 95,
-    "originalPrice": 119,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "HLK-5M05",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-27-24",
-    "name": "Solar Panel 6V",
-    "slug": "solar-panel-6v",
-    "sku": "HIT-27-024",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "Solar Panel 6V - Power Modules",
-    "description": "High-grade Solar Panel 6V selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 350,
-    "originalPrice": 438,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "Solar Panel 6V",
-      "Voltage": "6V",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-27-25",
-    "name": "Solar Panel 12V",
-    "slug": "solar-panel-12v",
-    "sku": "HIT-27-025",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "Solar Panel 12V - Power Modules",
-    "description": "High-grade Solar Panel 12V selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 350,
-    "originalPrice": 438,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "Solar Panel 12V",
-      "Voltage": "12V",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-27-26",
-    "name": "USB-C PD Trigger",
-    "slug": "usb-c-pd-trigger",
-    "sku": "HIT-27-026",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "USB-C PD Trigger - Power Modules",
-    "description": "High-grade USB-C PD Trigger selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 95,
-    "originalPrice": 119,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "USB-C PD Trigger",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-27-27",
     "name": "Charger for 7.4V 3000mAh 2S Li-ion Battery",
     "slug": "charger-for-74v-3000mah-2s-li-ion-battery",
@@ -15416,13 +15132,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/charger-for-74v-3000mah-2s-li-ion-battery.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/charger-for-74v-3000mah-2s-li-ion-battery.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15445,172 +15161,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-27-28",
-    "name": "6V 20A High-Current BEC/UBEC",
-    "slug": "6v-20a-high-current-becubec",
-    "sku": "HIT-27-028",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "6V 20A High-Current BEC/UBEC - Power Modules",
-    "description": "High-grade 6V 20A High-Current BEC/UBEC selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 95,
-    "originalPrice": 119,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "6V 20A High-Current BEC/UBEC",
-      "Voltage": "6V",
-      "Current Rating": "20A",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-27-29",
-    "name": "Power Bank 5V 5000 mAh",
-    "slug": "power-bank-5v-5000-mah",
-    "sku": "HIT-27-029",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "Power Bank 5V 5000 mAh - Power Modules",
-    "description": "High-grade Power Bank 5V 5000 mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 95,
-    "originalPrice": 119,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "Power Bank 5V 5000 mAh",
-      "Voltage": "5V",
-      "Current Rating": "5000 mA",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-27-30",
-    "name": "Power Distribution Board and Wiring",
-    "slug": "power-distribution-board-and-wiring",
-    "sku": "HIT-27-030",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "Power Distribution Board and Wiring - Power Modules",
-    "description": "High-grade Power Distribution Board and Wiring selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 95,
-    "originalPrice": 119,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "Power Distribution Board and Wiring",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-27-31",
-    "name": "Power Bank 10000 mAh 5V",
-    "slug": "power-bank-10000-mah-5v",
-    "sku": "HIT-27-031",
-    "brand": "Hi Technology",
-    "category": "Power Modules",
-    "subcategory": "Power Modules",
-    "shortDescription": "Power Bank 10000 mAh 5V - Power Modules",
-    "description": "High-grade Power Bank 10000 mAh 5V selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 95,
-    "originalPrice": 119,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "Power Bank 10000 mAh 5V",
-      "Voltage": "5V",
-      "Current Rating": "10000 mA",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-27-32",
     "name": "DC Power Adapter 5V 2A",
     "slug": "dc-power-adapter-5v-2a",
@@ -15624,13 +15174,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 119,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/power-modules/dc-power-adapter-5v-2a.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/dc-power-adapter-5v-2a.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15666,13 +15216,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 275,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/18650-cell-2200mah.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/18650-cell-2200mah.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15707,13 +15257,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 275,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/18650-cell-2600mah.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/18650-cell-2600mah.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15748,13 +15298,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 275,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/18650-cell-3000mah.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/18650-cell-3000mah.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15764,48 +15314,6 @@ export const pdfAdminProducts: AdminProduct[] = [
       "Category": "Batteries",
       "Model": "18650 Cell 3000mAh",
       "Current Rating": "3000mA",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "batteries",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-28-4",
-    "name": "LiPo 3.7V 500mAh",
-    "slug": "lipo-37v-500mah",
-    "sku": "HIT-28-004",
-    "brand": "Hi Technology",
-    "category": "Batteries",
-    "subcategory": "Batteries",
-    "shortDescription": "LiPo 3.7V 500mAh - Batteries",
-    "description": "High-grade LiPo 3.7V 500mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 450,
-    "originalPrice": 563,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Batteries",
-      "Model": "LiPo 3.7V 500mAh",
-      "Voltage": "3.7V",
-      "Current Rating": "500mA",
       "RoHS Compliant": "Yes"
     },
     "tags": [
@@ -15831,13 +15339,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 563,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/lipo-37v-1000mah.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/lipo-37v-1000mah.jpg"
     ],
     "status": "published",
     "isFeatured": true,
@@ -15873,13 +15381,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 563,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/lipo-37v-2000mah.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/lipo-37v-2000mah.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15915,13 +15423,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 563,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/lipo-37v-5000mah.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/lipo-37v-5000mah.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -15932,48 +15440,6 @@ export const pdfAdminProducts: AdminProduct[] = [
       "Model": "LiPo 3.7V 5000mAh",
       "Voltage": "3.7V",
       "Current Rating": "5000mA",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "batteries",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-28-8",
-    "name": "LiPo 3S 11.1V 2200mAh",
-    "slug": "lipo-3s-111v-2200mah",
-    "sku": "HIT-28-008",
-    "brand": "Hi Technology",
-    "category": "Batteries",
-    "subcategory": "Batteries",
-    "shortDescription": "LiPo 3S 11.1V 2200mAh - Batteries",
-    "description": "High-grade LiPo 3S 11.1V 2200mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 1200,
-    "originalPrice": 1500,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Batteries",
-      "Model": "LiPo 3S 11.1V 2200mAh",
-      "Voltage": "11.1V",
-      "Current Rating": "2200mA",
       "RoHS Compliant": "Yes"
     },
     "tags": [
@@ -15999,13 +15465,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/9v-battery.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/9v-battery.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16040,13 +15506,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/aa-battery.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/aa-battery.jpg"
     ],
     "status": "published",
     "isFeatured": true,
@@ -16080,13 +15546,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/aaa-battery.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/aaa-battery.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16120,13 +15586,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/cr2032-coin-cell.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/cr2032-coin-cell.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16160,13 +15626,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 1813,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/12v-7ah-sla-battery.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/12v-7ah-sla-battery.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16189,46 +15655,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-28-14",
-    "name": "LiFePO4 Cell",
-    "slug": "lifepo4-cell",
-    "sku": "HIT-28-014",
-    "brand": "Hi Technology",
-    "category": "Batteries",
-    "subcategory": "Batteries",
-    "shortDescription": "LiFePO4 Cell - Batteries",
-    "description": "High-grade LiFePO4 Cell selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 45,
-    "originalPrice": 56,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Batteries",
-      "Model": "LiFePO4 Cell",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "batteries",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-28-15",
     "name": "9V Battery Clip",
     "slug": "9v-battery-clip",
@@ -16242,13 +15668,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/9v-battery-clip.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/9v-battery-clip.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -16283,13 +15709,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/74v-3000mah-2s-li-ion-battery-with-bms.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/74v-3000mah-2s-li-ion-battery-with-bms.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16325,13 +15751,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 563,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/lipo-74v-2200mah.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/lipo-74v-2200mah.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16367,13 +15793,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries/12v-12ah-sla-battery.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/12v-12ah-sla-battery.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16396,46 +15822,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-29-1",
-    "name": "Inductor 10uH",
-    "slug": "inductor-10uh",
-    "sku": "HIT-29-001",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Inductor 10uH - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Inductor 10uH selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Inductor 10uH",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-29-2",
     "name": "Inductor 100uH",
     "slug": "inductor-100uh",
@@ -16449,13 +15835,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/inductor-100uh.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/inductor-100uh.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16476,166 +15862,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-29-3",
-    "name": "Inductor 1mH",
-    "slug": "inductor-1mh",
-    "sku": "HIT-29-003",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Inductor 1mH - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Inductor 1mH selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Inductor 1mH",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-29-4",
-    "name": "Toroid Inductor 47uH",
-    "slug": "toroid-inductor-47uh",
-    "sku": "HIT-29-004",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Toroid Inductor 47uH - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Toroid Inductor 47uH selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Toroid Inductor 47uH",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-29-5",
-    "name": "Ferrite Bead",
-    "slug": "ferrite-bead",
-    "sku": "HIT-29-005",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Ferrite Bead - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Ferrite Bead selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Ferrite Bead",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-29-6",
-    "name": "Crystal 8MHz",
-    "slug": "crystal-8mhz",
-    "sku": "HIT-29-006",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Crystal 8MHz - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Crystal 8MHz selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Crystal 8MHz",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-29-7",
     "name": "Crystal 12MHz",
     "slug": "crystal-12mhz",
@@ -16649,13 +15875,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-12mhz.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-12mhz.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16689,13 +15915,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-16mhz.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-16mhz.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16716,46 +15942,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-29-9",
-    "name": "Crystal 20MHz",
-    "slug": "crystal-20mhz",
-    "sku": "HIT-29-009",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Crystal 20MHz - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Crystal 20MHz selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Crystal 20MHz",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-29-10",
     "name": "Crystal 32.768kHz",
     "slug": "crystal-32768khz",
@@ -16769,13 +15955,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-32768khz.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-32768khz.jpg"
     ],
     "status": "published",
     "isFeatured": true,
@@ -16796,46 +15982,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-29-11",
-    "name": "Ceramic Resonator",
-    "slug": "ceramic-resonator",
-    "sku": "HIT-29-011",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Ceramic Resonator - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Ceramic Resonator selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Ceramic Resonator",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-29-12",
     "name": "Transformer 12V 0.5A",
     "slug": "transformer-12v-05a",
@@ -16849,13 +15995,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 350,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12v-05a.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12v-05a.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16891,13 +16037,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 350,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12-0-12-1a.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12-0-12-1a.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16932,13 +16078,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 350,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-9v.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-9v.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -16954,48 +16100,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-29-15",
-    "name": "Transformer 6V",
-    "slug": "transformer-6v",
-    "sku": "HIT-29-015",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Transformer 6V - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Transformer 6V selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 280,
-    "originalPrice": 350,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Transformer 6V",
-      "Voltage": "6V",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -17014,13 +16119,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/glass-fuse-1a.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/glass-fuse-1a.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -17055,13 +16160,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/glass-fuse-2a.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/glass-fuse-2a.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -17083,129 +16188,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-29-18",
-    "name": "Glass Fuse 5A",
-    "slug": "glass-fuse-5a",
-    "sku": "HIT-29-018",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Glass Fuse 5A - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Glass Fuse 5A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Glass Fuse 5A",
-      "Current Rating": "5A",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-29-19",
-    "name": "Glass Fuse 10A",
-    "slug": "glass-fuse-10a",
-    "sku": "HIT-29-019",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Glass Fuse 10A - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Glass Fuse 10A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Glass Fuse 10A",
-      "Current Rating": "10A",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-29-20",
-    "name": "PTC Fuse 0.5A",
-    "slug": "ptc-fuse-05a",
-    "sku": "HIT-29-020",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "PTC Fuse 0.5A - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade PTC Fuse 0.5A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "PTC Fuse 0.5A",
-      "Current Rating": "0.5A",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-29-21",
     "name": "Fuse Holder",
     "slug": "fuse-holder",
@@ -17219,13 +16201,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/fuse-holder.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/fuse-holder.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -17259,13 +16241,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 31,
     "discountPercentage": 19,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/to-220-heatsink.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/to-220-heatsink.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -17286,206 +16268,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-29-23",
-    "name": "TO-247 Heatsink",
-    "slug": "to-247-heatsink",
-    "sku": "HIT-29-023",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "TO-247 Heatsink - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade TO-247 Heatsink selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "TO-247 Heatsink",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-29-24",
-    "name": "Peltier TEC1-12706",
-    "slug": "peltier-tec1-12706",
-    "sku": "HIT-29-024",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Peltier TEC1-12706 - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Peltier TEC1-12706 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 240,
-    "originalPrice": 300,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Peltier TEC1-12706",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-29-25",
-    "name": "Fuse with Power Switch",
-    "slug": "fuse-with-power-switch",
-    "sku": "HIT-29-025",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Fuse with Power Switch - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Fuse with Power Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Fuse with Power Switch",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-29-26",
-    "name": "Heat Sink for GBJ2008",
-    "slug": "heat-sink-for-gbj2008",
-    "sku": "HIT-29-026",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Heat Sink for GBJ2008 - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Heat Sink for GBJ2008 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Heat Sink for GBJ2008",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-29-27",
-    "name": "Ferrite Toroidal Core 25mm",
-    "slug": "ferrite-toroidal-core-25mm",
-    "sku": "HIT-29-027",
-    "brand": "Hi Technology",
-    "category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "subcategory": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "shortDescription": "Ferrite Toroidal Core 25mm - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Ferrite Toroidal Core 25mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 25,
-    "originalPrice": 31,
-    "discountPercentage": 19,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Ferrite Toroidal Core 25mm",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-30-1",
     "name": "Breadboard 830",
     "slug": "breadboard-830",
@@ -17499,13 +16281,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 200,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/breadboard-830.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/breadboard-830.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -17539,13 +16321,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 113,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/breadboard-400.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/breadboard-400.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -17566,86 +16348,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-30-3",
-    "name": "Breadboard Mini",
-    "slug": "breadboard-mini",
-    "sku": "HIT-30-003",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Breadboard Mini - Boards, Connectors and Wiring",
-    "description": "High-grade Breadboard Mini selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 90,
-    "originalPrice": 113,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Breadboard Mini",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-4",
-    "name": "Breadboard Power Module",
-    "slug": "breadboard-power-module",
-    "sku": "HIT-30-004",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Breadboard Power Module - Boards, Connectors and Wiring",
-    "description": "High-grade Breadboard Power Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 90,
-    "originalPrice": 113,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Breadboard Power Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-30-5",
     "name": "Perfboard 5x7",
     "slug": "perfboard-5x7",
@@ -17659,13 +16361,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/perfboard-5x7.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/perfboard-5x7.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -17699,13 +16401,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/perfboard-9x15.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/perfboard-9x15.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -17726,86 +16428,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-30-7",
-    "name": "Stripboard",
-    "slug": "stripboard",
-    "sku": "HIT-30-007",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Stripboard - Boards, Connectors and Wiring",
-    "description": "High-grade Stripboard selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Stripboard",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-8",
-    "name": "Copper Clad Board",
-    "slug": "copper-clad-board",
-    "sku": "HIT-30-008",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Copper Clad Board - Boards, Connectors and Wiring",
-    "description": "High-grade Copper Clad Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Copper Clad Board",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-30-9",
     "name": "Jumper Wires Male-Male",
     "slug": "jumper-wires-male-male",
@@ -17819,13 +16441,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 106,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/jumper-wires-male-male.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/jumper-wires-male-male.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -17859,13 +16481,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 106,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/jumper-wires-male-female.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/jumper-wires-male-female.jpg"
     ],
     "status": "published",
     "isFeatured": true,
@@ -17899,13 +16521,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 106,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/jumper-wires-female-female.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/jumper-wires-female-female.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -17939,13 +16561,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/male-header-pins.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/male-header-pins.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -17979,13 +16601,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/female-header-pins.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/female-header-pins.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -18006,246 +16628,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-30-14",
-    "name": "Right-angle Header Pins",
-    "slug": "right-angle-header-pins",
-    "sku": "HIT-30-014",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Right-angle Header Pins - Boards, Connectors and Wiring",
-    "description": "High-grade Right-angle Header Pins selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Right-angle Header Pins",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-15",
-    "name": "JST-XH Connector",
-    "slug": "jst-xh-connector",
-    "sku": "HIT-30-015",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "JST-XH Connector - Boards, Connectors and Wiring",
-    "description": "High-grade JST-XH Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "JST-XH Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-16",
-    "name": "JST-PH Connector",
-    "slug": "jst-ph-connector",
-    "sku": "HIT-30-016",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "JST-PH Connector - Boards, Connectors and Wiring",
-    "description": "High-grade JST-PH Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "JST-PH Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-17",
-    "name": "XT60 Connector",
-    "slug": "xt60-connector",
-    "sku": "HIT-30-017",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "XT60 Connector - Boards, Connectors and Wiring",
-    "description": "High-grade XT60 Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "XT60 Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-18",
-    "name": "XT90 Connector",
-    "slug": "xt90-connector",
-    "sku": "HIT-30-018",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "XT90 Connector - Boards, Connectors and Wiring",
-    "description": "High-grade XT90 Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "XT90 Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-19",
-    "name": "Dupont Housing",
-    "slug": "dupont-housing",
-    "sku": "HIT-30-019",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Dupont Housing - Boards, Connectors and Wiring",
-    "description": "High-grade Dupont Housing selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Dupont Housing",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-30-20",
     "name": "Screw Terminal 2P",
     "slug": "screw-terminal-2p",
@@ -18259,13 +16641,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/screw-terminal-2p.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/screw-terminal-2p.jpg"
     ],
     "status": "published",
     "isFeatured": true,
@@ -18299,13 +16681,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/screw-terminal-3p.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/screw-terminal-3p.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -18326,46 +16708,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-30-22",
-    "name": "Pluggable Screw Terminal",
-    "slug": "pluggable-screw-terminal",
-    "sku": "HIT-30-022",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Pluggable Screw Terminal - Boards, Connectors and Wiring",
-    "description": "High-grade Pluggable Screw Terminal selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Pluggable Screw Terminal",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-30-23",
     "name": "DC Barrel Jack",
     "slug": "dc-barrel-jack",
@@ -18379,13 +16721,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/dc-barrel-jack.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/dc-barrel-jack.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -18406,286 +16748,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-30-24",
-    "name": "USB-C Breakout",
-    "slug": "usb-c-breakout",
-    "sku": "HIT-30-024",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "USB-C Breakout - Boards, Connectors and Wiring",
-    "description": "High-grade USB-C Breakout selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "USB-C Breakout",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-25",
-    "name": "Micro-USB Breakout",
-    "slug": "micro-usb-breakout",
-    "sku": "HIT-30-025",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Micro-USB Breakout - Boards, Connectors and Wiring",
-    "description": "High-grade Micro-USB Breakout selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Micro-USB Breakout",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-26",
-    "name": "3.5mm Audio Jack",
-    "slug": "35mm-audio-jack",
-    "sku": "HIT-30-026",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "3.5mm Audio Jack - Boards, Connectors and Wiring",
-    "description": "High-grade 3.5mm Audio Jack selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "3.5mm Audio Jack",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-27",
-    "name": "Banana Socket",
-    "slug": "banana-socket",
-    "sku": "HIT-30-027",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Banana Socket - Boards, Connectors and Wiring",
-    "description": "High-grade Banana Socket selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Banana Socket",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-28",
-    "name": "Crocodile Clip",
-    "slug": "crocodile-clip",
-    "sku": "HIT-30-028",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Crocodile Clip - Boards, Connectors and Wiring",
-    "description": "High-grade Crocodile Clip selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Crocodile Clip",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-29",
-    "name": "DB9 Connector",
-    "slug": "db9-connector",
-    "sku": "HIT-30-029",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "DB9 Connector - Boards, Connectors and Wiring",
-    "description": "High-grade DB9 Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "DB9 Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-30",
-    "name": "RJ45 Connector",
-    "slug": "rj45-connector",
-    "sku": "HIT-30-030",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "RJ45 Connector - Boards, Connectors and Wiring",
-    "description": "High-grade RJ45 Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "RJ45 Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-30-31",
     "name": "IC Socket 8-pin",
     "slug": "ic-socket-8-pin",
@@ -18699,13 +16761,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/ic-socket-8-pin.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/ic-socket-8-pin.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -18739,13 +16801,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/ic-socket-14-pin.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/ic-socket-14-pin.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -18779,13 +16841,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/ic-socket-16-pin.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/ic-socket-16-pin.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -18819,13 +16881,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/ic-socket-28-pin.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/ic-socket-28-pin.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -18859,13 +16921,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/ic-socket-40-pin.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/ic-socket-40-pin.jpg"
     ],
     "status": "published",
     "isFeatured": true,
@@ -18886,246 +16948,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-30-36",
-    "name": "ZIF Socket",
-    "slug": "zif-socket",
-    "sku": "HIT-30-036",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "ZIF Socket - Boards, Connectors and Wiring",
-    "description": "High-grade ZIF Socket selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "ZIF Socket",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-37",
-    "name": "M3 x 40 mm Brass Hex Standoff Spacer (Female-Female)",
-    "slug": "m3-x-40-mm-brass-hex-standoff-spacer-female-female",
-    "sku": "HIT-30-037",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "M3 x 40 mm Brass Hex Standoff Spacer (Female-Female) - Boards, Connectors and Wiring",
-    "description": "High-grade M3 x 40 mm Brass Hex Standoff Spacer (Female-Female) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "M3 x 40 mm Brass Hex Standoff Spacer (Female-Female)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-38",
-    "name": "PCB Board",
-    "slug": "pcb-board",
-    "sku": "HIT-30-038",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "PCB Board - Boards, Connectors and Wiring",
-    "description": "High-grade PCB Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "PCB Board",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-39",
-    "name": "ESP32 USB Cable",
-    "slug": "esp32-usb-cable",
-    "sku": "HIT-30-039",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "ESP32 USB Cable - Boards, Connectors and Wiring",
-    "description": "High-grade ESP32 USB Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "ESP32 USB Cable",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-40",
-    "name": "PCB Spacer 10mm (Nylon)",
-    "slug": "pcb-spacer-10mm-nylon",
-    "sku": "HIT-30-040",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "PCB Spacer 10mm (Nylon) - Boards, Connectors and Wiring",
-    "description": "High-grade PCB Spacer 10mm (Nylon) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "PCB Spacer 10mm (Nylon)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-41",
-    "name": "3-Core Copper Wire 1.5mm",
-    "slug": "3-core-copper-wire-15mm",
-    "sku": "HIT-30-041",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "3-Core Copper Wire 1.5mm - Boards, Connectors and Wiring",
-    "description": "High-grade 3-Core Copper Wire 1.5mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "3-Core Copper Wire 1.5mm",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-30-42",
     "name": "Arduino Uno USB Cable",
     "slug": "arduino-uno-usb-cable",
@@ -19139,13 +16961,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/boards-connectors-and-wiring/arduino-uno-usb-cable.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/arduino-uno-usb-cable.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -19166,366 +16988,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-30-43",
-    "name": "Raspberry Pi Micro HDMI to HDMI Cable",
-    "slug": "raspberry-pi-micro-hdmi-to-hdmi-cable",
-    "sku": "HIT-30-043",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Raspberry Pi Micro HDMI to HDMI Cable - Boards, Connectors and Wiring",
-    "description": "High-grade Raspberry Pi Micro HDMI to HDMI Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Raspberry Pi Micro HDMI to HDMI Cable",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-44",
-    "name": "Single-Sided Protoboard 50x80mm",
-    "slug": "single-sided-protoboard-50x80mm",
-    "sku": "HIT-30-044",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Single-Sided Protoboard 50x80mm - Boards, Connectors and Wiring",
-    "description": "High-grade Single-Sided Protoboard 50x80mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Single-Sided Protoboard 50x80mm",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-45",
-    "name": "USB 3.0 Cable (1 m)",
-    "slug": "usb-30-cable-1-m",
-    "sku": "HIT-30-045",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "USB 3.0 Cable (1 m) - Boards, Connectors and Wiring",
-    "description": "High-grade USB 3.0 Cable (1 m) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "USB 3.0 Cable (1 m)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-46",
-    "name": "HDMI to VGA Cable (1 m)",
-    "slug": "hdmi-to-vga-cable-1-m",
-    "sku": "HIT-30-046",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "HDMI to VGA Cable (1 m) - Boards, Connectors and Wiring",
-    "description": "High-grade HDMI to VGA Cable (1 m) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "HDMI to VGA Cable (1 m)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-47",
-    "name": "HDMI to VGA Adapter",
-    "slug": "hdmi-to-vga-adapter",
-    "sku": "HIT-30-047",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "HDMI to VGA Adapter - Boards, Connectors and Wiring",
-    "description": "High-grade HDMI to VGA Adapter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "HDMI to VGA Adapter",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-48",
-    "name": "General Purpose PCB FR2 140x90mm",
-    "slug": "general-purpose-pcb-fr2-140x90mm",
-    "sku": "HIT-30-048",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "General Purpose PCB FR2 140x90mm - Boards, Connectors and Wiring",
-    "description": "High-grade General Purpose PCB FR2 140x90mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "General Purpose PCB FR2 140x90mm",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-49",
-    "name": "General Purpose PCB FR2 80x55mm",
-    "slug": "general-purpose-pcb-fr2-80x55mm",
-    "sku": "HIT-30-049",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "General Purpose PCB FR2 80x55mm - Boards, Connectors and Wiring",
-    "description": "High-grade General Purpose PCB FR2 80x55mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "General Purpose PCB FR2 80x55mm",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-50",
-    "name": "USB Cable Set (A to B, 12 in)",
-    "slug": "usb-cable-set-a-to-b-12-in",
-    "sku": "HIT-30-050",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "USB Cable Set (A to B, 12 in) - Boards, Connectors and Wiring",
-    "description": "High-grade USB Cable Set (A to B, 12 in) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "USB Cable Set (A to B, 12 in)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-30-51",
-    "name": "USB Cable Set (Mini, 12 in)",
-    "slug": "usb-cable-set-mini-12-in",
-    "sku": "HIT-30-051",
-    "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "USB Cable Set (Mini, 12 in) - Boards, Connectors and Wiring",
-    "description": "High-grade USB Cable Set (Mini, 12 in) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "USB Cable Set (Mini, 12 in)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-31-1",
     "name": "Hookup Wire Spool Red",
     "slug": "hookup-wire-spool-red",
@@ -19539,13 +17001,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/hookup-wire-spool-red.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/hookup-wire-spool-red.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -19579,13 +17041,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/hookup-wire-spool-black.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/hookup-wire-spool-black.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -19606,126 +17068,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-31-3",
-    "name": "Hookup Wire Spool Blue",
-    "slug": "hookup-wire-spool-blue",
-    "sku": "HIT-31-003",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Hookup Wire Spool Blue - Tools and Consumables",
-    "description": "High-grade Hookup Wire Spool Blue selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Hookup Wire Spool Blue",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-4",
-    "name": "Silicone Wire Assortment",
-    "slug": "silicone-wire-assortment",
-    "sku": "HIT-31-004",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Silicone Wire Assortment - Tools and Consumables",
-    "description": "High-grade Silicone Wire Assortment selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Silicone Wire Assortment",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-5",
-    "name": "Enamelled Copper Wire",
-    "slug": "enamelled-copper-wire",
-    "sku": "HIT-31-005",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Enamelled Copper Wire - Tools and Consumables",
-    "description": "High-grade Enamelled Copper Wire selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Enamelled Copper Wire",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-31-6",
     "name": "Heat Shrink Assortment",
     "slug": "heat-shrink-assortment",
@@ -19739,13 +17081,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/heat-shrink-assortment.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/heat-shrink-assortment.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -19766,46 +17108,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-31-7",
-    "name": "Cable Ties",
-    "slug": "cable-ties",
-    "sku": "HIT-31-007",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Cable Ties - Tools and Consumables",
-    "description": "High-grade Cable Ties selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Cable Ties",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-31-8",
     "name": "IPA (Isopropyl Alcohol)",
     "slug": "ipa-isopropyl-alcohol",
@@ -19819,13 +17121,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/ipa-isopropyl-alcohol.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/ipa-isopropyl-alcohol.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -19846,46 +17148,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-31-9",
-    "name": "FeCl3 (Ferric Chloride)",
-    "slug": "fecl3-ferric-chloride",
-    "sku": "HIT-31-009",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "FeCl3 (Ferric Chloride) - Tools and Consumables",
-    "description": "High-grade FeCl3 (Ferric Chloride) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "FeCl3 (Ferric Chloride)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-31-10",
     "name": "Solder Wire 60/40",
     "slug": "solder-wire-6040",
@@ -19899,13 +17161,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/solder-wire-6040.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/solder-wire-6040.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -19939,13 +17201,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/solder-wire-lead-free.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/solder-wire-lead-free.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -19979,13 +17241,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/flux-paste.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/flux-paste.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -20019,13 +17281,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/desoldering-wick.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/desoldering-wick.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -20059,13 +17321,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/desoldering-pump.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/desoldering-pump.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -20099,13 +17361,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 313,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/soldering-iron-25w.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/soldering-iron-25w.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -20140,13 +17402,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 313,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/soldering-iron-40w.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/soldering-iron-40w.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -20181,13 +17443,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 313,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/soldering-iron-adjustable-60w.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/soldering-iron-adjustable-60w.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -20222,13 +17484,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 3000,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/soldering-station-936.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/soldering-station-936.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -20249,46 +17511,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-31-19",
-    "name": "Hot Air Station",
-    "slug": "hot-air-station",
-    "sku": "HIT-31-019",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Hot Air Station - Tools and Consumables",
-    "description": "High-grade Hot Air Station selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 2400,
-    "originalPrice": 3000,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Hot Air Station",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-31-20",
     "name": "Multimeter DT830B",
     "slug": "multimeter-dt830b",
@@ -20302,13 +17524,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 563,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/multimeter-dt830b.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/multimeter-dt830b.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -20342,13 +17564,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 563,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/multimeter-dt9205a.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/multimeter-dt9205a.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -20370,286 +17592,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-31-22",
-    "name": "Clamp Meter",
-    "slug": "clamp-meter",
-    "sku": "HIT-31-022",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Clamp Meter - Tools and Consumables",
-    "description": "High-grade Clamp Meter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Clamp Meter",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-23",
-    "name": "DSO138 Oscilloscope",
-    "slug": "dso138-oscilloscope",
-    "sku": "HIT-31-023",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "DSO138 Oscilloscope - Tools and Consumables",
-    "description": "High-grade DSO138 Oscilloscope selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 4800,
-    "originalPrice": 6000,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "DSO138 Oscilloscope",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-24",
-    "name": "8-Channel Logic Analyzer",
-    "slug": "8-channel-logic-analyzer",
-    "sku": "HIT-31-024",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "8-Channel Logic Analyzer - Tools and Consumables",
-    "description": "High-grade 8-Channel Logic Analyzer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "8-Channel Logic Analyzer",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-25",
-    "name": "USBasp Programmer",
-    "slug": "usbasp-programmer",
-    "sku": "HIT-31-025",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "USBasp Programmer - Tools and Consumables",
-    "description": "High-grade USBasp Programmer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "USBasp Programmer",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-26",
-    "name": "ST-Link V2",
-    "slug": "st-link-v2",
-    "sku": "HIT-31-026",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "ST-Link V2 - Tools and Consumables",
-    "description": "High-grade ST-Link V2 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "ST-Link V2",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-27",
-    "name": "FTDI Programmer",
-    "slug": "ftdi-programmer",
-    "sku": "HIT-31-027",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "FTDI Programmer - Tools and Consumables",
-    "description": "High-grade FTDI Programmer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "FTDI Programmer",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-28",
-    "name": "PICkit3",
-    "slug": "pickit3",
-    "sku": "HIT-31-028",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "PICkit3 - Tools and Consumables",
-    "description": "High-grade PICkit3 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "PICkit3",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-31-29",
     "name": "Wire Stripper",
     "slug": "wire-stripper",
@@ -20663,13 +17605,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/wire-stripper.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/wire-stripper.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -20703,13 +17645,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/side-cutter.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/side-cutter.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -20743,13 +17685,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/tweezers.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/tweezers.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -20783,13 +17725,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/screwdriver-set.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/screwdriver-set.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -20810,86 +17752,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-31-33",
-    "name": "Helping Hands",
-    "slug": "helping-hands",
-    "sku": "HIT-31-033",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Helping Hands - Tools and Consumables",
-    "description": "High-grade Helping Hands selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Helping Hands",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-34",
-    "name": "Magnifier Lamp",
-    "slug": "magnifier-lamp",
-    "sku": "HIT-31-034",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Magnifier Lamp - Tools and Consumables",
-    "description": "High-grade Magnifier Lamp selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Magnifier Lamp",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-31-35",
     "name": "Glue Gun",
     "slug": "glue-gun",
@@ -20903,13 +17765,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/tools-and-consumables/glue-gun.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/glue-gun.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -20925,366 +17787,6 @@ export const pdfAdminProducts: AdminProduct[] = [
       "electronics",
       "components",
       "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-36",
-    "name": "Hot Glue Sticks",
-    "slug": "hot-glue-sticks",
-    "sku": "HIT-31-036",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Hot Glue Sticks - Tools and Consumables",
-    "description": "High-grade Hot Glue Sticks selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Hot Glue Sticks",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-37",
-    "name": "ESD Mat",
-    "slug": "esd-mat",
-    "sku": "HIT-31-037",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "ESD Mat - Tools and Consumables",
-    "description": "High-grade ESD Mat selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "ESD Mat",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-38",
-    "name": "Soldering Iron (Rod)",
-    "slug": "soldering-iron-rod",
-    "sku": "HIT-31-038",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Soldering Iron (Rod) - Tools and Consumables",
-    "description": "High-grade Soldering Iron (Rod) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 250,
-    "originalPrice": 313,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Soldering Iron (Rod)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-39",
-    "name": "Solder Wire",
-    "slug": "solder-wire",
-    "sku": "HIT-31-039",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Solder Wire - Tools and Consumables",
-    "description": "High-grade Solder Wire selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Solder Wire",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-40",
-    "name": "Multimeter (High Quality)",
-    "slug": "multimeter-high-quality",
-    "sku": "HIT-31-040",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Multimeter (High Quality) - Tools and Consumables",
-    "description": "High-grade Multimeter (High Quality) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 450,
-    "originalPrice": 563,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Multimeter (High Quality)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-41",
-    "name": "Cutter Blade",
-    "slug": "cutter-blade",
-    "sku": "HIT-31-041",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Cutter Blade - Tools and Consumables",
-    "description": "High-grade Cutter Blade selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Cutter Blade",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-42",
-    "name": "Soldering Iron Stand",
-    "slug": "soldering-iron-stand",
-    "sku": "HIT-31-042",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Soldering Iron Stand - Tools and Consumables",
-    "description": "High-grade Soldering Iron Stand selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 250,
-    "originalPrice": 313,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Soldering Iron Stand",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-43",
-    "name": "Thermal Paste",
-    "slug": "thermal-paste",
-    "sku": "HIT-31-043",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Thermal Paste - Tools and Consumables",
-    "description": "High-grade Thermal Paste selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Thermal Paste",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-31-44",
-    "name": "Soldering Iron Tips (Bevel, Chisel, Conical - 5 each)",
-    "slug": "soldering-iron-tips-bevel-chisel-conical---5-each",
-    "sku": "HIT-31-044",
-    "brand": "Hi Technology",
-    "category": "Tools and Consumables",
-    "subcategory": "Tools and Consumables",
-    "shortDescription": "Soldering Iron Tips (Bevel, Chisel, Conical - 5 each) - Tools and Consumables",
-    "description": "High-grade Soldering Iron Tips (Bevel, Chisel, Conical - 5 each) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 250,
-    "originalPrice": 313,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Soldering Iron Tips (Bevel, Chisel, Conical - 5 each)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -22624,13 +19126,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/mechanical-electric-and-measurement-tools/needle-nose-plier.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/needle-nose-plier.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -22664,13 +19166,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/mechanical-electric-and-measurement-tools/precision-screwdriver-set.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/precision-screwdriver-set.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -22691,326 +19193,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-34-3",
-    "name": "Drill Machine Set",
-    "slug": "drill-machine-set",
-    "sku": "HIT-34-003",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Drill Machine Set - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Drill Machine Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Drill Machine Set",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-4",
-    "name": "Hacksaw Frame 12 in",
-    "slug": "hacksaw-frame-12-in",
-    "sku": "HIT-34-004",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Hacksaw Frame 12 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Hacksaw Frame 12 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Hacksaw Frame 12 in",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-5",
-    "name": "Hacksaw Blade 12 in",
-    "slug": "hacksaw-blade-12-in",
-    "sku": "HIT-34-005",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Hacksaw Blade 12 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Hacksaw Blade 12 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Hacksaw Blade 12 in",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-6",
-    "name": "Mini Hacksaw Frame 6 in",
-    "slug": "mini-hacksaw-frame-6-in",
-    "sku": "HIT-34-006",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Mini Hacksaw Frame 6 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Mini Hacksaw Frame 6 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Mini Hacksaw Frame 6 in",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-7",
-    "name": "Mini Hacksaw Blade 6 in",
-    "slug": "mini-hacksaw-blade-6-in",
-    "sku": "HIT-34-007",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Mini Hacksaw Blade 6 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Mini Hacksaw Blade 6 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Mini Hacksaw Blade 6 in",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-8",
-    "name": "External Straight Circlip Plier",
-    "slug": "external-straight-circlip-plier",
-    "sku": "HIT-34-008",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "External Straight Circlip Plier - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade External Straight Circlip Plier selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "External Straight Circlip Plier",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-9",
-    "name": "Nose Circlip Plier",
-    "slug": "nose-circlip-plier",
-    "sku": "HIT-34-009",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Nose Circlip Plier - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Nose Circlip Plier selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Nose Circlip Plier",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-10",
-    "name": "Long Nose Plier",
-    "slug": "long-nose-plier",
-    "sku": "HIT-34-010",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Long Nose Plier - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Long Nose Plier selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Long Nose Plier",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-34-11",
     "name": "Combination Mini Plier",
     "slug": "combination-mini-plier",
@@ -23024,13 +19206,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/mechanical-electric-and-measurement-tools/combination-mini-plier.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/combination-mini-plier.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -23051,447 +19233,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-34-12",
-    "name": "Bent Nose Plier",
-    "slug": "bent-nose-plier",
-    "sku": "HIT-34-012",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Bent Nose Plier - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Bent Nose Plier selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Bent Nose Plier",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-13",
-    "name": "Ball Pein Hammer 0.75 kg",
-    "slug": "ball-pein-hammer-075-kg",
-    "sku": "HIT-34-013",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Ball Pein Hammer 0.75 kg - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Ball Pein Hammer 0.75 kg selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Ball Pein Hammer 0.75 kg",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-14",
-    "name": "Claw Hammer 0.75 kg (Steel Shaft)",
-    "slug": "claw-hammer-075-kg-steel-shaft",
-    "sku": "HIT-34-014",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Claw Hammer 0.75 kg (Steel Shaft) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Claw Hammer 0.75 kg (Steel Shaft) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Claw Hammer 0.75 kg (Steel Shaft)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-15",
-    "name": "C-Clamp 3 in",
-    "slug": "c-clamp-3-in",
-    "sku": "HIT-34-015",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "C-Clamp 3 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade C-Clamp 3 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "C-Clamp 3 in",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-16",
-    "name": "Allen Key Set (10 pc)",
-    "slug": "allen-key-set-10-pc",
-    "sku": "HIT-34-016",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Allen Key Set (10 pc) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Allen Key Set (10 pc) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Allen Key Set (10 pc)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-17",
-    "name": "Drilling Workstation (Drill Press, Holder, Rotary Tool)",
-    "slug": "drilling-workstation-drill-press-holder-rotary-tool",
-    "sku": "HIT-34-017",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Drilling Workstation (Drill Press, Holder, Rotary Tool) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Drilling Workstation (Drill Press, Holder, Rotary Tool) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Drilling Workstation (Drill Press, Holder, Rotary Tool)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-18",
-    "name": "Spanner Set (12 pc)",
-    "slug": "spanner-set-12-pc",
-    "sku": "HIT-34-018",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Spanner Set (12 pc) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Spanner Set (12 pc) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Spanner Set (12 pc)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-19",
-    "name": "Bench Vice",
-    "slug": "bench-vice",
-    "sku": "HIT-34-019",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Bench Vice - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Bench Vice selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Bench Vice",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-20",
-    "name": "Adjustable Wrench",
-    "slug": "adjustable-wrench",
-    "sku": "HIT-34-020",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Adjustable Wrench - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Adjustable Wrench selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Adjustable Wrench",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-21",
-    "name": "Cordless Rotary Multitool Set",
-    "slug": "cordless-rotary-multitool-set",
-    "sku": "HIT-34-021",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Cordless Rotary Multitool Set - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Cordless Rotary Multitool Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Cordless Rotary Multitool Set",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-22",
-    "name": "Air Blower 500W",
-    "slug": "air-blower-500w",
-    "sku": "HIT-34-022",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Air Blower 500W - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Air Blower 500W selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Air Blower 500W",
-      "Power Rating": "500W",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-34-23",
     "name": "Drill Bit Set (13 pc HSS)",
     "slug": "drill-bit-set-13-pc-hss",
@@ -23505,13 +19246,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/mechanical-electric-and-measurement-tools/drill-bit-set-13-pc-hss.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/drill-bit-set-13-pc-hss.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -23532,287 +19273,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-34-24",
-    "name": "File Set (6 pc, 6 in)",
-    "slug": "file-set-6-pc-6-in",
-    "sku": "HIT-34-024",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "File Set (6 pc, 6 in) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade File Set (6 pc, 6 in) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "File Set (6 pc, 6 in)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-25",
-    "name": "Mini File Set (6 pc, 3 in)",
-    "slug": "mini-file-set-6-pc-3-in",
-    "sku": "HIT-34-025",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Mini File Set (6 pc, 3 in) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Mini File Set (6 pc, 3 in) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Mini File Set (6 pc, 3 in)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-26",
-    "name": "Flexible Cutting Mat A3",
-    "slug": "flexible-cutting-mat-a3",
-    "sku": "HIT-34-026",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Flexible Cutting Mat A3 - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Flexible Cutting Mat A3 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Flexible Cutting Mat A3",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-27",
-    "name": "Plastic Storage Drawer Organiser (60 drawers)",
-    "slug": "plastic-storage-drawer-organiser-60-drawers",
-    "sku": "HIT-34-027",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Plastic Storage Drawer Organiser (60 drawers) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Plastic Storage Drawer Organiser (60 drawers) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Plastic Storage Drawer Organiser (60 drawers)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-28",
-    "name": "Pegboard 3 ft x 2 ft",
-    "slug": "pegboard-3-ft-x-2-ft",
-    "sku": "HIT-34-028",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Pegboard 3 ft x 2 ft - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Pegboard 3 ft x 2 ft selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Pegboard 3 ft x 2 ft",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-29",
-    "name": "Digital Oscilloscope (50 MHz, 2-ch, 1 GSa/s)",
-    "slug": "digital-oscilloscope-50-mhz-2-ch-1-gsas",
-    "sku": "HIT-34-029",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Digital Oscilloscope (50 MHz, 2-ch, 1 GSa/s) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Digital Oscilloscope (50 MHz, 2-ch, 1 GSa/s) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 4800,
-    "originalPrice": 6000,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Digital Oscilloscope (50 MHz, 2-ch, 1 GSa/s)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-30",
-    "name": "Electric Screwdriver Set (Cordless, 3.6V)",
-    "slug": "electric-screwdriver-set-cordless-36v",
-    "sku": "HIT-34-030",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Electric Screwdriver Set (Cordless, 3.6V) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Electric Screwdriver Set (Cordless, 3.6V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Electric Screwdriver Set (Cordless, 3.6V)",
-      "Voltage": "3.6V",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-34-31",
     "name": "Dual Temperature Heat Gun 1800W",
     "slug": "dual-temperature-heat-gun-1800w",
@@ -23826,13 +19286,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/mechanical-electric-and-measurement-tools/dual-temperature-heat-gun-1800w.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/dual-temperature-heat-gun-1800w.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -23848,87 +19308,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "mechanical-electric-and-measurement-tools",
       "electronics",
       "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-32",
-    "name": "Measuring Tape 5 m x 19 mm",
-    "slug": "measuring-tape-5-m-x-19-mm",
-    "sku": "HIT-34-032",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Measuring Tape 5 m x 19 mm - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Measuring Tape 5 m x 19 mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Measuring Tape 5 m x 19 mm",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-33",
-    "name": "Stainless Steel Rule 12 in",
-    "slug": "stainless-steel-rule-12-in",
-    "sku": "HIT-34-033",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Stainless Steel Rule 12 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Stainless Steel Rule 12 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Stainless Steel Rule 12 in",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -23947,13 +19327,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/mechanical-electric-and-measurement-tools/digital-vernier-calliper-150-mm.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/digital-vernier-calliper-150-mm.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -23962,46 +19342,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "specifications": {
       "Category": "Mechanical, Electric and Measurement Tools",
       "Model": "Digital Vernier Calliper 150 mm",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-34-35",
-    "name": "Spirit Level 12 in",
-    "slug": "spirit-level-12-in",
-    "sku": "HIT-34-035",
-    "brand": "Hi Technology",
-    "category": "Mechanical, Electric and Measurement Tools",
-    "subcategory": "Mechanical, Electric and Measurement Tools",
-    "shortDescription": "Spirit Level 12 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Spirit Level 12 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": true,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Spirit Level 12 in",
       "RoHS Compliant": "Yes"
     },
     "tags": [
@@ -24027,13 +19367,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/mechanical-electric-and-measurement-tools/digital-pen-voltage-tester.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/digital-pen-voltage-tester.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -24054,126 +19394,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-35-1",
-    "name": "Copper Pipe 5mm OD, 1.5mm Wall",
-    "slug": "copper-pipe-5mm-od-15mm-wall",
-    "sku": "HIT-35-001",
-    "brand": "Hi Technology",
-    "category": "Safety Equipment and Hardware Accessories",
-    "subcategory": "Safety Equipment and Hardware Accessories",
-    "shortDescription": "Copper Pipe 5mm OD, 1.5mm Wall - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Copper Pipe 5mm OD, 1.5mm Wall selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Copper Pipe 5mm OD, 1.5mm Wall",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-35-2",
-    "name": "Copper P-Clip",
-    "slug": "copper-p-clip",
-    "sku": "HIT-35-002",
-    "brand": "Hi Technology",
-    "category": "Safety Equipment and Hardware Accessories",
-    "subcategory": "Safety Equipment and Hardware Accessories",
-    "shortDescription": "Copper P-Clip - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Copper P-Clip selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Copper P-Clip",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-35-3",
-    "name": "Nuts and Bolts (M4x12, M4x20, M5x16, M5x25, M6x20)",
-    "slug": "nuts-and-bolts-m4x12-m4x20-m5x16-m5x25-m6x20",
-    "sku": "HIT-35-003",
-    "brand": "Hi Technology",
-    "category": "Safety Equipment and Hardware Accessories",
-    "subcategory": "Safety Equipment and Hardware Accessories",
-    "shortDescription": "Nuts and Bolts (M4x12, M4x20, M5x16, M5x25, M6x20) - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Nuts and Bolts (M4x12, M4x20, M5x16, M5x25, M6x20) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Nuts and Bolts (M4x12, M4x20, M5x16, M5x25, M6x20)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-35-4",
     "name": "Sandpaper (80, 100, 120, 200, 300 grit)",
     "slug": "sandpaper-80-100-120-200-300-grit",
@@ -24187,13 +19407,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/safety-equipment-and-hardware-accessories/sandpaper-80-100-120-200-300-grit.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/safety-equipment-and-hardware-accessories/sandpaper-80-100-120-200-300-grit.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -24214,87 +19434,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-35-5",
-    "name": "Power Strip Extension (5+ sockets, 5A fuse, 5 m)",
-    "slug": "power-strip-extension-5-sockets-5a-fuse-5-m",
-    "sku": "HIT-35-005",
-    "brand": "Hi Technology",
-    "category": "Safety Equipment and Hardware Accessories",
-    "subcategory": "Safety Equipment and Hardware Accessories",
-    "shortDescription": "Power Strip Extension (5+ sockets, 5A fuse, 5 m) - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Power Strip Extension (5+ sockets, 5A fuse, 5 m) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Power Strip Extension (5+ sockets, 5A fuse, 5 m)",
-      "Current Rating": "5A",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-35-6",
-    "name": "Bulb Holder (Hanging)",
-    "slug": "bulb-holder-hanging",
-    "sku": "HIT-35-006",
-    "brand": "Hi Technology",
-    "category": "Safety Equipment and Hardware Accessories",
-    "subcategory": "Safety Equipment and Hardware Accessories",
-    "shortDescription": "Bulb Holder (Hanging) - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Bulb Holder (Hanging) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Bulb Holder (Hanging)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-35-7",
     "name": "Electric Wire Twisted Red/Black Pair",
     "slug": "electric-wire-twisted-redblack-pair",
@@ -24308,13 +19447,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/safety-equipment-and-hardware-accessories/electric-wire-twisted-redblack-pair.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/safety-equipment-and-hardware-accessories/electric-wire-twisted-redblack-pair.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -24348,13 +19487,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/safety-equipment-and-hardware-accessories/usb-to-dc-jack-cable.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/safety-equipment-and-hardware-accessories/usb-to-dc-jack-cable.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -24375,286 +19514,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-35-9",
-    "name": "First-Aid Kit",
-    "slug": "first-aid-kit",
-    "sku": "HIT-35-009",
-    "brand": "Hi Technology",
-    "category": "Safety Equipment and Hardware Accessories",
-    "subcategory": "Safety Equipment and Hardware Accessories",
-    "shortDescription": "First-Aid Kit - Safety Equipment and Hardware Accessories",
-    "description": "High-grade First-Aid Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "First-Aid Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-35-10",
-    "name": "Fire Extinguisher (Powder, 2 kg)",
-    "slug": "fire-extinguisher-powder-2-kg",
-    "sku": "HIT-35-010",
-    "brand": "Hi Technology",
-    "category": "Safety Equipment and Hardware Accessories",
-    "subcategory": "Safety Equipment and Hardware Accessories",
-    "shortDescription": "Fire Extinguisher (Powder, 2 kg) - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Fire Extinguisher (Powder, 2 kg) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Fire Extinguisher (Powder, 2 kg)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-35-11",
-    "name": "Safety Goggles",
-    "slug": "safety-goggles",
-    "sku": "HIT-35-011",
-    "brand": "Hi Technology",
-    "category": "Safety Equipment and Hardware Accessories",
-    "subcategory": "Safety Equipment and Hardware Accessories",
-    "shortDescription": "Safety Goggles - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Safety Goggles selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Safety Goggles",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-35-12",
-    "name": "Safety Gloves (Latex, Medium) Pairs",
-    "slug": "safety-gloves-latex-medium-pairs",
-    "sku": "HIT-35-012",
-    "brand": "Hi Technology",
-    "category": "Safety Equipment and Hardware Accessories",
-    "subcategory": "Safety Equipment and Hardware Accessories",
-    "shortDescription": "Safety Gloves (Latex, Medium) Pairs - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Safety Gloves (Latex, Medium) Pairs selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Safety Gloves (Latex, Medium) Pairs",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-35-13",
-    "name": "Safety Mask",
-    "slug": "safety-mask",
-    "sku": "HIT-35-013",
-    "brand": "Hi Technology",
-    "category": "Safety Equipment and Hardware Accessories",
-    "subcategory": "Safety Equipment and Hardware Accessories",
-    "shortDescription": "Safety Mask - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Safety Mask selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Safety Mask",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-1",
-    "name": "ESP32-C6 DevKit",
-    "slug": "esp32-c6-devkit",
-    "sku": "HIT-36-001",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "ESP32-C6 DevKit - IoT Boards and Gateways",
-    "description": "High-grade ESP32-C6 DevKit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "ESP32-C6 DevKit",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-2",
-    "name": "ESP32-S2 DevKit",
-    "slug": "esp32-s2-devkit",
-    "sku": "HIT-36-002",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "ESP32-S2 DevKit - IoT Boards and Gateways",
-    "description": "High-grade ESP32-S2 DevKit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "ESP32-S2 DevKit",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-36-3",
     "name": "ESP32-WROOM-32 Module",
     "slug": "esp32-wroom-32-module",
@@ -24668,13 +19527,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-boards-and-gateways/esp32-wroom-32-module.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-boards-and-gateways/esp32-wroom-32-module.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -24695,46 +19554,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-36-4",
-    "name": "ESP32-WROVER Module (with PSRAM)",
-    "slug": "esp32-wrover-module-with-psram",
-    "sku": "HIT-36-004",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "ESP32-WROVER Module (with PSRAM) - IoT Boards and Gateways",
-    "description": "High-grade ESP32-WROVER Module (with PSRAM) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "ESP32-WROVER Module (with PSRAM)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-36-5",
     "name": "ESP8266 ESP-12F Module",
     "slug": "esp8266-esp-12f-module",
@@ -24748,13 +19567,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-boards-and-gateways/esp8266-esp-12f-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-boards-and-gateways/esp8266-esp-12f-module.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -24775,327 +19594,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-36-6",
-    "name": "Raspberry Pi Zero W",
-    "slug": "raspberry-pi-zero-w",
-    "sku": "HIT-36-006",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Raspberry Pi Zero W - IoT Boards and Gateways",
-    "description": "High-grade Raspberry Pi Zero W selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Raspberry Pi Zero W",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-7",
-    "name": "Raspberry Pi Pico 2 W",
-    "slug": "raspberry-pi-pico-2-w",
-    "sku": "HIT-36-007",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Raspberry Pi Pico 2 W - IoT Boards and Gateways",
-    "description": "High-grade Raspberry Pi Pico 2 W selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Raspberry Pi Pico 2 W",
-      "Power Rating": "2 W",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-8",
-    "name": "Arduino Nano ESP32",
-    "slug": "arduino-nano-esp32",
-    "sku": "HIT-36-008",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Arduino Nano ESP32 - IoT Boards and Gateways",
-    "description": "High-grade Arduino Nano ESP32 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Arduino Nano ESP32",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-9",
-    "name": "Arduino MKR WiFi 1010",
-    "slug": "arduino-mkr-wifi-1010",
-    "sku": "HIT-36-009",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Arduino MKR WiFi 1010 - IoT Boards and Gateways",
-    "description": "High-grade Arduino MKR WiFi 1010 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Arduino MKR WiFi 1010",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-10",
-    "name": "Arduino Nano RP2040 Connect",
-    "slug": "arduino-nano-rp2040-connect",
-    "sku": "HIT-36-010",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Arduino Nano RP2040 Connect - IoT Boards and Gateways",
-    "description": "High-grade Arduino Nano RP2040 Connect selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Arduino Nano RP2040 Connect",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-11",
-    "name": "Arduino Nano 33 BLE",
-    "slug": "arduino-nano-33-ble",
-    "sku": "HIT-36-011",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Arduino Nano 33 BLE - IoT Boards and Gateways",
-    "description": "High-grade Arduino Nano 33 BLE selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Arduino Nano 33 BLE",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-12",
-    "name": "Adafruit Feather HUZZAH32",
-    "slug": "adafruit-feather-huzzah32",
-    "sku": "HIT-36-012",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Adafruit Feather HUZZAH32 - IoT Boards and Gateways",
-    "description": "High-grade Adafruit Feather HUZZAH32 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Adafruit Feather HUZZAH32",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-13",
-    "name": "Seeed Studio XIAO ESP32-C3",
-    "slug": "seeed-studio-xiao-esp32-c3",
-    "sku": "HIT-36-013",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Seeed Studio XIAO ESP32-C3 - IoT Boards and Gateways",
-    "description": "High-grade Seeed Studio XIAO ESP32-C3 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Seeed Studio XIAO ESP32-C3",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-36-14",
     "name": "Heltec WiFi LoRa 32 Board",
     "slug": "heltec-wifi-lora-32-board",
@@ -25109,13 +19607,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-boards-and-gateways/heltec-wifi-lora-32-board.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-boards-and-gateways/heltec-wifi-lora-32-board.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -25149,13 +19647,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-boards-and-gateways/lilygo-ttgo-lora32-board.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-boards-and-gateways/lilygo-ttgo-lora32-board.jpg"
     ],
     "status": "published",
     "isFeatured": true,
@@ -25176,566 +19674,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-36-16",
-    "name": "LILYGO T-Display ESP32",
-    "slug": "lilygo-t-display-esp32",
-    "sku": "HIT-36-016",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "LILYGO T-Display ESP32 - IoT Boards and Gateways",
-    "description": "High-grade LILYGO T-Display ESP32 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "LILYGO T-Display ESP32",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-17",
-    "name": "M5Stack Core ESP32 Development Kit",
-    "slug": "m5stack-core-esp32-development-kit",
-    "sku": "HIT-36-017",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "M5Stack Core ESP32 Development Kit - IoT Boards and Gateways",
-    "description": "High-grade M5Stack Core ESP32 Development Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "M5Stack Core ESP32 Development Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-18",
-    "name": "M5StickC Plus",
-    "slug": "m5stickc-plus",
-    "sku": "HIT-36-018",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "M5StickC Plus - IoT Boards and Gateways",
-    "description": "High-grade M5StickC Plus selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "M5StickC Plus",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-19",
-    "name": "Nordic nRF52840 Development Board",
-    "slug": "nordic-nrf52840-development-board",
-    "sku": "HIT-36-019",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Nordic nRF52840 Development Board - IoT Boards and Gateways",
-    "description": "High-grade Nordic nRF52840 Development Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Nordic nRF52840 Development Board",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-20",
-    "name": "nRF52840 USB Dongle",
-    "slug": "nrf52840-usb-dongle",
-    "sku": "HIT-36-020",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "nRF52840 USB Dongle - IoT Boards and Gateways",
-    "description": "High-grade nRF52840 USB Dongle selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "nRF52840 USB Dongle",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-21",
-    "name": "BeagleBone Black",
-    "slug": "beaglebone-black",
-    "sku": "HIT-36-021",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "BeagleBone Black - IoT Boards and Gateways",
-    "description": "High-grade BeagleBone Black selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "BeagleBone Black",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-22",
-    "name": "Particle Photon",
-    "slug": "particle-photon",
-    "sku": "HIT-36-022",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Particle Photon - IoT Boards and Gateways",
-    "description": "High-grade Particle Photon selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Particle Photon",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-23",
-    "name": "Google Coral USB Accelerator",
-    "slug": "google-coral-usb-accelerator",
-    "sku": "HIT-36-023",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Google Coral USB Accelerator - IoT Boards and Gateways",
-    "description": "High-grade Google Coral USB Accelerator selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Google Coral USB Accelerator",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-24",
-    "name": "LoRaWAN Gateway (8-Channel, 868/915 MHz)",
-    "slug": "lorawan-gateway-8-channel-868915-mhz",
-    "sku": "HIT-36-024",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "LoRaWAN Gateway (8-Channel, 868/915 MHz) - IoT Boards and Gateways",
-    "description": "High-grade LoRaWAN Gateway (8-Channel, 868/915 MHz) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "LoRaWAN Gateway (8-Channel, 868/915 MHz)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-25",
-    "name": "Industrial 4G LTE Router / Gateway",
-    "slug": "industrial-4g-lte-router-gateway",
-    "sku": "HIT-36-025",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Industrial 4G LTE Router / Gateway - IoT Boards and Gateways",
-    "description": "High-grade Industrial 4G LTE Router / Gateway selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Industrial 4G LTE Router / Gateway",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-26",
-    "name": "Portable 4G Wi-Fi Router (MiFi)",
-    "slug": "portable-4g-wi-fi-router-mifi",
-    "sku": "HIT-36-026",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Portable 4G Wi-Fi Router (MiFi) - IoT Boards and Gateways",
-    "description": "High-grade Portable 4G Wi-Fi Router (MiFi) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Portable 4G Wi-Fi Router (MiFi)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-27",
-    "name": "Wi-Fi Router",
-    "slug": "wi-fi-router",
-    "sku": "HIT-36-027",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Wi-Fi Router - IoT Boards and Gateways",
-    "description": "High-grade Wi-Fi Router selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Wi-Fi Router",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-28",
-    "name": "Ethernet Switch (5-Port)",
-    "slug": "ethernet-switch-5-port",
-    "sku": "HIT-36-028",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Ethernet Switch (5-Port) - IoT Boards and Gateways",
-    "description": "High-grade Ethernet Switch (5-Port) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Ethernet Switch (5-Port)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-36-29",
-    "name": "Zigbee Coordinator USB Dongle (CC2531)",
-    "slug": "zigbee-coordinator-usb-dongle-cc2531",
-    "sku": "HIT-36-029",
-    "brand": "Hi Technology",
-    "category": "IoT Boards and Gateways",
-    "subcategory": "IoT Boards and Gateways",
-    "shortDescription": "Zigbee Coordinator USB Dongle (CC2531) - IoT Boards and Gateways",
-    "description": "High-grade Zigbee Coordinator USB Dongle (CC2531) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Zigbee Coordinator USB Dongle (CC2531)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-37-1",
     "name": "RFM95W LoRa Module (868/915 MHz)",
     "slug": "rfm95w-lora-module-868915-mhz",
@@ -25749,13 +19687,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-connectivity-modules-and-antennas/rfm95w-lora-module-868915-mhz.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/rfm95w-lora-module-868915-mhz.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -25777,46 +19715,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-37-2",
-    "name": "RFM69HCW Radio Module",
-    "slug": "rfm69hcw-radio-module",
-    "sku": "HIT-37-002",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "RFM69HCW Radio Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade RFM69HCW Radio Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "RFM69HCW Radio Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-37-3",
     "name": "SX1262 LoRa Module",
     "slug": "sx1262-lora-module",
@@ -25830,13 +19728,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-connectivity-modules-and-antennas/sx1262-lora-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/sx1262-lora-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -25851,7 +19749,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -25870,13 +19768,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-connectivity-modules-and-antennas/rak3172-lorawan-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/rak3172-lorawan-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -25891,7 +19789,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -25910,13 +19808,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-connectivity-modules-and-antennas/dragino-lora-shield-for-arduino.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/dragino-lora-shield-for-arduino.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -25931,7 +19829,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -25950,13 +19848,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-connectivity-modules-and-antennas/lora-hat-for-raspberry-pi.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/lora-hat-for-raspberry-pi.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -25971,7 +19869,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -25990,13 +19888,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-connectivity-modules-and-antennas/hc-12-433-mhz-serial-wireless-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/hc-12-433-mhz-serial-wireless-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -26017,86 +19915,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-37-8",
-    "name": "CC2530 Zigbee Module",
-    "slug": "cc2530-zigbee-module",
-    "sku": "HIT-37-008",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "CC2530 Zigbee Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade CC2530 Zigbee Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "CC2530 Zigbee Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-9",
-    "name": "XBee USB Explorer Board",
-    "slug": "xbee-usb-explorer-board",
-    "sku": "HIT-37-009",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "XBee USB Explorer Board - IoT Connectivity Modules and Antennas",
-    "description": "High-grade XBee USB Explorer Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "XBee USB Explorer Board",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-37-10",
     "name": "SIM7000 NB-IoT / LTE-M Module",
     "slug": "sim7000-nb-iot-lte-m-module",
@@ -26110,13 +19928,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-connectivity-modules-and-antennas/sim7000-nb-iot-lte-m-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/sim7000-nb-iot-lte-m-module.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -26137,126 +19955,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-37-11",
-    "name": "SIM808 GSM/GPRS/GPS Module",
-    "slug": "sim808-gsmgprsgps-module",
-    "sku": "HIT-37-011",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "SIM808 GSM/GPRS/GPS Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade SIM808 GSM/GPRS/GPS Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "SIM808 GSM/GPRS/GPS Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-12",
-    "name": "SIM7020 NB-IoT Module",
-    "slug": "sim7020-nb-iot-module",
-    "sku": "HIT-37-012",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "SIM7020 NB-IoT Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade SIM7020 NB-IoT Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "SIM7020 NB-IoT Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-13",
-    "name": "Quectel EC200U 4G LTE Module",
-    "slug": "quectel-ec200u-4g-lte-module",
-    "sku": "HIT-37-013",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "Quectel EC200U 4G LTE Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade Quectel EC200U 4G LTE Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "Quectel EC200U 4G LTE Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-37-14",
     "name": "ESP-01 Programmer Adapter",
     "slug": "esp-01-programmer-adapter",
@@ -26270,13 +19968,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-connectivity-modules-and-antennas/esp-01-programmer-adapter.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/esp-01-programmer-adapter.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -26297,206 +19995,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-37-15",
-    "name": "ESP-Prog Programmer/Debugger",
-    "slug": "esp-prog-programmerdebugger",
-    "sku": "HIT-37-015",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "ESP-Prog Programmer/Debugger - IoT Connectivity Modules and Antennas",
-    "description": "High-grade ESP-Prog Programmer/Debugger selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "ESP-Prog Programmer/Debugger",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-16",
-    "name": "BLE Beacon (iBeacon / Eddystone)",
-    "slug": "ble-beacon-ibeacon-eddystone",
-    "sku": "HIT-37-016",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "BLE Beacon (iBeacon / Eddystone) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade BLE Beacon (iBeacon / Eddystone) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "BLE Beacon (iBeacon / Eddystone)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-17",
-    "name": "JDY-23 BLE Module",
-    "slug": "jdy-23-ble-module",
-    "sku": "HIT-37-017",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "JDY-23 BLE Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade JDY-23 BLE Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "JDY-23 BLE Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-18",
-    "name": "RS485 to USB Converter",
-    "slug": "rs485-to-usb-converter",
-    "sku": "HIT-37-018",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "RS485 to USB Converter - IoT Connectivity Modules and Antennas",
-    "description": "High-grade RS485 to USB Converter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "RS485 to USB Converter",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-19",
-    "name": "USB Wi-Fi Adapter (2.4 GHz)",
-    "slug": "usb-wi-fi-adapter-24-ghz",
-    "sku": "HIT-37-019",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "USB Wi-Fi Adapter (2.4 GHz) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade USB Wi-Fi Adapter (2.4 GHz) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "USB Wi-Fi Adapter (2.4 GHz)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-37-20",
     "name": "4G USB Dongle",
     "slug": "4g-usb-dongle",
@@ -26510,13 +20008,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-connectivity-modules-and-antennas/4g-usb-dongle.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/4g-usb-dongle.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -26537,687 +20035,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-37-21",
-    "name": "2.4 GHz Wi-Fi Antenna (IPEX/u.FL)",
-    "slug": "24-ghz-wi-fi-antenna-ipexufl",
-    "sku": "HIT-37-021",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "2.4 GHz Wi-Fi Antenna (IPEX/u.FL) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade 2.4 GHz Wi-Fi Antenna (IPEX/u.FL) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "2.4 GHz Wi-Fi Antenna (IPEX/u.FL)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-22",
-    "name": "LoRa 868/915 MHz Antenna (SMA)",
-    "slug": "lora-868915-mhz-antenna-sma",
-    "sku": "HIT-37-022",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "LoRa 868/915 MHz Antenna (SMA) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade LoRa 868/915 MHz Antenna (SMA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "LoRa 868/915 MHz Antenna (SMA)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-23",
-    "name": "GSM/4G LTE Antenna (SMA)",
-    "slug": "gsm4g-lte-antenna-sma",
-    "sku": "HIT-37-023",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "GSM/4G LTE Antenna (SMA) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade GSM/4G LTE Antenna (SMA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "GSM/4G LTE Antenna (SMA)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-24",
-    "name": "Active GPS Antenna (SMA)",
-    "slug": "active-gps-antenna-sma",
-    "sku": "HIT-37-024",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "Active GPS Antenna (SMA) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade Active GPS Antenna (SMA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "Active GPS Antenna (SMA)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-25",
-    "name": "u.FL to SMA Pigtail Cable",
-    "slug": "ufl-to-sma-pigtail-cable",
-    "sku": "HIT-37-025",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "u.FL to SMA Pigtail Cable - IoT Connectivity Modules and Antennas",
-    "description": "High-grade u.FL to SMA Pigtail Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": true,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "u.FL to SMA Pigtail Cable",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-26",
-    "name": "SMA Connector (Female Bulkhead)",
-    "slug": "sma-connector-female-bulkhead",
-    "sku": "HIT-37-026",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "SMA Connector (Female Bulkhead) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade SMA Connector (Female Bulkhead) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "SMA Connector (Female Bulkhead)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-27",
-    "name": "Ethernet Cable (Cat6)",
-    "slug": "ethernet-cable-cat6",
-    "sku": "HIT-37-027",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "Ethernet Cable (Cat6) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade Ethernet Cable (Cat6) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "Ethernet Cable (Cat6)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-28",
-    "name": "PoE Splitter (5V/12V)",
-    "slug": "poe-splitter-5v12v",
-    "sku": "HIT-37-028",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "PoE Splitter (5V/12V) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade PoE Splitter (5V/12V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "PoE Splitter (5V/12V)",
-      "Voltage": "5V",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-37-29",
-    "name": "PoE Injector",
-    "slug": "poe-injector",
-    "sku": "HIT-37-029",
-    "brand": "Hi Technology",
-    "category": "IoT Connectivity Modules and Antennas",
-    "subcategory": "IoT Connectivity Modules and Antennas",
-    "shortDescription": "PoE Injector - IoT Connectivity Modules and Antennas",
-    "description": "High-grade PoE Injector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "PoE Injector",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-1",
-    "name": "BME680 Gas, Temperature, Humidity and Pressure Sensor",
-    "slug": "bme680-gas-temperature-humidity-and-pressure-sensor",
-    "sku": "HIT-38-001",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "BME680 Gas, Temperature, Humidity and Pressure Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade BME680 Gas, Temperature, Humidity and Pressure Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "BME680 Gas, Temperature, Humidity and Pressure Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-2",
-    "name": "SCD30 CO2, Temperature and Humidity Sensor",
-    "slug": "scd30-co2-temperature-and-humidity-sensor",
-    "sku": "HIT-38-002",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "SCD30 CO2, Temperature and Humidity Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade SCD30 CO2, Temperature and Humidity Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "SCD30 CO2, Temperature and Humidity Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-3",
-    "name": "SCD40 CO2 Sensor",
-    "slug": "scd40-co2-sensor",
-    "sku": "HIT-38-003",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "SCD40 CO2 Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade SCD40 CO2 Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "SCD40 CO2 Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-4",
-    "name": "SGP30 TVOC and eCO2 Sensor",
-    "slug": "sgp30-tvoc-and-eco2-sensor",
-    "sku": "HIT-38-004",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "SGP30 TVOC and eCO2 Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade SGP30 TVOC and eCO2 Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "SGP30 TVOC and eCO2 Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-5",
-    "name": "SDS011 PM2.5 / PM10 Dust Sensor",
-    "slug": "sds011-pm25-pm10-dust-sensor",
-    "sku": "HIT-38-005",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "SDS011 PM2.5 / PM10 Dust Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade SDS011 PM2.5 / PM10 Dust Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "SDS011 PM2.5 / PM10 Dust Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-6",
-    "name": "PMS7003 Particulate Matter Sensor",
-    "slug": "pms7003-particulate-matter-sensor",
-    "sku": "HIT-38-006",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "PMS7003 Particulate Matter Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade PMS7003 Particulate Matter Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "PMS7003 Particulate Matter Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-7",
-    "name": "Si7021 Temperature and Humidity Sensor",
-    "slug": "si7021-temperature-and-humidity-sensor",
-    "sku": "HIT-38-007",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "Si7021 Temperature and Humidity Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade Si7021 Temperature and Humidity Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Si7021 Temperature and Humidity Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-8",
-    "name": "HDC1080 Temperature and Humidity Sensor",
-    "slug": "hdc1080-temperature-and-humidity-sensor",
-    "sku": "HIT-38-008",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "HDC1080 Temperature and Humidity Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade HDC1080 Temperature and Humidity Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "HDC1080 Temperature and Humidity Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-38-9",
     "name": "DS18B20 Waterproof Temperature Probe",
     "slug": "ds18b20-waterproof-temperature-probe",
@@ -27231,13 +20048,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/ds18b20-waterproof-temperature-probe.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/ds18b20-waterproof-temperature-probe.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -27259,246 +20076,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-38-10",
-    "name": "PT100 Temperature Sensor with MAX31865",
-    "slug": "pt100-temperature-sensor-with-max31865",
-    "sku": "HIT-38-010",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "PT100 Temperature Sensor with MAX31865 - IoT Sensors and Interface Modules",
-    "description": "High-grade PT100 Temperature Sensor with MAX31865 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "PT100 Temperature Sensor with MAX31865",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-11",
-    "name": "RS485 Soil NPK Sensor",
-    "slug": "rs485-soil-npk-sensor",
-    "sku": "HIT-38-011",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "RS485 Soil NPK Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade RS485 Soil NPK Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "RS485 Soil NPK Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-12",
-    "name": "RS485 Soil Moisture, Temperature and EC Sensor",
-    "slug": "rs485-soil-moisture-temperature-and-ec-sensor",
-    "sku": "HIT-38-012",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "RS485 Soil Moisture, Temperature and EC Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade RS485 Soil Moisture, Temperature and EC Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "RS485 Soil Moisture, Temperature and EC Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-13",
-    "name": "Dissolved Oxygen (DO) Sensor",
-    "slug": "dissolved-oxygen-do-sensor",
-    "sku": "HIT-38-013",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "Dissolved Oxygen (DO) Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade Dissolved Oxygen (DO) Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Dissolved Oxygen (DO) Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-14",
-    "name": "ORP Sensor",
-    "slug": "orp-sensor",
-    "sku": "HIT-38-014",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "ORP Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade ORP Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "ORP Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-15",
-    "name": "EC (Electrical Conductivity) Sensor",
-    "slug": "ec-electrical-conductivity-sensor",
-    "sku": "HIT-38-015",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "EC (Electrical Conductivity) Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade EC (Electrical Conductivity) Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "EC (Electrical Conductivity) Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-38-16",
     "name": "Float Switch (Water Level)",
     "slug": "float-switch-water-level",
@@ -27512,13 +20089,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/float-switch-water-level.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/float-switch-water-level.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -27539,206 +20116,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-38-17",
-    "name": "Tipping Bucket Rain Gauge",
-    "slug": "tipping-bucket-rain-gauge",
-    "sku": "HIT-38-017",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "Tipping Bucket Rain Gauge - IoT Sensors and Interface Modules",
-    "description": "High-grade Tipping Bucket Rain Gauge selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Tipping Bucket Rain Gauge",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-18",
-    "name": "Anemometer (Wind Speed Sensor)",
-    "slug": "anemometer-wind-speed-sensor",
-    "sku": "HIT-38-018",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "Anemometer (Wind Speed Sensor) - IoT Sensors and Interface Modules",
-    "description": "High-grade Anemometer (Wind Speed Sensor) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Anemometer (Wind Speed Sensor)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-19",
-    "name": "Wind Vane (Wind Direction Sensor)",
-    "slug": "wind-vane-wind-direction-sensor",
-    "sku": "HIT-38-019",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "Wind Vane (Wind Direction Sensor) - IoT Sensors and Interface Modules",
-    "description": "High-grade Wind Vane (Wind Direction Sensor) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Wind Vane (Wind Direction Sensor)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-20",
-    "name": "Sound Level Meter Module (Decibel Sensor)",
-    "slug": "sound-level-meter-module-decibel-sensor",
-    "sku": "HIT-38-020",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "Sound Level Meter Module (Decibel Sensor) - IoT Sensors and Interface Modules",
-    "description": "High-grade Sound Level Meter Module (Decibel Sensor) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Sound Level Meter Module (Decibel Sensor)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-21",
-    "name": "HLK-LD2410 mmWave Presence Radar",
-    "slug": "hlk-ld2410-mmwave-presence-radar",
-    "sku": "HIT-38-021",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "HLK-LD2410 mmWave Presence Radar - IoT Sensors and Interface Modules",
-    "description": "High-grade HLK-LD2410 mmWave Presence Radar selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "HLK-LD2410 mmWave Presence Radar",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-38-22",
     "name": "Magnetic Door/Window Contact Sensor",
     "slug": "magnetic-doorwindow-contact-sensor",
@@ -27752,13 +20129,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/magnetic-doorwindow-contact-sensor.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/magnetic-doorwindow-contact-sensor.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -27779,46 +20156,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-38-23",
-    "name": "Water Leak Sensor",
-    "slug": "water-leak-sensor",
-    "sku": "HIT-38-023",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "Water Leak Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade Water Leak Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Water Leak Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-38-24",
     "name": "MLX90614 IR Temperature Sensor",
     "slug": "mlx90614-ir-temperature-sensor",
@@ -27832,13 +20169,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/mlx90614-ir-temperature-sensor.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/mlx90614-ir-temperature-sensor.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -27859,288 +20196,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-38-25",
-    "name": "MLX90640 Thermal Camera",
-    "slug": "mlx90640-thermal-camera",
-    "sku": "HIT-38-025",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "MLX90640 Thermal Camera - IoT Sensors and Interface Modules",
-    "description": "High-grade MLX90640 Thermal Camera selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "MLX90640 Thermal Camera",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-26",
-    "name": "AMG8833 Thermal Array Sensor",
-    "slug": "amg8833-thermal-array-sensor",
-    "sku": "HIT-38-026",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "AMG8833 Thermal Array Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade AMG8833 Thermal Array Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "AMG8833 Thermal Array Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-27",
-    "name": "MAX30205 Body Temperature Sensor",
-    "slug": "max30205-body-temperature-sensor",
-    "sku": "HIT-38-027",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "MAX30205 Body Temperature Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade MAX30205 Body Temperature Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "MAX30205 Body Temperature Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-28",
-    "name": "GSR (Galvanic Skin Response) Sensor",
-    "slug": "gsr-galvanic-skin-response-sensor",
-    "sku": "HIT-38-028",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "GSR (Galvanic Skin Response) Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade GSR (Galvanic Skin Response) Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "GSR (Galvanic Skin Response) Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-29",
-    "name": "EMG Muscle Sensor",
-    "slug": "emg-muscle-sensor",
-    "sku": "HIT-38-029",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "EMG Muscle Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade EMG Muscle Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "EMG Muscle Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-30",
-    "name": "AS5600 Magnetic Rotary Encoder",
-    "slug": "as5600-magnetic-rotary-encoder",
-    "sku": "HIT-38-030",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "AS5600 Magnetic Rotary Encoder - IoT Sensors and Interface Modules",
-    "description": "High-grade AS5600 Magnetic Rotary Encoder selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "AS5600 Magnetic Rotary Encoder",
-      "Current Rating": "5600 Ma",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-31",
-    "name": "4-20 mA Current Loop Sensor Module",
-    "slug": "4-20-ma-current-loop-sensor-module",
-    "sku": "HIT-38-031",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "4-20 mA Current Loop Sensor Module - IoT Sensors and Interface Modules",
-    "description": "High-grade 4-20 mA Current Loop Sensor Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "4-20 mA Current Loop Sensor Module",
-      "Current Rating": "20 mA",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-38-32",
     "name": "Pressure Transducer (0-5V / 0.5-4.5V)",
     "slug": "pressure-transducer-0-5v-05-45v",
@@ -28154,13 +20209,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/pressure-transducer-0-5v-05-45v.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/pressure-transducer-0-5v-05-45v.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -28182,46 +20237,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-38-33",
-    "name": "Energy Meter (Single-Phase, Modbus)",
-    "slug": "energy-meter-single-phase-modbus",
-    "sku": "HIT-38-033",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "Energy Meter (Single-Phase, Modbus) - IoT Sensors and Interface Modules",
-    "description": "High-grade Energy Meter (Single-Phase, Modbus) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Energy Meter (Single-Phase, Modbus)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-38-34",
     "name": "DS3231 RTC Module",
     "slug": "ds3231-rtc-module",
@@ -28235,13 +20250,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/ds3231-rtc-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/ds3231-rtc-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -28275,13 +20290,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/microsd-card-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/microsd-card-module.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -28315,13 +20330,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/logic-level-converter-4-channel-bidirectional.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/logic-level-converter-4-channel-bidirectional.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -28342,47 +20357,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-38-37",
-    "name": "TCA9548A I2C Multiplexer",
-    "slug": "tca9548a-i2c-multiplexer",
-    "sku": "HIT-38-037",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "TCA9548A I2C Multiplexer - IoT Sensors and Interface Modules",
-    "description": "High-grade TCA9548A I2C Multiplexer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "TCA9548A I2C Multiplexer",
-      "Current Rating": "9548A",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-38-38",
     "name": "ADS1115 16-bit ADC Module",
     "slug": "ads1115-16-bit-adc-module",
@@ -28396,13 +20370,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/ads1115-16-bit-adc-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/ads1115-16-bit-adc-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -28423,86 +20397,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-38-39",
-    "name": "MCP23017 GPIO Expander",
-    "slug": "mcp23017-gpio-expander",
-    "sku": "HIT-38-039",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "MCP23017 GPIO Expander - IoT Sensors and Interface Modules",
-    "description": "High-grade MCP23017 GPIO Expander selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "MCP23017 GPIO Expander",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-40",
-    "name": "GM65 Barcode/QR Scanner Module",
-    "slug": "gm65-barcodeqr-scanner-module",
-    "sku": "HIT-38-040",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "GM65 Barcode/QR Scanner Module - IoT Sensors and Interface Modules",
-    "description": "High-grade GM65 Barcode/QR Scanner Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "GM65 Barcode/QR Scanner Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-38-41",
     "name": "Voice Recognition Module",
     "slug": "voice-recognition-module",
@@ -28516,13 +20410,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/voice-recognition-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/voice-recognition-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -28556,13 +20450,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-sensors-and-interface-modules/dfplayer-mini-mp3-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/dfplayer-mini-mp3-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -28583,86 +20477,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-38-43",
-    "name": "OV5640 Camera Module",
-    "slug": "ov5640-camera-module",
-    "sku": "HIT-38-043",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "OV5640 Camera Module - IoT Sensors and Interface Modules",
-    "description": "High-grade OV5640 Camera Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "OV5640 Camera Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-38-44",
-    "name": "Raspberry Pi Camera Module 3",
-    "slug": "raspberry-pi-camera-module-3",
-    "sku": "HIT-38-044",
-    "brand": "Hi Technology",
-    "category": "IoT Sensors and Interface Modules",
-    "subcategory": "IoT Sensors and Interface Modules",
-    "shortDescription": "Raspberry Pi Camera Module 3 - IoT Sensors and Interface Modules",
-    "description": "High-grade Raspberry Pi Camera Module 3 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Raspberry Pi Camera Module 3",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-39-1",
     "name": "12V Solenoid Water Valve",
     "slug": "12v-solenoid-water-valve",
@@ -28676,13 +20490,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-actuators-and-control/12v-solenoid-water-valve.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-actuators-and-control/12v-solenoid-water-valve.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -28704,47 +20518,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-39-2",
-    "name": "Motorized Ball Valve (12V)",
-    "slug": "motorized-ball-valve-12v",
-    "sku": "HIT-39-002",
-    "brand": "Hi Technology",
-    "category": "IoT Actuators and Control",
-    "subcategory": "IoT Actuators and Control",
-    "shortDescription": "Motorized Ball Valve (12V) - IoT Actuators and Control",
-    "description": "High-grade Motorized Ball Valve (12V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Motorized Ball Valve (12V)",
-      "Voltage": "12V",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-39-3",
     "name": "Peristaltic Pump (12V)",
     "slug": "peristaltic-pump-12v",
@@ -28758,13 +20531,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-actuators-and-control/peristaltic-pump-12v.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-actuators-and-control/peristaltic-pump-12v.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -28780,7 +20553,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "iot-actuators-and-control",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -28799,13 +20572,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-actuators-and-control/ac-light-dimmer-module-triac-220v.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-actuators-and-control/ac-light-dimmer-module-triac-220v.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -28827,209 +20600,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-39-5",
-    "name": "Opto-Isolated 16-Channel Relay Module",
-    "slug": "opto-isolated-16-channel-relay-module",
-    "sku": "HIT-39-005",
-    "brand": "Hi Technology",
-    "category": "IoT Actuators and Control",
-    "subcategory": "IoT Actuators and Control",
-    "shortDescription": "Opto-Isolated 16-Channel Relay Module - IoT Actuators and Control",
-    "description": "High-grade Opto-Isolated 16-Channel Relay Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Opto-Isolated 16-Channel Relay Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-39-6",
-    "name": "Smart Plug (Wi-Fi)",
-    "slug": "smart-plug-wi-fi",
-    "sku": "HIT-39-006",
-    "brand": "Hi Technology",
-    "category": "IoT Actuators and Control",
-    "subcategory": "IoT Actuators and Control",
-    "shortDescription": "Smart Plug (Wi-Fi) - IoT Actuators and Control",
-    "description": "High-grade Smart Plug (Wi-Fi) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Smart Plug (Wi-Fi)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-39-7",
-    "name": "Electromagnetic Door Lock (12V)",
-    "slug": "electromagnetic-door-lock-12v",
-    "sku": "HIT-39-007",
-    "brand": "Hi Technology",
-    "category": "IoT Actuators and Control",
-    "subcategory": "IoT Actuators and Control",
-    "shortDescription": "Electromagnetic Door Lock (12V) - IoT Actuators and Control",
-    "description": "High-grade Electromagnetic Door Lock (12V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Electromagnetic Door Lock (12V)",
-      "Voltage": "12V",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-39-8",
-    "name": "Solenoid Door Lock (12V)",
-    "slug": "solenoid-door-lock-12v",
-    "sku": "HIT-39-008",
-    "brand": "Hi Technology",
-    "category": "IoT Actuators and Control",
-    "subcategory": "IoT Actuators and Control",
-    "shortDescription": "Solenoid Door Lock (12V) - IoT Actuators and Control",
-    "description": "High-grade Solenoid Door Lock (12V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Solenoid Door Lock (12V)",
-      "Voltage": "12V",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-39-9",
-    "name": "Siren (12V Alarm)",
-    "slug": "siren-12v-alarm",
-    "sku": "HIT-39-009",
-    "brand": "Hi Technology",
-    "category": "IoT Actuators and Control",
-    "subcategory": "IoT Actuators and Control",
-    "shortDescription": "Siren (12V Alarm) - IoT Actuators and Control",
-    "description": "High-grade Siren (12V Alarm) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Siren (12V Alarm)",
-      "Voltage": "12V",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-39-10",
     "name": "MOSFET PWM Switch Module (5-36V)",
     "slug": "mosfet-pwm-switch-module-5-36v",
@@ -29043,13 +20613,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-actuators-and-control/mosfet-pwm-switch-module-5-36v.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-actuators-and-control/mosfet-pwm-switch-module-5-36v.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -29084,13 +20654,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-actuators-and-control/rfid-cards-key-fobs-1356-mhz.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-actuators-and-control/rfid-cards-key-fobs-1356-mhz.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -29099,46 +20669,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "specifications": {
       "Category": "IoT Actuators and Control",
       "Model": "RFID Cards / Key Fobs (13.56 MHz)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-39-12",
-    "name": "NFC Tags (NTAG213)",
-    "slug": "nfc-tags-ntag213",
-    "sku": "HIT-39-012",
-    "brand": "Hi Technology",
-    "category": "IoT Actuators and Control",
-    "subcategory": "IoT Actuators and Control",
-    "shortDescription": "NFC Tags (NTAG213) - IoT Actuators and Control",
-    "description": "High-grade NFC Tags (NTAG213) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "NFC Tags (NTAG213)",
       "RoHS Compliant": "Yes"
     },
     "tags": [
@@ -29164,13 +20694,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-power-and-energy/solar-charge-controller-mppt-cn3791.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-power-and-energy/solar-charge-controller-mppt-cn3791.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -29191,46 +20721,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-40-2",
-    "name": "Raspberry Pi UPS HAT",
-    "slug": "raspberry-pi-ups-hat",
-    "sku": "HIT-40-002",
-    "brand": "Hi Technology",
-    "category": "IoT Power and Energy",
-    "subcategory": "IoT Power and Energy",
-    "shortDescription": "Raspberry Pi UPS HAT - IoT Power and Energy",
-    "description": "High-grade Raspberry Pi UPS HAT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "IoT Power and Energy",
-      "Model": "Raspberry Pi UPS HAT",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-power-and-energy",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-40-3",
     "name": "AMS1117-3.3 Power Module",
     "slug": "ams1117-33-power-module",
@@ -29244,13 +20734,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-power-and-energy/ams1117-33-power-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-power-and-energy/ams1117-33-power-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -29284,13 +20774,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-power-and-energy/buck-boost-converter-module-adjustable.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-power-and-energy/buck-boost-converter-module-adjustable.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -29324,13 +20814,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-power-and-energy/12v-to-5v-usb-converter-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-power-and-energy/12v-to-5v-usb-converter-module.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -29365,13 +20855,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-power-and-energy/aa-battery-holder-4-cell.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-power-and-energy/aa-battery-holder-4-cell.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -29405,13 +20895,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/iot-enclosures-hats-and-accessories/waterproof-abs-enclosure-ip65.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-enclosures-hats-and-accessories/waterproof-abs-enclosure-ip65.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -29432,726 +20922,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-41-2",
-    "name": "DIN Rail Mount Enclosure",
-    "slug": "din-rail-mount-enclosure",
-    "sku": "HIT-41-002",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "DIN Rail Mount Enclosure - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade DIN Rail Mount Enclosure selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "DIN Rail Mount Enclosure",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-3",
-    "name": "Cable Glands (PG7/PG9)",
-    "slug": "cable-glands-pg7pg9",
-    "sku": "HIT-41-003",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "Cable Glands (PG7/PG9) - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Cable Glands (PG7/PG9) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Cable Glands (PG7/PG9)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-4",
-    "name": "Raspberry Pi Sense HAT",
-    "slug": "raspberry-pi-sense-hat",
-    "sku": "HIT-41-004",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "Raspberry Pi Sense HAT - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi Sense HAT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi Sense HAT",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-5",
-    "name": "Raspberry Pi Relay HAT",
-    "slug": "raspberry-pi-relay-hat",
-    "sku": "HIT-41-005",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "Raspberry Pi Relay HAT - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi Relay HAT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi Relay HAT",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-6",
-    "name": "Raspberry Pi GSM/GPRS HAT",
-    "slug": "raspberry-pi-gsmgprs-hat",
-    "sku": "HIT-41-006",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "Raspberry Pi GSM/GPRS HAT - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi GSM/GPRS HAT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi GSM/GPRS HAT",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-7",
-    "name": "Raspberry Pi PoE HAT",
-    "slug": "raspberry-pi-poe-hat",
-    "sku": "HIT-41-007",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "Raspberry Pi PoE HAT - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi PoE HAT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi PoE HAT",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-8",
-    "name": "Raspberry Pi 7-inch Touchscreen Display",
-    "slug": "raspberry-pi-7-inch-touchscreen-display",
-    "sku": "HIT-41-008",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "Raspberry Pi 7-inch Touchscreen Display - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi 7-inch Touchscreen Display selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi 7-inch Touchscreen Display",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-9",
-    "name": "Raspberry Pi Camera Ribbon Cable",
-    "slug": "raspberry-pi-camera-ribbon-cable",
-    "sku": "HIT-41-009",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "Raspberry Pi Camera Ribbon Cable - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi Camera Ribbon Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi Camera Ribbon Cable",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-10",
-    "name": "Grove Base Shield for Arduino",
-    "slug": "grove-base-shield-for-arduino",
-    "sku": "HIT-41-010",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "Grove Base Shield for Arduino - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Grove Base Shield for Arduino selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Grove Base Shield for Arduino",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-11",
-    "name": "Qwiic / STEMMA QT I2C Cable Set",
-    "slug": "qwiic-stemma-qt-i2c-cable-set",
-    "sku": "HIT-41-011",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "Qwiic / STEMMA QT I2C Cable Set - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Qwiic / STEMMA QT I2C Cable Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Qwiic / STEMMA QT I2C Cable Set",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-12",
-    "name": "E-Paper Display 4.2 inch",
-    "slug": "e-paper-display-42-inch",
-    "sku": "HIT-41-012",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "E-Paper Display 4.2 inch - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade E-Paper Display 4.2 inch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "E-Paper Display 4.2 inch",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-13",
-    "name": "MicroSD Card 16 GB (Class 10)",
-    "slug": "microsd-card-16-gb-class-10",
-    "sku": "HIT-41-013",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "MicroSD Card 16 GB (Class 10) - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade MicroSD Card 16 GB (Class 10) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "MicroSD Card 16 GB (Class 10)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-14",
-    "name": "USB Hub (Powered, 4-Port)",
-    "slug": "usb-hub-powered-4-port",
-    "sku": "HIT-41-014",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "USB Hub (Powered, 4-Port) - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade USB Hub (Powered, 4-Port) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "USB Hub (Powered, 4-Port)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-41-15",
-    "name": "ESP32 Screw Terminal Breakout Board (38-Pin)",
-    "slug": "esp32-screw-terminal-breakout-board-38-pin",
-    "sku": "HIT-41-015",
-    "brand": "Hi Technology",
-    "category": "IoT Enclosures, HATs and Accessories",
-    "subcategory": "IoT Enclosures, HATs and Accessories",
-    "shortDescription": "ESP32 Screw Terminal Breakout Board (38-Pin) - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade ESP32 Screw Terminal Breakout Board (38-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "ESP32 Screw Terminal Breakout Board (38-Pin)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-42-1",
-    "name": "EEPROM 24C32 (I2C)",
-    "slug": "eeprom-24c32-i2c",
-    "sku": "HIT-42-001",
-    "brand": "Hi Technology",
-    "category": "Specialty and Interface ICs",
-    "subcategory": "Specialty and Interface ICs",
-    "shortDescription": "EEPROM 24C32 (I2C) - Specialty and Interface ICs",
-    "description": "High-grade EEPROM 24C32 (I2C) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "EEPROM 24C32 (I2C)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-42-2",
-    "name": "EEPROM 24C256 (I2C)",
-    "slug": "eeprom-24c256-i2c",
-    "sku": "HIT-42-002",
-    "brand": "Hi Technology",
-    "category": "Specialty and Interface ICs",
-    "subcategory": "Specialty and Interface ICs",
-    "shortDescription": "EEPROM 24C256 (I2C) - Specialty and Interface ICs",
-    "description": "High-grade EEPROM 24C256 (I2C) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "EEPROM 24C256 (I2C)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-42-3",
-    "name": "SPI Flash Memory W25Q32",
-    "slug": "spi-flash-memory-w25q32",
-    "sku": "HIT-42-003",
-    "brand": "Hi Technology",
-    "category": "Specialty and Interface ICs",
-    "subcategory": "Specialty and Interface ICs",
-    "shortDescription": "SPI Flash Memory W25Q32 - Specialty and Interface ICs",
-    "description": "High-grade SPI Flash Memory W25Q32 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "SPI Flash Memory W25Q32",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-42-4",
-    "name": "74HC165 Shift Register",
-    "slug": "74hc165-shift-register",
-    "sku": "HIT-42-004",
-    "brand": "Hi Technology",
-    "category": "Specialty and Interface ICs",
-    "subcategory": "Specialty and Interface ICs",
-    "shortDescription": "74HC165 Shift Register - Specialty and Interface ICs",
-    "description": "High-grade 74HC165 Shift Register selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "74HC165 Shift Register",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-42-5",
     "name": "TDA2030 Audio Amplifier IC",
     "slug": "tda2030-audio-amplifier-ic",
@@ -30165,13 +20935,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/specialty-and-interface-ics/tda2030-audio-amplifier-ic.jpeg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/tda2030-audio-amplifier-ic.jpeg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -30187,127 +20957,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "specialty-and-interface-ics",
       "electronics",
       "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-42-6",
-    "name": "PAM8403 Class-D Amplifier IC",
-    "slug": "pam8403-class-d-amplifier-ic",
-    "sku": "HIT-42-006",
-    "brand": "Hi Technology",
-    "category": "Specialty and Interface ICs",
-    "subcategory": "Specialty and Interface ICs",
-    "shortDescription": "PAM8403 Class-D Amplifier IC - Specialty and Interface ICs",
-    "description": "High-grade PAM8403 Class-D Amplifier IC selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "PAM8403 Class-D Amplifier IC",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-42-7",
-    "name": "MAX485 RS485 Driver IC",
-    "slug": "max485-rs485-driver-ic",
-    "sku": "HIT-42-007",
-    "brand": "Hi Technology",
-    "category": "Specialty and Interface ICs",
-    "subcategory": "Specialty and Interface ICs",
-    "shortDescription": "MAX485 RS485 Driver IC - Specialty and Interface ICs",
-    "description": "High-grade MAX485 RS485 Driver IC selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "MAX485 RS485 Driver IC",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-42-8",
-    "name": "INA128 Instrumentation Amplifier IC",
-    "slug": "ina128-instrumentation-amplifier-ic",
-    "sku": "HIT-42-008",
-    "brand": "Hi Technology",
-    "category": "Specialty and Interface ICs",
-    "subcategory": "Specialty and Interface ICs",
-    "shortDescription": "INA128 Instrumentation Amplifier IC - Specialty and Interface ICs",
-    "description": "High-grade INA128 Instrumentation Amplifier IC selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "INA128 Instrumentation Amplifier IC",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -30326,13 +20976,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -30366,13 +21016,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/specialty-and-interface-ics/ams1117-33v-ldo-regulator-ic.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/ams1117-33v-ldo-regulator-ic.jpg"
     ],
     "status": "published",
     "isFeatured": true,
@@ -30407,13 +21057,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/specialty-and-interface-ics/tp4056-li-ion-charger-ic-bare-sop-8.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/tp4056-li-ion-charger-ic-bare-sop-8.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -30422,46 +21072,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "specifications": {
       "Category": "Specialty and Interface ICs",
       "Model": "TP4056 Li-ion Charger IC (Bare, SOP-8)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-42-12",
-    "name": "74HC08 Quad AND Gate",
-    "slug": "74hc08-quad-and-gate",
-    "sku": "HIT-42-012",
-    "brand": "Hi Technology",
-    "category": "Specialty and Interface ICs",
-    "subcategory": "Specialty and Interface ICs",
-    "shortDescription": "74HC08 Quad AND Gate - Specialty and Interface ICs",
-    "description": "High-grade 74HC08 Quad AND Gate selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "74HC08 Quad AND Gate",
       "RoHS Compliant": "Yes"
     },
     "tags": [
@@ -30487,13 +21097,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 1500,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/robot-chassis-and-platform-kits/2wd-robot-car-chassis-kit.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/2wd-robot-car-chassis-kit.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -30528,13 +21138,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 1500,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/robot-chassis-and-platform-kits/4wd-robot-car-chassis-kit.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/4wd-robot-car-chassis-kit.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -30569,13 +21179,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 813,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/robot-chassis-and-platform-kits/tank-caterpillar-chassis-kit.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/tank-caterpillar-chassis-kit.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -30596,86 +21206,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-43-4",
-    "name": "Mecanum Wheel Robot Kit",
-    "slug": "mecanum-wheel-robot-kit",
-    "sku": "HIT-43-004",
-    "brand": "Hi Technology",
-    "category": "Robot Chassis and Platform Kits",
-    "subcategory": "Robot Chassis and Platform Kits",
-    "shortDescription": "Mecanum Wheel Robot Kit - Robot Chassis and Platform Kits",
-    "description": "High-grade Mecanum Wheel Robot Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 1200,
-    "originalPrice": 1500,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Mecanum Wheel Robot Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-43-5",
-    "name": "Smart Car Chassis with Encoder Motors",
-    "slug": "smart-car-chassis-with-encoder-motors",
-    "sku": "HIT-43-005",
-    "brand": "Hi Technology",
-    "category": "Robot Chassis and Platform Kits",
-    "subcategory": "Robot Chassis and Platform Kits",
-    "shortDescription": "Smart Car Chassis with Encoder Motors - Robot Chassis and Platform Kits",
-    "description": "High-grade Smart Car Chassis with Encoder Motors selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 650,
-    "originalPrice": 813,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Smart Car Chassis with Encoder Motors",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-43-6",
     "name": "Line Follower Robot Kit",
     "slug": "line-follower-robot-kit",
@@ -30689,13 +21219,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 1500,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/robot-chassis-and-platform-kits/line-follower-robot-kit.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/line-follower-robot-kit.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -30729,13 +21259,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 1500,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/robot-chassis-and-platform-kits/obstacle-avoider-robot-kit.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/obstacle-avoider-robot-kit.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -30756,86 +21286,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-43-8",
-    "name": "Robotic Arm Kit (4-DOF)",
-    "slug": "robotic-arm-kit-4-dof",
-    "sku": "HIT-43-008",
-    "brand": "Hi Technology",
-    "category": "Robot Chassis and Platform Kits",
-    "subcategory": "Robot Chassis and Platform Kits",
-    "shortDescription": "Robotic Arm Kit (4-DOF) - Robot Chassis and Platform Kits",
-    "description": "High-grade Robotic Arm Kit (4-DOF) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 3400,
-    "originalPrice": 4250,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Robotic Arm Kit (4-DOF)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-43-9",
-    "name": "Robotic Arm Kit (6-DOF)",
-    "slug": "robotic-arm-kit-6-dof",
-    "sku": "HIT-43-009",
-    "brand": "Hi Technology",
-    "category": "Robot Chassis and Platform Kits",
-    "subcategory": "Robot Chassis and Platform Kits",
-    "shortDescription": "Robotic Arm Kit (6-DOF) - Robot Chassis and Platform Kits",
-    "description": "High-grade Robotic Arm Kit (6-DOF) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 3400,
-    "originalPrice": 4250,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Robotic Arm Kit (6-DOF)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-43-10",
     "name": "Self-Balancing Robot Kit",
     "slug": "self-balancing-robot-kit",
@@ -30849,13 +21299,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 1500,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/robot-chassis-and-platform-kits/self-balancing-robot-kit.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/self-balancing-robot-kit.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -30876,166 +21326,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-43-11",
-    "name": "Spider / Hexapod Robot Kit",
-    "slug": "spider-hexapod-robot-kit",
-    "sku": "HIT-43-011",
-    "brand": "Hi Technology",
-    "category": "Robot Chassis and Platform Kits",
-    "subcategory": "Robot Chassis and Platform Kits",
-    "shortDescription": "Spider / Hexapod Robot Kit - Robot Chassis and Platform Kits",
-    "description": "High-grade Spider / Hexapod Robot Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 1200,
-    "originalPrice": 1500,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Spider / Hexapod Robot Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-43-12",
-    "name": "Bluetooth Controlled Car Kit",
-    "slug": "bluetooth-controlled-car-kit",
-    "sku": "HIT-43-012",
-    "brand": "Hi Technology",
-    "category": "Robot Chassis and Platform Kits",
-    "subcategory": "Robot Chassis and Platform Kits",
-    "shortDescription": "Bluetooth Controlled Car Kit - Robot Chassis and Platform Kits",
-    "description": "High-grade Bluetooth Controlled Car Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 650,
-    "originalPrice": 813,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Bluetooth Controlled Car Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-43-13",
-    "name": "Solar Tracker Kit",
-    "slug": "solar-tracker-kit",
-    "sku": "HIT-43-013",
-    "brand": "Hi Technology",
-    "category": "Robot Chassis and Platform Kits",
-    "subcategory": "Robot Chassis and Platform Kits",
-    "shortDescription": "Solar Tracker Kit - Robot Chassis and Platform Kits",
-    "description": "High-grade Solar Tracker Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 650,
-    "originalPrice": 813,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Solar Tracker Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-43-14",
-    "name": "Wheel Encoder Disc Set",
-    "slug": "wheel-encoder-disc-set",
-    "sku": "HIT-43-014",
-    "brand": "Hi Technology",
-    "category": "Robot Chassis and Platform Kits",
-    "subcategory": "Robot Chassis and Platform Kits",
-    "shortDescription": "Wheel Encoder Disc Set - Robot Chassis and Platform Kits",
-    "description": "High-grade Wheel Encoder Disc Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 650,
-    "originalPrice": 813,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Wheel Encoder Disc Set",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-43-15",
     "name": "Caster Wheel (Ball Wheel) for Robots",
     "slug": "caster-wheel-ball-wheel-for-robots",
@@ -31049,13 +21339,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 1500,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/robot-chassis-and-platform-kits/caster-wheel-ball-wheel-for-robots.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/caster-wheel-ball-wheel-for-robots.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -32089,13 +22379,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/connectors-headers-and-sockets/dc-barrel-plug-male.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/connectors-headers-and-sockets/dc-barrel-plug-male.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -32116,246 +22406,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-45-2",
-    "name": "Screw Terminal Block 2-Pin",
-    "slug": "screw-terminal-block-2-pin",
-    "sku": "HIT-45-002",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Screw Terminal Block 2-Pin - Connectors, Headers and Sockets",
-    "description": "High-grade Screw Terminal Block 2-Pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Screw Terminal Block 2-Pin",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-3",
-    "name": "Screw Terminal Block 3-Pin",
-    "slug": "screw-terminal-block-3-pin",
-    "sku": "HIT-45-003",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Screw Terminal Block 3-Pin - Connectors, Headers and Sockets",
-    "description": "High-grade Screw Terminal Block 3-Pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Screw Terminal Block 3-Pin",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-4",
-    "name": "Molex Connector Set",
-    "slug": "molex-connector-set",
-    "sku": "HIT-45-004",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Molex Connector Set - Connectors, Headers and Sockets",
-    "description": "High-grade Molex Connector Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Molex Connector Set",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-5",
-    "name": "USB Type-A Female Connector (Breakout)",
-    "slug": "usb-type-a-female-connector-breakout",
-    "sku": "HIT-45-005",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "USB Type-A Female Connector (Breakout) - Connectors, Headers and Sockets",
-    "description": "High-grade USB Type-A Female Connector (Breakout) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "USB Type-A Female Connector (Breakout)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-6",
-    "name": "USB Type-C Female Connector (Breakout)",
-    "slug": "usb-type-c-female-connector-breakout",
-    "sku": "HIT-45-006",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "USB Type-C Female Connector (Breakout) - Connectors, Headers and Sockets",
-    "description": "High-grade USB Type-C Female Connector (Breakout) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "USB Type-C Female Connector (Breakout)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-7",
-    "name": "Micro USB Female Connector (Breakout)",
-    "slug": "micro-usb-female-connector-breakout",
-    "sku": "HIT-45-007",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Micro USB Female Connector (Breakout) - Connectors, Headers and Sockets",
-    "description": "High-grade Micro USB Female Connector (Breakout) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Micro USB Female Connector (Breakout)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-45-8",
     "name": "Male Pin Header (Straight, 40-Pin)",
     "slug": "male-pin-header-straight-40-pin",
@@ -32369,13 +22419,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/connectors-headers-and-sockets/male-pin-header-straight-40-pin.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/connectors-headers-and-sockets/male-pin-header-straight-40-pin.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -32409,13 +22459,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/connectors-headers-and-sockets/female-pin-header-straight-40-pin.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/connectors-headers-and-sockets/female-pin-header-straight-40-pin.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -32436,366 +22486,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-45-10",
-    "name": "Right-Angle Pin Header (40-Pin)",
-    "slug": "right-angle-pin-header-40-pin",
-    "sku": "HIT-45-010",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Right-Angle Pin Header (40-Pin) - Connectors, Headers and Sockets",
-    "description": "High-grade Right-Angle Pin Header (40-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": true,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Right-Angle Pin Header (40-Pin)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-11",
-    "name": "IC Socket DIP-8",
-    "slug": "ic-socket-dip-8",
-    "sku": "HIT-45-011",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "IC Socket DIP-8 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-8 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-8",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-12",
-    "name": "IC Socket DIP-14",
-    "slug": "ic-socket-dip-14",
-    "sku": "HIT-45-012",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "IC Socket DIP-14 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-14 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-14",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-13",
-    "name": "IC Socket DIP-16",
-    "slug": "ic-socket-dip-16",
-    "sku": "HIT-45-013",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "IC Socket DIP-16 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-16 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-16",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-14",
-    "name": "IC Socket DIP-18",
-    "slug": "ic-socket-dip-18",
-    "sku": "HIT-45-014",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "IC Socket DIP-18 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-18 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-18",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-15",
-    "name": "IC Socket DIP-20",
-    "slug": "ic-socket-dip-20",
-    "sku": "HIT-45-015",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "IC Socket DIP-20 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-20 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 5,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-20",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-16",
-    "name": "IC Socket DIP-28",
-    "slug": "ic-socket-dip-28",
-    "sku": "HIT-45-016",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "IC Socket DIP-28 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-28 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 8,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-28",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-17",
-    "name": "IC Socket DIP-40",
-    "slug": "ic-socket-dip-40",
-    "sku": "HIT-45-017",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "IC Socket DIP-40 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-40 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-40",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-18",
-    "name": "Relay Socket (8-Pin)",
-    "slug": "relay-socket-8-pin",
-    "sku": "HIT-45-018",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Relay Socket (8-Pin) - Connectors, Headers and Sockets",
-    "description": "High-grade Relay Socket (8-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 14,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Relay Socket (8-Pin)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-45-19",
     "name": "18650 Battery Holder (Single Cell)",
     "slug": "18650-battery-holder-single-cell",
@@ -32809,13 +22499,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/connectors-headers-and-sockets/18650-battery-holder-single-cell.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/connectors-headers-and-sockets/18650-battery-holder-single-cell.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -32830,7 +22520,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "connectors-headers-and-sockets",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -32849,13 +22539,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/connectors-headers-and-sockets/18650-battery-holder-2-cell.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/connectors-headers-and-sockets/18650-battery-holder-2-cell.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -32876,206 +22566,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-45-21",
-    "name": "Banana Plug Connector Set",
-    "slug": "banana-plug-connector-set",
-    "sku": "HIT-45-021",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Banana Plug Connector Set - Connectors, Headers and Sockets",
-    "description": "High-grade Banana Plug Connector Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Banana Plug Connector Set",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-22",
-    "name": "RCA Connector Set",
-    "slug": "rca-connector-set",
-    "sku": "HIT-45-022",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "RCA Connector Set - Connectors, Headers and Sockets",
-    "description": "High-grade RCA Connector Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "RCA Connector Set",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-23",
-    "name": "Ring Terminal Connector Set",
-    "slug": "ring-terminal-connector-set",
-    "sku": "HIT-45-023",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Ring Terminal Connector Set - Connectors, Headers and Sockets",
-    "description": "High-grade Ring Terminal Connector Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Ring Terminal Connector Set",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-24",
-    "name": "Spade Terminal Connector Set",
-    "slug": "spade-terminal-connector-set",
-    "sku": "HIT-45-024",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Spade Terminal Connector Set - Connectors, Headers and Sockets",
-    "description": "High-grade Spade Terminal Connector Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Spade Terminal Connector Set",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-45-25",
-    "name": "Wire-to-Board Connector Kit (JST-SM)",
-    "slug": "wire-to-board-connector-kit-jst-sm",
-    "sku": "HIT-45-025",
-    "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Wire-to-Board Connector Kit (JST-SM) - Connectors, Headers and Sockets",
-    "description": "High-grade Wire-to-Board Connector Kit (JST-SM) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Wire-to-Board Connector Kit (JST-SM)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-46-1",
     "name": "18650 Li-ion Cell (3.7V, 2600mAh)",
     "slug": "18650-li-ion-cell-37v-2600mah",
@@ -33089,13 +22579,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/18650-li-ion-cell-37v-2600mah.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/18650-li-ion-cell-37v-2600mah.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33131,13 +22621,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/cr2032-coin-cell-battery.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/cr2032-coin-cell-battery.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33171,13 +22661,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/aa-battery-15v.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/aa-battery-15v.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33212,13 +22702,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/aaa-battery-15v.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/aaa-battery-15v.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33253,13 +22743,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/aaa-battery-holder-4-cell.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/aaa-battery-holder-4-cell.jpg"
     ],
     "status": "published",
     "isFeatured": true,
@@ -33293,13 +22783,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/coin-cell-holder-cr2032.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/coin-cell-holder-cr2032.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33333,13 +22823,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/li-po-battery-37v-500mah.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/li-po-battery-37v-500mah.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33375,13 +22865,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/li-po-battery-37v-1000mah.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/li-po-battery-37v-1000mah.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33417,13 +22907,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/battery-balance-charger-2-3s.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/battery-balance-charger-2-3s.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33444,48 +22934,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-46-10",
-    "name": "Small Solar Cell (5V, 100mA)",
-    "slug": "small-solar-cell-5v-100ma",
-    "sku": "HIT-46-010",
-    "brand": "Hi Technology",
-    "category": "Batteries, Cells and Holders",
-    "subcategory": "Batteries, Cells and Holders",
-    "shortDescription": "Small Solar Cell (5V, 100mA) - Batteries, Cells and Holders",
-    "description": "High-grade Small Solar Cell (5V, 100mA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 45,
-    "originalPrice": 56,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Batteries, Cells and Holders",
-      "Model": "Small Solar Cell (5V, 100mA)",
-      "Voltage": "5V",
-      "Current Rating": "100mA",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "batteries-cells-and-holders",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-46-11",
     "name": "Battery Level Indicator Module",
     "slug": "battery-level-indicator-module",
@@ -33499,13 +22947,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/battery-level-indicator-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/battery-level-indicator-module.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33539,13 +22987,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/18650-battery-charger-single-bay.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/18650-battery-charger-single-bay.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33579,13 +23027,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 56,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/batteries-cells-and-holders/rechargeable-nimh-battery-aa.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/rechargeable-nimh-battery-aa.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33619,13 +23067,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 6500,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/test-and-measurement-equipment/bench-power-supply-0-30v-adjustable.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/test-and-measurement-equipment/bench-power-supply-0-30v-adjustable.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33647,46 +23095,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-47-2",
-    "name": "Function Generator Module",
-    "slug": "function-generator-module",
-    "sku": "HIT-47-002",
-    "brand": "Hi Technology",
-    "category": "Test and Measurement Equipment",
-    "subcategory": "Test and Measurement Equipment",
-    "shortDescription": "Function Generator Module - Test and Measurement Equipment",
-    "description": "High-grade Function Generator Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 11,
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Function Generator Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-47-3",
     "name": "Transistor / Component Tester",
     "slug": "transistor-component-tester",
@@ -33700,13 +23108,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/test-and-measurement-equipment/transistor-component-tester.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/test-and-measurement-equipment/transistor-component-tester.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33727,86 +23135,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-47-4",
-    "name": "LCR Meter",
-    "slug": "lcr-meter",
-    "sku": "HIT-47-004",
-    "brand": "Hi Technology",
-    "category": "Test and Measurement Equipment",
-    "subcategory": "Test and Measurement Equipment",
-    "shortDescription": "LCR Meter - Test and Measurement Equipment",
-    "description": "High-grade LCR Meter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "LCR Meter",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-47-5",
-    "name": "ESR Meter",
-    "slug": "esr-meter",
-    "sku": "HIT-47-005",
-    "brand": "Hi Technology",
-    "category": "Test and Measurement Equipment",
-    "subcategory": "Test and Measurement Equipment",
-    "shortDescription": "ESR Meter - Test and Measurement Equipment",
-    "description": "High-grade ESR Meter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "ESR Meter",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-47-6",
     "name": "Breadboard Power Supply Module (3.3V/5V)",
     "slug": "breadboard-power-supply-module-33v5v",
@@ -33820,13 +23148,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/test-and-measurement-equipment/breadboard-power-supply-module-33v5v.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/test-and-measurement-equipment/breadboard-power-supply-module-33v5v.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -33848,246 +23176,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-47-7",
-    "name": "Oscilloscope Probe Set",
-    "slug": "oscilloscope-probe-set",
-    "sku": "HIT-47-007",
-    "brand": "Hi Technology",
-    "category": "Test and Measurement Equipment",
-    "subcategory": "Test and Measurement Equipment",
-    "shortDescription": "Oscilloscope Probe Set - Test and Measurement Equipment",
-    "description": "High-grade Oscilloscope Probe Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 4800,
-    "originalPrice": 6000,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Oscilloscope Probe Set",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-47-8",
-    "name": "Current Clamp Meter",
-    "slug": "current-clamp-meter",
-    "sku": "HIT-47-008",
-    "brand": "Hi Technology",
-    "category": "Test and Measurement Equipment",
-    "subcategory": "Test and Measurement Equipment",
-    "shortDescription": "Current Clamp Meter - Test and Measurement Equipment",
-    "description": "High-grade Current Clamp Meter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Current Clamp Meter",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-47-9",
-    "name": "Insulation Resistance Tester",
-    "slug": "insulation-resistance-tester",
-    "sku": "HIT-47-009",
-    "brand": "Hi Technology",
-    "category": "Test and Measurement Equipment",
-    "subcategory": "Test and Measurement Equipment",
-    "shortDescription": "Insulation Resistance Tester - Test and Measurement Equipment",
-    "description": "High-grade Insulation Resistance Tester selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Insulation Resistance Tester",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-47-10",
-    "name": "Signal Injector / Tracer",
-    "slug": "signal-injector-tracer",
-    "sku": "HIT-47-010",
-    "brand": "Hi Technology",
-    "category": "Test and Measurement Equipment",
-    "subcategory": "Test and Measurement Equipment",
-    "shortDescription": "Signal Injector / Tracer - Test and Measurement Equipment",
-    "description": "High-grade Signal Injector / Tracer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Signal Injector / Tracer",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-47-11",
-    "name": "Frequency Counter Module",
-    "slug": "frequency-counter-module",
-    "sku": "HIT-47-011",
-    "brand": "Hi Technology",
-    "category": "Test and Measurement Equipment",
-    "subcategory": "Test and Measurement Equipment",
-    "shortDescription": "Frequency Counter Module - Test and Measurement Equipment",
-    "description": "High-grade Frequency Counter Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Frequency Counter Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-47-12",
-    "name": "Continuity Tester",
-    "slug": "continuity-tester",
-    "sku": "HIT-47-012",
-    "brand": "Hi Technology",
-    "category": "Test and Measurement Equipment",
-    "subcategory": "Test and Measurement Equipment",
-    "shortDescription": "Continuity Tester - Test and Measurement Equipment",
-    "description": "High-grade Continuity Tester selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Continuity Tester",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-47-13",
     "name": "Cable and Network Tester",
     "slug": "cable-and-network-tester",
@@ -34101,13 +23189,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 188,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/test-and-measurement-equipment/cable-and-network-tester.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/test-and-measurement-equipment/cable-and-network-tester.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -34128,46 +23216,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-47-14",
-    "name": "Anti-Static Wrist Strap",
-    "slug": "anti-static-wrist-strap",
-    "sku": "HIT-47-014",
-    "brand": "Hi Technology",
-    "category": "Test and Measurement Equipment",
-    "subcategory": "Test and Measurement Equipment",
-    "shortDescription": "Anti-Static Wrist Strap - Test and Measurement Equipment",
-    "description": "High-grade Anti-Static Wrist Strap selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 150,
-    "originalPrice": 188,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Anti-Static Wrist Strap",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-48-1",
     "name": "Speaker 8 ohm (Small, 1-2W)",
     "slug": "speaker-8-ohm-small-1-2w",
@@ -34181,13 +23229,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/audio-components/speaker-8-ohm-small-1-2w.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/speaker-8-ohm-small-1-2w.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -34223,13 +23271,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/audio-components/speaker-4-ohm-small-3w.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/speaker-4-ohm-small-3w.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -34265,13 +23313,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/audio-components/electret-microphone-capsule.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/electret-microphone-capsule.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -34280,46 +23328,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "specifications": {
       "Category": "Audio Components",
       "Model": "Electret Microphone Capsule",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "audio-components",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-48-4",
-    "name": "MAX9814 Microphone Amplifier Module",
-    "slug": "max9814-microphone-amplifier-module",
-    "sku": "HIT-48-004",
-    "brand": "Hi Technology",
-    "category": "Audio Components",
-    "subcategory": "Audio Components",
-    "shortDescription": "MAX9814 Microphone Amplifier Module - Audio Components",
-    "description": "High-grade MAX9814 Microphone Amplifier Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Audio Components",
-      "Model": "MAX9814 Microphone Amplifier Module",
       "RoHS Compliant": "Yes"
     },
     "tags": [
@@ -34345,13 +23353,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/audio-components/bluetooth-audio-receiver-module.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/bluetooth-audio-receiver-module.png"
     ],
     "status": "published",
     "isFeatured": true,
@@ -34385,13 +23393,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/audio-components/tda2030-amplifier-board.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/tda2030-amplifier-board.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -34426,13 +23434,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/audio-components/pam8403-amplifier-board.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/pam8403-amplifier-board.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -34454,166 +23462,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-48-8",
-    "name": "MP3 Player Module (Standalone)",
-    "slug": "mp3-player-module-standalone",
-    "sku": "HIT-48-008",
-    "brand": "Hi Technology",
-    "category": "Audio Components",
-    "subcategory": "Audio Components",
-    "shortDescription": "MP3 Player Module (Standalone) - Audio Components",
-    "description": "High-grade MP3 Player Module (Standalone) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Audio Components",
-      "Model": "MP3 Player Module (Standalone)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "audio-components",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-48-9",
-    "name": "Piezo Speaker / Buzzer Element",
-    "slug": "piezo-speaker-buzzer-element",
-    "sku": "HIT-48-009",
-    "brand": "Hi Technology",
-    "category": "Audio Components",
-    "subcategory": "Audio Components",
-    "shortDescription": "Piezo Speaker / Buzzer Element - Audio Components",
-    "description": "High-grade Piezo Speaker / Buzzer Element selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Audio Components",
-      "Model": "Piezo Speaker / Buzzer Element",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "audio-components",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-48-10",
-    "name": "Audio Isolation Transformer",
-    "slug": "audio-isolation-transformer",
-    "sku": "HIT-48-010",
-    "brand": "Hi Technology",
-    "category": "Audio Components",
-    "subcategory": "Audio Components",
-    "shortDescription": "Audio Isolation Transformer - Audio Components",
-    "description": "High-grade Audio Isolation Transformer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Audio Components",
-      "Model": "Audio Isolation Transformer",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "audio-components",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-48-11",
-    "name": "Headphone Jack Breakout Module",
-    "slug": "headphone-jack-breakout-module",
-    "sku": "HIT-48-011",
-    "brand": "Hi Technology",
-    "category": "Audio Components",
-    "subcategory": "Audio Components",
-    "shortDescription": "Headphone Jack Breakout Module - Audio Components",
-    "description": "High-grade Headphone Jack Breakout Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 99,
-    "originalPrice": 124,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Audio Components",
-      "Model": "Headphone Jack Breakout Module",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "audio-components",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-48-12",
     "name": "Stereo Audio Amplifier Board (2x3W)",
     "slug": "stereo-audio-amplifier-board-2x3w",
@@ -34627,13 +23475,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 124,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/audio-components/stereo-audio-amplifier-board-2x3w.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/stereo-audio-amplifier-board-2x3w.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -34649,7 +23497,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "audio-components",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -35283,13 +24131,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 225,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/enclosures-and-project-boxes/plastic-project-box-small-60x40x25mm.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/plastic-project-box-small-60x40x25mm.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -35323,13 +24171,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 225,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/enclosures-and-project-boxes/plastic-project-box-medium-100x60x25mm.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/plastic-project-box-medium-100x60x25mm.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -35363,13 +24211,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 225,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/enclosures-and-project-boxes/plastic-project-box-large-150x100x50mm.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/plastic-project-box-large-150x100x50mm.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -35403,13 +24251,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 225,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/enclosures-and-project-boxes/aluminum-enclosure-box.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/aluminum-enclosure-box.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -35424,47 +24272,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "enclosures-and-project-boxes",
       "electronics",
       "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-50-5",
-    "name": "ABS Junction Box (Weatherproof)",
-    "slug": "abs-junction-box-weatherproof",
-    "sku": "HIT-50-005",
-    "brand": "Hi Technology",
-    "category": "Enclosures and Project Boxes",
-    "subcategory": "Enclosures and Project Boxes",
-    "shortDescription": "ABS Junction Box (Weatherproof) - Enclosures and Project Boxes",
-    "description": "High-grade ABS Junction Box (Weatherproof) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 180,
-    "originalPrice": 225,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "ABS Junction Box (Weatherproof)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
+      "in-stock"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"
@@ -35483,13 +24291,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 225,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/enclosures-and-project-boxes/arduino-uno-enclosure-case.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/arduino-uno-enclosure-case.jpg"
     ],
     "status": "published",
     "isFeatured": false,
@@ -35510,246 +24318,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-50-7",
-    "name": "Raspberry Pi Enclosure Case (Pi 4)",
-    "slug": "raspberry-pi-enclosure-case-pi-4",
-    "sku": "HIT-50-007",
-    "brand": "Hi Technology",
-    "category": "Enclosures and Project Boxes",
-    "subcategory": "Enclosures and Project Boxes",
-    "shortDescription": "Raspberry Pi Enclosure Case (Pi 4) - Enclosures and Project Boxes",
-    "description": "High-grade Raspberry Pi Enclosure Case (Pi 4) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 180,
-    "originalPrice": 225,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 26,
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "Raspberry Pi Enclosure Case (Pi 4)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-50-8",
-    "name": "Battery Compartment Box",
-    "slug": "battery-compartment-box",
-    "sku": "HIT-50-008",
-    "brand": "Hi Technology",
-    "category": "Enclosures and Project Boxes",
-    "subcategory": "Enclosures and Project Boxes",
-    "shortDescription": "Battery Compartment Box - Enclosures and Project Boxes",
-    "description": "High-grade Battery Compartment Box selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 180,
-    "originalPrice": 225,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "Battery Compartment Box",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-50-9",
-    "name": "Clear Acrylic Sheet (for Enclosures)",
-    "slug": "clear-acrylic-sheet-for-enclosures",
-    "sku": "HIT-50-009",
-    "brand": "Hi Technology",
-    "category": "Enclosures and Project Boxes",
-    "subcategory": "Enclosures and Project Boxes",
-    "shortDescription": "Clear Acrylic Sheet (for Enclosures) - Enclosures and Project Boxes",
-    "description": "High-grade Clear Acrylic Sheet (for Enclosures) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 180,
-    "originalPrice": 225,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "Clear Acrylic Sheet (for Enclosures)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-50-10",
-    "name": "Project Box with Battery Compartment",
-    "slug": "project-box-with-battery-compartment",
-    "sku": "HIT-50-010",
-    "brand": "Hi Technology",
-    "category": "Enclosures and Project Boxes",
-    "subcategory": "Enclosures and Project Boxes",
-    "shortDescription": "Project Box with Battery Compartment - Enclosures and Project Boxes",
-    "description": "High-grade Project Box with Battery Compartment selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 180,
-    "originalPrice": 225,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "Project Box with Battery Compartment",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-50-11",
-    "name": "DIN Rail Enclosure (for Electronics)",
-    "slug": "din-rail-enclosure-for-electronics",
-    "sku": "HIT-50-011",
-    "brand": "Hi Technology",
-    "category": "Enclosures and Project Boxes",
-    "subcategory": "Enclosures and Project Boxes",
-    "shortDescription": "DIN Rail Enclosure (for Electronics) - Enclosures and Project Boxes",
-    "description": "High-grade DIN Rail Enclosure (for Electronics) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 180,
-    "originalPrice": 225,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 38,
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "DIN Rail Enclosure (for Electronics)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-50-12",
-    "name": "Perforated Metal Chassis Box",
-    "slug": "perforated-metal-chassis-box",
-    "sku": "HIT-50-012",
-    "brand": "Hi Technology",
-    "category": "Enclosures and Project Boxes",
-    "subcategory": "Enclosures and Project Boxes",
-    "shortDescription": "Perforated Metal Chassis Box - Enclosures and Project Boxes",
-    "description": "High-grade Perforated Metal Chassis Box selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 180,
-    "originalPrice": 225,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "Perforated Metal Chassis Box",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-51-1",
     "name": "Veroboard / Stripboard",
     "slug": "veroboard-stripboard",
@@ -35763,13 +24331,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/prototyping-and-wiring-supplies/veroboard-stripboard.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/veroboard-stripboard.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -35803,13 +24371,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/prototyping-and-wiring-supplies/dot-pcb-board-single-sided.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/dot-pcb-board-single-sided.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -35843,13 +24411,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/prototyping-and-wiring-supplies/dot-pcb-board-double-sided.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/dot-pcb-board-double-sided.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -35870,126 +24438,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-51-4",
-    "name": "Solder Mask Pen",
-    "slug": "solder-mask-pen",
-    "sku": "HIT-51-004",
-    "brand": "Hi Technology",
-    "category": "Prototyping and Wiring Supplies",
-    "subcategory": "Prototyping and Wiring Supplies",
-    "shortDescription": "Solder Mask Pen - Prototyping and Wiring Supplies",
-    "description": "High-grade Solder Mask Pen selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 17,
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Solder Mask Pen",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-51-5",
-    "name": "Flux Pen",
-    "slug": "flux-pen",
-    "sku": "HIT-51-005",
-    "brand": "Hi Technology",
-    "category": "Prototyping and Wiring Supplies",
-    "subcategory": "Prototyping and Wiring Supplies",
-    "shortDescription": "Flux Pen - Prototyping and Wiring Supplies",
-    "description": "High-grade Flux Pen selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 20,
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Flux Pen",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-51-6",
-    "name": "Desoldering Braid / Wick",
-    "slug": "desoldering-braid-wick",
-    "sku": "HIT-51-006",
-    "brand": "Hi Technology",
-    "category": "Prototyping and Wiring Supplies",
-    "subcategory": "Prototyping and Wiring Supplies",
-    "shortDescription": "Desoldering Braid / Wick - Prototyping and Wiring Supplies",
-    "description": "High-grade Desoldering Braid / Wick selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.6,
-    "reviewCount": 23,
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Desoldering Braid / Wick",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-51-7",
     "name": "Heat Shrink Tubing Assortment Kit",
     "slug": "heat-shrink-tubing-assortment-kit",
@@ -36003,13 +24451,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/prototyping-and-wiring-supplies/heat-shrink-tubing-assortment-kit.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/heat-shrink-tubing-assortment-kit.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -36030,126 +24478,6 @@ export const pdfAdminProducts: AdminProduct[] = [
     "updatedAt": "2026-11-02T12:00:00Z"
   },
   {
-    "id": "prod-51-8",
-    "name": "Braided Cable Sleeving",
-    "slug": "braided-cable-sleeving",
-    "sku": "HIT-51-008",
-    "brand": "Hi Technology",
-    "category": "Prototyping and Wiring Supplies",
-    "subcategory": "Prototyping and Wiring Supplies",
-    "shortDescription": "Braided Cable Sleeving - Prototyping and Wiring Supplies",
-    "description": "High-grade Braided Cable Sleeving selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 29,
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Braided Cable Sleeving",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-51-9",
-    "name": "Wire Wrap Wire Spool",
-    "slug": "wire-wrap-wire-spool",
-    "sku": "HIT-51-009",
-    "brand": "Hi Technology",
-    "category": "Prototyping and Wiring Supplies",
-    "subcategory": "Prototyping and Wiring Supplies",
-    "shortDescription": "Wire Wrap Wire Spool - Prototyping and Wiring Supplies",
-    "description": "High-grade Wire Wrap Wire Spool selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 32,
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Wire Wrap Wire Spool",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-51-10",
-    "name": "Magnet Wire Spool (Assorted Gauge)",
-    "slug": "magnet-wire-spool-assorted-gauge",
-    "sku": "HIT-51-010",
-    "brand": "Hi Technology",
-    "category": "Prototyping and Wiring Supplies",
-    "subcategory": "Prototyping and Wiring Supplies",
-    "shortDescription": "Magnet Wire Spool (Assorted Gauge) - Prototyping and Wiring Supplies",
-    "description": "High-grade Magnet Wire Spool (Assorted Gauge) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.5,
-    "reviewCount": 35,
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Magnet Wire Spool (Assorted Gauge)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
     "id": "prod-51-11",
     "name": "Ribbon Cable (10-Way)",
     "slug": "ribbon-cable-10-way",
@@ -36163,13 +24491,13 @@ export const pdfAdminProducts: AdminProduct[] = [
     "originalPrice": 44,
     "discountPercentage": 20,
     "taxRate": 18,
-    "stock": 0,
+    "stock": 25,
     "reservedStock": 0,
     "lowStockThreshold": 10,
     "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primaryImage": "/images/products/prototyping-and-wiring-supplies/ribbon-cable-10-way.png",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/ribbon-cable-10-way.png"
     ],
     "status": "published",
     "isFeatured": false,
@@ -36185,126 +24513,6 @@ export const pdfAdminProducts: AdminProduct[] = [
       "electronics",
       "components",
       "in-stock"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-51-12",
-    "name": "Ribbon Cable (20-Way)",
-    "slug": "ribbon-cable-20-way",
-    "sku": "HIT-51-012",
-    "brand": "Hi Technology",
-    "category": "Prototyping and Wiring Supplies",
-    "subcategory": "Prototyping and Wiring Supplies",
-    "shortDescription": "Ribbon Cable (20-Way) - Prototyping and Wiring Supplies",
-    "description": "High-grade Ribbon Cable (20-Way) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.7,
-    "reviewCount": 41,
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Ribbon Cable (20-Way)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-51-13",
-    "name": "Anti-Static Bag Assortment",
-    "slug": "anti-static-bag-assortment",
-    "sku": "HIT-51-013",
-    "brand": "Hi Technology",
-    "category": "Prototyping and Wiring Supplies",
-    "subcategory": "Prototyping and Wiring Supplies",
-    "shortDescription": "Anti-Static Bag Assortment - Prototyping and Wiring Supplies",
-    "description": "High-grade Anti-Static Bag Assortment selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.8,
-    "reviewCount": 44,
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Anti-Static Bag Assortment",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ],
-    "createdAt": "2026-01-01T00:00:00Z",
-    "updatedAt": "2026-11-02T12:00:00Z"
-  },
-  {
-    "id": "prod-51-14",
-    "name": "PCB Vice / Holder (Third Hand with PCB Clamp)",
-    "slug": "pcb-vice-holder-third-hand-with-pcb-clamp",
-    "sku": "HIT-51-014",
-    "brand": "Hi Technology",
-    "category": "Prototyping and Wiring Supplies",
-    "subcategory": "Prototyping and Wiring Supplies",
-    "shortDescription": "PCB Vice / Holder (Third Hand with PCB Clamp) - Prototyping and Wiring Supplies",
-    "description": "High-grade PCB Vice / Holder (Third Hand with PCB Clamp) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "price": 35,
-    "originalPrice": 44,
-    "discountPercentage": 20,
-    "taxRate": 18,
-    "stock": 0,
-    "reservedStock": 0,
-    "lowStockThreshold": 10,
-    "warehouse": "Bangalore Hub A",
-    "primaryImage": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "galleryImages": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "status": "published",
-    "isFeatured": false,
-    "rating": 4.9,
-    "reviewCount": 47,
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "PCB Vice / Holder (Third Hand with PCB Clamp)",
-      "RoHS Compliant": "Yes"
-    },
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
     ],
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-11-02T12:00:00Z"

@@ -1,0 +1,26 @@
+[
+  {
+    "productId": "prod-42-10",
+    "originalFile": "AMS1117 3.3V LDO Regulator IC.jpg",
+    "webPath": "/images/products/specialty-and-interface-ics/ams1117-33v-ldo-regulator-ic.jpg",
+    "bytes": 186406
+  },
+  {
+    "productId": "prod-42-9",
+    "originalFile": "L293D Motor Driver IC (Bare, DIP-16).jpg",
+    "webPath": "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg",
+    "bytes": 139566
+  },
+  {
+    "productId": "prod-42-5",
+    "originalFile": "TDA2030 Audio Amplifier IC.jpeg",
+    "webPath": "/images/products/specialty-and-interface-ics/tda2030-audio-amplifier-ic.jpeg",
+    "bytes": 547680
+  },
+  {
+    "productId": "prod-42-11",
+    "originalFile": "TP4056 Li-ion Charger IC (Bare, SOP-8).jpg",
+    "webPath": "/images/products/specialty-and-interface-ics/tp4056-li-ion-charger-ic-bare-sop-8.jpg",
+    "bytes": 207521
+  }
+]

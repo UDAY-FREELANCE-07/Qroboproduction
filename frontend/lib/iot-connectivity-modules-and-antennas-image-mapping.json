@@ -1,0 +1,56 @@
+[
+  {
+    "productId": "prod-37-20",
+    "originalFile": "4G USB Dongle.png",
+    "webPath": "/images/products/iot-connectivity-modules-and-antennas/4g-usb-dongle.png",
+    "bytes": 1429733
+  },
+  {
+    "productId": "prod-37-5",
+    "originalFile": "Dragino LoRa Shield for Arduino.png",
+    "webPath": "/images/products/iot-connectivity-modules-and-antennas/dragino-lora-shield-for-arduino.png",
+    "bytes": 1899903
+  },
+  {
+    "productId": "prod-37-14",
+    "originalFile": "ESP-01 Programmer Adapter.png",
+    "webPath": "/images/products/iot-connectivity-modules-and-antennas/esp-01-programmer-adapter.png",
+    "bytes": 1960049
+  },
+  {
+    "productId": "prod-37-7",
+    "originalFile": "HC-12 433 MHz Serial Wireless Module.png",
+    "webPath": "/images/products/iot-connectivity-modules-and-antennas/hc-12-433-mhz-serial-wireless-module.png",
+    "bytes": 1913356
+  },
+  {
+    "productId": "prod-37-6",
+    "originalFile": "LoRa HAT for Raspberry Pi.png",
+    "webPath": "/images/products/iot-connectivity-modules-and-antennas/lora-hat-for-raspberry-pi.png",
+    "bytes": 2023625
+  },
+  {
+    "productId": "prod-37-4",
+    "originalFile": "RAK3172 LoRaWAN Module.png",
+    "webPath": "/images/products/iot-connectivity-modules-and-antennas/rak3172-lorawan-module.png",
+    "bytes": 2034617
+  },
+  {
+    "productId": "prod-37-1",
+    "originalFile": "RFM95W LoRa Module (868 915 MHz).png",
+    "webPath": "/images/products/iot-connectivity-modules-and-antennas/rfm95w-lora-module-868915-mhz.png",
+    "bytes": 2091206
+  },
+  {
+    "productId": "prod-37-10",
+    "originalFile": "SIM7000 NB-IoT  LTE-M Module.png",
+    "webPath": "/images/products/iot-connectivity-modules-and-antennas/sim7000-nb-iot-lte-m-module.png",
+    "bytes": 1967189
+  },
+  {
+    "productId": "prod-37-3",
+    "originalFile": "SX1262 LoRa Module.png",
+    "webPath": "/images/products/iot-connectivity-modules-and-antennas/sx1262-lora-module.png",
+    "bytes": 2205395
+  }
+]

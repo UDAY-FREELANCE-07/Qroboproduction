@@ -1,0 +1,74 @@
+[
+  {
+    "productId": "prod-46-12",
+    "originalFile": "18650 Battery Charger (Single Bay).jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/18650-battery-charger-single-bay.jpg",
+    "bytes": 14711
+  },
+  {
+    "productId": "prod-46-1",
+    "originalFile": "18650 Li-ion Cell (3.7V, 2600mAh).jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/18650-li-ion-cell-37v-2600mah.jpg",
+    "bytes": 8888
+  },
+  {
+    "productId": "prod-46-3",
+    "originalFile": "AA Battery (1.5V).jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/aa-battery-15v.jpg",
+    "bytes": 10837
+  },
+  {
+    "productId": "prod-46-4",
+    "originalFile": "AAA Battery (1.5V).jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/aaa-battery-15v.jpg",
+    "bytes": 11858
+  },
+  {
+    "productId": "prod-46-5",
+    "originalFile": "AAA Battery Holder (4-Cell).jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/aaa-battery-holder-4-cell.jpg",
+    "bytes": 20902
+  },
+  {
+    "productId": "prod-46-9",
+    "originalFile": "Battery Balance Charger (2-3S).jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/battery-balance-charger-2-3s.jpg",
+    "bytes": 21977
+  },
+  {
+    "productId": "prod-46-11",
+    "originalFile": "Battery Level Indicator Module.png",
+    "webPath": "/images/products/batteries-cells-and-holders/battery-level-indicator-module.png",
+    "bytes": 1823995
+  },
+  {
+    "productId": "prod-46-6",
+    "originalFile": "Coin Cell Holder (CR2032).jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/coin-cell-holder-cr2032.jpg",
+    "bytes": 9675
+  },
+  {
+    "productId": "prod-46-2",
+    "originalFile": "CR2032 Coin Cell Battery.jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/cr2032-coin-cell-battery.jpg",
+    "bytes": 9545
+  },
+  {
+    "productId": "prod-46-8",
+    "originalFile": "Li-Po Battery 3.7V 1000mAh.jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/li-po-battery-37v-1000mah.jpg",
+    "bytes": 19581
+  },
+  {
+    "productId": "prod-46-7",
+    "originalFile": "Li-Po Battery 3.7V 500mAh.jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/li-po-battery-37v-500mah.jpg",
+    "bytes": 15842
+  },
+  {
+    "productId": "prod-46-13",
+    "originalFile": "Rechargeable NiMH Battery (AA).jpg",
+    "webPath": "/images/products/batteries-cells-and-holders/rechargeable-nimh-battery-aa.jpg",
+    "bytes": 14683
+  }
+]

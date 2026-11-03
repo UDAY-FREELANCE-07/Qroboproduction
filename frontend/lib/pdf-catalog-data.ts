@@ -339,7 +339,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "BatteryCharging",
     "is_featured": false,
     "sort_order": 27,
-    "product_count": 32,
+    "product_count": 21,
     "highlighted_count": 21
   },
   {
@@ -350,8 +350,8 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Battery",
     "is_featured": false,
     "sort_order": 28,
-    "product_count": 18,
-    "highlighted_count": 17
+    "product_count": 15,
+    "highlighted_count": 15
   },
   {
     "id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
@@ -361,7 +361,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Cpu",
     "is_featured": false,
     "sort_order": 29,
-    "product_count": 27,
+    "product_count": 11,
     "highlighted_count": 11
   },
   {
@@ -372,7 +372,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Share2",
     "is_featured": false,
     "sort_order": 30,
-    "product_count": 51,
+    "product_count": 18,
     "highlighted_count": 18
   },
   {
@@ -383,7 +383,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Wrench",
     "is_featured": false,
     "sort_order": 31,
-    "product_count": 44,
+    "product_count": 20,
     "highlighted_count": 20
   },
   {
@@ -416,7 +416,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Sliders",
     "is_featured": false,
     "sort_order": 34,
-    "product_count": 36,
+    "product_count": 7,
     "highlighted_count": 7
   },
   {
@@ -427,7 +427,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Shield",
     "is_featured": false,
     "sort_order": 35,
-    "product_count": 13,
+    "product_count": 3,
     "highlighted_count": 3
   },
   {
@@ -438,7 +438,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Server",
     "is_featured": false,
     "sort_order": 36,
-    "product_count": 29,
+    "product_count": 4,
     "highlighted_count": 4
   },
   {
@@ -449,7 +449,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Antenna",
     "is_featured": false,
     "sort_order": 37,
-    "product_count": 29,
+    "product_count": 9,
     "highlighted_count": 9
   },
   {
@@ -460,7 +460,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Search",
     "is_featured": false,
     "sort_order": 38,
-    "product_count": 44,
+    "product_count": 11,
     "highlighted_count": 11
   },
   {
@@ -471,7 +471,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Play",
     "is_featured": false,
     "sort_order": 39,
-    "product_count": 12,
+    "product_count": 5,
     "highlighted_count": 5
   },
   {
@@ -482,7 +482,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Zap",
     "is_featured": false,
     "sort_order": 40,
-    "product_count": 6,
+    "product_count": 5,
     "highlighted_count": 5
   },
   {
@@ -493,7 +493,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Box",
     "is_featured": false,
     "sort_order": 41,
-    "product_count": 15,
+    "product_count": 1,
     "highlighted_count": 1
   },
   {
@@ -504,7 +504,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "HardDrive",
     "is_featured": false,
     "sort_order": 42,
-    "product_count": 12,
+    "product_count": 4,
     "highlighted_count": 4
   },
   {
@@ -515,7 +515,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Truck",
     "is_featured": false,
     "sort_order": 43,
-    "product_count": 15,
+    "product_count": 7,
     "highlighted_count": 7
   },
   {
@@ -537,7 +537,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Link2",
     "is_featured": false,
     "sort_order": 45,
-    "product_count": 25,
+    "product_count": 5,
     "highlighted_count": 5
   },
   {
@@ -548,7 +548,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "BatteryFull",
     "is_featured": false,
     "sort_order": 46,
-    "product_count": 13,
+    "product_count": 12,
     "highlighted_count": 12
   },
   {
@@ -559,7 +559,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "CheckCircle",
     "is_featured": false,
     "sort_order": 47,
-    "product_count": 14,
+    "product_count": 4,
     "highlighted_count": 4
   },
   {
@@ -570,7 +570,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Volume2",
     "is_featured": false,
     "sort_order": 48,
-    "product_count": 12,
+    "product_count": 7,
     "highlighted_count": 7
   },
   {
@@ -592,7 +592,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "Archive",
     "is_featured": false,
     "sort_order": 50,
-    "product_count": 12,
+    "product_count": 5,
     "highlighted_count": 5
   },
   {
@@ -603,7 +603,7 @@ export const pdfCategories: PdfCategory[] = [
     "icon_name": "FileText",
     "is_featured": false,
     "sort_order": 51,
-    "product_count": 14,
+    "product_count": 5,
     "highlighted_count": 5
   }
 ];
@@ -18852,8 +18852,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18863,9 +18863,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "LM2596 Buck Module - Power Modules",
     "description": "High-grade LM2596 Buck Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/lm2596-buck-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/lm2596-buck-module.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -18905,8 +18905,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18916,9 +18916,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "XL4015 Buck Module - Power Modules",
     "description": "High-grade XL4015 Buck Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/xl4015-buck-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/xl4015-buck-module.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -18948,59 +18948,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-27-3",
-    "name": "MP1584 Buck Module",
-    "slug": "mp1584-buck-module",
-    "sku": "HIT-27-003",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 95,
-    "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "MP1584 Buck Module - Power Modules",
-    "description": "High-grade MP1584 Buck Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "MP1584 Buck Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x MP1584 Buck Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
     "id": "prod-27-4",
     "name": "MT3608 Boost Module",
     "slug": "mt3608-boost-module",
@@ -19011,8 +18958,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19022,9 +18969,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "MT3608 Boost Module - Power Modules",
     "description": "High-grade MT3608 Boost Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/mt3608-boost-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/mt3608-boost-module.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19064,8 +19011,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -19075,9 +19022,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "XL6009 Boost Module - Power Modules",
     "description": "High-grade XL6009 Boost Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/xl6009-boost-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/xl6009-boost-module.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19117,8 +19064,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19128,9 +19075,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "LM317 Adjustable Module - Power Modules",
     "description": "High-grade LM317 Adjustable Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/lm317-adjustable-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/lm317-adjustable-module.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19171,8 +19118,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19182,9 +19129,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "TP4056 (Micro-USB) - Power Modules",
     "description": "High-grade TP4056 (Micro-USB) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/tp4056-micro-usb.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/tp4056-micro-usb.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19224,8 +19171,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19235,9 +19182,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "TP4056 (USB-C) - Power Modules",
     "description": "High-grade TP4056 (USB-C) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/tp4056-usb-c.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/tp4056-usb-c.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19277,8 +19224,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19288,9 +19235,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "18650 Holder 1S - Power Modules",
     "description": "High-grade 18650 Holder 1S selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/18650-holder-1s.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/18650-holder-1s.jpg"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19330,8 +19277,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -19341,9 +19288,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "18650 Holder 2S - Power Modules",
     "description": "High-grade 18650 Holder 2S selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/18650-holder-2s.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/18650-holder-2s.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19383,8 +19330,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19394,9 +19341,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "18650 Holder 3S - Power Modules",
     "description": "High-grade 18650 Holder 3S selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/18650-holder-3s.webp",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/18650-holder-3s.webp"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19436,8 +19383,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19447,9 +19394,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "18650 Holder 4S - Power Modules",
     "description": "High-grade 18650 Holder 4S selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/18650-holder-4s.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/18650-holder-4s.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19489,8 +19436,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19500,9 +19447,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "BMS Board 1S - Power Modules",
     "description": "High-grade BMS Board 1S selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/bms-board-1s.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/bms-board-1s.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19542,8 +19489,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19553,9 +19500,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "BMS Board 2S - Power Modules",
     "description": "High-grade BMS Board 2S selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/bms-board-2s.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/bms-board-2s.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19595,8 +19542,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -19606,9 +19553,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "BMS Board 3S - Power Modules",
     "description": "High-grade BMS Board 3S selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/bms-board-3s.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/bms-board-3s.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19648,8 +19595,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19659,9 +19606,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "BMS Board 4S - Power Modules",
     "description": "High-grade BMS Board 4S selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/bms-board-4s.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/bms-board-4s.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19701,8 +19648,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19712,9 +19659,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "IP5306 Power Bank Module - Power Modules",
     "description": "High-grade IP5306 Power Bank Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/ip5306-power-bank-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/ip5306-power-bank-module.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19754,8 +19701,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19765,9 +19712,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "SMPS 12V 2A - Power Modules",
     "description": "High-grade SMPS 12V 2A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/smps-12v-2a.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-12v-2a.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19809,8 +19756,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19820,9 +19767,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "SMPS 12V 5A - Power Modules",
     "description": "High-grade SMPS 12V 5A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/smps-12v-5a.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-12v-5a.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19864,8 +19811,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -19875,9 +19822,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "SMPS 5V 3A - Power Modules",
     "description": "High-grade SMPS 5V 3A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/smps-5v-3a.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-5v-3a.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -19909,328 +19856,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-27-21",
-    "name": "SMPS 24V 10A",
-    "slug": "smps-24v-10a",
-    "sku": "HIT-27-021",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 1450,
-    "compare_at_price": 1813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "SMPS 24V 10A - Power Modules",
-    "description": "High-grade SMPS 24V 10A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "SMPS 24V 10A",
-      "Voltage": "24V",
-      "Current Rating": "10A",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x SMPS 24V 10A"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-27-22",
-    "name": "HLK-PM01",
-    "slug": "hlk-pm01",
-    "sku": "HIT-27-022",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 95,
-    "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "HLK-PM01 - Power Modules",
-    "description": "High-grade HLK-PM01 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "HLK-PM01",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x HLK-PM01"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-27-23",
-    "name": "HLK-5M05",
-    "slug": "hlk-5m05",
-    "sku": "HIT-27-023",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 95,
-    "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "HLK-5M05 - Power Modules",
-    "description": "High-grade HLK-5M05 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "HLK-5M05",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x HLK-5M05"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-27-24",
-    "name": "Solar Panel 6V",
-    "slug": "solar-panel-6v",
-    "sku": "HIT-27-024",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 350,
-    "compare_at_price": 438,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Solar Panel 6V - Power Modules",
-    "description": "High-grade Solar Panel 6V selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "Solar Panel 6V",
-      "Voltage": "6V",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Solar Panel 6V"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-27-25",
-    "name": "Solar Panel 12V",
-    "slug": "solar-panel-12v",
-    "sku": "HIT-27-025",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 350,
-    "compare_at_price": 438,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Solar Panel 12V - Power Modules",
-    "description": "High-grade Solar Panel 12V selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "Solar Panel 12V",
-      "Voltage": "12V",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Solar Panel 12V"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-27-26",
-    "name": "USB-C PD Trigger",
-    "slug": "usb-c-pd-trigger",
-    "sku": "HIT-27-026",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 95,
-    "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "USB-C PD Trigger - Power Modules",
-    "description": "High-grade USB-C PD Trigger selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "USB-C PD Trigger",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x USB-C PD Trigger"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-27-27",
     "name": "Charger for 7.4V 3000mAh 2S Li-ion Battery",
     "slug": "charger-for-74v-3000mah-2s-li-ion-battery",
@@ -20241,8 +19866,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20252,9 +19877,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "Charger for 7.4V 3000mAh 2S Li-ion Battery - Power Modules",
     "description": "High-grade Charger for 7.4V 3000mAh 2S Li-ion Battery selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/charger-for-74v-3000mah-2s-li-ion-battery.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/charger-for-74v-3000mah-2s-li-ion-battery.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -20286,224 +19911,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-27-28",
-    "name": "6V 20A High-Current BEC/UBEC",
-    "slug": "6v-20a-high-current-becubec",
-    "sku": "HIT-27-028",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 95,
-    "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "6V 20A High-Current BEC/UBEC - Power Modules",
-    "description": "High-grade 6V 20A High-Current BEC/UBEC selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "6V 20A High-Current BEC/UBEC",
-      "Voltage": "6V",
-      "Current Rating": "20A",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x 6V 20A High-Current BEC/UBEC"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-27-29",
-    "name": "Power Bank 5V 5000 mAh",
-    "slug": "power-bank-5v-5000-mah",
-    "sku": "HIT-27-029",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 95,
-    "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Power Bank 5V 5000 mAh - Power Modules",
-    "description": "High-grade Power Bank 5V 5000 mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "Power Bank 5V 5000 mAh",
-      "Voltage": "5V",
-      "Current Rating": "5000 mA",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Power Bank 5V 5000 mAh"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-27-30",
-    "name": "Power Distribution Board and Wiring",
-    "slug": "power-distribution-board-and-wiring",
-    "sku": "HIT-27-030",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 95,
-    "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "Power Distribution Board and Wiring - Power Modules",
-    "description": "High-grade Power Distribution Board and Wiring selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "Power Distribution Board and Wiring",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Power Distribution Board and Wiring"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-27-31",
-    "name": "Power Bank 10000 mAh 5V",
-    "slug": "power-bank-10000-mah-5v",
-    "sku": "HIT-27-031",
-    "category_id": "cat-power-modules",
-    "category_name": "Power Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 95,
-    "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "Power Bank 10000 mAh 5V - Power Modules",
-    "description": "High-grade Power Bank 10000 mAh 5V selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Power Modules",
-      "Model": "Power Bank 10000 mAh 5V",
-      "Voltage": "5V",
-      "Current Rating": "10000 mA",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Power Bank 10000 mAh 5V"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "power-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-27-32",
     "name": "DC Power Adapter 5V 2A",
     "slug": "dc-power-adapter-5v-2a",
@@ -20514,8 +19921,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20525,9 +19932,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "DC Power Adapter 5V 2A - Power Modules",
     "description": "High-grade DC Power Adapter 5V 2A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/dc-power-adapter-5v-2a.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/dc-power-adapter-5v-2a.png"
     ],
     "specifications": {
       "Category": "Power Modules",
@@ -20569,8 +19976,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 220,
     "compare_at_price": 275,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20580,9 +19987,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "18650 Cell 2200mAh - Batteries",
     "description": "High-grade 18650 Cell 2200mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/18650-cell-2200mah.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/18650-cell-2200mah.png"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -20623,8 +20030,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 220,
     "compare_at_price": 275,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20634,9 +20041,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "18650 Cell 2600mAh - Batteries",
     "description": "High-grade 18650 Cell 2600mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/18650-cell-2600mah.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/18650-cell-2600mah.png"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -20677,8 +20084,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 220,
     "compare_at_price": 275,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20688,9 +20095,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "18650 Cell 3000mAh - Batteries",
     "description": "High-grade 18650 Cell 3000mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/18650-cell-3000mah.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/18650-cell-3000mah.jpg"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -20721,61 +20128,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-28-4",
-    "name": "LiPo 3.7V 500mAh",
-    "slug": "lipo-37v-500mah",
-    "sku": "HIT-28-004",
-    "category_id": "cat-batteries",
-    "category_name": "Batteries",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 450,
-    "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": true,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "LiPo 3.7V 500mAh - Batteries",
-    "description": "High-grade LiPo 3.7V 500mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Batteries",
-      "Model": "LiPo 3.7V 500mAh",
-      "Voltage": "3.7V",
-      "Current Rating": "500mA",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x LiPo 3.7V 500mAh"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "batteries",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
     "id": "prod-28-5",
     "name": "LiPo 3.7V 1000mAh",
     "slug": "lipo-37v-1000mah",
@@ -20786,8 +20138,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -20797,9 +20149,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "LiPo 3.7V 1000mAh - Batteries",
     "description": "High-grade LiPo 3.7V 1000mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/lipo-37v-1000mah.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/lipo-37v-1000mah.jpg"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -20841,8 +20193,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20852,9 +20204,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "LiPo 3.7V 2000mAh - Batteries",
     "description": "High-grade LiPo 3.7V 2000mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/lipo-37v-2000mah.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/lipo-37v-2000mah.jpg"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -20896,8 +20248,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20907,9 +20259,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "LiPo 3.7V 5000mAh - Batteries",
     "description": "High-grade LiPo 3.7V 5000mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/lipo-37v-5000mah.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/lipo-37v-5000mah.png"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -20941,61 +20293,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-28-8",
-    "name": "LiPo 3S 11.1V 2200mAh",
-    "slug": "lipo-3s-111v-2200mah",
-    "sku": "HIT-28-008",
-    "category_id": "cat-batteries",
-    "category_name": "Batteries",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 1200,
-    "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": true,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "LiPo 3S 11.1V 2200mAh - Batteries",
-    "description": "High-grade LiPo 3S 11.1V 2200mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Batteries",
-      "Model": "LiPo 3S 11.1V 2200mAh",
-      "Voltage": "11.1V",
-      "Current Rating": "2200mA",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x LiPo 3S 11.1V 2200mAh"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "batteries",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
     "id": "prod-28-9",
     "name": "9V Battery",
     "slug": "9v-battery",
@@ -21006,8 +20303,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21017,9 +20314,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "9V Battery - Batteries",
     "description": "High-grade 9V Battery selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/9v-battery.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/9v-battery.jpg"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -21060,8 +20357,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -21071,9 +20368,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "AA Battery - Batteries",
     "description": "High-grade AA Battery selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/aa-battery.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/aa-battery.jpg"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -21113,8 +20410,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21124,9 +20421,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "AAA Battery - Batteries",
     "description": "High-grade AAA Battery selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/aaa-battery.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/aaa-battery.jpg"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -21166,8 +20463,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21177,9 +20474,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "CR2032 Coin Cell - Batteries",
     "description": "High-grade CR2032 Coin Cell selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/cr2032-coin-cell.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/cr2032-coin-cell.png"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -21219,8 +20516,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1450,
     "compare_at_price": 1813,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21230,9 +20527,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "12V 7Ah SLA Battery - Batteries",
     "description": "High-grade 12V 7Ah SLA Battery selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/12v-7ah-sla-battery.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/12v-7ah-sla-battery.png"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -21264,59 +20561,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-28-14",
-    "name": "LiFePO4 Cell",
-    "slug": "lifepo4-cell",
-    "sku": "HIT-28-014",
-    "category_id": "cat-batteries",
-    "category_name": "Batteries",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 45,
-    "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "LiFePO4 Cell - Batteries",
-    "description": "High-grade LiFePO4 Cell selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Batteries",
-      "Model": "LiFePO4 Cell",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x LiFePO4 Cell"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "batteries",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-28-15",
     "name": "9V Battery Clip",
     "slug": "9v-battery-clip",
@@ -21327,8 +20571,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -21338,9 +20582,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "9V Battery Clip - Batteries",
     "description": "High-grade 9V Battery Clip selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/9v-battery-clip.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/9v-battery-clip.png"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -21381,8 +20625,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21392,9 +20636,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "7.4V 3000mAh 2S Li-ion Battery with BMS - Batteries",
     "description": "High-grade 7.4V 3000mAh 2S Li-ion Battery with BMS selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/74v-3000mah-2s-li-ion-battery-with-bms.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/74v-3000mah-2s-li-ion-battery-with-bms.png"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -21436,8 +20680,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21447,9 +20691,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "LiPo 7.4V 2200mAh - Batteries",
     "description": "High-grade LiPo 7.4V 2200mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/lipo-74v-2200mah.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/lipo-74v-2200mah.png"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -21491,8 +20735,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21502,9 +20746,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "12V 1.2Ah SLA Battery - Batteries",
     "description": "High-grade 12V 1.2Ah SLA Battery selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries/12v-12ah-sla-battery.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries/12v-12ah-sla-battery.png"
     ],
     "specifications": {
       "Category": "Batteries",
@@ -21536,59 +20780,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-29-1",
-    "name": "Inductor 10uH",
-    "slug": "inductor-10uh",
-    "sku": "HIT-29-001",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "Inductor 10uH - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Inductor 10uH selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Inductor 10uH",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Inductor 10uH"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-29-2",
     "name": "Inductor 100uH",
     "slug": "inductor-100uh",
@@ -21599,8 +20790,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21610,9 +20801,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Inductor 100uH - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade Inductor 100uH selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/inductor-100uh.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/inductor-100uh.jpg"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -21642,218 +20833,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-29-3",
-    "name": "Inductor 1mH",
-    "slug": "inductor-1mh",
-    "sku": "HIT-29-003",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Inductor 1mH - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Inductor 1mH selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Inductor 1mH",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Inductor 1mH"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-29-4",
-    "name": "Toroid Inductor 47uH",
-    "slug": "toroid-inductor-47uh",
-    "sku": "HIT-29-004",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Toroid Inductor 47uH - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Toroid Inductor 47uH selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Toroid Inductor 47uH",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Toroid Inductor 47uH"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-29-5",
-    "name": "Ferrite Bead",
-    "slug": "ferrite-bead",
-    "sku": "HIT-29-005",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Ferrite Bead - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Ferrite Bead selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Ferrite Bead",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Ferrite Bead"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-29-6",
-    "name": "Crystal 8MHz",
-    "slug": "crystal-8mhz",
-    "sku": "HIT-29-006",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Crystal 8MHz - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Crystal 8MHz selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Crystal 8MHz",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Crystal 8MHz"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-29-7",
     "name": "Crystal 12MHz",
     "slug": "crystal-12mhz",
@@ -21864,8 +20843,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21875,9 +20854,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "Crystal 12MHz - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade Crystal 12MHz selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-12mhz.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-12mhz.png"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -21917,8 +20896,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21928,9 +20907,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "Crystal 16MHz - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade Crystal 16MHz selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-16mhz.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-16mhz.png"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -21960,59 +20939,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-29-9",
-    "name": "Crystal 20MHz",
-    "slug": "crystal-20mhz",
-    "sku": "HIT-29-009",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Crystal 20MHz - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Crystal 20MHz selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Crystal 20MHz",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Crystal 20MHz"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-29-10",
     "name": "Crystal 32.768kHz",
     "slug": "crystal-32768khz",
@@ -22023,8 +20949,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -22034,9 +20960,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "Crystal 32.768kHz - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade Crystal 32.768kHz selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-32768khz.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/crystal-32768khz.jpg"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -22066,59 +20992,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-29-11",
-    "name": "Ceramic Resonator",
-    "slug": "ceramic-resonator",
-    "sku": "HIT-29-011",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Ceramic Resonator - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Ceramic Resonator selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Ceramic Resonator",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Ceramic Resonator"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-29-12",
     "name": "Transformer 12V 0.5A",
     "slug": "transformer-12v-05a",
@@ -22129,8 +21002,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 280,
     "compare_at_price": 350,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22140,9 +21013,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "Transformer 12V 0.5A - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade Transformer 12V 0.5A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12v-05a.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12v-05a.jpg"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -22184,8 +21057,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 280,
     "compare_at_price": 350,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22195,9 +21068,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "Transformer 12-0-12 1A - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade Transformer 12-0-12 1A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12-0-12-1a.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12-0-12-1a.jpg"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -22238,8 +21111,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 280,
     "compare_at_price": 350,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22249,9 +21122,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "Transformer 9V - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade Transformer 9V selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-9v.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-9v.jpg"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -22278,61 +21151,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-29-15",
-    "name": "Transformer 6V",
-    "slug": "transformer-6v",
-    "sku": "HIT-29-015",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 280,
-    "compare_at_price": 350,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "Transformer 6V - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Transformer 6V selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Transformer 6V",
-      "Voltage": "6V",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Transformer 6V"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -22346,8 +21165,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22357,9 +21176,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Glass Fuse 1A - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade Glass Fuse 1A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/glass-fuse-1a.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/glass-fuse-1a.jpg"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -22400,8 +21219,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22411,9 +21230,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Glass Fuse 2A - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade Glass Fuse 2A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/glass-fuse-2a.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/glass-fuse-2a.jpg"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -22444,168 +21263,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-29-18",
-    "name": "Glass Fuse 5A",
-    "slug": "glass-fuse-5a",
-    "sku": "HIT-29-018",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Glass Fuse 5A - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Glass Fuse 5A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Glass Fuse 5A",
-      "Current Rating": "5A",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Glass Fuse 5A"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-29-19",
-    "name": "Glass Fuse 10A",
-    "slug": "glass-fuse-10a",
-    "sku": "HIT-29-019",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Glass Fuse 10A - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Glass Fuse 10A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Glass Fuse 10A",
-      "Current Rating": "10A",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Glass Fuse 10A"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-29-20",
-    "name": "PTC Fuse 0.5A",
-    "slug": "ptc-fuse-05a",
-    "sku": "HIT-29-020",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "PTC Fuse 0.5A - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade PTC Fuse 0.5A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "PTC Fuse 0.5A",
-      "Current Rating": "0.5A",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x PTC Fuse 0.5A"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-29-21",
     "name": "Fuse Holder",
     "slug": "fuse-holder",
@@ -22616,8 +21273,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22627,9 +21284,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Fuse Holder - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade Fuse Holder selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/fuse-holder.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/fuse-holder.jpg"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -22669,8 +21326,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22680,9 +21337,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "TO-220 Heatsink - Inductors, Crystals, Transformers, Fuses and Heatsinks",
     "description": "High-grade TO-220 Heatsink selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/to-220-heatsink.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/to-220-heatsink.jpg"
     ],
     "specifications": {
       "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
@@ -22712,271 +21369,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-29-23",
-    "name": "TO-247 Heatsink",
-    "slug": "to-247-heatsink",
-    "sku": "HIT-29-023",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "TO-247 Heatsink - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade TO-247 Heatsink selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "TO-247 Heatsink",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x TO-247 Heatsink"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-29-24",
-    "name": "Peltier TEC1-12706",
-    "slug": "peltier-tec1-12706",
-    "sku": "HIT-29-024",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 240,
-    "compare_at_price": 300,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Peltier TEC1-12706 - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Peltier TEC1-12706 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Peltier TEC1-12706",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Peltier TEC1-12706"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-29-25",
-    "name": "Fuse with Power Switch",
-    "slug": "fuse-with-power-switch",
-    "sku": "HIT-29-025",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Fuse with Power Switch - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Fuse with Power Switch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Fuse with Power Switch",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Fuse with Power Switch"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-29-26",
-    "name": "Heat Sink for GBJ2008",
-    "slug": "heat-sink-for-gbj2008",
-    "sku": "HIT-29-026",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Heat Sink for GBJ2008 - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Heat Sink for GBJ2008 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Heat Sink for GBJ2008",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Heat Sink for GBJ2008"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-29-27",
-    "name": "Ferrite Toroidal Core 25mm",
-    "slug": "ferrite-toroidal-core-25mm",
-    "sku": "HIT-29-027",
-    "category_id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
-    "category_name": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 25,
-    "compare_at_price": 31,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Ferrite Toroidal Core 25mm - Inductors, Crystals, Transformers, Fuses and Heatsinks",
-    "description": "High-grade Ferrite Toroidal Core 25mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Inductors, Crystals, Transformers, Fuses and Heatsinks",
-      "Model": "Ferrite Toroidal Core 25mm",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Ferrite Toroidal Core 25mm"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "inductors-crystals-transformers-fuses-and-heatsinks",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-30-1",
     "name": "Breadboard 830",
     "slug": "breadboard-830",
@@ -22987,8 +21379,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 160,
     "compare_at_price": 200,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22998,9 +21390,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Breadboard 830 - Boards, Connectors and Wiring",
     "description": "High-grade Breadboard 830 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/breadboard-830.png",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/breadboard-830.png"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -23040,8 +21432,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 90,
     "compare_at_price": 113,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23051,9 +21443,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Breadboard 400 - Boards, Connectors and Wiring",
     "description": "High-grade Breadboard 400 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/breadboard-400.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/breadboard-400.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -23083,112 +21475,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-30-3",
-    "name": "Breadboard Mini",
-    "slug": "breadboard-mini",
-    "sku": "HIT-30-003",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 90,
-    "compare_at_price": 113,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Breadboard Mini - Boards, Connectors and Wiring",
-    "description": "High-grade Breadboard Mini selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Breadboard Mini",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Breadboard Mini"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-4",
-    "name": "Breadboard Power Module",
-    "slug": "breadboard-power-module",
-    "sku": "HIT-30-004",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 90,
-    "compare_at_price": 113,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Breadboard Power Module - Boards, Connectors and Wiring",
-    "description": "High-grade Breadboard Power Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Breadboard Power Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Breadboard Power Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-30-5",
     "name": "Perfboard 5x7",
     "slug": "perfboard-5x7",
@@ -23199,8 +21485,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -23210,9 +21496,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "Perfboard 5x7 - Boards, Connectors and Wiring",
     "description": "High-grade Perfboard 5x7 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/perfboard-5x7.png",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/perfboard-5x7.png"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -23252,8 +21538,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23263,9 +21549,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Perfboard 9x15 - Boards, Connectors and Wiring",
     "description": "High-grade Perfboard 9x15 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/perfboard-9x15.png",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/perfboard-9x15.png"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -23295,112 +21581,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-30-7",
-    "name": "Stripboard",
-    "slug": "stripboard",
-    "sku": "HIT-30-007",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Stripboard - Boards, Connectors and Wiring",
-    "description": "High-grade Stripboard selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Stripboard",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Stripboard"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-8",
-    "name": "Copper Clad Board",
-    "slug": "copper-clad-board",
-    "sku": "HIT-30-008",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Copper Clad Board - Boards, Connectors and Wiring",
-    "description": "High-grade Copper Clad Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Copper Clad Board",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Copper Clad Board"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-30-9",
     "name": "Jumper Wires Male-Male",
     "slug": "jumper-wires-male-male",
@@ -23411,8 +21591,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 85,
     "compare_at_price": 106,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23422,9 +21602,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "Jumper Wires Male-Male - Boards, Connectors and Wiring",
     "description": "High-grade Jumper Wires Male-Male selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/jumper-wires-male-male.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/jumper-wires-male-male.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -23464,8 +21644,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 85,
     "compare_at_price": 106,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -23475,9 +21655,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "Jumper Wires Male-Female - Boards, Connectors and Wiring",
     "description": "High-grade Jumper Wires Male-Female selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/jumper-wires-male-female.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/jumper-wires-male-female.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -23517,8 +21697,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 85,
     "compare_at_price": 106,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23528,9 +21708,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "Jumper Wires Female-Female - Boards, Connectors and Wiring",
     "description": "High-grade Jumper Wires Female-Female selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/jumper-wires-female-female.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/jumper-wires-female-female.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -23570,8 +21750,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23581,9 +21761,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "Male Header Pins - Boards, Connectors and Wiring",
     "description": "High-grade Male Header Pins selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/male-header-pins.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/male-header-pins.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -23623,8 +21803,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23634,9 +21814,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "Female Header Pins - Boards, Connectors and Wiring",
     "description": "High-grade Female Header Pins selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/female-header-pins.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/female-header-pins.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -23666,324 +21846,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-30-14",
-    "name": "Right-angle Header Pins",
-    "slug": "right-angle-header-pins",
-    "sku": "HIT-30-014",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Right-angle Header Pins - Boards, Connectors and Wiring",
-    "description": "High-grade Right-angle Header Pins selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Right-angle Header Pins",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Right-angle Header Pins"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-15",
-    "name": "JST-XH Connector",
-    "slug": "jst-xh-connector",
-    "sku": "HIT-30-015",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "JST-XH Connector - Boards, Connectors and Wiring",
-    "description": "High-grade JST-XH Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "JST-XH Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x JST-XH Connector"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-16",
-    "name": "JST-PH Connector",
-    "slug": "jst-ph-connector",
-    "sku": "HIT-30-016",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "JST-PH Connector - Boards, Connectors and Wiring",
-    "description": "High-grade JST-PH Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "JST-PH Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x JST-PH Connector"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-17",
-    "name": "XT60 Connector",
-    "slug": "xt60-connector",
-    "sku": "HIT-30-017",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "XT60 Connector - Boards, Connectors and Wiring",
-    "description": "High-grade XT60 Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "XT60 Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x XT60 Connector"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-18",
-    "name": "XT90 Connector",
-    "slug": "xt90-connector",
-    "sku": "HIT-30-018",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "XT90 Connector - Boards, Connectors and Wiring",
-    "description": "High-grade XT90 Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "XT90 Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x XT90 Connector"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-19",
-    "name": "Dupont Housing",
-    "slug": "dupont-housing",
-    "sku": "HIT-30-019",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Dupont Housing - Boards, Connectors and Wiring",
-    "description": "High-grade Dupont Housing selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Dupont Housing",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Dupont Housing"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-30-20",
     "name": "Screw Terminal 2P",
     "slug": "screw-terminal-2p",
@@ -23994,8 +21856,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -24005,9 +21867,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "Screw Terminal 2P - Boards, Connectors and Wiring",
     "description": "High-grade Screw Terminal 2P selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/screw-terminal-2p.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/screw-terminal-2p.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -24047,8 +21909,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -24058,9 +21920,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Screw Terminal 3P - Boards, Connectors and Wiring",
     "description": "High-grade Screw Terminal 3P selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/screw-terminal-3p.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/screw-terminal-3p.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -24090,59 +21952,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-30-22",
-    "name": "Pluggable Screw Terminal",
-    "slug": "pluggable-screw-terminal",
-    "sku": "HIT-30-022",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Pluggable Screw Terminal - Boards, Connectors and Wiring",
-    "description": "High-grade Pluggable Screw Terminal selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Pluggable Screw Terminal",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Pluggable Screw Terminal"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-30-23",
     "name": "DC Barrel Jack",
     "slug": "dc-barrel-jack",
@@ -24153,8 +21962,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -24164,9 +21973,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "DC Barrel Jack - Boards, Connectors and Wiring",
     "description": "High-grade DC Barrel Jack selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/dc-barrel-jack.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/dc-barrel-jack.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -24196,377 +22005,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-30-24",
-    "name": "USB-C Breakout",
-    "slug": "usb-c-breakout",
-    "sku": "HIT-30-024",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "USB-C Breakout - Boards, Connectors and Wiring",
-    "description": "High-grade USB-C Breakout selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "USB-C Breakout",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x USB-C Breakout"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-25",
-    "name": "Micro-USB Breakout",
-    "slug": "micro-usb-breakout",
-    "sku": "HIT-30-025",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Micro-USB Breakout - Boards, Connectors and Wiring",
-    "description": "High-grade Micro-USB Breakout selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Micro-USB Breakout",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Micro-USB Breakout"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-26",
-    "name": "3.5mm Audio Jack",
-    "slug": "35mm-audio-jack",
-    "sku": "HIT-30-026",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "3.5mm Audio Jack - Boards, Connectors and Wiring",
-    "description": "High-grade 3.5mm Audio Jack selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "3.5mm Audio Jack",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x 3.5mm Audio Jack"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-27",
-    "name": "Banana Socket",
-    "slug": "banana-socket",
-    "sku": "HIT-30-027",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Banana Socket - Boards, Connectors and Wiring",
-    "description": "High-grade Banana Socket selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Banana Socket",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Banana Socket"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-28",
-    "name": "Crocodile Clip",
-    "slug": "crocodile-clip",
-    "sku": "HIT-30-028",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Crocodile Clip - Boards, Connectors and Wiring",
-    "description": "High-grade Crocodile Clip selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Crocodile Clip",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Crocodile Clip"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-29",
-    "name": "DB9 Connector",
-    "slug": "db9-connector",
-    "sku": "HIT-30-029",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "DB9 Connector - Boards, Connectors and Wiring",
-    "description": "High-grade DB9 Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "DB9 Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x DB9 Connector"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-30",
-    "name": "RJ45 Connector",
-    "slug": "rj45-connector",
-    "sku": "HIT-30-030",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "RJ45 Connector - Boards, Connectors and Wiring",
-    "description": "High-grade RJ45 Connector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "RJ45 Connector",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x RJ45 Connector"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-30-31",
     "name": "IC Socket 8-pin",
     "slug": "ic-socket-8-pin",
@@ -24577,8 +22015,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -24588,9 +22026,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "IC Socket 8-pin - Boards, Connectors and Wiring",
     "description": "High-grade IC Socket 8-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/ic-socket-8-pin.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/ic-socket-8-pin.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -24630,8 +22068,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -24641,9 +22079,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "IC Socket 14-pin - Boards, Connectors and Wiring",
     "description": "High-grade IC Socket 14-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/ic-socket-14-pin.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/ic-socket-14-pin.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -24683,8 +22121,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -24694,9 +22132,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "IC Socket 16-pin - Boards, Connectors and Wiring",
     "description": "High-grade IC Socket 16-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/ic-socket-16-pin.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/ic-socket-16-pin.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -24736,8 +22174,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -24747,9 +22185,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "IC Socket 28-pin - Boards, Connectors and Wiring",
     "description": "High-grade IC Socket 28-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/ic-socket-28-pin.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/ic-socket-28-pin.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -24789,8 +22227,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -24800,9 +22238,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "IC Socket 40-pin - Boards, Connectors and Wiring",
     "description": "High-grade IC Socket 40-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/ic-socket-40-pin.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/ic-socket-40-pin.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -24832,324 +22270,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-30-36",
-    "name": "ZIF Socket",
-    "slug": "zif-socket",
-    "sku": "HIT-30-036",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "ZIF Socket - Boards, Connectors and Wiring",
-    "description": "High-grade ZIF Socket selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "ZIF Socket",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ZIF Socket"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-37",
-    "name": "M3 x 40 mm Brass Hex Standoff Spacer (Female-Female)",
-    "slug": "m3-x-40-mm-brass-hex-standoff-spacer-female-female",
-    "sku": "HIT-30-037",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "M3 x 40 mm Brass Hex Standoff Spacer (Female-Female) - Boards, Connectors and Wiring",
-    "description": "High-grade M3 x 40 mm Brass Hex Standoff Spacer (Female-Female) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "M3 x 40 mm Brass Hex Standoff Spacer (Female-Female)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x M3 x 40 mm Brass Hex Standoff Spacer (Female-Female)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-38",
-    "name": "PCB Board",
-    "slug": "pcb-board",
-    "sku": "HIT-30-038",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "PCB Board - Boards, Connectors and Wiring",
-    "description": "High-grade PCB Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "PCB Board",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x PCB Board"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-39",
-    "name": "ESP32 USB Cable",
-    "slug": "esp32-usb-cable",
-    "sku": "HIT-30-039",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "ESP32 USB Cable - Boards, Connectors and Wiring",
-    "description": "High-grade ESP32 USB Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "ESP32 USB Cable",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ESP32 USB Cable"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-40",
-    "name": "PCB Spacer 10mm (Nylon)",
-    "slug": "pcb-spacer-10mm-nylon",
-    "sku": "HIT-30-040",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "PCB Spacer 10mm (Nylon) - Boards, Connectors and Wiring",
-    "description": "High-grade PCB Spacer 10mm (Nylon) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "PCB Spacer 10mm (Nylon)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x PCB Spacer 10mm (Nylon)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-41",
-    "name": "3-Core Copper Wire 1.5mm",
-    "slug": "3-core-copper-wire-15mm",
-    "sku": "HIT-30-041",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "3-Core Copper Wire 1.5mm - Boards, Connectors and Wiring",
-    "description": "High-grade 3-Core Copper Wire 1.5mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "3-Core Copper Wire 1.5mm",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x 3-Core Copper Wire 1.5mm"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-30-42",
     "name": "Arduino Uno USB Cable",
     "slug": "arduino-uno-usb-cable",
@@ -25160,8 +22280,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25171,9 +22291,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "Arduino Uno USB Cable - Boards, Connectors and Wiring",
     "description": "High-grade Arduino Uno USB Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/boards-connectors-and-wiring/arduino-uno-usb-cable.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80"
+      "/images/products/boards-connectors-and-wiring/arduino-uno-usb-cable.jpg"
     ],
     "specifications": {
       "Category": "Boards, Connectors and Wiring",
@@ -25203,483 +22323,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-30-43",
-    "name": "Raspberry Pi Micro HDMI to HDMI Cable",
-    "slug": "raspberry-pi-micro-hdmi-to-hdmi-cable",
-    "sku": "HIT-30-043",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Raspberry Pi Micro HDMI to HDMI Cable - Boards, Connectors and Wiring",
-    "description": "High-grade Raspberry Pi Micro HDMI to HDMI Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Raspberry Pi Micro HDMI to HDMI Cable",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi Micro HDMI to HDMI Cable"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-44",
-    "name": "Single-Sided Protoboard 50x80mm",
-    "slug": "single-sided-protoboard-50x80mm",
-    "sku": "HIT-30-044",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Single-Sided Protoboard 50x80mm - Boards, Connectors and Wiring",
-    "description": "High-grade Single-Sided Protoboard 50x80mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "Single-Sided Protoboard 50x80mm",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Single-Sided Protoboard 50x80mm"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-45",
-    "name": "USB 3.0 Cable (1 m)",
-    "slug": "usb-30-cable-1-m",
-    "sku": "HIT-30-045",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "USB 3.0 Cable (1 m) - Boards, Connectors and Wiring",
-    "description": "High-grade USB 3.0 Cable (1 m) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "USB 3.0 Cable (1 m)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x USB 3.0 Cable (1 m)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-46",
-    "name": "HDMI to VGA Cable (1 m)",
-    "slug": "hdmi-to-vga-cable-1-m",
-    "sku": "HIT-30-046",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "HDMI to VGA Cable (1 m) - Boards, Connectors and Wiring",
-    "description": "High-grade HDMI to VGA Cable (1 m) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "HDMI to VGA Cable (1 m)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x HDMI to VGA Cable (1 m)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-47",
-    "name": "HDMI to VGA Adapter",
-    "slug": "hdmi-to-vga-adapter",
-    "sku": "HIT-30-047",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "HDMI to VGA Adapter - Boards, Connectors and Wiring",
-    "description": "High-grade HDMI to VGA Adapter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "HDMI to VGA Adapter",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x HDMI to VGA Adapter"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-48",
-    "name": "General Purpose PCB FR2 140x90mm",
-    "slug": "general-purpose-pcb-fr2-140x90mm",
-    "sku": "HIT-30-048",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "General Purpose PCB FR2 140x90mm - Boards, Connectors and Wiring",
-    "description": "High-grade General Purpose PCB FR2 140x90mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "General Purpose PCB FR2 140x90mm",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x General Purpose PCB FR2 140x90mm"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-49",
-    "name": "General Purpose PCB FR2 80x55mm",
-    "slug": "general-purpose-pcb-fr2-80x55mm",
-    "sku": "HIT-30-049",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "General Purpose PCB FR2 80x55mm - Boards, Connectors and Wiring",
-    "description": "High-grade General Purpose PCB FR2 80x55mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "General Purpose PCB FR2 80x55mm",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x General Purpose PCB FR2 80x55mm"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-50",
-    "name": "USB Cable Set (A to B, 12 in)",
-    "slug": "usb-cable-set-a-to-b-12-in",
-    "sku": "HIT-30-050",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "USB Cable Set (A to B, 12 in) - Boards, Connectors and Wiring",
-    "description": "High-grade USB Cable Set (A to B, 12 in) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "USB Cable Set (A to B, 12 in)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x USB Cable Set (A to B, 12 in)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-30-51",
-    "name": "USB Cable Set (Mini, 12 in)",
-    "slug": "usb-cable-set-mini-12-in",
-    "sku": "HIT-30-051",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "USB Cable Set (Mini, 12 in) - Boards, Connectors and Wiring",
-    "description": "High-grade USB Cable Set (Mini, 12 in) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Boards, Connectors and Wiring",
-      "Model": "USB Cable Set (Mini, 12 in)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x USB Cable Set (Mini, 12 in)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "boards-connectors-and-wiring",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-31-1",
     "name": "Hookup Wire Spool Red",
     "slug": "hookup-wire-spool-red",
@@ -25690,8 +22333,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25701,9 +22344,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Hookup Wire Spool Red - Tools and Consumables",
     "description": "High-grade Hookup Wire Spool Red selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/hookup-wire-spool-red.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/hookup-wire-spool-red.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -25743,8 +22386,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25754,9 +22397,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Hookup Wire Spool Black - Tools and Consumables",
     "description": "High-grade Hookup Wire Spool Black selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/hookup-wire-spool-black.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/hookup-wire-spool-black.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -25786,165 +22429,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-31-3",
-    "name": "Hookup Wire Spool Blue",
-    "slug": "hookup-wire-spool-blue",
-    "sku": "HIT-31-003",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Hookup Wire Spool Blue - Tools and Consumables",
-    "description": "High-grade Hookup Wire Spool Blue selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Hookup Wire Spool Blue",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Hookup Wire Spool Blue"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-4",
-    "name": "Silicone Wire Assortment",
-    "slug": "silicone-wire-assortment",
-    "sku": "HIT-31-004",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Silicone Wire Assortment - Tools and Consumables",
-    "description": "High-grade Silicone Wire Assortment selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Silicone Wire Assortment",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Silicone Wire Assortment"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-5",
-    "name": "Enamelled Copper Wire",
-    "slug": "enamelled-copper-wire",
-    "sku": "HIT-31-005",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Enamelled Copper Wire - Tools and Consumables",
-    "description": "High-grade Enamelled Copper Wire selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Enamelled Copper Wire",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Enamelled Copper Wire"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-31-6",
     "name": "Heat Shrink Assortment",
     "slug": "heat-shrink-assortment",
@@ -25955,8 +22439,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25966,9 +22450,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Heat Shrink Assortment - Tools and Consumables",
     "description": "High-grade Heat Shrink Assortment selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/heat-shrink-assortment.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/heat-shrink-assortment.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -25998,59 +22482,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-31-7",
-    "name": "Cable Ties",
-    "slug": "cable-ties",
-    "sku": "HIT-31-007",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Cable Ties - Tools and Consumables",
-    "description": "High-grade Cable Ties selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Cable Ties",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Cable Ties"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-31-8",
     "name": "IPA (Isopropyl Alcohol)",
     "slug": "ipa-isopropyl-alcohol",
@@ -26061,8 +22492,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26072,9 +22503,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "IPA (Isopropyl Alcohol) - Tools and Consumables",
     "description": "High-grade IPA (Isopropyl Alcohol) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/ipa-isopropyl-alcohol.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/ipa-isopropyl-alcohol.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26104,59 +22535,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-31-9",
-    "name": "FeCl3 (Ferric Chloride)",
-    "slug": "fecl3-ferric-chloride",
-    "sku": "HIT-31-009",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "FeCl3 (Ferric Chloride) - Tools and Consumables",
-    "description": "High-grade FeCl3 (Ferric Chloride) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "FeCl3 (Ferric Chloride)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x FeCl3 (Ferric Chloride)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-31-10",
     "name": "Solder Wire 60/40",
     "slug": "solder-wire-6040",
@@ -26167,8 +22545,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -26178,9 +22556,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "Solder Wire 60/40 - Tools and Consumables",
     "description": "High-grade Solder Wire 60/40 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/solder-wire-6040.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/solder-wire-6040.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26220,8 +22598,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26231,9 +22609,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "Solder Wire Lead-free - Tools and Consumables",
     "description": "High-grade Solder Wire Lead-free selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/solder-wire-lead-free.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/solder-wire-lead-free.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26273,8 +22651,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26284,9 +22662,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "Flux Paste - Tools and Consumables",
     "description": "High-grade Flux Paste selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/flux-paste.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/flux-paste.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26326,8 +22704,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26337,9 +22715,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "Desoldering Wick - Tools and Consumables",
     "description": "High-grade Desoldering Wick selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/desoldering-wick.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/desoldering-wick.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26379,8 +22757,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26390,9 +22768,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "Desoldering Pump - Tools and Consumables",
     "description": "High-grade Desoldering Pump selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/desoldering-pump.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/desoldering-pump.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26432,8 +22810,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 250,
     "compare_at_price": 313,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -26443,9 +22821,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "Soldering Iron 25W - Tools and Consumables",
     "description": "High-grade Soldering Iron 25W selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/soldering-iron-25w.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/soldering-iron-25w.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26486,8 +22864,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 250,
     "compare_at_price": 313,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26497,9 +22875,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Soldering Iron 40W - Tools and Consumables",
     "description": "High-grade Soldering Iron 40W selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/soldering-iron-40w.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/soldering-iron-40w.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26540,8 +22918,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 250,
     "compare_at_price": 313,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26551,9 +22929,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Soldering Iron Adjustable 60W - Tools and Consumables",
     "description": "High-grade Soldering Iron Adjustable 60W selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/soldering-iron-adjustable-60w.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/soldering-iron-adjustable-60w.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26594,8 +22972,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 2400,
     "compare_at_price": 3000,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26605,9 +22983,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "Soldering Station 936 - Tools and Consumables",
     "description": "High-grade Soldering Station 936 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/soldering-station-936.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/soldering-station-936.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26637,59 +23015,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-31-19",
-    "name": "Hot Air Station",
-    "slug": "hot-air-station",
-    "sku": "HIT-31-019",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 2400,
-    "compare_at_price": 3000,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Hot Air Station - Tools and Consumables",
-    "description": "High-grade Hot Air Station selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Hot Air Station",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Hot Air Station"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-31-20",
     "name": "Multimeter DT830B",
     "slug": "multimeter-dt830b",
@@ -26700,8 +23025,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -26711,9 +23036,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "Multimeter DT830B - Tools and Consumables",
     "description": "High-grade Multimeter DT830B selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/multimeter-dt830b.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/multimeter-dt830b.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26753,8 +23078,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26764,9 +23089,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Multimeter DT9205A - Tools and Consumables",
     "description": "High-grade Multimeter DT9205A selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/multimeter-dt9205a.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/multimeter-dt9205a.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -26797,377 +23122,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-31-22",
-    "name": "Clamp Meter",
-    "slug": "clamp-meter",
-    "sku": "HIT-31-022",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Clamp Meter - Tools and Consumables",
-    "description": "High-grade Clamp Meter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Clamp Meter",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Clamp Meter"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-23",
-    "name": "DSO138 Oscilloscope",
-    "slug": "dso138-oscilloscope",
-    "sku": "HIT-31-023",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 4800,
-    "compare_at_price": 6000,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "DSO138 Oscilloscope - Tools and Consumables",
-    "description": "High-grade DSO138 Oscilloscope selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "DSO138 Oscilloscope",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x DSO138 Oscilloscope"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-24",
-    "name": "8-Channel Logic Analyzer",
-    "slug": "8-channel-logic-analyzer",
-    "sku": "HIT-31-024",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "8-Channel Logic Analyzer - Tools and Consumables",
-    "description": "High-grade 8-Channel Logic Analyzer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "8-Channel Logic Analyzer",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x 8-Channel Logic Analyzer"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-25",
-    "name": "USBasp Programmer",
-    "slug": "usbasp-programmer",
-    "sku": "HIT-31-025",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "USBasp Programmer - Tools and Consumables",
-    "description": "High-grade USBasp Programmer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "USBasp Programmer",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x USBasp Programmer"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-26",
-    "name": "ST-Link V2",
-    "slug": "st-link-v2",
-    "sku": "HIT-31-026",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "ST-Link V2 - Tools and Consumables",
-    "description": "High-grade ST-Link V2 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "ST-Link V2",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ST-Link V2"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-27",
-    "name": "FTDI Programmer",
-    "slug": "ftdi-programmer",
-    "sku": "HIT-31-027",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "FTDI Programmer - Tools and Consumables",
-    "description": "High-grade FTDI Programmer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "FTDI Programmer",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x FTDI Programmer"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-28",
-    "name": "PICkit3",
-    "slug": "pickit3",
-    "sku": "HIT-31-028",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "PICkit3 - Tools and Consumables",
-    "description": "High-grade PICkit3 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "PICkit3",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x PICkit3"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-31-29",
     "name": "Wire Stripper",
     "slug": "wire-stripper",
@@ -27178,8 +23132,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27189,9 +23143,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "Wire Stripper - Tools and Consumables",
     "description": "High-grade Wire Stripper selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/wire-stripper.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/wire-stripper.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -27231,8 +23185,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -27242,9 +23196,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "Side Cutter - Tools and Consumables",
     "description": "High-grade Side Cutter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/side-cutter.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/side-cutter.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -27284,8 +23238,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27295,9 +23249,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Tweezers - Tools and Consumables",
     "description": "High-grade Tweezers selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/tweezers.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/tweezers.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -27337,8 +23291,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27348,9 +23302,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Screwdriver Set - Tools and Consumables",
     "description": "High-grade Screwdriver Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/screwdriver-set.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/screwdriver-set.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -27380,112 +23334,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-31-33",
-    "name": "Helping Hands",
-    "slug": "helping-hands",
-    "sku": "HIT-31-033",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Helping Hands - Tools and Consumables",
-    "description": "High-grade Helping Hands selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Helping Hands",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Helping Hands"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-34",
-    "name": "Magnifier Lamp",
-    "slug": "magnifier-lamp",
-    "sku": "HIT-31-034",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Magnifier Lamp - Tools and Consumables",
-    "description": "High-grade Magnifier Lamp selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Magnifier Lamp",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Magnifier Lamp"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-31-35",
     "name": "Glue Gun",
     "slug": "glue-gun",
@@ -27496,8 +23344,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -27507,9 +23355,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "Glue Gun - Tools and Consumables",
     "description": "High-grade Glue Gun selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/glue-gun.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/glue-gun.png"
     ],
     "specifications": {
       "Category": "Tools and Consumables",
@@ -27536,483 +23384,6 @@ export const pdfProducts: PdfProduct[] = [
       "electronics",
       "components",
       "in-stock"
-    ]
-  },
-  {
-    "id": "prod-31-36",
-    "name": "Hot Glue Sticks",
-    "slug": "hot-glue-sticks",
-    "sku": "HIT-31-036",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Hot Glue Sticks - Tools and Consumables",
-    "description": "High-grade Hot Glue Sticks selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Hot Glue Sticks",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Hot Glue Sticks"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-37",
-    "name": "ESD Mat",
-    "slug": "esd-mat",
-    "sku": "HIT-31-037",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "ESD Mat - Tools and Consumables",
-    "description": "High-grade ESD Mat selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "ESD Mat",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ESD Mat"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-38",
-    "name": "Soldering Iron (Rod)",
-    "slug": "soldering-iron-rod",
-    "sku": "HIT-31-038",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 250,
-    "compare_at_price": 313,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Soldering Iron (Rod) - Tools and Consumables",
-    "description": "High-grade Soldering Iron (Rod) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Soldering Iron (Rod)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Soldering Iron (Rod)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-39",
-    "name": "Solder Wire",
-    "slug": "solder-wire",
-    "sku": "HIT-31-039",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Solder Wire - Tools and Consumables",
-    "description": "High-grade Solder Wire selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Solder Wire",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Solder Wire"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-40",
-    "name": "Multimeter (High Quality)",
-    "slug": "multimeter-high-quality",
-    "sku": "HIT-31-040",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 450,
-    "compare_at_price": 563,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Multimeter (High Quality) - Tools and Consumables",
-    "description": "High-grade Multimeter (High Quality) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Multimeter (High Quality)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Multimeter (High Quality)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-41",
-    "name": "Cutter Blade",
-    "slug": "cutter-blade",
-    "sku": "HIT-31-041",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Cutter Blade - Tools and Consumables",
-    "description": "High-grade Cutter Blade selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Cutter Blade",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Cutter Blade"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-42",
-    "name": "Soldering Iron Stand",
-    "slug": "soldering-iron-stand",
-    "sku": "HIT-31-042",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 250,
-    "compare_at_price": 313,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Soldering Iron Stand - Tools and Consumables",
-    "description": "High-grade Soldering Iron Stand selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Soldering Iron Stand",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Soldering Iron Stand"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-43",
-    "name": "Thermal Paste",
-    "slug": "thermal-paste",
-    "sku": "HIT-31-043",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Thermal Paste - Tools and Consumables",
-    "description": "High-grade Thermal Paste selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Thermal Paste",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Thermal Paste"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-31-44",
-    "name": "Soldering Iron Tips (Bevel, Chisel, Conical - 5 each)",
-    "slug": "soldering-iron-tips-bevel-chisel-conical---5-each",
-    "sku": "HIT-31-044",
-    "category_id": "cat-tools-and-consumables",
-    "category_name": "Tools and Consumables",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 250,
-    "compare_at_price": 313,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Soldering Iron Tips (Bevel, Chisel, Conical - 5 each) - Tools and Consumables",
-    "description": "High-grade Soldering Iron Tips (Bevel, Chisel, Conical - 5 each) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Tools and Consumables",
-      "Model": "Soldering Iron Tips (Bevel, Chisel, Conical - 5 each)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Soldering Iron Tips (Bevel, Chisel, Conical - 5 each)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "tools-and-consumables",
-      "electronics",
-      "components",
-      "order-request"
     ]
   },
   {
@@ -29776,8 +25147,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -29787,9 +25158,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Needle Nose Plier - Mechanical, Electric and Measurement Tools",
     "description": "High-grade Needle Nose Plier selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/mechanical-electric-and-measurement-tools/needle-nose-plier.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/needle-nose-plier.png"
     ],
     "specifications": {
       "Category": "Mechanical, Electric and Measurement Tools",
@@ -29829,8 +25200,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -29840,9 +25211,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Precision Screwdriver Set - Mechanical, Electric and Measurement Tools",
     "description": "High-grade Precision Screwdriver Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/mechanical-electric-and-measurement-tools/precision-screwdriver-set.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/precision-screwdriver-set.png"
     ],
     "specifications": {
       "Category": "Mechanical, Electric and Measurement Tools",
@@ -29872,430 +25243,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-34-3",
-    "name": "Drill Machine Set",
-    "slug": "drill-machine-set",
-    "sku": "HIT-34-003",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Drill Machine Set - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Drill Machine Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Drill Machine Set",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Drill Machine Set"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-4",
-    "name": "Hacksaw Frame 12 in",
-    "slug": "hacksaw-frame-12-in",
-    "sku": "HIT-34-004",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Hacksaw Frame 12 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Hacksaw Frame 12 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Hacksaw Frame 12 in",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Hacksaw Frame 12 in"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-5",
-    "name": "Hacksaw Blade 12 in",
-    "slug": "hacksaw-blade-12-in",
-    "sku": "HIT-34-005",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Hacksaw Blade 12 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Hacksaw Blade 12 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Hacksaw Blade 12 in",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Hacksaw Blade 12 in"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-6",
-    "name": "Mini Hacksaw Frame 6 in",
-    "slug": "mini-hacksaw-frame-6-in",
-    "sku": "HIT-34-006",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Mini Hacksaw Frame 6 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Mini Hacksaw Frame 6 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Mini Hacksaw Frame 6 in",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Mini Hacksaw Frame 6 in"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-7",
-    "name": "Mini Hacksaw Blade 6 in",
-    "slug": "mini-hacksaw-blade-6-in",
-    "sku": "HIT-34-007",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Mini Hacksaw Blade 6 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Mini Hacksaw Blade 6 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Mini Hacksaw Blade 6 in",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Mini Hacksaw Blade 6 in"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-8",
-    "name": "External Straight Circlip Plier",
-    "slug": "external-straight-circlip-plier",
-    "sku": "HIT-34-008",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "External Straight Circlip Plier - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade External Straight Circlip Plier selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "External Straight Circlip Plier",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x External Straight Circlip Plier"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-9",
-    "name": "Nose Circlip Plier",
-    "slug": "nose-circlip-plier",
-    "sku": "HIT-34-009",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Nose Circlip Plier - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Nose Circlip Plier selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Nose Circlip Plier",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Nose Circlip Plier"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-10",
-    "name": "Long Nose Plier",
-    "slug": "long-nose-plier",
-    "sku": "HIT-34-010",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Long Nose Plier - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Long Nose Plier selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Long Nose Plier",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Long Nose Plier"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-34-11",
     "name": "Combination Mini Plier",
     "slug": "combination-mini-plier",
@@ -30306,8 +25253,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30317,9 +25264,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "Combination Mini Plier - Mechanical, Electric and Measurement Tools",
     "description": "High-grade Combination Mini Plier selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/mechanical-electric-and-measurement-tools/combination-mini-plier.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/combination-mini-plier.png"
     ],
     "specifications": {
       "Category": "Mechanical, Electric and Measurement Tools",
@@ -30349,590 +25296,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-34-12",
-    "name": "Bent Nose Plier",
-    "slug": "bent-nose-plier",
-    "sku": "HIT-34-012",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Bent Nose Plier - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Bent Nose Plier selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Bent Nose Plier",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Bent Nose Plier"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-13",
-    "name": "Ball Pein Hammer 0.75 kg",
-    "slug": "ball-pein-hammer-075-kg",
-    "sku": "HIT-34-013",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Ball Pein Hammer 0.75 kg - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Ball Pein Hammer 0.75 kg selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Ball Pein Hammer 0.75 kg",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Ball Pein Hammer 0.75 kg"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-14",
-    "name": "Claw Hammer 0.75 kg (Steel Shaft)",
-    "slug": "claw-hammer-075-kg-steel-shaft",
-    "sku": "HIT-34-014",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Claw Hammer 0.75 kg (Steel Shaft) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Claw Hammer 0.75 kg (Steel Shaft) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Claw Hammer 0.75 kg (Steel Shaft)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Claw Hammer 0.75 kg (Steel Shaft)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-15",
-    "name": "C-Clamp 3 in",
-    "slug": "c-clamp-3-in",
-    "sku": "HIT-34-015",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "C-Clamp 3 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade C-Clamp 3 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "C-Clamp 3 in",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x C-Clamp 3 in"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-16",
-    "name": "Allen Key Set (10 pc)",
-    "slug": "allen-key-set-10-pc",
-    "sku": "HIT-34-016",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "Allen Key Set (10 pc) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Allen Key Set (10 pc) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Allen Key Set (10 pc)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Allen Key Set (10 pc)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-17",
-    "name": "Drilling Workstation (Drill Press, Holder, Rotary Tool)",
-    "slug": "drilling-workstation-drill-press-holder-rotary-tool",
-    "sku": "HIT-34-017",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "Drilling Workstation (Drill Press, Holder, Rotary Tool) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Drilling Workstation (Drill Press, Holder, Rotary Tool) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Drilling Workstation (Drill Press, Holder, Rotary Tool)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Drilling Workstation (Drill Press, Holder, Rotary Tool)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-18",
-    "name": "Spanner Set (12 pc)",
-    "slug": "spanner-set-12-pc",
-    "sku": "HIT-34-018",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Spanner Set (12 pc) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Spanner Set (12 pc) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Spanner Set (12 pc)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Spanner Set (12 pc)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-19",
-    "name": "Bench Vice",
-    "slug": "bench-vice",
-    "sku": "HIT-34-019",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Bench Vice - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Bench Vice selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Bench Vice",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Bench Vice"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-20",
-    "name": "Adjustable Wrench",
-    "slug": "adjustable-wrench",
-    "sku": "HIT-34-020",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Adjustable Wrench - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Adjustable Wrench selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Adjustable Wrench",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Adjustable Wrench"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-21",
-    "name": "Cordless Rotary Multitool Set",
-    "slug": "cordless-rotary-multitool-set",
-    "sku": "HIT-34-021",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Cordless Rotary Multitool Set - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Cordless Rotary Multitool Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Cordless Rotary Multitool Set",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Cordless Rotary Multitool Set"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-22",
-    "name": "Air Blower 500W",
-    "slug": "air-blower-500w",
-    "sku": "HIT-34-022",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Air Blower 500W - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Air Blower 500W selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Air Blower 500W",
-      "Power Rating": "500W",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Air Blower 500W"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-34-23",
     "name": "Drill Bit Set (13 pc HSS)",
     "slug": "drill-bit-set-13-pc-hss",
@@ -30943,8 +25306,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30954,9 +25317,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "Drill Bit Set (13 pc HSS) - Mechanical, Electric and Measurement Tools",
     "description": "High-grade Drill Bit Set (13 pc HSS) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/mechanical-electric-and-measurement-tools/drill-bit-set-13-pc-hss.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/drill-bit-set-13-pc-hss.png"
     ],
     "specifications": {
       "Category": "Mechanical, Electric and Measurement Tools",
@@ -30986,378 +25349,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-34-24",
-    "name": "File Set (6 pc, 6 in)",
-    "slug": "file-set-6-pc-6-in",
-    "sku": "HIT-34-024",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "File Set (6 pc, 6 in) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade File Set (6 pc, 6 in) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "File Set (6 pc, 6 in)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x File Set (6 pc, 6 in)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-25",
-    "name": "Mini File Set (6 pc, 3 in)",
-    "slug": "mini-file-set-6-pc-3-in",
-    "sku": "HIT-34-025",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Mini File Set (6 pc, 3 in) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Mini File Set (6 pc, 3 in) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Mini File Set (6 pc, 3 in)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Mini File Set (6 pc, 3 in)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-26",
-    "name": "Flexible Cutting Mat A3",
-    "slug": "flexible-cutting-mat-a3",
-    "sku": "HIT-34-026",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Flexible Cutting Mat A3 - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Flexible Cutting Mat A3 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Flexible Cutting Mat A3",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Flexible Cutting Mat A3"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-27",
-    "name": "Plastic Storage Drawer Organiser (60 drawers)",
-    "slug": "plastic-storage-drawer-organiser-60-drawers",
-    "sku": "HIT-34-027",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Plastic Storage Drawer Organiser (60 drawers) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Plastic Storage Drawer Organiser (60 drawers) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Plastic Storage Drawer Organiser (60 drawers)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Plastic Storage Drawer Organiser (60 drawers)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-28",
-    "name": "Pegboard 3 ft x 2 ft",
-    "slug": "pegboard-3-ft-x-2-ft",
-    "sku": "HIT-34-028",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Pegboard 3 ft x 2 ft - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Pegboard 3 ft x 2 ft selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Pegboard 3 ft x 2 ft",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Pegboard 3 ft x 2 ft"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-29",
-    "name": "Digital Oscilloscope (50 MHz, 2-ch, 1 GSa/s)",
-    "slug": "digital-oscilloscope-50-mhz-2-ch-1-gsas",
-    "sku": "HIT-34-029",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 4800,
-    "compare_at_price": 6000,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Digital Oscilloscope (50 MHz, 2-ch, 1 GSa/s) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Digital Oscilloscope (50 MHz, 2-ch, 1 GSa/s) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Digital Oscilloscope (50 MHz, 2-ch, 1 GSa/s)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Digital Oscilloscope (50 MHz, 2-ch, 1 GSa/s)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-30",
-    "name": "Electric Screwdriver Set (Cordless, 3.6V)",
-    "slug": "electric-screwdriver-set-cordless-36v",
-    "sku": "HIT-34-030",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "Electric Screwdriver Set (Cordless, 3.6V) - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Electric Screwdriver Set (Cordless, 3.6V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Electric Screwdriver Set (Cordless, 3.6V)",
-      "Voltage": "3.6V",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Electric Screwdriver Set (Cordless, 3.6V)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-34-31",
     "name": "Dual Temperature Heat Gun 1800W",
     "slug": "dual-temperature-heat-gun-1800w",
@@ -31368,8 +25359,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -31379,9 +25370,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Dual Temperature Heat Gun 1800W - Mechanical, Electric and Measurement Tools",
     "description": "High-grade Dual Temperature Heat Gun 1800W selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/mechanical-electric-and-measurement-tools/dual-temperature-heat-gun-1800w.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/dual-temperature-heat-gun-1800w.png"
     ],
     "specifications": {
       "Category": "Mechanical, Electric and Measurement Tools",
@@ -31408,113 +25399,7 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-electric-and-measurement-tools",
       "electronics",
       "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-32",
-    "name": "Measuring Tape 5 m x 19 mm",
-    "slug": "measuring-tape-5-m-x-19-mm",
-    "sku": "HIT-34-032",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "Measuring Tape 5 m x 19 mm - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Measuring Tape 5 m x 19 mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Measuring Tape 5 m x 19 mm",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Measuring Tape 5 m x 19 mm"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-34-33",
-    "name": "Stainless Steel Rule 12 in",
-    "slug": "stainless-steel-rule-12-in",
-    "sku": "HIT-34-033",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Stainless Steel Rule 12 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Stainless Steel Rule 12 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Stainless Steel Rule 12 in",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Stainless Steel Rule 12 in"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -31528,8 +25413,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -31539,9 +25424,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "Digital Vernier Calliper 150 mm - Mechanical, Electric and Measurement Tools",
     "description": "High-grade Digital Vernier Calliper 150 mm selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/mechanical-electric-and-measurement-tools/digital-vernier-calliper-150-mm.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/digital-vernier-calliper-150-mm.png"
     ],
     "specifications": {
       "Category": "Mechanical, Electric and Measurement Tools",
@@ -31571,59 +25456,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-34-35",
-    "name": "Spirit Level 12 in",
-    "slug": "spirit-level-12-in",
-    "sku": "HIT-34-035",
-    "category_id": "cat-mechanical-electric-and-measurement-tools",
-    "category_name": "Mechanical, Electric and Measurement Tools",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": true,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Spirit Level 12 in - Mechanical, Electric and Measurement Tools",
-    "description": "High-grade Spirit Level 12 in selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Mechanical, Electric and Measurement Tools",
-      "Model": "Spirit Level 12 in",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Spirit Level 12 in"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "mechanical-electric-and-measurement-tools",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
     "id": "prod-34-36",
     "name": "Digital Pen Voltage Tester",
     "slug": "digital-pen-voltage-tester",
@@ -31634,8 +25466,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -31645,9 +25477,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Digital Pen Voltage Tester - Mechanical, Electric and Measurement Tools",
     "description": "High-grade Digital Pen Voltage Tester selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/mechanical-electric-and-measurement-tools/digital-pen-voltage-tester.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/mechanical-electric-and-measurement-tools/digital-pen-voltage-tester.png"
     ],
     "specifications": {
       "Category": "Mechanical, Electric and Measurement Tools",
@@ -31677,165 +25509,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-35-1",
-    "name": "Copper Pipe 5mm OD, 1.5mm Wall",
-    "slug": "copper-pipe-5mm-od-15mm-wall",
-    "sku": "HIT-35-001",
-    "category_id": "cat-safety-equipment-and-hardware-accessories",
-    "category_name": "Safety Equipment and Hardware Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "Copper Pipe 5mm OD, 1.5mm Wall - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Copper Pipe 5mm OD, 1.5mm Wall selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Copper Pipe 5mm OD, 1.5mm Wall",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Copper Pipe 5mm OD, 1.5mm Wall"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-35-2",
-    "name": "Copper P-Clip",
-    "slug": "copper-p-clip",
-    "sku": "HIT-35-002",
-    "category_id": "cat-safety-equipment-and-hardware-accessories",
-    "category_name": "Safety Equipment and Hardware Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "Copper P-Clip - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Copper P-Clip selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Copper P-Clip",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Copper P-Clip"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-35-3",
-    "name": "Nuts and Bolts (M4x12, M4x20, M5x16, M5x25, M6x20)",
-    "slug": "nuts-and-bolts-m4x12-m4x20-m5x16-m5x25-m6x20",
-    "sku": "HIT-35-003",
-    "category_id": "cat-safety-equipment-and-hardware-accessories",
-    "category_name": "Safety Equipment and Hardware Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Nuts and Bolts (M4x12, M4x20, M5x16, M5x25, M6x20) - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Nuts and Bolts (M4x12, M4x20, M5x16, M5x25, M6x20) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Nuts and Bolts (M4x12, M4x20, M5x16, M5x25, M6x20)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Nuts and Bolts (M4x12, M4x20, M5x16, M5x25, M6x20)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-35-4",
     "name": "Sandpaper (80, 100, 120, 200, 300 grit)",
     "slug": "sandpaper-80-100-120-200-300-grit",
@@ -31846,8 +25519,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -31857,9 +25530,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "Sandpaper (80, 100, 120, 200, 300 grit) - Safety Equipment and Hardware Accessories",
     "description": "High-grade Sandpaper (80, 100, 120, 200, 300 grit) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/safety-equipment-and-hardware-accessories/sandpaper-80-100-120-200-300-grit.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/safety-equipment-and-hardware-accessories/sandpaper-80-100-120-200-300-grit.png"
     ],
     "specifications": {
       "Category": "Safety Equipment and Hardware Accessories",
@@ -31889,113 +25562,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-35-5",
-    "name": "Power Strip Extension (5+ sockets, 5A fuse, 5 m)",
-    "slug": "power-strip-extension-5-sockets-5a-fuse-5-m",
-    "sku": "HIT-35-005",
-    "category_id": "cat-safety-equipment-and-hardware-accessories",
-    "category_name": "Safety Equipment and Hardware Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Power Strip Extension (5+ sockets, 5A fuse, 5 m) - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Power Strip Extension (5+ sockets, 5A fuse, 5 m) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Power Strip Extension (5+ sockets, 5A fuse, 5 m)",
-      "Current Rating": "5A",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Power Strip Extension (5+ sockets, 5A fuse, 5 m)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-35-6",
-    "name": "Bulb Holder (Hanging)",
-    "slug": "bulb-holder-hanging",
-    "sku": "HIT-35-006",
-    "category_id": "cat-safety-equipment-and-hardware-accessories",
-    "category_name": "Safety Equipment and Hardware Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Bulb Holder (Hanging) - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Bulb Holder (Hanging) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Bulb Holder (Hanging)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Bulb Holder (Hanging)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-35-7",
     "name": "Electric Wire Twisted Red/Black Pair",
     "slug": "electric-wire-twisted-redblack-pair",
@@ -32006,8 +25572,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -32017,9 +25583,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "Electric Wire Twisted Red/Black Pair - Safety Equipment and Hardware Accessories",
     "description": "High-grade Electric Wire Twisted Red/Black Pair selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/safety-equipment-and-hardware-accessories/electric-wire-twisted-redblack-pair.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/safety-equipment-and-hardware-accessories/electric-wire-twisted-redblack-pair.png"
     ],
     "specifications": {
       "Category": "Safety Equipment and Hardware Accessories",
@@ -32059,8 +25625,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -32070,9 +25636,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "USB to DC Jack Cable - Safety Equipment and Hardware Accessories",
     "description": "High-grade USB to DC Jack Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/safety-equipment-and-hardware-accessories/usb-to-dc-jack-cable.png",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/safety-equipment-and-hardware-accessories/usb-to-dc-jack-cable.png"
     ],
     "specifications": {
       "Category": "Safety Equipment and Hardware Accessories",
@@ -32102,377 +25668,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-35-9",
-    "name": "First-Aid Kit",
-    "slug": "first-aid-kit",
-    "sku": "HIT-35-009",
-    "category_id": "cat-safety-equipment-and-hardware-accessories",
-    "category_name": "Safety Equipment and Hardware Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "First-Aid Kit - Safety Equipment and Hardware Accessories",
-    "description": "High-grade First-Aid Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "First-Aid Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x First-Aid Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-35-10",
-    "name": "Fire Extinguisher (Powder, 2 kg)",
-    "slug": "fire-extinguisher-powder-2-kg",
-    "sku": "HIT-35-010",
-    "category_id": "cat-safety-equipment-and-hardware-accessories",
-    "category_name": "Safety Equipment and Hardware Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Fire Extinguisher (Powder, 2 kg) - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Fire Extinguisher (Powder, 2 kg) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Fire Extinguisher (Powder, 2 kg)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Fire Extinguisher (Powder, 2 kg)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-35-11",
-    "name": "Safety Goggles",
-    "slug": "safety-goggles",
-    "sku": "HIT-35-011",
-    "category_id": "cat-safety-equipment-and-hardware-accessories",
-    "category_name": "Safety Equipment and Hardware Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Safety Goggles - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Safety Goggles selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Safety Goggles",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Safety Goggles"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-35-12",
-    "name": "Safety Gloves (Latex, Medium) Pairs",
-    "slug": "safety-gloves-latex-medium-pairs",
-    "sku": "HIT-35-012",
-    "category_id": "cat-safety-equipment-and-hardware-accessories",
-    "category_name": "Safety Equipment and Hardware Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Safety Gloves (Latex, Medium) Pairs - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Safety Gloves (Latex, Medium) Pairs selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Safety Gloves (Latex, Medium) Pairs",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Safety Gloves (Latex, Medium) Pairs"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-35-13",
-    "name": "Safety Mask",
-    "slug": "safety-mask",
-    "sku": "HIT-35-013",
-    "category_id": "cat-safety-equipment-and-hardware-accessories",
-    "category_name": "Safety Equipment and Hardware Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Safety Mask - Safety Equipment and Hardware Accessories",
-    "description": "High-grade Safety Mask selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Safety Equipment and Hardware Accessories",
-      "Model": "Safety Mask",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Safety Mask"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "safety-equipment-and-hardware-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-1",
-    "name": "ESP32-C6 DevKit",
-    "slug": "esp32-c6-devkit",
-    "sku": "HIT-36-001",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "ESP32-C6 DevKit - IoT Boards and Gateways",
-    "description": "High-grade ESP32-C6 DevKit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "ESP32-C6 DevKit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ESP32-C6 DevKit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-2",
-    "name": "ESP32-S2 DevKit",
-    "slug": "esp32-s2-devkit",
-    "sku": "HIT-36-002",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "ESP32-S2 DevKit - IoT Boards and Gateways",
-    "description": "High-grade ESP32-S2 DevKit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "ESP32-S2 DevKit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ESP32-S2 DevKit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-36-3",
     "name": "ESP32-WROOM-32 Module",
     "slug": "esp32-wroom-32-module",
@@ -32483,8 +25678,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -32494,9 +25689,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "ESP32-WROOM-32 Module - IoT Boards and Gateways",
     "description": "High-grade ESP32-WROOM-32 Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-boards-and-gateways/esp32-wroom-32-module.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-boards-and-gateways/esp32-wroom-32-module.jpg"
     ],
     "specifications": {
       "Category": "IoT Boards and Gateways",
@@ -32526,59 +25721,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-36-4",
-    "name": "ESP32-WROVER Module (with PSRAM)",
-    "slug": "esp32-wrover-module-with-psram",
-    "sku": "HIT-36-004",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "ESP32-WROVER Module (with PSRAM) - IoT Boards and Gateways",
-    "description": "High-grade ESP32-WROVER Module (with PSRAM) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "ESP32-WROVER Module (with PSRAM)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ESP32-WROVER Module (with PSRAM)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-36-5",
     "name": "ESP8266 ESP-12F Module",
     "slug": "esp8266-esp-12f-module",
@@ -32589,8 +25731,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -32600,9 +25742,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "ESP8266 ESP-12F Module - IoT Boards and Gateways",
     "description": "High-grade ESP8266 ESP-12F Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-boards-and-gateways/esp8266-esp-12f-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-boards-and-gateways/esp8266-esp-12f-module.png"
     ],
     "specifications": {
       "Category": "IoT Boards and Gateways",
@@ -32632,431 +25774,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-36-6",
-    "name": "Raspberry Pi Zero W",
-    "slug": "raspberry-pi-zero-w",
-    "sku": "HIT-36-006",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Raspberry Pi Zero W - IoT Boards and Gateways",
-    "description": "High-grade Raspberry Pi Zero W selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Raspberry Pi Zero W",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi Zero W"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-7",
-    "name": "Raspberry Pi Pico 2 W",
-    "slug": "raspberry-pi-pico-2-w",
-    "sku": "HIT-36-007",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Raspberry Pi Pico 2 W - IoT Boards and Gateways",
-    "description": "High-grade Raspberry Pi Pico 2 W selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Raspberry Pi Pico 2 W",
-      "Power Rating": "2 W",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi Pico 2 W"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-8",
-    "name": "Arduino Nano ESP32",
-    "slug": "arduino-nano-esp32",
-    "sku": "HIT-36-008",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Arduino Nano ESP32 - IoT Boards and Gateways",
-    "description": "High-grade Arduino Nano ESP32 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Arduino Nano ESP32",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Arduino Nano ESP32"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-9",
-    "name": "Arduino MKR WiFi 1010",
-    "slug": "arduino-mkr-wifi-1010",
-    "sku": "HIT-36-009",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Arduino MKR WiFi 1010 - IoT Boards and Gateways",
-    "description": "High-grade Arduino MKR WiFi 1010 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Arduino MKR WiFi 1010",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Arduino MKR WiFi 1010"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-10",
-    "name": "Arduino Nano RP2040 Connect",
-    "slug": "arduino-nano-rp2040-connect",
-    "sku": "HIT-36-010",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Arduino Nano RP2040 Connect - IoT Boards and Gateways",
-    "description": "High-grade Arduino Nano RP2040 Connect selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Arduino Nano RP2040 Connect",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Arduino Nano RP2040 Connect"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-11",
-    "name": "Arduino Nano 33 BLE",
-    "slug": "arduino-nano-33-ble",
-    "sku": "HIT-36-011",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Arduino Nano 33 BLE - IoT Boards and Gateways",
-    "description": "High-grade Arduino Nano 33 BLE selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Arduino Nano 33 BLE",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Arduino Nano 33 BLE"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-12",
-    "name": "Adafruit Feather HUZZAH32",
-    "slug": "adafruit-feather-huzzah32",
-    "sku": "HIT-36-012",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Adafruit Feather HUZZAH32 - IoT Boards and Gateways",
-    "description": "High-grade Adafruit Feather HUZZAH32 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Adafruit Feather HUZZAH32",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Adafruit Feather HUZZAH32"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-13",
-    "name": "Seeed Studio XIAO ESP32-C3",
-    "slug": "seeed-studio-xiao-esp32-c3",
-    "sku": "HIT-36-013",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Seeed Studio XIAO ESP32-C3 - IoT Boards and Gateways",
-    "description": "High-grade Seeed Studio XIAO ESP32-C3 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Seeed Studio XIAO ESP32-C3",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Seeed Studio XIAO ESP32-C3"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-36-14",
     "name": "Heltec WiFi LoRa 32 Board",
     "slug": "heltec-wifi-lora-32-board",
@@ -33067,8 +25784,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -33078,9 +25795,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "Heltec WiFi LoRa 32 Board - IoT Boards and Gateways",
     "description": "High-grade Heltec WiFi LoRa 32 Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-boards-and-gateways/heltec-wifi-lora-32-board.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-boards-and-gateways/heltec-wifi-lora-32-board.jpg"
     ],
     "specifications": {
       "Category": "IoT Boards and Gateways",
@@ -33120,8 +25837,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -33131,9 +25848,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "LILYGO TTGO LoRa32 Board - IoT Boards and Gateways",
     "description": "High-grade LILYGO TTGO LoRa32 Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-boards-and-gateways/lilygo-ttgo-lora32-board.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-boards-and-gateways/lilygo-ttgo-lora32-board.jpg"
     ],
     "specifications": {
       "Category": "IoT Boards and Gateways",
@@ -33163,748 +25880,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-36-16",
-    "name": "LILYGO T-Display ESP32",
-    "slug": "lilygo-t-display-esp32",
-    "sku": "HIT-36-016",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "LILYGO T-Display ESP32 - IoT Boards and Gateways",
-    "description": "High-grade LILYGO T-Display ESP32 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "LILYGO T-Display ESP32",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x LILYGO T-Display ESP32"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-17",
-    "name": "M5Stack Core ESP32 Development Kit",
-    "slug": "m5stack-core-esp32-development-kit",
-    "sku": "HIT-36-017",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "M5Stack Core ESP32 Development Kit - IoT Boards and Gateways",
-    "description": "High-grade M5Stack Core ESP32 Development Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1517055729445-fa7d27394b48?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "M5Stack Core ESP32 Development Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x M5Stack Core ESP32 Development Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-18",
-    "name": "M5StickC Plus",
-    "slug": "m5stickc-plus",
-    "sku": "HIT-36-018",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "M5StickC Plus - IoT Boards and Gateways",
-    "description": "High-grade M5StickC Plus selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "M5StickC Plus",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x M5StickC Plus"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-19",
-    "name": "Nordic nRF52840 Development Board",
-    "slug": "nordic-nrf52840-development-board",
-    "sku": "HIT-36-019",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Nordic nRF52840 Development Board - IoT Boards and Gateways",
-    "description": "High-grade Nordic nRF52840 Development Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Nordic nRF52840 Development Board",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Nordic nRF52840 Development Board"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-20",
-    "name": "nRF52840 USB Dongle",
-    "slug": "nrf52840-usb-dongle",
-    "sku": "HIT-36-020",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "nRF52840 USB Dongle - IoT Boards and Gateways",
-    "description": "High-grade nRF52840 USB Dongle selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "nRF52840 USB Dongle",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x nRF52840 USB Dongle"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-21",
-    "name": "BeagleBone Black",
-    "slug": "beaglebone-black",
-    "sku": "HIT-36-021",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "BeagleBone Black - IoT Boards and Gateways",
-    "description": "High-grade BeagleBone Black selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "BeagleBone Black",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x BeagleBone Black"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-22",
-    "name": "Particle Photon",
-    "slug": "particle-photon",
-    "sku": "HIT-36-022",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Particle Photon - IoT Boards and Gateways",
-    "description": "High-grade Particle Photon selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Particle Photon",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Particle Photon"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-23",
-    "name": "Google Coral USB Accelerator",
-    "slug": "google-coral-usb-accelerator",
-    "sku": "HIT-36-023",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Google Coral USB Accelerator - IoT Boards and Gateways",
-    "description": "High-grade Google Coral USB Accelerator selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Google Coral USB Accelerator",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Google Coral USB Accelerator"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-24",
-    "name": "LoRaWAN Gateway (8-Channel, 868/915 MHz)",
-    "slug": "lorawan-gateway-8-channel-868915-mhz",
-    "sku": "HIT-36-024",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "LoRaWAN Gateway (8-Channel, 868/915 MHz) - IoT Boards and Gateways",
-    "description": "High-grade LoRaWAN Gateway (8-Channel, 868/915 MHz) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "LoRaWAN Gateway (8-Channel, 868/915 MHz)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x LoRaWAN Gateway (8-Channel, 868/915 MHz)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-25",
-    "name": "Industrial 4G LTE Router / Gateway",
-    "slug": "industrial-4g-lte-router-gateway",
-    "sku": "HIT-36-025",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Industrial 4G LTE Router / Gateway - IoT Boards and Gateways",
-    "description": "High-grade Industrial 4G LTE Router / Gateway selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Industrial 4G LTE Router / Gateway",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Industrial 4G LTE Router / Gateway"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-26",
-    "name": "Portable 4G Wi-Fi Router (MiFi)",
-    "slug": "portable-4g-wi-fi-router-mifi",
-    "sku": "HIT-36-026",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Portable 4G Wi-Fi Router (MiFi) - IoT Boards and Gateways",
-    "description": "High-grade Portable 4G Wi-Fi Router (MiFi) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Portable 4G Wi-Fi Router (MiFi)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Portable 4G Wi-Fi Router (MiFi)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-27",
-    "name": "Wi-Fi Router",
-    "slug": "wi-fi-router",
-    "sku": "HIT-36-027",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Wi-Fi Router - IoT Boards and Gateways",
-    "description": "High-grade Wi-Fi Router selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Wi-Fi Router",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Wi-Fi Router"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-28",
-    "name": "Ethernet Switch (5-Port)",
-    "slug": "ethernet-switch-5-port",
-    "sku": "HIT-36-028",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Ethernet Switch (5-Port) - IoT Boards and Gateways",
-    "description": "High-grade Ethernet Switch (5-Port) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Ethernet Switch (5-Port)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Ethernet Switch (5-Port)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-36-29",
-    "name": "Zigbee Coordinator USB Dongle (CC2531)",
-    "slug": "zigbee-coordinator-usb-dongle-cc2531",
-    "sku": "HIT-36-029",
-    "category_id": "cat-iot-boards-and-gateways",
-    "category_name": "IoT Boards and Gateways",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Zigbee Coordinator USB Dongle (CC2531) - IoT Boards and Gateways",
-    "description": "High-grade Zigbee Coordinator USB Dongle (CC2531) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Boards and Gateways",
-      "Model": "Zigbee Coordinator USB Dongle (CC2531)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Zigbee Coordinator USB Dongle (CC2531)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-boards-and-gateways",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-37-1",
     "name": "RFM95W LoRa Module (868/915 MHz)",
     "slug": "rfm95w-lora-module-868915-mhz",
@@ -33915,8 +25890,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -33926,9 +25901,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "RFM95W LoRa Module (868/915 MHz) - IoT Connectivity Modules and Antennas",
     "description": "High-grade RFM95W LoRa Module (868/915 MHz) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-connectivity-modules-and-antennas/rfm95w-lora-module-868915-mhz.png",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/rfm95w-lora-module-868915-mhz.png"
     ],
     "specifications": {
       "Category": "IoT Connectivity Modules and Antennas",
@@ -33959,59 +25934,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-37-2",
-    "name": "RFM69HCW Radio Module",
-    "slug": "rfm69hcw-radio-module",
-    "sku": "HIT-37-002",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "RFM69HCW Radio Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade RFM69HCW Radio Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "RFM69HCW Radio Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x RFM69HCW Radio Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-37-3",
     "name": "SX1262 LoRa Module",
     "slug": "sx1262-lora-module",
@@ -34022,8 +25944,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -34033,9 +25955,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "SX1262 LoRa Module - IoT Connectivity Modules and Antennas",
     "description": "High-grade SX1262 LoRa Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-connectivity-modules-and-antennas/sx1262-lora-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/sx1262-lora-module.png"
     ],
     "specifications": {
       "Category": "IoT Connectivity Modules and Antennas",
@@ -34061,7 +25983,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -34075,8 +25997,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -34086,9 +26008,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "RAK3172 LoRaWAN Module - IoT Connectivity Modules and Antennas",
     "description": "High-grade RAK3172 LoRaWAN Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-connectivity-modules-and-antennas/rak3172-lorawan-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/rak3172-lorawan-module.png"
     ],
     "specifications": {
       "Category": "IoT Connectivity Modules and Antennas",
@@ -34114,7 +26036,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -34128,8 +26050,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -34139,9 +26061,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "Dragino LoRa Shield for Arduino - IoT Connectivity Modules and Antennas",
     "description": "High-grade Dragino LoRa Shield for Arduino selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-connectivity-modules-and-antennas/dragino-lora-shield-for-arduino.png",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/dragino-lora-shield-for-arduino.png"
     ],
     "specifications": {
       "Category": "IoT Connectivity Modules and Antennas",
@@ -34167,7 +26089,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -34181,8 +26103,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -34192,9 +26114,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "LoRa HAT for Raspberry Pi - IoT Connectivity Modules and Antennas",
     "description": "High-grade LoRa HAT for Raspberry Pi selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-connectivity-modules-and-antennas/lora-hat-for-raspberry-pi.png",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/lora-hat-for-raspberry-pi.png"
     ],
     "specifications": {
       "Category": "IoT Connectivity Modules and Antennas",
@@ -34220,7 +26142,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -34234,8 +26156,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -34245,9 +26167,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "HC-12 433 MHz Serial Wireless Module - IoT Connectivity Modules and Antennas",
     "description": "High-grade HC-12 433 MHz Serial Wireless Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-connectivity-modules-and-antennas/hc-12-433-mhz-serial-wireless-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/hc-12-433-mhz-serial-wireless-module.png"
     ],
     "specifications": {
       "Category": "IoT Connectivity Modules and Antennas",
@@ -34277,112 +26199,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-37-8",
-    "name": "CC2530 Zigbee Module",
-    "slug": "cc2530-zigbee-module",
-    "sku": "HIT-37-008",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "CC2530 Zigbee Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade CC2530 Zigbee Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "CC2530 Zigbee Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x CC2530 Zigbee Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-9",
-    "name": "XBee USB Explorer Board",
-    "slug": "xbee-usb-explorer-board",
-    "sku": "HIT-37-009",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "XBee USB Explorer Board - IoT Connectivity Modules and Antennas",
-    "description": "High-grade XBee USB Explorer Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "XBee USB Explorer Board",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x XBee USB Explorer Board"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-37-10",
     "name": "SIM7000 NB-IoT / LTE-M Module",
     "slug": "sim7000-nb-iot-lte-m-module",
@@ -34393,8 +26209,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -34404,9 +26220,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "SIM7000 NB-IoT / LTE-M Module - IoT Connectivity Modules and Antennas",
     "description": "High-grade SIM7000 NB-IoT / LTE-M Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-connectivity-modules-and-antennas/sim7000-nb-iot-lte-m-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/sim7000-nb-iot-lte-m-module.png"
     ],
     "specifications": {
       "Category": "IoT Connectivity Modules and Antennas",
@@ -34436,165 +26252,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-37-11",
-    "name": "SIM808 GSM/GPRS/GPS Module",
-    "slug": "sim808-gsmgprsgps-module",
-    "sku": "HIT-37-011",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "SIM808 GSM/GPRS/GPS Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade SIM808 GSM/GPRS/GPS Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "SIM808 GSM/GPRS/GPS Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x SIM808 GSM/GPRS/GPS Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-12",
-    "name": "SIM7020 NB-IoT Module",
-    "slug": "sim7020-nb-iot-module",
-    "sku": "HIT-37-012",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "SIM7020 NB-IoT Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade SIM7020 NB-IoT Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "SIM7020 NB-IoT Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x SIM7020 NB-IoT Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-13",
-    "name": "Quectel EC200U 4G LTE Module",
-    "slug": "quectel-ec200u-4g-lte-module",
-    "sku": "HIT-37-013",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Quectel EC200U 4G LTE Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade Quectel EC200U 4G LTE Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "Quectel EC200U 4G LTE Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Quectel EC200U 4G LTE Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-37-14",
     "name": "ESP-01 Programmer Adapter",
     "slug": "esp-01-programmer-adapter",
@@ -34605,8 +26262,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -34616,9 +26273,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "ESP-01 Programmer Adapter - IoT Connectivity Modules and Antennas",
     "description": "High-grade ESP-01 Programmer Adapter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-connectivity-modules-and-antennas/esp-01-programmer-adapter.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/esp-01-programmer-adapter.png"
     ],
     "specifications": {
       "Category": "IoT Connectivity Modules and Antennas",
@@ -34648,271 +26305,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-37-15",
-    "name": "ESP-Prog Programmer/Debugger",
-    "slug": "esp-prog-programmerdebugger",
-    "sku": "HIT-37-015",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "ESP-Prog Programmer/Debugger - IoT Connectivity Modules and Antennas",
-    "description": "High-grade ESP-Prog Programmer/Debugger selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "ESP-Prog Programmer/Debugger",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ESP-Prog Programmer/Debugger"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-16",
-    "name": "BLE Beacon (iBeacon / Eddystone)",
-    "slug": "ble-beacon-ibeacon-eddystone",
-    "sku": "HIT-37-016",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "BLE Beacon (iBeacon / Eddystone) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade BLE Beacon (iBeacon / Eddystone) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "BLE Beacon (iBeacon / Eddystone)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x BLE Beacon (iBeacon / Eddystone)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-17",
-    "name": "JDY-23 BLE Module",
-    "slug": "jdy-23-ble-module",
-    "sku": "HIT-37-017",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "JDY-23 BLE Module - IoT Connectivity Modules and Antennas",
-    "description": "High-grade JDY-23 BLE Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "JDY-23 BLE Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x JDY-23 BLE Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-18",
-    "name": "RS485 to USB Converter",
-    "slug": "rs485-to-usb-converter",
-    "sku": "HIT-37-018",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "RS485 to USB Converter - IoT Connectivity Modules and Antennas",
-    "description": "High-grade RS485 to USB Converter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "RS485 to USB Converter",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x RS485 to USB Converter"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-19",
-    "name": "USB Wi-Fi Adapter (2.4 GHz)",
-    "slug": "usb-wi-fi-adapter-24-ghz",
-    "sku": "HIT-37-019",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "USB Wi-Fi Adapter (2.4 GHz) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade USB Wi-Fi Adapter (2.4 GHz) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "USB Wi-Fi Adapter (2.4 GHz)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x USB Wi-Fi Adapter (2.4 GHz)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-37-20",
     "name": "4G USB Dongle",
     "slug": "4g-usb-dongle",
@@ -34923,8 +26315,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -34934,9 +26326,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "4G USB Dongle - IoT Connectivity Modules and Antennas",
     "description": "High-grade 4G USB Dongle selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-connectivity-modules-and-antennas/4g-usb-dongle.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-connectivity-modules-and-antennas/4g-usb-dongle.png"
     ],
     "specifications": {
       "Category": "IoT Connectivity Modules and Antennas",
@@ -34966,908 +26358,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-37-21",
-    "name": "2.4 GHz Wi-Fi Antenna (IPEX/u.FL)",
-    "slug": "24-ghz-wi-fi-antenna-ipexufl",
-    "sku": "HIT-37-021",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "2.4 GHz Wi-Fi Antenna (IPEX/u.FL) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade 2.4 GHz Wi-Fi Antenna (IPEX/u.FL) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "2.4 GHz Wi-Fi Antenna (IPEX/u.FL)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x 2.4 GHz Wi-Fi Antenna (IPEX/u.FL)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-22",
-    "name": "LoRa 868/915 MHz Antenna (SMA)",
-    "slug": "lora-868915-mhz-antenna-sma",
-    "sku": "HIT-37-022",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "LoRa 868/915 MHz Antenna (SMA) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade LoRa 868/915 MHz Antenna (SMA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "LoRa 868/915 MHz Antenna (SMA)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x LoRa 868/915 MHz Antenna (SMA)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-23",
-    "name": "GSM/4G LTE Antenna (SMA)",
-    "slug": "gsm4g-lte-antenna-sma",
-    "sku": "HIT-37-023",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "GSM/4G LTE Antenna (SMA) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade GSM/4G LTE Antenna (SMA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "GSM/4G LTE Antenna (SMA)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x GSM/4G LTE Antenna (SMA)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-24",
-    "name": "Active GPS Antenna (SMA)",
-    "slug": "active-gps-antenna-sma",
-    "sku": "HIT-37-024",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": true,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Active GPS Antenna (SMA) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade Active GPS Antenna (SMA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "Active GPS Antenna (SMA)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Active GPS Antenna (SMA)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-37-25",
-    "name": "u.FL to SMA Pigtail Cable",
-    "slug": "ufl-to-sma-pigtail-cable",
-    "sku": "HIT-37-025",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": true,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "u.FL to SMA Pigtail Cable - IoT Connectivity Modules and Antennas",
-    "description": "High-grade u.FL to SMA Pigtail Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "u.FL to SMA Pigtail Cable",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x u.FL to SMA Pigtail Cable"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-37-26",
-    "name": "SMA Connector (Female Bulkhead)",
-    "slug": "sma-connector-female-bulkhead",
-    "sku": "HIT-37-026",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "SMA Connector (Female Bulkhead) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade SMA Connector (Female Bulkhead) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "SMA Connector (Female Bulkhead)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x SMA Connector (Female Bulkhead)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-27",
-    "name": "Ethernet Cable (Cat6)",
-    "slug": "ethernet-cable-cat6",
-    "sku": "HIT-37-027",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Ethernet Cable (Cat6) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade Ethernet Cable (Cat6) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "Ethernet Cable (Cat6)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Ethernet Cable (Cat6)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-37-28",
-    "name": "PoE Splitter (5V/12V)",
-    "slug": "poe-splitter-5v12v",
-    "sku": "HIT-37-028",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "PoE Splitter (5V/12V) - IoT Connectivity Modules and Antennas",
-    "description": "High-grade PoE Splitter (5V/12V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "PoE Splitter (5V/12V)",
-      "Voltage": "5V",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x PoE Splitter (5V/12V)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-37-29",
-    "name": "PoE Injector",
-    "slug": "poe-injector",
-    "sku": "HIT-37-029",
-    "category_id": "cat-iot-connectivity-modules-and-antennas",
-    "category_name": "IoT Connectivity Modules and Antennas",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "PoE Injector - IoT Connectivity Modules and Antennas",
-    "description": "High-grade PoE Injector selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Connectivity Modules and Antennas",
-      "Model": "PoE Injector",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x PoE Injector"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-connectivity-modules-and-antennas",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-38-1",
-    "name": "BME680 Gas, Temperature, Humidity and Pressure Sensor",
-    "slug": "bme680-gas-temperature-humidity-and-pressure-sensor",
-    "sku": "HIT-38-001",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "BME680 Gas, Temperature, Humidity and Pressure Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade BME680 Gas, Temperature, Humidity and Pressure Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "BME680 Gas, Temperature, Humidity and Pressure Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x BME680 Gas, Temperature, Humidity and Pressure Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-2",
-    "name": "SCD30 CO2, Temperature and Humidity Sensor",
-    "slug": "scd30-co2-temperature-and-humidity-sensor",
-    "sku": "HIT-38-002",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "SCD30 CO2, Temperature and Humidity Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade SCD30 CO2, Temperature and Humidity Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "SCD30 CO2, Temperature and Humidity Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x SCD30 CO2, Temperature and Humidity Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-3",
-    "name": "SCD40 CO2 Sensor",
-    "slug": "scd40-co2-sensor",
-    "sku": "HIT-38-003",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "SCD40 CO2 Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade SCD40 CO2 Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "SCD40 CO2 Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x SCD40 CO2 Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-4",
-    "name": "SGP30 TVOC and eCO2 Sensor",
-    "slug": "sgp30-tvoc-and-eco2-sensor",
-    "sku": "HIT-38-004",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "SGP30 TVOC and eCO2 Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade SGP30 TVOC and eCO2 Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "SGP30 TVOC and eCO2 Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x SGP30 TVOC and eCO2 Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-5",
-    "name": "SDS011 PM2.5 / PM10 Dust Sensor",
-    "slug": "sds011-pm25-pm10-dust-sensor",
-    "sku": "HIT-38-005",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "SDS011 PM2.5 / PM10 Dust Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade SDS011 PM2.5 / PM10 Dust Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "SDS011 PM2.5 / PM10 Dust Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x SDS011 PM2.5 / PM10 Dust Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-6",
-    "name": "PMS7003 Particulate Matter Sensor",
-    "slug": "pms7003-particulate-matter-sensor",
-    "sku": "HIT-38-006",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "PMS7003 Particulate Matter Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade PMS7003 Particulate Matter Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "PMS7003 Particulate Matter Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x PMS7003 Particulate Matter Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-7",
-    "name": "Si7021 Temperature and Humidity Sensor",
-    "slug": "si7021-temperature-and-humidity-sensor",
-    "sku": "HIT-38-007",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Si7021 Temperature and Humidity Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade Si7021 Temperature and Humidity Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Si7021 Temperature and Humidity Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Si7021 Temperature and Humidity Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-8",
-    "name": "HDC1080 Temperature and Humidity Sensor",
-    "slug": "hdc1080-temperature-and-humidity-sensor",
-    "sku": "HIT-38-008",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "HDC1080 Temperature and Humidity Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade HDC1080 Temperature and Humidity Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "HDC1080 Temperature and Humidity Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x HDC1080 Temperature and Humidity Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-38-9",
     "name": "DS18B20 Waterproof Temperature Probe",
     "slug": "ds18b20-waterproof-temperature-probe",
@@ -35878,8 +26368,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -35889,9 +26379,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "DS18B20 Waterproof Temperature Probe - IoT Sensors and Interface Modules",
     "description": "High-grade DS18B20 Waterproof Temperature Probe selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/ds18b20-waterproof-temperature-probe.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/ds18b20-waterproof-temperature-probe.jpg"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -35922,324 +26412,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-38-10",
-    "name": "PT100 Temperature Sensor with MAX31865",
-    "slug": "pt100-temperature-sensor-with-max31865",
-    "sku": "HIT-38-010",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "PT100 Temperature Sensor with MAX31865 - IoT Sensors and Interface Modules",
-    "description": "High-grade PT100 Temperature Sensor with MAX31865 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "PT100 Temperature Sensor with MAX31865",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x PT100 Temperature Sensor with MAX31865"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-11",
-    "name": "RS485 Soil NPK Sensor",
-    "slug": "rs485-soil-npk-sensor",
-    "sku": "HIT-38-011",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "RS485 Soil NPK Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade RS485 Soil NPK Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "RS485 Soil NPK Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x RS485 Soil NPK Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-12",
-    "name": "RS485 Soil Moisture, Temperature and EC Sensor",
-    "slug": "rs485-soil-moisture-temperature-and-ec-sensor",
-    "sku": "HIT-38-012",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "RS485 Soil Moisture, Temperature and EC Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade RS485 Soil Moisture, Temperature and EC Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "RS485 Soil Moisture, Temperature and EC Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x RS485 Soil Moisture, Temperature and EC Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-13",
-    "name": "Dissolved Oxygen (DO) Sensor",
-    "slug": "dissolved-oxygen-do-sensor",
-    "sku": "HIT-38-013",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Dissolved Oxygen (DO) Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade Dissolved Oxygen (DO) Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Dissolved Oxygen (DO) Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Dissolved Oxygen (DO) Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-14",
-    "name": "ORP Sensor",
-    "slug": "orp-sensor",
-    "sku": "HIT-38-014",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "ORP Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade ORP Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "ORP Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ORP Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-15",
-    "name": "EC (Electrical Conductivity) Sensor",
-    "slug": "ec-electrical-conductivity-sensor",
-    "sku": "HIT-38-015",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "EC (Electrical Conductivity) Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade EC (Electrical Conductivity) Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "EC (Electrical Conductivity) Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x EC (Electrical Conductivity) Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-38-16",
     "name": "Float Switch (Water Level)",
     "slug": "float-switch-water-level",
@@ -36250,8 +26422,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -36261,9 +26433,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Float Switch (Water Level) - IoT Sensors and Interface Modules",
     "description": "High-grade Float Switch (Water Level) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/float-switch-water-level.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/float-switch-water-level.png"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -36293,271 +26465,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-38-17",
-    "name": "Tipping Bucket Rain Gauge",
-    "slug": "tipping-bucket-rain-gauge",
-    "sku": "HIT-38-017",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "Tipping Bucket Rain Gauge - IoT Sensors and Interface Modules",
-    "description": "High-grade Tipping Bucket Rain Gauge selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Tipping Bucket Rain Gauge",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Tipping Bucket Rain Gauge"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-18",
-    "name": "Anemometer (Wind Speed Sensor)",
-    "slug": "anemometer-wind-speed-sensor",
-    "sku": "HIT-38-018",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Anemometer (Wind Speed Sensor) - IoT Sensors and Interface Modules",
-    "description": "High-grade Anemometer (Wind Speed Sensor) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Anemometer (Wind Speed Sensor)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Anemometer (Wind Speed Sensor)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-19",
-    "name": "Wind Vane (Wind Direction Sensor)",
-    "slug": "wind-vane-wind-direction-sensor",
-    "sku": "HIT-38-019",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Wind Vane (Wind Direction Sensor) - IoT Sensors and Interface Modules",
-    "description": "High-grade Wind Vane (Wind Direction Sensor) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Wind Vane (Wind Direction Sensor)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Wind Vane (Wind Direction Sensor)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-20",
-    "name": "Sound Level Meter Module (Decibel Sensor)",
-    "slug": "sound-level-meter-module-decibel-sensor",
-    "sku": "HIT-38-020",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Sound Level Meter Module (Decibel Sensor) - IoT Sensors and Interface Modules",
-    "description": "High-grade Sound Level Meter Module (Decibel Sensor) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Sound Level Meter Module (Decibel Sensor)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Sound Level Meter Module (Decibel Sensor)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-21",
-    "name": "HLK-LD2410 mmWave Presence Radar",
-    "slug": "hlk-ld2410-mmwave-presence-radar",
-    "sku": "HIT-38-021",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "HLK-LD2410 mmWave Presence Radar - IoT Sensors and Interface Modules",
-    "description": "High-grade HLK-LD2410 mmWave Presence Radar selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "HLK-LD2410 mmWave Presence Radar",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x HLK-LD2410 mmWave Presence Radar"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-38-22",
     "name": "Magnetic Door/Window Contact Sensor",
     "slug": "magnetic-doorwindow-contact-sensor",
@@ -36568,8 +26475,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -36579,9 +26486,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "Magnetic Door/Window Contact Sensor - IoT Sensors and Interface Modules",
     "description": "High-grade Magnetic Door/Window Contact Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/magnetic-doorwindow-contact-sensor.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/magnetic-doorwindow-contact-sensor.png"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -36611,59 +26518,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-38-23",
-    "name": "Water Leak Sensor",
-    "slug": "water-leak-sensor",
-    "sku": "HIT-38-023",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Water Leak Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade Water Leak Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Water Leak Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Water Leak Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-38-24",
     "name": "MLX90614 IR Temperature Sensor",
     "slug": "mlx90614-ir-temperature-sensor",
@@ -36674,8 +26528,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -36685,9 +26539,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "MLX90614 IR Temperature Sensor - IoT Sensors and Interface Modules",
     "description": "High-grade MLX90614 IR Temperature Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/mlx90614-ir-temperature-sensor.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/mlx90614-ir-temperature-sensor.jpg"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -36717,379 +26571,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-38-25",
-    "name": "MLX90640 Thermal Camera",
-    "slug": "mlx90640-thermal-camera",
-    "sku": "HIT-38-025",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "MLX90640 Thermal Camera - IoT Sensors and Interface Modules",
-    "description": "High-grade MLX90640 Thermal Camera selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "MLX90640 Thermal Camera",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x MLX90640 Thermal Camera"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-26",
-    "name": "AMG8833 Thermal Array Sensor",
-    "slug": "amg8833-thermal-array-sensor",
-    "sku": "HIT-38-026",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "AMG8833 Thermal Array Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade AMG8833 Thermal Array Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "AMG8833 Thermal Array Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x AMG8833 Thermal Array Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-27",
-    "name": "MAX30205 Body Temperature Sensor",
-    "slug": "max30205-body-temperature-sensor",
-    "sku": "HIT-38-027",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "MAX30205 Body Temperature Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade MAX30205 Body Temperature Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "MAX30205 Body Temperature Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x MAX30205 Body Temperature Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-28",
-    "name": "GSR (Galvanic Skin Response) Sensor",
-    "slug": "gsr-galvanic-skin-response-sensor",
-    "sku": "HIT-38-028",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "GSR (Galvanic Skin Response) Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade GSR (Galvanic Skin Response) Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "GSR (Galvanic Skin Response) Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x GSR (Galvanic Skin Response) Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-29",
-    "name": "EMG Muscle Sensor",
-    "slug": "emg-muscle-sensor",
-    "sku": "HIT-38-029",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "EMG Muscle Sensor - IoT Sensors and Interface Modules",
-    "description": "High-grade EMG Muscle Sensor selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "EMG Muscle Sensor",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x EMG Muscle Sensor"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-30",
-    "name": "AS5600 Magnetic Rotary Encoder",
-    "slug": "as5600-magnetic-rotary-encoder",
-    "sku": "HIT-38-030",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "AS5600 Magnetic Rotary Encoder - IoT Sensors and Interface Modules",
-    "description": "High-grade AS5600 Magnetic Rotary Encoder selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "AS5600 Magnetic Rotary Encoder",
-      "Current Rating": "5600 Ma",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x AS5600 Magnetic Rotary Encoder"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-31",
-    "name": "4-20 mA Current Loop Sensor Module",
-    "slug": "4-20-ma-current-loop-sensor-module",
-    "sku": "HIT-38-031",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "4-20 mA Current Loop Sensor Module - IoT Sensors and Interface Modules",
-    "description": "High-grade 4-20 mA Current Loop Sensor Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "4-20 mA Current Loop Sensor Module",
-      "Current Rating": "20 mA",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x 4-20 mA Current Loop Sensor Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-38-32",
     "name": "Pressure Transducer (0-5V / 0.5-4.5V)",
     "slug": "pressure-transducer-0-5v-05-45v",
@@ -37100,8 +26581,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -37111,9 +26592,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Pressure Transducer (0-5V / 0.5-4.5V) - IoT Sensors and Interface Modules",
     "description": "High-grade Pressure Transducer (0-5V / 0.5-4.5V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/pressure-transducer-0-5v-05-45v.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/pressure-transducer-0-5v-05-45v.png"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -37144,59 +26625,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-38-33",
-    "name": "Energy Meter (Single-Phase, Modbus)",
-    "slug": "energy-meter-single-phase-modbus",
-    "sku": "HIT-38-033",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Energy Meter (Single-Phase, Modbus) - IoT Sensors and Interface Modules",
-    "description": "High-grade Energy Meter (Single-Phase, Modbus) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Energy Meter (Single-Phase, Modbus)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Energy Meter (Single-Phase, Modbus)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-38-34",
     "name": "DS3231 RTC Module",
     "slug": "ds3231-rtc-module",
@@ -37207,8 +26635,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -37218,9 +26646,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "DS3231 RTC Module - IoT Sensors and Interface Modules",
     "description": "High-grade DS3231 RTC Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/ds3231-rtc-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/ds3231-rtc-module.png"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -37260,8 +26688,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -37271,9 +26699,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "MicroSD Card Module - IoT Sensors and Interface Modules",
     "description": "High-grade MicroSD Card Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/microsd-card-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/microsd-card-module.png"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -37313,8 +26741,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -37324,9 +26752,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Logic Level Converter (4-Channel, Bidirectional) - IoT Sensors and Interface Modules",
     "description": "High-grade Logic Level Converter (4-Channel, Bidirectional) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/logic-level-converter-4-channel-bidirectional.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/logic-level-converter-4-channel-bidirectional.png"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -37356,60 +26784,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-38-37",
-    "name": "TCA9548A I2C Multiplexer",
-    "slug": "tca9548a-i2c-multiplexer",
-    "sku": "HIT-38-037",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "TCA9548A I2C Multiplexer - IoT Sensors and Interface Modules",
-    "description": "High-grade TCA9548A I2C Multiplexer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "TCA9548A I2C Multiplexer",
-      "Current Rating": "9548A",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x TCA9548A I2C Multiplexer"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-38-38",
     "name": "ADS1115 16-bit ADC Module",
     "slug": "ads1115-16-bit-adc-module",
@@ -37420,8 +26794,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -37431,9 +26805,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "ADS1115 16-bit ADC Module - IoT Sensors and Interface Modules",
     "description": "High-grade ADS1115 16-bit ADC Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/ads1115-16-bit-adc-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/ads1115-16-bit-adc-module.png"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -37463,112 +26837,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-38-39",
-    "name": "MCP23017 GPIO Expander",
-    "slug": "mcp23017-gpio-expander",
-    "sku": "HIT-38-039",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "MCP23017 GPIO Expander - IoT Sensors and Interface Modules",
-    "description": "High-grade MCP23017 GPIO Expander selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "MCP23017 GPIO Expander",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x MCP23017 GPIO Expander"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-40",
-    "name": "GM65 Barcode/QR Scanner Module",
-    "slug": "gm65-barcodeqr-scanner-module",
-    "sku": "HIT-38-040",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "GM65 Barcode/QR Scanner Module - IoT Sensors and Interface Modules",
-    "description": "High-grade GM65 Barcode/QR Scanner Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "GM65 Barcode/QR Scanner Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x GM65 Barcode/QR Scanner Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-38-41",
     "name": "Voice Recognition Module",
     "slug": "voice-recognition-module",
@@ -37579,8 +26847,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -37590,9 +26858,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "Voice Recognition Module - IoT Sensors and Interface Modules",
     "description": "High-grade Voice Recognition Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/voice-recognition-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/voice-recognition-module.png"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -37632,8 +26900,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -37643,9 +26911,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "DFPlayer Mini MP3 Module - IoT Sensors and Interface Modules",
     "description": "High-grade DFPlayer Mini MP3 Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/dfplayer-mini-mp3-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/dfplayer-mini-mp3-module.png"
     ],
     "specifications": {
       "Category": "IoT Sensors and Interface Modules",
@@ -37675,112 +26943,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-38-43",
-    "name": "OV5640 Camera Module",
-    "slug": "ov5640-camera-module",
-    "sku": "HIT-38-043",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "OV5640 Camera Module - IoT Sensors and Interface Modules",
-    "description": "High-grade OV5640 Camera Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "OV5640 Camera Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x OV5640 Camera Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-38-44",
-    "name": "Raspberry Pi Camera Module 3",
-    "slug": "raspberry-pi-camera-module-3",
-    "sku": "HIT-38-044",
-    "category_id": "cat-iot-sensors-and-interface-modules",
-    "category_name": "IoT Sensors and Interface Modules",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Raspberry Pi Camera Module 3 - IoT Sensors and Interface Modules",
-    "description": "High-grade Raspberry Pi Camera Module 3 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Sensors and Interface Modules",
-      "Model": "Raspberry Pi Camera Module 3",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi Camera Module 3"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-sensors-and-interface-modules",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-39-1",
     "name": "12V Solenoid Water Valve",
     "slug": "12v-solenoid-water-valve",
@@ -37791,8 +26953,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -37802,9 +26964,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "12V Solenoid Water Valve - IoT Actuators and Control",
     "description": "High-grade 12V Solenoid Water Valve selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-actuators-and-control/12v-solenoid-water-valve.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-actuators-and-control/12v-solenoid-water-valve.png"
     ],
     "specifications": {
       "Category": "IoT Actuators and Control",
@@ -37835,60 +26997,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-39-2",
-    "name": "Motorized Ball Valve (12V)",
-    "slug": "motorized-ball-valve-12v",
-    "sku": "HIT-39-002",
-    "category_id": "cat-iot-actuators-and-control",
-    "category_name": "IoT Actuators and Control",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "Motorized Ball Valve (12V) - IoT Actuators and Control",
-    "description": "High-grade Motorized Ball Valve (12V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Motorized Ball Valve (12V)",
-      "Voltage": "12V",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Motorized Ball Valve (12V)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-39-3",
     "name": "Peristaltic Pump (12V)",
     "slug": "peristaltic-pump-12v",
@@ -37899,8 +27007,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -37910,9 +27018,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "Peristaltic Pump (12V) - IoT Actuators and Control",
     "description": "High-grade Peristaltic Pump (12V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-actuators-and-control/peristaltic-pump-12v.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-actuators-and-control/peristaltic-pump-12v.png"
     ],
     "specifications": {
       "Category": "IoT Actuators and Control",
@@ -37939,7 +27047,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-actuators-and-control",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -37953,8 +27061,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -37964,9 +27072,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "AC Light Dimmer Module (TRIAC, 220V) - IoT Actuators and Control",
     "description": "High-grade AC Light Dimmer Module (TRIAC, 220V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-actuators-and-control/ac-light-dimmer-module-triac-220v.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-actuators-and-control/ac-light-dimmer-module-triac-220v.png"
     ],
     "specifications": {
       "Category": "IoT Actuators and Control",
@@ -37997,274 +27105,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-39-5",
-    "name": "Opto-Isolated 16-Channel Relay Module",
-    "slug": "opto-isolated-16-channel-relay-module",
-    "sku": "HIT-39-005",
-    "category_id": "cat-iot-actuators-and-control",
-    "category_name": "IoT Actuators and Control",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Opto-Isolated 16-Channel Relay Module - IoT Actuators and Control",
-    "description": "High-grade Opto-Isolated 16-Channel Relay Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Opto-Isolated 16-Channel Relay Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Opto-Isolated 16-Channel Relay Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-39-6",
-    "name": "Smart Plug (Wi-Fi)",
-    "slug": "smart-plug-wi-fi",
-    "sku": "HIT-39-006",
-    "category_id": "cat-iot-actuators-and-control",
-    "category_name": "IoT Actuators and Control",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Smart Plug (Wi-Fi) - IoT Actuators and Control",
-    "description": "High-grade Smart Plug (Wi-Fi) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Smart Plug (Wi-Fi)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Smart Plug (Wi-Fi)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-39-7",
-    "name": "Electromagnetic Door Lock (12V)",
-    "slug": "electromagnetic-door-lock-12v",
-    "sku": "HIT-39-007",
-    "category_id": "cat-iot-actuators-and-control",
-    "category_name": "IoT Actuators and Control",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Electromagnetic Door Lock (12V) - IoT Actuators and Control",
-    "description": "High-grade Electromagnetic Door Lock (12V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Electromagnetic Door Lock (12V)",
-      "Voltage": "12V",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Electromagnetic Door Lock (12V)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-39-8",
-    "name": "Solenoid Door Lock (12V)",
-    "slug": "solenoid-door-lock-12v",
-    "sku": "HIT-39-008",
-    "category_id": "cat-iot-actuators-and-control",
-    "category_name": "IoT Actuators and Control",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Solenoid Door Lock (12V) - IoT Actuators and Control",
-    "description": "High-grade Solenoid Door Lock (12V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Solenoid Door Lock (12V)",
-      "Voltage": "12V",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Solenoid Door Lock (12V)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-39-9",
-    "name": "Siren (12V Alarm)",
-    "slug": "siren-12v-alarm",
-    "sku": "HIT-39-009",
-    "category_id": "cat-iot-actuators-and-control",
-    "category_name": "IoT Actuators and Control",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Siren (12V Alarm) - IoT Actuators and Control",
-    "description": "High-grade Siren (12V Alarm) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "Siren (12V Alarm)",
-      "Voltage": "12V",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Siren (12V Alarm)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-39-10",
     "name": "MOSFET PWM Switch Module (5-36V)",
     "slug": "mosfet-pwm-switch-module-5-36v",
@@ -38275,8 +27115,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -38286,9 +27126,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "MOSFET PWM Switch Module (5-36V) - IoT Actuators and Control",
     "description": "High-grade MOSFET PWM Switch Module (5-36V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-actuators-and-control/mosfet-pwm-switch-module-5-36v.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-actuators-and-control/mosfet-pwm-switch-module-5-36v.png"
     ],
     "specifications": {
       "Category": "IoT Actuators and Control",
@@ -38329,8 +27169,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -38340,9 +27180,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "RFID Cards / Key Fobs (13.56 MHz) - IoT Actuators and Control",
     "description": "High-grade RFID Cards / Key Fobs (13.56 MHz) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-actuators-and-control/rfid-cards-key-fobs-1356-mhz.png",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-actuators-and-control/rfid-cards-key-fobs-1356-mhz.png"
     ],
     "specifications": {
       "Category": "IoT Actuators and Control",
@@ -38372,59 +27212,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-39-12",
-    "name": "NFC Tags (NTAG213)",
-    "slug": "nfc-tags-ntag213",
-    "sku": "HIT-39-012",
-    "category_id": "cat-iot-actuators-and-control",
-    "category_name": "IoT Actuators and Control",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": true,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "NFC Tags (NTAG213) - IoT Actuators and Control",
-    "description": "High-grade NFC Tags (NTAG213) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Actuators and Control",
-      "Model": "NFC Tags (NTAG213)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x NFC Tags (NTAG213)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-actuators-and-control",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
     "id": "prod-40-1",
     "name": "Solar Charge Controller (MPPT, CN3791)",
     "slug": "solar-charge-controller-mppt-cn3791",
@@ -38435,8 +27222,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -38446,9 +27233,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Solar Charge Controller (MPPT, CN3791) - IoT Power and Energy",
     "description": "High-grade Solar Charge Controller (MPPT, CN3791) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-power-and-energy/solar-charge-controller-mppt-cn3791.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-power-and-energy/solar-charge-controller-mppt-cn3791.png"
     ],
     "specifications": {
       "Category": "IoT Power and Energy",
@@ -38478,59 +27265,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-40-2",
-    "name": "Raspberry Pi UPS HAT",
-    "slug": "raspberry-pi-ups-hat",
-    "sku": "HIT-40-002",
-    "category_id": "cat-iot-power-and-energy",
-    "category_name": "IoT Power and Energy",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "Raspberry Pi UPS HAT - IoT Power and Energy",
-    "description": "High-grade Raspberry Pi UPS HAT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Power and Energy",
-      "Model": "Raspberry Pi UPS HAT",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi UPS HAT"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-power-and-energy",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-40-3",
     "name": "AMS1117-3.3 Power Module",
     "slug": "ams1117-33-power-module",
@@ -38541,8 +27275,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -38552,9 +27286,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "AMS1117-3.3 Power Module - IoT Power and Energy",
     "description": "High-grade AMS1117-3.3 Power Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-power-and-energy/ams1117-33-power-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-power-and-energy/ams1117-33-power-module.png"
     ],
     "specifications": {
       "Category": "IoT Power and Energy",
@@ -38594,8 +27328,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -38605,9 +27339,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "Buck-Boost Converter Module (Adjustable) - IoT Power and Energy",
     "description": "High-grade Buck-Boost Converter Module (Adjustable) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-power-and-energy/buck-boost-converter-module-adjustable.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-power-and-energy/buck-boost-converter-module-adjustable.png"
     ],
     "specifications": {
       "Category": "IoT Power and Energy",
@@ -38647,8 +27381,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -38658,9 +27392,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "12V to 5V USB Converter Module - IoT Power and Energy",
     "description": "High-grade 12V to 5V USB Converter Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-power-and-energy/12v-to-5v-usb-converter-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-power-and-energy/12v-to-5v-usb-converter-module.png"
     ],
     "specifications": {
       "Category": "IoT Power and Energy",
@@ -38701,8 +27435,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -38712,9 +27446,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "AA Battery Holder (4-Cell) - IoT Power and Energy",
     "description": "High-grade AA Battery Holder (4-Cell) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-power-and-energy/aa-battery-holder-4-cell.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-power-and-energy/aa-battery-holder-4-cell.png"
     ],
     "specifications": {
       "Category": "IoT Power and Energy",
@@ -38754,8 +27488,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -38765,9 +27499,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Waterproof ABS Enclosure (IP65) - IoT Enclosures, HATs and Accessories",
     "description": "High-grade Waterproof ABS Enclosure (IP65) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-enclosures-hats-and-accessories/waterproof-abs-enclosure-ip65.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-enclosures-hats-and-accessories/waterproof-abs-enclosure-ip65.png"
     ],
     "specifications": {
       "Category": "IoT Enclosures, HATs and Accessories",
@@ -38797,960 +27531,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-41-2",
-    "name": "DIN Rail Mount Enclosure",
-    "slug": "din-rail-mount-enclosure",
-    "sku": "HIT-41-002",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "DIN Rail Mount Enclosure - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade DIN Rail Mount Enclosure selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "DIN Rail Mount Enclosure",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x DIN Rail Mount Enclosure"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-3",
-    "name": "Cable Glands (PG7/PG9)",
-    "slug": "cable-glands-pg7pg9",
-    "sku": "HIT-41-003",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Cable Glands (PG7/PG9) - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Cable Glands (PG7/PG9) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Cable Glands (PG7/PG9)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Cable Glands (PG7/PG9)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-4",
-    "name": "Raspberry Pi Sense HAT",
-    "slug": "raspberry-pi-sense-hat",
-    "sku": "HIT-41-004",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Raspberry Pi Sense HAT - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi Sense HAT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi Sense HAT",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi Sense HAT"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-5",
-    "name": "Raspberry Pi Relay HAT",
-    "slug": "raspberry-pi-relay-hat",
-    "sku": "HIT-41-005",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Raspberry Pi Relay HAT - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi Relay HAT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi Relay HAT",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi Relay HAT"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-6",
-    "name": "Raspberry Pi GSM/GPRS HAT",
-    "slug": "raspberry-pi-gsmgprs-hat",
-    "sku": "HIT-41-006",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Raspberry Pi GSM/GPRS HAT - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi GSM/GPRS HAT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi GSM/GPRS HAT",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi GSM/GPRS HAT"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-7",
-    "name": "Raspberry Pi PoE HAT",
-    "slug": "raspberry-pi-poe-hat",
-    "sku": "HIT-41-007",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Raspberry Pi PoE HAT - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi PoE HAT selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi PoE HAT",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi PoE HAT"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-8",
-    "name": "Raspberry Pi 7-inch Touchscreen Display",
-    "slug": "raspberry-pi-7-inch-touchscreen-display",
-    "sku": "HIT-41-008",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Raspberry Pi 7-inch Touchscreen Display - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi 7-inch Touchscreen Display selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi 7-inch Touchscreen Display",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi 7-inch Touchscreen Display"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-9",
-    "name": "Raspberry Pi Camera Ribbon Cable",
-    "slug": "raspberry-pi-camera-ribbon-cable",
-    "sku": "HIT-41-009",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Raspberry Pi Camera Ribbon Cable - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Raspberry Pi Camera Ribbon Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Raspberry Pi Camera Ribbon Cable",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi Camera Ribbon Cable"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-10",
-    "name": "Grove Base Shield for Arduino",
-    "slug": "grove-base-shield-for-arduino",
-    "sku": "HIT-41-010",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Grove Base Shield for Arduino - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Grove Base Shield for Arduino selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Grove Base Shield for Arduino",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Grove Base Shield for Arduino"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-11",
-    "name": "Qwiic / STEMMA QT I2C Cable Set",
-    "slug": "qwiic-stemma-qt-i2c-cable-set",
-    "sku": "HIT-41-011",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Qwiic / STEMMA QT I2C Cable Set - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade Qwiic / STEMMA QT I2C Cable Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "Qwiic / STEMMA QT I2C Cable Set",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Qwiic / STEMMA QT I2C Cable Set"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-12",
-    "name": "E-Paper Display 4.2 inch",
-    "slug": "e-paper-display-42-inch",
-    "sku": "HIT-41-012",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "E-Paper Display 4.2 inch - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade E-Paper Display 4.2 inch selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "E-Paper Display 4.2 inch",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x E-Paper Display 4.2 inch"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-13",
-    "name": "MicroSD Card 16 GB (Class 10)",
-    "slug": "microsd-card-16-gb-class-10",
-    "sku": "HIT-41-013",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "MicroSD Card 16 GB (Class 10) - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade MicroSD Card 16 GB (Class 10) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "MicroSD Card 16 GB (Class 10)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x MicroSD Card 16 GB (Class 10)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-14",
-    "name": "USB Hub (Powered, 4-Port)",
-    "slug": "usb-hub-powered-4-port",
-    "sku": "HIT-41-014",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "USB Hub (Powered, 4-Port) - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade USB Hub (Powered, 4-Port) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "USB Hub (Powered, 4-Port)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x USB Hub (Powered, 4-Port)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-41-15",
-    "name": "ESP32 Screw Terminal Breakout Board (38-Pin)",
-    "slug": "esp32-screw-terminal-breakout-board-38-pin",
-    "sku": "HIT-41-015",
-    "category_id": "cat-iot-enclosures-hats-and-accessories",
-    "category_name": "IoT Enclosures, HATs and Accessories",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "ESP32 Screw Terminal Breakout Board (38-Pin) - IoT Enclosures, HATs and Accessories",
-    "description": "High-grade ESP32 Screw Terminal Breakout Board (38-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "IoT Enclosures, HATs and Accessories",
-      "Model": "ESP32 Screw Terminal Breakout Board (38-Pin)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ESP32 Screw Terminal Breakout Board (38-Pin)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "iot-enclosures-hats-and-accessories",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-42-1",
-    "name": "EEPROM 24C32 (I2C)",
-    "slug": "eeprom-24c32-i2c",
-    "sku": "HIT-42-001",
-    "category_id": "cat-specialty-and-interface-ics",
-    "category_name": "Specialty and Interface ICs",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "EEPROM 24C32 (I2C) - Specialty and Interface ICs",
-    "description": "High-grade EEPROM 24C32 (I2C) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "EEPROM 24C32 (I2C)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x EEPROM 24C32 (I2C)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-42-2",
-    "name": "EEPROM 24C256 (I2C)",
-    "slug": "eeprom-24c256-i2c",
-    "sku": "HIT-42-002",
-    "category_id": "cat-specialty-and-interface-ics",
-    "category_name": "Specialty and Interface ICs",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "EEPROM 24C256 (I2C) - Specialty and Interface ICs",
-    "description": "High-grade EEPROM 24C256 (I2C) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "EEPROM 24C256 (I2C)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x EEPROM 24C256 (I2C)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-42-3",
-    "name": "SPI Flash Memory W25Q32",
-    "slug": "spi-flash-memory-w25q32",
-    "sku": "HIT-42-003",
-    "category_id": "cat-specialty-and-interface-ics",
-    "category_name": "Specialty and Interface ICs",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "SPI Flash Memory W25Q32 - Specialty and Interface ICs",
-    "description": "High-grade SPI Flash Memory W25Q32 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "SPI Flash Memory W25Q32",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x SPI Flash Memory W25Q32"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-42-4",
-    "name": "74HC165 Shift Register",
-    "slug": "74hc165-shift-register",
-    "sku": "HIT-42-004",
-    "category_id": "cat-specialty-and-interface-ics",
-    "category_name": "Specialty and Interface ICs",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "74HC165 Shift Register - Specialty and Interface ICs",
-    "description": "High-grade 74HC165 Shift Register selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "74HC165 Shift Register",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x 74HC165 Shift Register"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-42-5",
     "name": "TDA2030 Audio Amplifier IC",
     "slug": "tda2030-audio-amplifier-ic",
@@ -39761,8 +27541,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -39772,9 +27552,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "TDA2030 Audio Amplifier IC - Specialty and Interface ICs",
     "description": "High-grade TDA2030 Audio Amplifier IC selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/tda2030-audio-amplifier-ic.jpeg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/tda2030-audio-amplifier-ic.jpeg"
     ],
     "specifications": {
       "Category": "Specialty and Interface ICs",
@@ -39801,166 +27581,7 @@ export const pdfProducts: PdfProduct[] = [
       "specialty-and-interface-ics",
       "electronics",
       "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-42-6",
-    "name": "PAM8403 Class-D Amplifier IC",
-    "slug": "pam8403-class-d-amplifier-ic",
-    "sku": "HIT-42-006",
-    "category_id": "cat-specialty-and-interface-ics",
-    "category_name": "Specialty and Interface ICs",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "PAM8403 Class-D Amplifier IC - Specialty and Interface ICs",
-    "description": "High-grade PAM8403 Class-D Amplifier IC selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "PAM8403 Class-D Amplifier IC",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x PAM8403 Class-D Amplifier IC"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-42-7",
-    "name": "MAX485 RS485 Driver IC",
-    "slug": "max485-rs485-driver-ic",
-    "sku": "HIT-42-007",
-    "category_id": "cat-specialty-and-interface-ics",
-    "category_name": "Specialty and Interface ICs",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "MAX485 RS485 Driver IC - Specialty and Interface ICs",
-    "description": "High-grade MAX485 RS485 Driver IC selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "MAX485 RS485 Driver IC",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x MAX485 RS485 Driver IC"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-42-8",
-    "name": "INA128 Instrumentation Amplifier IC",
-    "slug": "ina128-instrumentation-amplifier-ic",
-    "sku": "HIT-42-008",
-    "category_id": "cat-specialty-and-interface-ics",
-    "category_name": "Specialty and Interface ICs",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "INA128 Instrumentation Amplifier IC - Specialty and Interface ICs",
-    "description": "High-grade INA128 Instrumentation Amplifier IC selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "INA128 Instrumentation Amplifier IC",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x INA128 Instrumentation Amplifier IC"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -39974,8 +27595,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -39985,9 +27606,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "L293D Motor Driver IC (Bare, DIP-16) - Specialty and Interface ICs",
     "description": "High-grade L293D Motor Driver IC (Bare, DIP-16) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg"
     ],
     "specifications": {
       "Category": "Specialty and Interface ICs",
@@ -40027,8 +27648,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -40038,9 +27659,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "AMS1117 3.3V LDO Regulator IC - Specialty and Interface ICs",
     "description": "High-grade AMS1117 3.3V LDO Regulator IC selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/ams1117-33v-ldo-regulator-ic.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/ams1117-33v-ldo-regulator-ic.jpg"
     ],
     "specifications": {
       "Category": "Specialty and Interface ICs",
@@ -40081,8 +27702,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -40092,9 +27713,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "TP4056 Li-ion Charger IC (Bare, SOP-8) - Specialty and Interface ICs",
     "description": "High-grade TP4056 Li-ion Charger IC (Bare, SOP-8) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/tp4056-li-ion-charger-ic-bare-sop-8.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/tp4056-li-ion-charger-ic-bare-sop-8.jpg"
     ],
     "specifications": {
       "Category": "Specialty and Interface ICs",
@@ -40124,59 +27745,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-42-12",
-    "name": "74HC08 Quad AND Gate",
-    "slug": "74hc08-quad-and-gate",
-    "sku": "HIT-42-012",
-    "category_id": "cat-specialty-and-interface-ics",
-    "category_name": "Specialty and Interface ICs",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": true,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "74HC08 Quad AND Gate - Specialty and Interface ICs",
-    "description": "High-grade 74HC08 Quad AND Gate selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Specialty and Interface ICs",
-      "Model": "74HC08 Quad AND Gate",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x 74HC08 Quad AND Gate"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "specialty-and-interface-ics",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
     "id": "prod-43-1",
     "name": "2WD Robot Car Chassis Kit",
     "slug": "2wd-robot-car-chassis-kit",
@@ -40187,8 +27755,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -40198,9 +27766,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "2WD Robot Car Chassis Kit - Robot Chassis and Platform Kits",
     "description": "High-grade 2WD Robot Car Chassis Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/2wd-robot-car-chassis-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/2wd-robot-car-chassis-kit.png"
     ],
     "specifications": {
       "Category": "Robot Chassis and Platform Kits",
@@ -40241,8 +27809,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -40252,9 +27820,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "4WD Robot Car Chassis Kit - Robot Chassis and Platform Kits",
     "description": "High-grade 4WD Robot Car Chassis Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/4wd-robot-car-chassis-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/4wd-robot-car-chassis-kit.png"
     ],
     "specifications": {
       "Category": "Robot Chassis and Platform Kits",
@@ -40295,8 +27863,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 650,
     "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -40306,9 +27874,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "Tank / Caterpillar Chassis Kit - Robot Chassis and Platform Kits",
     "description": "High-grade Tank / Caterpillar Chassis Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/tank-caterpillar-chassis-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/tank-caterpillar-chassis-kit.png"
     ],
     "specifications": {
       "Category": "Robot Chassis and Platform Kits",
@@ -40338,112 +27906,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-43-4",
-    "name": "Mecanum Wheel Robot Kit",
-    "slug": "mecanum-wheel-robot-kit",
-    "sku": "HIT-43-004",
-    "category_id": "cat-robot-chassis-and-platform-kits",
-    "category_name": "Robot Chassis and Platform Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 1200,
-    "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Mecanum Wheel Robot Kit - Robot Chassis and Platform Kits",
-    "description": "High-grade Mecanum Wheel Robot Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Mecanum Wheel Robot Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Mecanum Wheel Robot Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-43-5",
-    "name": "Smart Car Chassis with Encoder Motors",
-    "slug": "smart-car-chassis-with-encoder-motors",
-    "sku": "HIT-43-005",
-    "category_id": "cat-robot-chassis-and-platform-kits",
-    "category_name": "Robot Chassis and Platform Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Smart Car Chassis with Encoder Motors - Robot Chassis and Platform Kits",
-    "description": "High-grade Smart Car Chassis with Encoder Motors selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Smart Car Chassis with Encoder Motors",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Smart Car Chassis with Encoder Motors"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-43-6",
     "name": "Line Follower Robot Kit",
     "slug": "line-follower-robot-kit",
@@ -40454,8 +27916,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -40465,9 +27927,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Line Follower Robot Kit - Robot Chassis and Platform Kits",
     "description": "High-grade Line Follower Robot Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/line-follower-robot-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/line-follower-robot-kit.png"
     ],
     "specifications": {
       "Category": "Robot Chassis and Platform Kits",
@@ -40507,8 +27969,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -40518,9 +27980,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "Obstacle Avoider Robot Kit - Robot Chassis and Platform Kits",
     "description": "High-grade Obstacle Avoider Robot Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/obstacle-avoider-robot-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/obstacle-avoider-robot-kit.png"
     ],
     "specifications": {
       "Category": "Robot Chassis and Platform Kits",
@@ -40550,112 +28012,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-43-8",
-    "name": "Robotic Arm Kit (4-DOF)",
-    "slug": "robotic-arm-kit-4-dof",
-    "sku": "HIT-43-008",
-    "category_id": "cat-robot-chassis-and-platform-kits",
-    "category_name": "Robot Chassis and Platform Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 3400,
-    "compare_at_price": 4250,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Robotic Arm Kit (4-DOF) - Robot Chassis and Platform Kits",
-    "description": "High-grade Robotic Arm Kit (4-DOF) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Robotic Arm Kit (4-DOF)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Robotic Arm Kit (4-DOF)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-43-9",
-    "name": "Robotic Arm Kit (6-DOF)",
-    "slug": "robotic-arm-kit-6-dof",
-    "sku": "HIT-43-009",
-    "category_id": "cat-robot-chassis-and-platform-kits",
-    "category_name": "Robot Chassis and Platform Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 3400,
-    "compare_at_price": 4250,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Robotic Arm Kit (6-DOF) - Robot Chassis and Platform Kits",
-    "description": "High-grade Robotic Arm Kit (6-DOF) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Robotic Arm Kit (6-DOF)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Robotic Arm Kit (6-DOF)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-43-10",
     "name": "Self-Balancing Robot Kit",
     "slug": "self-balancing-robot-kit",
@@ -40666,8 +28022,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -40677,9 +28033,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "Self-Balancing Robot Kit - Robot Chassis and Platform Kits",
     "description": "High-grade Self-Balancing Robot Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/self-balancing-robot-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/self-balancing-robot-kit.png"
     ],
     "specifications": {
       "Category": "Robot Chassis and Platform Kits",
@@ -40709,218 +28065,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-43-11",
-    "name": "Spider / Hexapod Robot Kit",
-    "slug": "spider-hexapod-robot-kit",
-    "sku": "HIT-43-011",
-    "category_id": "cat-robot-chassis-and-platform-kits",
-    "category_name": "Robot Chassis and Platform Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 1200,
-    "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Spider / Hexapod Robot Kit - Robot Chassis and Platform Kits",
-    "description": "High-grade Spider / Hexapod Robot Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Spider / Hexapod Robot Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Spider / Hexapod Robot Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-43-12",
-    "name": "Bluetooth Controlled Car Kit",
-    "slug": "bluetooth-controlled-car-kit",
-    "sku": "HIT-43-012",
-    "category_id": "cat-robot-chassis-and-platform-kits",
-    "category_name": "Robot Chassis and Platform Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Bluetooth Controlled Car Kit - Robot Chassis and Platform Kits",
-    "description": "High-grade Bluetooth Controlled Car Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Bluetooth Controlled Car Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Bluetooth Controlled Car Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-43-13",
-    "name": "Solar Tracker Kit",
-    "slug": "solar-tracker-kit",
-    "sku": "HIT-43-013",
-    "category_id": "cat-robot-chassis-and-platform-kits",
-    "category_name": "Robot Chassis and Platform Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Solar Tracker Kit - Robot Chassis and Platform Kits",
-    "description": "High-grade Solar Tracker Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Solar Tracker Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Solar Tracker Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-43-14",
-    "name": "Wheel Encoder Disc Set",
-    "slug": "wheel-encoder-disc-set",
-    "sku": "HIT-43-014",
-    "category_id": "cat-robot-chassis-and-platform-kits",
-    "category_name": "Robot Chassis and Platform Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Wheel Encoder Disc Set - Robot Chassis and Platform Kits",
-    "description": "High-grade Wheel Encoder Disc Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Robot Chassis and Platform Kits",
-      "Model": "Wheel Encoder Disc Set",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Wheel Encoder Disc Set"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "robot-chassis-and-platform-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-43-15",
     "name": "Caster Wheel (Ball Wheel) for Robots",
     "slug": "caster-wheel-ball-wheel-for-robots",
@@ -40931,8 +28075,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -40942,9 +28086,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "Caster Wheel (Ball Wheel) for Robots - Robot Chassis and Platform Kits",
     "description": "High-grade Caster Wheel (Ball Wheel) for Robots selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/caster-wheel-ball-wheel-for-robots.png",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/caster-wheel-ball-wheel-for-robots.png"
     ],
     "specifications": {
       "Category": "Robot Chassis and Platform Kits",
@@ -42309,8 +29453,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -42320,9 +29464,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "DC Barrel Plug (Male) - Connectors, Headers and Sockets",
     "description": "High-grade DC Barrel Plug (Male) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/connectors-headers-and-sockets/dc-barrel-plug-male.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/connectors-headers-and-sockets/dc-barrel-plug-male.png"
     ],
     "specifications": {
       "Category": "Connectors, Headers and Sockets",
@@ -42352,324 +29496,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-45-2",
-    "name": "Screw Terminal Block 2-Pin",
-    "slug": "screw-terminal-block-2-pin",
-    "sku": "HIT-45-002",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "Screw Terminal Block 2-Pin - Connectors, Headers and Sockets",
-    "description": "High-grade Screw Terminal Block 2-Pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Screw Terminal Block 2-Pin",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Screw Terminal Block 2-Pin"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-3",
-    "name": "Screw Terminal Block 3-Pin",
-    "slug": "screw-terminal-block-3-pin",
-    "sku": "HIT-45-003",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Screw Terminal Block 3-Pin - Connectors, Headers and Sockets",
-    "description": "High-grade Screw Terminal Block 3-Pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Screw Terminal Block 3-Pin",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Screw Terminal Block 3-Pin"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-4",
-    "name": "Molex Connector Set",
-    "slug": "molex-connector-set",
-    "sku": "HIT-45-004",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Molex Connector Set - Connectors, Headers and Sockets",
-    "description": "High-grade Molex Connector Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Molex Connector Set",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Molex Connector Set"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-5",
-    "name": "USB Type-A Female Connector (Breakout)",
-    "slug": "usb-type-a-female-connector-breakout",
-    "sku": "HIT-45-005",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "USB Type-A Female Connector (Breakout) - Connectors, Headers and Sockets",
-    "description": "High-grade USB Type-A Female Connector (Breakout) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "USB Type-A Female Connector (Breakout)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x USB Type-A Female Connector (Breakout)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-6",
-    "name": "USB Type-C Female Connector (Breakout)",
-    "slug": "usb-type-c-female-connector-breakout",
-    "sku": "HIT-45-006",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "USB Type-C Female Connector (Breakout) - Connectors, Headers and Sockets",
-    "description": "High-grade USB Type-C Female Connector (Breakout) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "USB Type-C Female Connector (Breakout)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x USB Type-C Female Connector (Breakout)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-7",
-    "name": "Micro USB Female Connector (Breakout)",
-    "slug": "micro-usb-female-connector-breakout",
-    "sku": "HIT-45-007",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Micro USB Female Connector (Breakout) - Connectors, Headers and Sockets",
-    "description": "High-grade Micro USB Female Connector (Breakout) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Micro USB Female Connector (Breakout)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Micro USB Female Connector (Breakout)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-45-8",
     "name": "Male Pin Header (Straight, 40-Pin)",
     "slug": "male-pin-header-straight-40-pin",
@@ -42680,8 +29506,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -42691,9 +29517,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "Male Pin Header (Straight, 40-Pin) - Connectors, Headers and Sockets",
     "description": "High-grade Male Pin Header (Straight, 40-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/connectors-headers-and-sockets/male-pin-header-straight-40-pin.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/connectors-headers-and-sockets/male-pin-header-straight-40-pin.png"
     ],
     "specifications": {
       "Category": "Connectors, Headers and Sockets",
@@ -42733,8 +29559,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -42744,9 +29570,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "Female Pin Header (Straight, 40-Pin) - Connectors, Headers and Sockets",
     "description": "High-grade Female Pin Header (Straight, 40-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/connectors-headers-and-sockets/female-pin-header-straight-40-pin.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/connectors-headers-and-sockets/female-pin-header-straight-40-pin.png"
     ],
     "specifications": {
       "Category": "Connectors, Headers and Sockets",
@@ -42776,483 +29602,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-45-10",
-    "name": "Right-Angle Pin Header (40-Pin)",
-    "slug": "right-angle-pin-header-40-pin",
-    "sku": "HIT-45-010",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": true,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Right-Angle Pin Header (40-Pin) - Connectors, Headers and Sockets",
-    "description": "High-grade Right-Angle Pin Header (40-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Right-Angle Pin Header (40-Pin)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Right-Angle Pin Header (40-Pin)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-45-11",
-    "name": "IC Socket DIP-8",
-    "slug": "ic-socket-dip-8",
-    "sku": "HIT-45-011",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "IC Socket DIP-8 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-8 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-8",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x IC Socket DIP-8"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-12",
-    "name": "IC Socket DIP-14",
-    "slug": "ic-socket-dip-14",
-    "sku": "HIT-45-012",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "IC Socket DIP-14 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-14 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-14",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x IC Socket DIP-14"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-13",
-    "name": "IC Socket DIP-16",
-    "slug": "ic-socket-dip-16",
-    "sku": "HIT-45-013",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "IC Socket DIP-16 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-16 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-16",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x IC Socket DIP-16"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-14",
-    "name": "IC Socket DIP-18",
-    "slug": "ic-socket-dip-18",
-    "sku": "HIT-45-014",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "IC Socket DIP-18 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-18 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-18",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x IC Socket DIP-18"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-15",
-    "name": "IC Socket DIP-20",
-    "slug": "ic-socket-dip-20",
-    "sku": "HIT-45-015",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "IC Socket DIP-20 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-20 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-20",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x IC Socket DIP-20"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-16",
-    "name": "IC Socket DIP-28",
-    "slug": "ic-socket-dip-28",
-    "sku": "HIT-45-016",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "IC Socket DIP-28 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-28 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-28",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x IC Socket DIP-28"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-17",
-    "name": "IC Socket DIP-40",
-    "slug": "ic-socket-dip-40",
-    "sku": "HIT-45-017",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "IC Socket DIP-40 - Connectors, Headers and Sockets",
-    "description": "High-grade IC Socket DIP-40 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "IC Socket DIP-40",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x IC Socket DIP-40"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-18",
-    "name": "Relay Socket (8-Pin)",
-    "slug": "relay-socket-8-pin",
-    "sku": "HIT-45-018",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Relay Socket (8-Pin) - Connectors, Headers and Sockets",
-    "description": "High-grade Relay Socket (8-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Relay Socket (8-Pin)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Relay Socket (8-Pin)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-45-19",
     "name": "18650 Battery Holder (Single Cell)",
     "slug": "18650-battery-holder-single-cell",
@@ -43263,8 +29612,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -43274,9 +29623,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "18650 Battery Holder (Single Cell) - Connectors, Headers and Sockets",
     "description": "High-grade 18650 Battery Holder (Single Cell) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/connectors-headers-and-sockets/18650-battery-holder-single-cell.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/connectors-headers-and-sockets/18650-battery-holder-single-cell.png"
     ],
     "specifications": {
       "Category": "Connectors, Headers and Sockets",
@@ -43302,7 +29651,7 @@ export const pdfProducts: PdfProduct[] = [
       "connectors-headers-and-sockets",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -43316,8 +29665,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -43327,9 +29676,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "18650 Battery Holder (2-Cell) - Connectors, Headers and Sockets",
     "description": "High-grade 18650 Battery Holder (2-Cell) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/connectors-headers-and-sockets/18650-battery-holder-2-cell.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/connectors-headers-and-sockets/18650-battery-holder-2-cell.png"
     ],
     "specifications": {
       "Category": "Connectors, Headers and Sockets",
@@ -43359,271 +29708,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-45-21",
-    "name": "Banana Plug Connector Set",
-    "slug": "banana-plug-connector-set",
-    "sku": "HIT-45-021",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Banana Plug Connector Set - Connectors, Headers and Sockets",
-    "description": "High-grade Banana Plug Connector Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Banana Plug Connector Set",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Banana Plug Connector Set"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-22",
-    "name": "RCA Connector Set",
-    "slug": "rca-connector-set",
-    "sku": "HIT-45-022",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "RCA Connector Set - Connectors, Headers and Sockets",
-    "description": "High-grade RCA Connector Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "RCA Connector Set",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x RCA Connector Set"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-23",
-    "name": "Ring Terminal Connector Set",
-    "slug": "ring-terminal-connector-set",
-    "sku": "HIT-45-023",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Ring Terminal Connector Set - Connectors, Headers and Sockets",
-    "description": "High-grade Ring Terminal Connector Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Ring Terminal Connector Set",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Ring Terminal Connector Set"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-24",
-    "name": "Spade Terminal Connector Set",
-    "slug": "spade-terminal-connector-set",
-    "sku": "HIT-45-024",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Spade Terminal Connector Set - Connectors, Headers and Sockets",
-    "description": "High-grade Spade Terminal Connector Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Spade Terminal Connector Set",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Spade Terminal Connector Set"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-45-25",
-    "name": "Wire-to-Board Connector Kit (JST-SM)",
-    "slug": "wire-to-board-connector-kit-jst-sm",
-    "sku": "HIT-45-025",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Wire-to-Board Connector Kit (JST-SM) - Connectors, Headers and Sockets",
-    "description": "High-grade Wire-to-Board Connector Kit (JST-SM) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Connectors, Headers and Sockets",
-      "Model": "Wire-to-Board Connector Kit (JST-SM)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Wire-to-Board Connector Kit (JST-SM)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "connectors-headers-and-sockets",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-46-1",
     "name": "18650 Li-ion Cell (3.7V, 2600mAh)",
     "slug": "18650-li-ion-cell-37v-2600mah",
@@ -43634,8 +29718,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -43645,9 +29729,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "18650 Li-ion Cell (3.7V, 2600mAh) - Batteries, Cells and Holders",
     "description": "High-grade 18650 Li-ion Cell (3.7V, 2600mAh) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/18650-li-ion-cell-37v-2600mah.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/18650-li-ion-cell-37v-2600mah.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -43689,8 +29773,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -43700,9 +29784,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "CR2032 Coin Cell Battery - Batteries, Cells and Holders",
     "description": "High-grade CR2032 Coin Cell Battery selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/cr2032-coin-cell-battery.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/cr2032-coin-cell-battery.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -43742,8 +29826,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -43753,9 +29837,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "AA Battery (1.5V) - Batteries, Cells and Holders",
     "description": "High-grade AA Battery (1.5V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/aa-battery-15v.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/aa-battery-15v.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -43796,8 +29880,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -43807,9 +29891,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "AAA Battery (1.5V) - Batteries, Cells and Holders",
     "description": "High-grade AAA Battery (1.5V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/aaa-battery-15v.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/aaa-battery-15v.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -43850,8 +29934,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -43861,9 +29945,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "AAA Battery Holder (4-Cell) - Batteries, Cells and Holders",
     "description": "High-grade AAA Battery Holder (4-Cell) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/aaa-battery-holder-4-cell.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/aaa-battery-holder-4-cell.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -43903,8 +29987,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -43914,9 +29998,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Coin Cell Holder (CR2032) - Batteries, Cells and Holders",
     "description": "High-grade Coin Cell Holder (CR2032) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/coin-cell-holder-cr2032.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/coin-cell-holder-cr2032.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -43956,8 +30040,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -43967,9 +30051,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "Li-Po Battery 3.7V 500mAh - Batteries, Cells and Holders",
     "description": "High-grade Li-Po Battery 3.7V 500mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/li-po-battery-37v-500mah.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/li-po-battery-37v-500mah.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -44011,8 +30095,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -44022,9 +30106,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "Li-Po Battery 3.7V 1000mAh - Batteries, Cells and Holders",
     "description": "High-grade Li-Po Battery 3.7V 1000mAh selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/li-po-battery-37v-1000mah.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/li-po-battery-37v-1000mah.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -44066,8 +30150,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -44077,9 +30161,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "Battery Balance Charger (2-3S) - Batteries, Cells and Holders",
     "description": "High-grade Battery Balance Charger (2-3S) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/battery-balance-charger-2-3s.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/battery-balance-charger-2-3s.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -44109,61 +30193,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-46-10",
-    "name": "Small Solar Cell (5V, 100mA)",
-    "slug": "small-solar-cell-5v-100ma",
-    "sku": "HIT-46-010",
-    "category_id": "cat-batteries-cells-and-holders",
-    "category_name": "Batteries, Cells and Holders",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 45,
-    "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Small Solar Cell (5V, 100mA) - Batteries, Cells and Holders",
-    "description": "High-grade Small Solar Cell (5V, 100mA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Batteries, Cells and Holders",
-      "Model": "Small Solar Cell (5V, 100mA)",
-      "Voltage": "5V",
-      "Current Rating": "100mA",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Small Solar Cell (5V, 100mA)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "batteries-cells-and-holders",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-46-11",
     "name": "Battery Level Indicator Module",
     "slug": "battery-level-indicator-module",
@@ -44174,8 +30203,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -44185,9 +30214,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "Battery Level Indicator Module - Batteries, Cells and Holders",
     "description": "High-grade Battery Level Indicator Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/battery-level-indicator-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/battery-level-indicator-module.png"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -44227,8 +30256,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -44238,9 +30267,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "18650 Battery Charger (Single Bay) - Batteries, Cells and Holders",
     "description": "High-grade 18650 Battery Charger (Single Bay) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/18650-battery-charger-single-bay.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/18650-battery-charger-single-bay.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -44280,8 +30309,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -44291,9 +30320,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "Rechargeable NiMH Battery (AA) - Batteries, Cells and Holders",
     "description": "High-grade Rechargeable NiMH Battery (AA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/batteries-cells-and-holders/rechargeable-nimh-battery-aa.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/batteries-cells-and-holders/rechargeable-nimh-battery-aa.jpg"
     ],
     "specifications": {
       "Category": "Batteries, Cells and Holders",
@@ -44333,8 +30362,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 5200,
     "compare_at_price": 6500,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -44344,9 +30373,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Bench Power Supply (0-30V, Adjustable) - Test and Measurement Equipment",
     "description": "High-grade Bench Power Supply (0-30V, Adjustable) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/test-and-measurement-equipment/bench-power-supply-0-30v-adjustable.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/test-and-measurement-equipment/bench-power-supply-0-30v-adjustable.png"
     ],
     "specifications": {
       "Category": "Test and Measurement Equipment",
@@ -44377,59 +30406,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-47-2",
-    "name": "Function Generator Module",
-    "slug": "function-generator-module",
-    "sku": "HIT-47-002",
-    "category_id": "cat-test-and-measurement-equipment",
-    "category_name": "Test and Measurement Equipment",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "Function Generator Module - Test and Measurement Equipment",
-    "description": "High-grade Function Generator Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Function Generator Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Function Generator Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-47-3",
     "name": "Transistor / Component Tester",
     "slug": "transistor-component-tester",
@@ -44440,8 +30416,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -44451,9 +30427,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "Transistor / Component Tester - Test and Measurement Equipment",
     "description": "High-grade Transistor / Component Tester selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/test-and-measurement-equipment/transistor-component-tester.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/test-and-measurement-equipment/transistor-component-tester.png"
     ],
     "specifications": {
       "Category": "Test and Measurement Equipment",
@@ -44483,112 +30459,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-47-4",
-    "name": "LCR Meter",
-    "slug": "lcr-meter",
-    "sku": "HIT-47-004",
-    "category_id": "cat-test-and-measurement-equipment",
-    "category_name": "Test and Measurement Equipment",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "LCR Meter - Test and Measurement Equipment",
-    "description": "High-grade LCR Meter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "LCR Meter",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x LCR Meter"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-47-5",
-    "name": "ESR Meter",
-    "slug": "esr-meter",
-    "sku": "HIT-47-005",
-    "category_id": "cat-test-and-measurement-equipment",
-    "category_name": "Test and Measurement Equipment",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "ESR Meter - Test and Measurement Equipment",
-    "description": "High-grade ESR Meter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "ESR Meter",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ESR Meter"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-47-6",
     "name": "Breadboard Power Supply Module (3.3V/5V)",
     "slug": "breadboard-power-supply-module-33v5v",
@@ -44599,8 +30469,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -44610,9 +30480,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Breadboard Power Supply Module (3.3V/5V) - Test and Measurement Equipment",
     "description": "High-grade Breadboard Power Supply Module (3.3V/5V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/test-and-measurement-equipment/breadboard-power-supply-module-33v5v.png",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/test-and-measurement-equipment/breadboard-power-supply-module-33v5v.png"
     ],
     "specifications": {
       "Category": "Test and Measurement Equipment",
@@ -44643,324 +30513,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-47-7",
-    "name": "Oscilloscope Probe Set",
-    "slug": "oscilloscope-probe-set",
-    "sku": "HIT-47-007",
-    "category_id": "cat-test-and-measurement-equipment",
-    "category_name": "Test and Measurement Equipment",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 4800,
-    "compare_at_price": 6000,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Oscilloscope Probe Set - Test and Measurement Equipment",
-    "description": "High-grade Oscilloscope Probe Set selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Oscilloscope Probe Set",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Oscilloscope Probe Set"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-47-8",
-    "name": "Current Clamp Meter",
-    "slug": "current-clamp-meter",
-    "sku": "HIT-47-008",
-    "category_id": "cat-test-and-measurement-equipment",
-    "category_name": "Test and Measurement Equipment",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Current Clamp Meter - Test and Measurement Equipment",
-    "description": "High-grade Current Clamp Meter selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Current Clamp Meter",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Current Clamp Meter"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-47-9",
-    "name": "Insulation Resistance Tester",
-    "slug": "insulation-resistance-tester",
-    "sku": "HIT-47-009",
-    "category_id": "cat-test-and-measurement-equipment",
-    "category_name": "Test and Measurement Equipment",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Insulation Resistance Tester - Test and Measurement Equipment",
-    "description": "High-grade Insulation Resistance Tester selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Insulation Resistance Tester",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Insulation Resistance Tester"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-47-10",
-    "name": "Signal Injector / Tracer",
-    "slug": "signal-injector-tracer",
-    "sku": "HIT-47-010",
-    "category_id": "cat-test-and-measurement-equipment",
-    "category_name": "Test and Measurement Equipment",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Signal Injector / Tracer - Test and Measurement Equipment",
-    "description": "High-grade Signal Injector / Tracer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Signal Injector / Tracer",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Signal Injector / Tracer"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-47-11",
-    "name": "Frequency Counter Module",
-    "slug": "frequency-counter-module",
-    "sku": "HIT-47-011",
-    "category_id": "cat-test-and-measurement-equipment",
-    "category_name": "Test and Measurement Equipment",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Frequency Counter Module - Test and Measurement Equipment",
-    "description": "High-grade Frequency Counter Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Frequency Counter Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Frequency Counter Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-47-12",
-    "name": "Continuity Tester",
-    "slug": "continuity-tester",
-    "sku": "HIT-47-012",
-    "category_id": "cat-test-and-measurement-equipment",
-    "category_name": "Test and Measurement Equipment",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Continuity Tester - Test and Measurement Equipment",
-    "description": "High-grade Continuity Tester selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Continuity Tester",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Continuity Tester"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-47-13",
     "name": "Cable and Network Tester",
     "slug": "cable-and-network-tester",
@@ -44971,8 +30523,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -44982,9 +30534,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "Cable and Network Tester - Test and Measurement Equipment",
     "description": "High-grade Cable and Network Tester selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/test-and-measurement-equipment/cable-and-network-tester.png",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/test-and-measurement-equipment/cable-and-network-tester.png"
     ],
     "specifications": {
       "Category": "Test and Measurement Equipment",
@@ -45014,59 +30566,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-47-14",
-    "name": "Anti-Static Wrist Strap",
-    "slug": "anti-static-wrist-strap",
-    "sku": "HIT-47-014",
-    "category_id": "cat-test-and-measurement-equipment",
-    "category_name": "Test and Measurement Equipment",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 150,
-    "compare_at_price": 188,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Anti-Static Wrist Strap - Test and Measurement Equipment",
-    "description": "High-grade Anti-Static Wrist Strap selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Test and Measurement Equipment",
-      "Model": "Anti-Static Wrist Strap",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Anti-Static Wrist Strap"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "test-and-measurement-equipment",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-48-1",
     "name": "Speaker 8 ohm (Small, 1-2W)",
     "slug": "speaker-8-ohm-small-1-2w",
@@ -45077,8 +30576,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -45088,9 +30587,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Speaker 8 ohm (Small, 1-2W) - Audio Components",
     "description": "High-grade Speaker 8 ohm (Small, 1-2W) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/audio-components/speaker-8-ohm-small-1-2w.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/speaker-8-ohm-small-1-2w.png"
     ],
     "specifications": {
       "Category": "Audio Components",
@@ -45132,8 +30631,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -45143,9 +30642,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Speaker 4 ohm (Small, 3W) - Audio Components",
     "description": "High-grade Speaker 4 ohm (Small, 3W) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/audio-components/speaker-4-ohm-small-3w.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/speaker-4-ohm-small-3w.png"
     ],
     "specifications": {
       "Category": "Audio Components",
@@ -45187,8 +30686,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -45198,9 +30697,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "Electret Microphone Capsule - Audio Components",
     "description": "High-grade Electret Microphone Capsule selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/audio-components/electret-microphone-capsule.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/electret-microphone-capsule.png"
     ],
     "specifications": {
       "Category": "Audio Components",
@@ -45230,59 +30729,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-48-4",
-    "name": "MAX9814 Microphone Amplifier Module",
-    "slug": "max9814-microphone-amplifier-module",
-    "sku": "HIT-48-004",
-    "category_id": "cat-audio-components",
-    "category_name": "Audio Components",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": true,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "MAX9814 Microphone Amplifier Module - Audio Components",
-    "description": "High-grade MAX9814 Microphone Amplifier Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Audio Components",
-      "Model": "MAX9814 Microphone Amplifier Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x MAX9814 Microphone Amplifier Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "audio-components",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
     "id": "prod-48-5",
     "name": "Bluetooth Audio Receiver Module",
     "slug": "bluetooth-audio-receiver-module",
@@ -45293,8 +30739,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -45304,9 +30750,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "Bluetooth Audio Receiver Module - Audio Components",
     "description": "High-grade Bluetooth Audio Receiver Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/audio-components/bluetooth-audio-receiver-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/bluetooth-audio-receiver-module.png"
     ],
     "specifications": {
       "Category": "Audio Components",
@@ -45346,8 +30792,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -45357,9 +30803,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "TDA2030 Amplifier Board - Audio Components",
     "description": "High-grade TDA2030 Amplifier Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/audio-components/tda2030-amplifier-board.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/tda2030-amplifier-board.png"
     ],
     "specifications": {
       "Category": "Audio Components",
@@ -45400,8 +30846,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -45411,9 +30857,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "PAM8403 Amplifier Board - Audio Components",
     "description": "High-grade PAM8403 Amplifier Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/audio-components/pam8403-amplifier-board.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/pam8403-amplifier-board.png"
     ],
     "specifications": {
       "Category": "Audio Components",
@@ -45444,218 +30890,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-48-8",
-    "name": "MP3 Player Module (Standalone)",
-    "slug": "mp3-player-module-standalone",
-    "sku": "HIT-48-008",
-    "category_id": "cat-audio-components",
-    "category_name": "Audio Components",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "MP3 Player Module (Standalone) - Audio Components",
-    "description": "High-grade MP3 Player Module (Standalone) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Audio Components",
-      "Model": "MP3 Player Module (Standalone)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x MP3 Player Module (Standalone)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "audio-components",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-48-9",
-    "name": "Piezo Speaker / Buzzer Element",
-    "slug": "piezo-speaker-buzzer-element",
-    "sku": "HIT-48-009",
-    "category_id": "cat-audio-components",
-    "category_name": "Audio Components",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Piezo Speaker / Buzzer Element - Audio Components",
-    "description": "High-grade Piezo Speaker / Buzzer Element selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Audio Components",
-      "Model": "Piezo Speaker / Buzzer Element",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Piezo Speaker / Buzzer Element"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "audio-components",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-48-10",
-    "name": "Audio Isolation Transformer",
-    "slug": "audio-isolation-transformer",
-    "sku": "HIT-48-010",
-    "category_id": "cat-audio-components",
-    "category_name": "Audio Components",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Audio Isolation Transformer - Audio Components",
-    "description": "High-grade Audio Isolation Transformer selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Audio Components",
-      "Model": "Audio Isolation Transformer",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Audio Isolation Transformer"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "audio-components",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-48-11",
-    "name": "Headphone Jack Breakout Module",
-    "slug": "headphone-jack-breakout-module",
-    "sku": "HIT-48-011",
-    "category_id": "cat-audio-components",
-    "category_name": "Audio Components",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 99,
-    "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Headphone Jack Breakout Module - Audio Components",
-    "description": "High-grade Headphone Jack Breakout Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Audio Components",
-      "Model": "Headphone Jack Breakout Module",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Headphone Jack Breakout Module"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "audio-components",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-48-12",
     "name": "Stereo Audio Amplifier Board (2x3W)",
     "slug": "stereo-audio-amplifier-board-2x3w",
@@ -45666,8 +30900,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -45677,9 +30911,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "Stereo Audio Amplifier Board (2x3W) - Audio Components",
     "description": "High-grade Stereo Audio Amplifier Board (2x3W) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/audio-components/stereo-audio-amplifier-board-2x3w.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/audio-components/stereo-audio-amplifier-board-2x3w.png"
     ],
     "specifications": {
       "Category": "Audio Components",
@@ -45706,7 +30940,7 @@ export const pdfProducts: PdfProduct[] = [
       "audio-components",
       "electronics",
       "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -46530,8 +31764,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 180,
     "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -46541,9 +31775,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Plastic Project Box (Small, 60x40x25mm) - Enclosures and Project Boxes",
     "description": "High-grade Plastic Project Box (Small, 60x40x25mm) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/enclosures-and-project-boxes/plastic-project-box-small-60x40x25mm.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/plastic-project-box-small-60x40x25mm.png"
     ],
     "specifications": {
       "Category": "Enclosures and Project Boxes",
@@ -46583,8 +31817,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 180,
     "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -46594,9 +31828,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Plastic Project Box (Medium, 100x60x25mm) - Enclosures and Project Boxes",
     "description": "High-grade Plastic Project Box (Medium, 100x60x25mm) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/enclosures-and-project-boxes/plastic-project-box-medium-100x60x25mm.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/plastic-project-box-medium-100x60x25mm.jpg"
     ],
     "specifications": {
       "Category": "Enclosures and Project Boxes",
@@ -46636,8 +31870,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 180,
     "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -46647,9 +31881,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "Plastic Project Box (Large, 150x100x50mm) - Enclosures and Project Boxes",
     "description": "High-grade Plastic Project Box (Large, 150x100x50mm) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/enclosures-and-project-boxes/plastic-project-box-large-150x100x50mm.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/plastic-project-box-large-150x100x50mm.png"
     ],
     "specifications": {
       "Category": "Enclosures and Project Boxes",
@@ -46689,8 +31923,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 180,
     "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -46700,9 +31934,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "Aluminum Enclosure Box - Enclosures and Project Boxes",
     "description": "High-grade Aluminum Enclosure Box selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/enclosures-and-project-boxes/aluminum-enclosure-box.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/aluminum-enclosure-box.jpg"
     ],
     "specifications": {
       "Category": "Enclosures and Project Boxes",
@@ -46728,60 +31962,7 @@ export const pdfProducts: PdfProduct[] = [
       "enclosures-and-project-boxes",
       "electronics",
       "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-50-5",
-    "name": "ABS Junction Box (Weatherproof)",
-    "slug": "abs-junction-box-weatherproof",
-    "sku": "HIT-50-005",
-    "category_id": "cat-enclosures-and-project-boxes",
-    "category_name": "Enclosures and Project Boxes",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 180,
-    "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "ABS Junction Box (Weatherproof) - Enclosures and Project Boxes",
-    "description": "High-grade ABS Junction Box (Weatherproof) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "ABS Junction Box (Weatherproof)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x ABS Junction Box (Weatherproof)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
+      "in-stock"
     ]
   },
   {
@@ -46795,8 +31976,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 180,
     "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -46806,9 +31987,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Arduino Uno Enclosure Case - Enclosures and Project Boxes",
     "description": "High-grade Arduino Uno Enclosure Case selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/enclosures-and-project-boxes/arduino-uno-enclosure-case.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1608555817751-494d55dd63cc?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/arduino-uno-enclosure-case.jpg"
     ],
     "specifications": {
       "Category": "Enclosures and Project Boxes",
@@ -46838,324 +32019,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-50-7",
-    "name": "Raspberry Pi Enclosure Case (Pi 4)",
-    "slug": "raspberry-pi-enclosure-case-pi-4",
-    "sku": "HIT-50-007",
-    "category_id": "cat-enclosures-and-project-boxes",
-    "category_name": "Enclosures and Project Boxes",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 180,
-    "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Raspberry Pi Enclosure Case (Pi 4) - Enclosures and Project Boxes",
-    "description": "High-grade Raspberry Pi Enclosure Case (Pi 4) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "Raspberry Pi Enclosure Case (Pi 4)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi Enclosure Case (Pi 4)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-50-8",
-    "name": "Battery Compartment Box",
-    "slug": "battery-compartment-box",
-    "sku": "HIT-50-008",
-    "category_id": "cat-enclosures-and-project-boxes",
-    "category_name": "Enclosures and Project Boxes",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 180,
-    "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Battery Compartment Box - Enclosures and Project Boxes",
-    "description": "High-grade Battery Compartment Box selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "Battery Compartment Box",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Battery Compartment Box"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-50-9",
-    "name": "Clear Acrylic Sheet (for Enclosures)",
-    "slug": "clear-acrylic-sheet-for-enclosures",
-    "sku": "HIT-50-009",
-    "category_id": "cat-enclosures-and-project-boxes",
-    "category_name": "Enclosures and Project Boxes",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 180,
-    "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Clear Acrylic Sheet (for Enclosures) - Enclosures and Project Boxes",
-    "description": "High-grade Clear Acrylic Sheet (for Enclosures) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "Clear Acrylic Sheet (for Enclosures)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Clear Acrylic Sheet (for Enclosures)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-50-10",
-    "name": "Project Box with Battery Compartment",
-    "slug": "project-box-with-battery-compartment",
-    "sku": "HIT-50-010",
-    "category_id": "cat-enclosures-and-project-boxes",
-    "category_name": "Enclosures and Project Boxes",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 180,
-    "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Project Box with Battery Compartment - Enclosures and Project Boxes",
-    "description": "High-grade Project Box with Battery Compartment selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "Project Box with Battery Compartment",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Project Box with Battery Compartment"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-50-11",
-    "name": "DIN Rail Enclosure (for Electronics)",
-    "slug": "din-rail-enclosure-for-electronics",
-    "sku": "HIT-50-011",
-    "category_id": "cat-enclosures-and-project-boxes",
-    "category_name": "Enclosures and Project Boxes",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 180,
-    "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "DIN Rail Enclosure (for Electronics) - Enclosures and Project Boxes",
-    "description": "High-grade DIN Rail Enclosure (for Electronics) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "DIN Rail Enclosure (for Electronics)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x DIN Rail Enclosure (for Electronics)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-50-12",
-    "name": "Perforated Metal Chassis Box",
-    "slug": "perforated-metal-chassis-box",
-    "sku": "HIT-50-012",
-    "category_id": "cat-enclosures-and-project-boxes",
-    "category_name": "Enclosures and Project Boxes",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 180,
-    "compare_at_price": 225,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Perforated Metal Chassis Box - Enclosures and Project Boxes",
-    "description": "High-grade Perforated Metal Chassis Box selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Enclosures and Project Boxes",
-      "Model": "Perforated Metal Chassis Box",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Perforated Metal Chassis Box"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "enclosures-and-project-boxes",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-51-1",
     "name": "Veroboard / Stripboard",
     "slug": "veroboard-stripboard",
@@ -47166,8 +32029,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -47177,9 +32040,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Veroboard / Stripboard - Prototyping and Wiring Supplies",
     "description": "High-grade Veroboard / Stripboard selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/prototyping-and-wiring-supplies/veroboard-stripboard.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/veroboard-stripboard.png"
     ],
     "specifications": {
       "Category": "Prototyping and Wiring Supplies",
@@ -47219,8 +32082,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -47230,9 +32093,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Dot PCB Board (Single-Sided) - Prototyping and Wiring Supplies",
     "description": "High-grade Dot PCB Board (Single-Sided) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/prototyping-and-wiring-supplies/dot-pcb-board-single-sided.png",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/dot-pcb-board-single-sided.png"
     ],
     "specifications": {
       "Category": "Prototyping and Wiring Supplies",
@@ -47272,8 +32135,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -47283,9 +32146,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "Dot PCB Board (Double-Sided) - Prototyping and Wiring Supplies",
     "description": "High-grade Dot PCB Board (Double-Sided) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/prototyping-and-wiring-supplies/dot-pcb-board-double-sided.png",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/dot-pcb-board-double-sided.png"
     ],
     "specifications": {
       "Category": "Prototyping and Wiring Supplies",
@@ -47315,165 +32178,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-51-4",
-    "name": "Solder Mask Pen",
-    "slug": "solder-mask-pen",
-    "sku": "HIT-51-004",
-    "category_id": "cat-prototyping-and-wiring-supplies",
-    "category_name": "Prototyping and Wiring Supplies",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Solder Mask Pen - Prototyping and Wiring Supplies",
-    "description": "High-grade Solder Mask Pen selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Solder Mask Pen",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Solder Mask Pen"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-51-5",
-    "name": "Flux Pen",
-    "slug": "flux-pen",
-    "sku": "HIT-51-005",
-    "category_id": "cat-prototyping-and-wiring-supplies",
-    "category_name": "Prototyping and Wiring Supplies",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Flux Pen - Prototyping and Wiring Supplies",
-    "description": "High-grade Flux Pen selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Flux Pen",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Flux Pen"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-51-6",
-    "name": "Desoldering Braid / Wick",
-    "slug": "desoldering-braid-wick",
-    "sku": "HIT-51-006",
-    "category_id": "cat-prototyping-and-wiring-supplies",
-    "category_name": "Prototyping and Wiring Supplies",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Desoldering Braid / Wick - Prototyping and Wiring Supplies",
-    "description": "High-grade Desoldering Braid / Wick selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Desoldering Braid / Wick",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Desoldering Braid / Wick"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-51-7",
     "name": "Heat Shrink Tubing Assortment Kit",
     "slug": "heat-shrink-tubing-assortment-kit",
@@ -47484,8 +32188,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -47495,9 +32199,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "Heat Shrink Tubing Assortment Kit - Prototyping and Wiring Supplies",
     "description": "High-grade Heat Shrink Tubing Assortment Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/prototyping-and-wiring-supplies/heat-shrink-tubing-assortment-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/heat-shrink-tubing-assortment-kit.png"
     ],
     "specifications": {
       "Category": "Prototyping and Wiring Supplies",
@@ -47527,165 +32231,6 @@ export const pdfProducts: PdfProduct[] = [
     ]
   },
   {
-    "id": "prod-51-8",
-    "name": "Braided Cable Sleeving",
-    "slug": "braided-cable-sleeving",
-    "sku": "HIT-51-008",
-    "category_id": "cat-prototyping-and-wiring-supplies",
-    "category_name": "Prototyping and Wiring Supplies",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Braided Cable Sleeving - Prototyping and Wiring Supplies",
-    "description": "High-grade Braided Cable Sleeving selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Braided Cable Sleeving",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Braided Cable Sleeving"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-51-9",
-    "name": "Wire Wrap Wire Spool",
-    "slug": "wire-wrap-wire-spool",
-    "sku": "HIT-51-009",
-    "category_id": "cat-prototyping-and-wiring-supplies",
-    "category_name": "Prototyping and Wiring Supplies",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Wire Wrap Wire Spool - Prototyping and Wiring Supplies",
-    "description": "High-grade Wire Wrap Wire Spool selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Wire Wrap Wire Spool",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Wire Wrap Wire Spool"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-51-10",
-    "name": "Magnet Wire Spool (Assorted Gauge)",
-    "slug": "magnet-wire-spool-assorted-gauge",
-    "sku": "HIT-51-010",
-    "category_id": "cat-prototyping-and-wiring-supplies",
-    "category_name": "Prototyping and Wiring Supplies",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Magnet Wire Spool (Assorted Gauge) - Prototyping and Wiring Supplies",
-    "description": "High-grade Magnet Wire Spool (Assorted Gauge) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Magnet Wire Spool (Assorted Gauge)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Magnet Wire Spool (Assorted Gauge)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
     "id": "prod-51-11",
     "name": "Ribbon Cable (10-Way)",
     "slug": "ribbon-cable-10-way",
@@ -47696,8 +32241,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
+    "stock": 25,
+    "is_in_stock": true,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -47707,9 +32252,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "Ribbon Cable (10-Way) - Prototyping and Wiring Supplies",
     "description": "High-grade Ribbon Cable (10-Way) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/prototyping-and-wiring-supplies/ribbon-cable-10-way.png",
     "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/ribbon-cable-10-way.png"
     ],
     "specifications": {
       "Category": "Prototyping and Wiring Supplies",
@@ -47736,165 +32281,6 @@ export const pdfProducts: PdfProduct[] = [
       "electronics",
       "components",
       "in-stock"
-    ]
-  },
-  {
-    "id": "prod-51-12",
-    "name": "Ribbon Cable (20-Way)",
-    "slug": "ribbon-cable-20-way",
-    "sku": "HIT-51-012",
-    "category_id": "cat-prototyping-and-wiring-supplies",
-    "category_name": "Prototyping and Wiring Supplies",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "Ribbon Cable (20-Way) - Prototyping and Wiring Supplies",
-    "description": "High-grade Ribbon Cable (20-Way) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Ribbon Cable (20-Way)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Ribbon Cable (20-Way)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-51-13",
-    "name": "Anti-Static Bag Assortment",
-    "slug": "anti-static-bag-assortment",
-    "sku": "HIT-51-013",
-    "category_id": "cat-prototyping-and-wiring-supplies",
-    "category_name": "Prototyping and Wiring Supplies",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Anti-Static Bag Assortment - Prototyping and Wiring Supplies",
-    "description": "High-grade Anti-Static Bag Assortment selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "Anti-Static Bag Assortment",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Anti-Static Bag Assortment"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-51-14",
-    "name": "PCB Vice / Holder (Third Hand with PCB Clamp)",
-    "slug": "pcb-vice-holder-third-hand-with-pcb-clamp",
-    "sku": "HIT-51-014",
-    "category_id": "cat-prototyping-and-wiring-supplies",
-    "category_name": "Prototyping and Wiring Supplies",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 35,
-    "compare_at_price": 44,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "PCB Vice / Holder (Third Hand with PCB Clamp) - Prototyping and Wiring Supplies",
-    "description": "High-grade PCB Vice / Holder (Third Hand with PCB Clamp) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "Prototyping and Wiring Supplies",
-      "Model": "PCB Vice / Holder (Third Hand with PCB Clamp)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x PCB Vice / Holder (Third Hand with PCB Clamp)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "prototyping-and-wiring-supplies",
-      "electronics",
-      "components",
-      "order-request"
     ]
   }
 ];

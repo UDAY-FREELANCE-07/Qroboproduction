@@ -1,0 +1,110 @@
+[
+  {
+    "productId": "prod-30-42",
+    "originalFile": "Arduino Uno USB Cable.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/arduino-uno-usb-cable.jpg",
+    "bytes": 14875
+  },
+  {
+    "productId": "prod-30-2",
+    "originalFile": "Breadboard 400.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/breadboard-400.jpg",
+    "bytes": 19409
+  },
+  {
+    "productId": "prod-30-1",
+    "originalFile": "Breadboard 830.png",
+    "webPath": "/images/products/boards-connectors-and-wiring/breadboard-830.png",
+    "bytes": 1770588
+  },
+  {
+    "productId": "prod-30-34",
+    "originalFile": "C Socket 28-pin.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/ic-socket-28-pin.jpg",
+    "bytes": 15575
+  },
+  {
+    "productId": "prod-30-23",
+    "originalFile": "DC Barrel Jack.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/dc-barrel-jack.jpg",
+    "bytes": 5795
+  },
+  {
+    "productId": "prod-30-13",
+    "originalFile": "Female Header Pins.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/female-header-pins.jpg",
+    "bytes": 11120
+  },
+  {
+    "productId": "prod-30-32",
+    "originalFile": "IC Socket 14-pin.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/ic-socket-14-pin.jpg",
+    "bytes": 12768
+  },
+  {
+    "productId": "prod-30-33",
+    "originalFile": "IC Socket 16-pin.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/ic-socket-16-pin.jpg",
+    "bytes": 12082
+  },
+  {
+    "productId": "prod-30-35",
+    "originalFile": "IC Socket 40-pin.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/ic-socket-40-pin.jpg",
+    "bytes": 15064
+  },
+  {
+    "productId": "prod-30-31",
+    "originalFile": "IC Socket 8-pin.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/ic-socket-8-pin.jpg",
+    "bytes": 19158
+  },
+  {
+    "productId": "prod-30-11",
+    "originalFile": "Jumper Wires Female-Female.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/jumper-wires-female-female.jpg",
+    "bytes": 29021
+  },
+  {
+    "productId": "prod-30-10",
+    "originalFile": "Jumper Wires Male-Female.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/jumper-wires-male-female.jpg",
+    "bytes": 9578
+  },
+  {
+    "productId": "prod-30-9",
+    "originalFile": "Jumper Wires Male-Male.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/jumper-wires-male-male.jpg",
+    "bytes": 35619
+  },
+  {
+    "productId": "prod-30-12",
+    "originalFile": "Male Header Pins.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/male-header-pins.jpg",
+    "bytes": 15132
+  },
+  {
+    "productId": "prod-30-5",
+    "originalFile": "Perfboard 5x7.png",
+    "webPath": "/images/products/boards-connectors-and-wiring/perfboard-5x7.png",
+    "bytes": 2462912
+  },
+  {
+    "productId": "prod-30-6",
+    "originalFile": "Perfboard 9x15.png",
+    "webPath": "/images/products/boards-connectors-and-wiring/perfboard-9x15.png",
+    "bytes": 2332131
+  },
+  {
+    "productId": "prod-30-20",
+    "originalFile": "Screw Terminal 2P.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/screw-terminal-2p.jpg",
+    "bytes": 11143
+  },
+  {
+    "productId": "prod-30-21",
+    "originalFile": "Screw Terminal 3P.jpg",
+    "webPath": "/images/products/boards-connectors-and-wiring/screw-terminal-3p.jpg",
+    "bytes": 16706
+  }
+]

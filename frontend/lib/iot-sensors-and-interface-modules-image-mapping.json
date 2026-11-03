@@ -1,0 +1,68 @@
+[
+  {
+    "productId": "prod-38-38",
+    "originalFile": "ADS1115 16-bit ADC Module.png",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/ads1115-16-bit-adc-module.png",
+    "bytes": 2114337
+  },
+  {
+    "productId": "prod-38-42",
+    "originalFile": "DFPlayer Mini MP3 Module.png",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/dfplayer-mini-mp3-module.png",
+    "bytes": 2056508
+  },
+  {
+    "productId": "prod-38-9",
+    "originalFile": "DS18B20 Waterproof Temperature Probe.jpg",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/ds18b20-waterproof-temperature-probe.jpg",
+    "bytes": 22090
+  },
+  {
+    "productId": "prod-38-34",
+    "originalFile": "DS3231 RTC Module.png",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/ds3231-rtc-module.png",
+    "bytes": 2548582
+  },
+  {
+    "productId": "prod-38-16",
+    "originalFile": "Float Switch (Water Level).png",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/float-switch-water-level.png",
+    "bytes": 1499063
+  },
+  {
+    "productId": "prod-38-36",
+    "originalFile": "Logic Level Converter (4-Channel, Bidirectional).png",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/logic-level-converter-4-channel-bidirectional.png",
+    "bytes": 2097743
+  },
+  {
+    "productId": "prod-38-22",
+    "originalFile": "Magnetic Door_Window Contact Sensor.png",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/magnetic-doorwindow-contact-sensor.png",
+    "bytes": 1659467
+  },
+  {
+    "productId": "prod-38-35",
+    "originalFile": "MicroSD Card Module.png",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/microsd-card-module.png",
+    "bytes": 2174778
+  },
+  {
+    "productId": "prod-38-24",
+    "originalFile": "MLX90614 IR Temperature Sensor.jpg",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/mlx90614-ir-temperature-sensor.jpg",
+    "bytes": 57685
+  },
+  {
+    "productId": "prod-38-32",
+    "originalFile": "Pressure Transducer (0-5V 0.5-4.5V).png",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/pressure-transducer-0-5v-05-45v.png",
+    "bytes": 1663097
+  },
+  {
+    "productId": "prod-38-41",
+    "originalFile": "Voice Recognition Module.png",
+    "webPath": "/images/products/iot-sensors-and-interface-modules/voice-recognition-module.png",
+    "bytes": 2358983
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "productId": "prod-48-1",
+    "originalFile": "Speaker 8 ohm (Small, 1-2W).png",
+    "webPath": "/images/products/audio-components/speaker-8-ohm-small-1-2w.png",
+    "bytes": 2864267
+  },
+  {
+    "productId": "prod-48-2",
+    "originalFile": "Speaker 4 ohm (Small, 3W).png",
+    "webPath": "/images/products/audio-components/speaker-4-ohm-small-3w.png",
+    "bytes": 2303427
+  },
+  {
+    "productId": "prod-48-3",
+    "originalFile": "Electret Microphone Capsule.png",
+    "webPath": "/images/products/audio-components/electret-microphone-capsule.png",
+    "bytes": 2257706
+  },
+  {
+    "productId": "prod-48-5",
+    "originalFile": "Bluetooth Audio Receiver Module.png",
+    "webPath": "/images/products/audio-components/bluetooth-audio-receiver-module.png",
+    "bytes": 2213187
+  },
+  {
+    "productId": "prod-48-6",
+    "originalFile": "TDA2030 Amplifier Board.png",
+    "webPath": "/images/products/audio-components/tda2030-amplifier-board.png",
+    "bytes": 2059651
+  },
+  {
+    "productId": "prod-48-7",
+    "originalFile": "PAM8403 Amplifier Board.png",
+    "webPath": "/images/products/audio-components/pam8403-amplifier-board.png",
+    "bytes": 2414561
+  },
+  {
+    "productId": "prod-48-12",
+    "originalFile": "Stereo Audio Amplifier Board (2x3W).png",
+    "webPath": "/images/products/audio-components/stereo-audio-amplifier-board-2x3w.png",
+    "bytes": 2290851
+  }
+]

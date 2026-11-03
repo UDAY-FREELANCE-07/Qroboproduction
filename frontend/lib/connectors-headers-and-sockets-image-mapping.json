@@ -1,0 +1,32 @@
+[
+  {
+    "productId": "prod-45-20",
+    "originalFile": "18650 Battery Holder (2-Cell).png",
+    "webPath": "/images/products/connectors-headers-and-sockets/18650-battery-holder-2-cell.png",
+    "bytes": 2028634
+  },
+  {
+    "productId": "prod-45-19",
+    "originalFile": "18650 Battery Holder (Single Cell).png",
+    "webPath": "/images/products/connectors-headers-and-sockets/18650-battery-holder-single-cell.png",
+    "bytes": 1743694
+  },
+  {
+    "productId": "prod-45-1",
+    "originalFile": "DC Barrel Plug (Male).png",
+    "webPath": "/images/products/connectors-headers-and-sockets/dc-barrel-plug-male.png",
+    "bytes": 1971955
+  },
+  {
+    "productId": "prod-45-9",
+    "originalFile": "Female Pin Header (Straight, 40-Pin).png",
+    "webPath": "/images/products/connectors-headers-and-sockets/female-pin-header-straight-40-pin.png",
+    "bytes": 1415128
+  },
+  {
+    "productId": "prod-45-8",
+    "originalFile": "Male Pin Header (Straight, 40-Pin).png",
+    "webPath": "/images/products/connectors-headers-and-sockets/male-pin-header-straight-40-pin.png",
+    "bytes": 1559901
+  }
+]

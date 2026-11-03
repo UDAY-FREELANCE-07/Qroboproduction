@@ -1,0 +1,92 @@
+[
+  {
+    "productId": "prod-28-18",
+    "originalFile": "12V 1.2Ah SLA Battery.png",
+    "webPath": "/images/products/batteries/12v-12ah-sla-battery.png",
+    "bytes": 1916745
+  },
+  {
+    "productId": "prod-28-13",
+    "originalFile": "12V 7Ah SLA Battery&.png",
+    "webPath": "/images/products/batteries/12v-7ah-sla-battery.png",
+    "bytes": 1681760
+  },
+  {
+    "productId": "prod-28-1",
+    "originalFile": "18650 Cell 2200mAh.png",
+    "webPath": "/images/products/batteries/18650-cell-2200mah.png",
+    "bytes": 1437314
+  },
+  {
+    "productId": "prod-28-2",
+    "originalFile": "18650 Cell 2600mAh.png",
+    "webPath": "/images/products/batteries/18650-cell-2600mah.png",
+    "bytes": 1469182
+  },
+  {
+    "productId": "prod-28-3",
+    "originalFile": "18650 Cell 3000mAh.jpg",
+    "webPath": "/images/products/batteries/18650-cell-3000mah.jpg",
+    "bytes": 24531
+  },
+  {
+    "productId": "prod-28-16",
+    "originalFile": "7.4V 3000mAh 2S Li-ion Battery with BMS.png",
+    "webPath": "/images/products/batteries/74v-3000mah-2s-li-ion-battery-with-bms.png",
+    "bytes": 1849686
+  },
+  {
+    "productId": "prod-28-15",
+    "originalFile": "9V Battery Clip.png",
+    "webPath": "/images/products/batteries/9v-battery-clip.png",
+    "bytes": 1519553
+  },
+  {
+    "productId": "prod-28-9",
+    "originalFile": "9V Battery.jpg",
+    "webPath": "/images/products/batteries/9v-battery.jpg",
+    "bytes": 15512
+  },
+  {
+    "productId": "prod-28-10",
+    "originalFile": "AA Battery.jpg",
+    "webPath": "/images/products/batteries/aa-battery.jpg",
+    "bytes": 33551
+  },
+  {
+    "productId": "prod-28-11",
+    "originalFile": "AAA Battery.jpg",
+    "webPath": "/images/products/batteries/aaa-battery.jpg",
+    "bytes": 6279
+  },
+  {
+    "productId": "prod-28-12",
+    "originalFile": "CR2032 Coin Cell.png",
+    "webPath": "/images/products/batteries/cr2032-coin-cell.png",
+    "bytes": 2317963
+  },
+  {
+    "productId": "prod-28-5",
+    "originalFile": "LiPo 3.7V 1000mAh.jpg",
+    "webPath": "/images/products/batteries/lipo-37v-1000mah.jpg",
+    "bytes": 25929
+  },
+  {
+    "productId": "prod-28-6",
+    "originalFile": "LiPo 3.7V 2000mAh.jpg",
+    "webPath": "/images/products/batteries/lipo-37v-2000mah.jpg",
+    "bytes": 110441
+  },
+  {
+    "productId": "prod-28-7",
+    "originalFile": "LiPo 3.7V 5000mAh.png",
+    "webPath": "/images/products/batteries/lipo-37v-5000mah.png",
+    "bytes": 2029277
+  },
+  {
+    "productId": "prod-28-17",
+    "originalFile": "LiPo 7.4V 2200mAh.png",
+    "webPath": "/images/products/batteries/lipo-74v-2200mah.png",
+    "bytes": 1759350
+  }
+]

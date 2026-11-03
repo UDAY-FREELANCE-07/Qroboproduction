@@ -1,0 +1,44 @@
+[
+  {
+    "productId": "prod-43-1",
+    "originalFile": "2WD Robot Car Chassis Kit.png",
+    "webPath": "/images/products/robot-chassis-and-platform-kits/2wd-robot-car-chassis-kit.png",
+    "bytes": 1960183
+  },
+  {
+    "productId": "prod-43-2",
+    "originalFile": "4WD Robot Car Chassis Kit Showcase.png",
+    "webPath": "/images/products/robot-chassis-and-platform-kits/4wd-robot-car-chassis-kit.png",
+    "bytes": 2187976
+  },
+  {
+    "productId": "prod-43-3",
+    "originalFile": "Tank Caterpillar Chassis Kit.png",
+    "webPath": "/images/products/robot-chassis-and-platform-kits/tank-caterpillar-chassis-kit.png",
+    "bytes": 2185391
+  },
+  {
+    "productId": "prod-43-6",
+    "originalFile": "Line Follower Robot Kit.png",
+    "webPath": "/images/products/robot-chassis-and-platform-kits/line-follower-robot-kit.png",
+    "bytes": 2070956
+  },
+  {
+    "productId": "prod-43-7",
+    "originalFile": "Obstacle Avoider Robot Kit.png",
+    "webPath": "/images/products/robot-chassis-and-platform-kits/obstacle-avoider-robot-kit.png",
+    "bytes": 2079917
+  },
+  {
+    "productId": "prod-43-10",
+    "originalFile": "Self-Balancing Robot Kit.png",
+    "webPath": "/images/products/robot-chassis-and-platform-kits/self-balancing-robot-kit.png",
+    "bytes": 1812296
+  },
+  {
+    "productId": "prod-43-15",
+    "originalFile": "Caster Wheel (Ball Wheel) for Robots.png",
+    "webPath": "/images/products/robot-chassis-and-platform-kits/caster-wheel-ball-wheel-for-robots.png",
+    "bytes": 1632082
+  }
+]

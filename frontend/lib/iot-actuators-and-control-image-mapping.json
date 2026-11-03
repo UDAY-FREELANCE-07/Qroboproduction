@@ -1,0 +1,32 @@
+[
+  {
+    "productId": "prod-39-1",
+    "originalFile": "12V Solenoid Water Valve.png",
+    "webPath": "/images/products/iot-actuators-and-control/12v-solenoid-water-valve.png",
+    "bytes": 1619325
+  },
+  {
+    "productId": "prod-39-3",
+    "originalFile": "Peristaltic Pump (12V).png",
+    "webPath": "/images/products/iot-actuators-and-control/peristaltic-pump-12v.png",
+    "bytes": 1886926
+  },
+  {
+    "productId": "prod-39-4",
+    "originalFile": "AC Light Dimmer Module (TRIAC, 220V).png",
+    "webPath": "/images/products/iot-actuators-and-control/ac-light-dimmer-module-triac-220v.png",
+    "bytes": 2106457
+  },
+  {
+    "productId": "prod-39-10",
+    "originalFile": "MOSFET PWM Switch Module (5-36V).png",
+    "webPath": "/images/products/iot-actuators-and-control/mosfet-pwm-switch-module-5-36v.png",
+    "bytes": 2127683
+  },
+  {
+    "productId": "prod-39-11",
+    "originalFile": "RFID Cards  Key Fobs (13.56 MHz).png",
+    "webPath": "/images/products/iot-actuators-and-control/rfid-cards-key-fobs-1356-mhz.png",
+    "bytes": 1835874
+  }
+]
