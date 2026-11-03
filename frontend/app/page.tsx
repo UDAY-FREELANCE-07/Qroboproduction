@@ -39,7 +39,6 @@ export default function HomePage() {
   const [sensorProducts, setSensorProducts] = useState<Product[]>([]);
   const [arduinoProducts, setArduinoProducts] = useState<Product[]>([]);
   const [threeDProducts, setThreeDProducts] = useState<Product[]>([]);
-  const [diyProducts, setDiyProducts] = useState<Product[]>([]);
   const [studentProducts, setStudentProducts] = useState<Product[]>([]);
   const [projects, setProjects] = useState<Project[]>([]);
   const [tutorials, setTutorials] = useState<Tutorial[]>([]);
@@ -51,7 +50,7 @@ export default function HomePage() {
         bannersRes, promoRes, dealsRes,
         featuredRes, bestSellerRes, newArrivalRes,
         roboticsRes, devBoardRes, sensorRes, arduinoRes,
-        threeDRes, diyRes, studentRes, projectsRes, tutorialsRes
+        threeDRes, studentRes, projectsRes, tutorialsRes
       ] = await Promise.all([
         dataClient.from('banners').select('*').eq('is_active', true).order('sort_order'),
         dataClient.from('promo_cards').select('*').eq('is_active', true).order('sort_order'),
@@ -64,7 +63,6 @@ export default function HomePage() {
         dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'sensors-temperature-humidity-and-pressure').maybeSingle()).data?.id, (await dataClient.from('categories').select('id').eq('slug', 'sensors-distance').maybeSingle()).data?.id].filter(Boolean)).limit(6),
         dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'microcontroller-chips').maybeSingle()).data?.id].filter(Boolean)).limit(6),
         dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'power-modules').maybeSingle()).data?.id].filter(Boolean)).limit(6),
-        dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'diy-and-educational-project-kits').maybeSingle()).data?.id].filter(Boolean)).limit(6),
         dataClient.from('products').select('*').eq('is_published', true).in('category_id', [(await dataClient.from('categories').select('id').eq('slug', 'motors-actuators-and-sound').maybeSingle()).data?.id].filter(Boolean)).limit(6),
         dataClient.from('projects').select('*').eq('is_published', true).limit(6),
         dataClient.from('tutorials').select('*').eq('is_published', true).limit(6),
@@ -81,7 +79,6 @@ export default function HomePage() {
       setSensorProducts(sensorRes.data || []);
       setArduinoProducts(arduinoRes.data || []);
       setThreeDProducts(threeDRes.data || []);
-      setDiyProducts(diyRes.data || []);
       setStudentProducts(studentRes.data || []);
       setProjects(projectsRes.data || []);
       setTutorials(tutorialsRes.data || []);
@@ -339,13 +336,6 @@ export default function HomePage() {
               <ProductCard key={product.id} product={product} />
             ))}
           </div>
-        </Section>
-      )}
-
-      {/* DIY Project Kits */}
-      {diyProducts.length > 0 && (
-        <Section title="DIY Project Kits" subtitle="Complete kits with everything you need to build amazing projects" link="/shop?category=diy-kits" linkLabel="View all">
-          <ProductRow products={diyProducts} />
         </Section>
       )}
 

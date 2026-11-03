@@ -17,7 +17,8 @@
     "db:promote-admin": "tsx scripts/db/promote-admin.ts",
     "check-config": "tsx scripts/check-config.ts",
     "db:bootstrap-admin": "tsx scripts/db/bootstrap-admin.ts",
-    "email:flush": "tsx scripts/email/flush.ts"
+    "email:flush": "tsx scripts/email/flush.ts",
+    "db:sync-catalog": "tsx scripts/db/sync-catalog.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",

@@ -43,19 +43,7 @@ const categories = [
   { label: 'Batteries & Cells', value: 'batteries' },
   { label: 'IoT Boards & Gateways', value: 'iot-boards-and-gateways' },
   { label: 'Robot Chassis & Kits', value: 'robot-chassis-and-platform-kits' },
-  { label: 'DIY Project Kits', value: 'diy-and-educational-project-kits' },
   { label: 'Tools & Consumables', value: 'tools-and-consumables' },
-];
-
-const brands = [
-  { label: 'Arduino', value: 'arduino' },
-  { label: 'Raspberry Pi', value: 'raspberry-pi' },
-  { label: 'Espressif', value: 'espressif' },
-  { label: 'Adafruit', value: 'adafruit' },
-  { label: 'Creality', value: 'creality' },
-  { label: 'Waveshare', value: 'waveshare' },
-  { label: 'Elegoo', value: 'elegoo' },
-  { label: 'YantraX', value: 'yantrax' },
 ];
 
 const navLinks = [
@@ -260,7 +248,6 @@ export function Navbar() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-center gap-8">
             <Dropdown label="Shop By Category" items={categories} hrefFor={(v) => `/shop?category=${v}`} />
-            <Dropdown label="Shop By Brand" items={brands} hrefFor={() => '/shop'} />
             {navLinks.slice(1).filter((l) => l.href !== '/deals').map((link) => (
               <Link
                 key={link.href}

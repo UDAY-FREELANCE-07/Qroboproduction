@@ -54,7 +54,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 1,
     "product_count": 27,
-    "highlighted_count": 27
+    "highlighted_count": 0
   },
   {
     "id": "cat-capacitors",
@@ -65,7 +65,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 2,
     "product_count": 43,
-    "highlighted_count": 18
+    "highlighted_count": 0
   },
   {
     "id": "cat-diodes-and-rectifiers",
@@ -76,7 +76,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 3,
     "product_count": 11,
-    "highlighted_count": 11
+    "highlighted_count": 0
   },
   {
     "id": "cat-leds-and-optoelectronics",
@@ -87,7 +87,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 4,
     "product_count": 36,
-    "highlighted_count": 15
+    "highlighted_count": 0
   },
   {
     "id": "cat-transistors",
@@ -98,7 +98,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 5,
     "product_count": 28,
-    "highlighted_count": 14
+    "highlighted_count": 0
   },
   {
     "id": "cat-mosfets-igbt-jfet-and-ujt",
@@ -109,7 +109,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 6,
     "product_count": 24,
-    "highlighted_count": 9
+    "highlighted_count": 0
   },
   {
     "id": "cat-scr-triac-and-diac",
@@ -120,7 +120,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 7,
     "product_count": 4,
-    "highlighted_count": 4
+    "highlighted_count": 0
   },
   {
     "id": "cat-voltage-regulators",
@@ -131,7 +131,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 8,
     "product_count": 9,
-    "highlighted_count": 9
+    "highlighted_count": 0
   },
   {
     "id": "cat-op-amps-comparators-timers-and-audio-amplifiers",
@@ -142,7 +142,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 9,
     "product_count": 14,
-    "highlighted_count": 14
+    "highlighted_count": 0
   },
   {
     "id": "cat-digital-logic-ics-74xx",
@@ -153,7 +153,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 10,
     "product_count": 11,
-    "highlighted_count": 11
+    "highlighted_count": 0
   },
   {
     "id": "cat-cmos-ics-cd4000",
@@ -164,7 +164,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 11,
     "product_count": 8,
-    "highlighted_count": 8
+    "highlighted_count": 0
   },
   {
     "id": "cat-motor-drivers-and-special-purpose-ics",
@@ -175,7 +175,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": true,
     "sort_order": 12,
     "product_count": 36,
-    "highlighted_count": 14
+    "highlighted_count": 0
   },
   {
     "id": "cat-microcontroller-chips",
@@ -186,7 +186,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 13,
     "product_count": 9,
-    "highlighted_count": 9
+    "highlighted_count": 0
   },
   {
     "id": "cat-development-boards-and-shields",
@@ -197,7 +197,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 14,
     "product_count": 27,
-    "highlighted_count": 27
+    "highlighted_count": 0
   },
   {
     "id": "cat-sensors-temperature-humidity-and-pressure",
@@ -208,7 +208,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 15,
     "product_count": 9,
-    "highlighted_count": 9
+    "highlighted_count": 0
   },
   {
     "id": "cat-sensors-motion-and-orientation",
@@ -219,7 +219,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 16,
     "product_count": 5,
-    "highlighted_count": 5
+    "highlighted_count": 0
   },
   {
     "id": "cat-sensors-distance",
@@ -230,7 +230,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 17,
     "product_count": 6,
-    "highlighted_count": 6
+    "highlighted_count": 0
   },
   {
     "id": "cat-sensors-presence-and-switch-type",
@@ -241,7 +241,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 18,
     "product_count": 8,
-    "highlighted_count": 8
+    "highlighted_count": 0
   },
   {
     "id": "cat-sensors-gas-and-air",
@@ -252,7 +252,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 19,
     "product_count": 9,
-    "highlighted_count": 9
+    "highlighted_count": 0
   },
   {
     "id": "cat-sensors-light-and-colour",
@@ -263,7 +263,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 20,
     "product_count": 2,
-    "highlighted_count": 2
+    "highlighted_count": 0
   },
   {
     "id": "cat-sensors-electrical",
@@ -274,7 +274,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 21,
     "product_count": 8,
-    "highlighted_count": 8
+    "highlighted_count": 0
   },
   {
     "id": "cat-sensors-environmental-bio-gps-and-camera",
@@ -285,7 +285,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 22,
     "product_count": 16,
-    "highlighted_count": 16
+    "highlighted_count": 0
   },
   {
     "id": "cat-displays",
@@ -296,7 +296,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 23,
     "product_count": 11,
-    "highlighted_count": 11
+    "highlighted_count": 0
   },
   {
     "id": "cat-communication-modules",
@@ -307,7 +307,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 24,
     "product_count": 18,
-    "highlighted_count": 18
+    "highlighted_count": 0
   },
   {
     "id": "cat-motors-actuators-and-sound",
@@ -318,7 +318,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 25,
     "product_count": 20,
-    "highlighted_count": 20
+    "highlighted_count": 0
   },
   {
     "id": "cat-relays-switches-and-input-devices",
@@ -329,7 +329,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 26,
     "product_count": 18,
-    "highlighted_count": 18
+    "highlighted_count": 0
   },
   {
     "id": "cat-power-modules",
@@ -340,7 +340,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 27,
     "product_count": 21,
-    "highlighted_count": 21
+    "highlighted_count": 0
   },
   {
     "id": "cat-batteries",
@@ -351,7 +351,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 28,
     "product_count": 15,
-    "highlighted_count": 15
+    "highlighted_count": 0
   },
   {
     "id": "cat-inductors-crystals-transformers-fuses-and-heatsinks",
@@ -362,7 +362,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 29,
     "product_count": 11,
-    "highlighted_count": 11
+    "highlighted_count": 0
   },
   {
     "id": "cat-boards-connectors-and-wiring",
@@ -373,7 +373,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 30,
     "product_count": 18,
-    "highlighted_count": 18
+    "highlighted_count": 0
   },
   {
     "id": "cat-tools-and-consumables",
@@ -384,7 +384,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 31,
     "product_count": 20,
-    "highlighted_count": 20
+    "highlighted_count": 0
   },
   {
     "id": "cat-mechanical-parts",
@@ -406,7 +406,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 33,
     "product_count": 27,
-    "highlighted_count": 1
+    "highlighted_count": 0
   },
   {
     "id": "cat-mechanical-electric-and-measurement-tools",
@@ -417,7 +417,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 34,
     "product_count": 7,
-    "highlighted_count": 7
+    "highlighted_count": 0
   },
   {
     "id": "cat-safety-equipment-and-hardware-accessories",
@@ -428,7 +428,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 35,
     "product_count": 3,
-    "highlighted_count": 3
+    "highlighted_count": 0
   },
   {
     "id": "cat-iot-boards-and-gateways",
@@ -439,7 +439,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 36,
     "product_count": 4,
-    "highlighted_count": 4
+    "highlighted_count": 0
   },
   {
     "id": "cat-iot-connectivity-modules-and-antennas",
@@ -450,7 +450,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 37,
     "product_count": 9,
-    "highlighted_count": 9
+    "highlighted_count": 0
   },
   {
     "id": "cat-iot-sensors-and-interface-modules",
@@ -461,7 +461,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 38,
     "product_count": 11,
-    "highlighted_count": 11
+    "highlighted_count": 0
   },
   {
     "id": "cat-iot-actuators-and-control",
@@ -472,7 +472,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 39,
     "product_count": 5,
-    "highlighted_count": 5
+    "highlighted_count": 0
   },
   {
     "id": "cat-iot-power-and-energy",
@@ -483,7 +483,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 40,
     "product_count": 5,
-    "highlighted_count": 5
+    "highlighted_count": 0
   },
   {
     "id": "cat-iot-enclosures-hats-and-accessories",
@@ -494,7 +494,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 41,
     "product_count": 1,
-    "highlighted_count": 1
+    "highlighted_count": 0
   },
   {
     "id": "cat-specialty-and-interface-ics",
@@ -505,7 +505,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 42,
     "product_count": 4,
-    "highlighted_count": 4
+    "highlighted_count": 0
   },
   {
     "id": "cat-robot-chassis-and-platform-kits",
@@ -516,18 +516,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 43,
     "product_count": 7,
-    "highlighted_count": 7
-  },
-  {
-    "id": "cat-diy-and-educational-project-kits",
-    "name": "DIY and Educational Project Kits",
-    "slug": "diy-and-educational-project-kits",
-    "description": "Official DIY and Educational Project Kits component collection from Hi Technology component catalog.",
-    "icon_name": "BookOpen",
-    "is_featured": false,
-    "sort_order": 44,
-    "product_count": 25,
-    "highlighted_count": 11
+    "highlighted_count": 0
   },
   {
     "id": "cat-connectors-headers-and-sockets",
@@ -538,7 +527,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 45,
     "product_count": 5,
-    "highlighted_count": 5
+    "highlighted_count": 0
   },
   {
     "id": "cat-batteries-cells-and-holders",
@@ -549,7 +538,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 46,
     "product_count": 12,
-    "highlighted_count": 12
+    "highlighted_count": 0
   },
   {
     "id": "cat-test-and-measurement-equipment",
@@ -560,7 +549,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 47,
     "product_count": 4,
-    "highlighted_count": 4
+    "highlighted_count": 0
   },
   {
     "id": "cat-audio-components",
@@ -571,7 +560,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 48,
     "product_count": 7,
-    "highlighted_count": 7
+    "highlighted_count": 0
   },
   {
     "id": "cat-power-supply-components-transformers-smps-converters",
@@ -582,7 +571,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 49,
     "product_count": 15,
-    "highlighted_count": 7
+    "highlighted_count": 0
   },
   {
     "id": "cat-enclosures-and-project-boxes",
@@ -593,7 +582,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 50,
     "product_count": 5,
-    "highlighted_count": 5
+    "highlighted_count": 0
   },
   {
     "id": "cat-prototyping-and-wiring-supplies",
@@ -604,7 +593,7 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 51,
     "product_count": 5,
-    "highlighted_count": 5
+    "highlighted_count": 0
   }
 ];
 
@@ -661,7 +650,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -716,7 +705,8 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -771,7 +761,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -826,7 +816,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -881,7 +871,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -936,7 +926,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -991,7 +981,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1046,7 +1036,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1101,7 +1091,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1156,7 +1146,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1211,7 +1201,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1266,7 +1256,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1321,7 +1311,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1376,7 +1366,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1431,7 +1421,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1486,7 +1476,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1541,7 +1531,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1596,7 +1586,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1651,7 +1641,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1706,7 +1696,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1760,7 +1750,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1814,7 +1804,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1868,7 +1858,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1922,7 +1912,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -1976,7 +1966,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2029,7 +2019,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2083,7 +2073,7 @@ export const pdfProducts: PdfProduct[] = [
       "resistors-and-variable-resistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2137,7 +2127,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2191,7 +2181,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2245,7 +2235,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2299,7 +2289,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2353,7 +2343,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2407,7 +2397,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2462,7 +2452,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2517,7 +2507,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2572,7 +2562,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2627,7 +2617,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2682,7 +2672,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2737,7 +2727,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2792,7 +2782,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2847,7 +2837,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2901,7 +2891,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -2955,7 +2945,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3009,7 +2999,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3063,7 +3053,7 @@ export const pdfProducts: PdfProduct[] = [
       "capacitors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3116,7 +3106,7 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3169,7 +3159,7 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3222,7 +3212,7 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3275,7 +3265,7 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3328,7 +3318,7 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3381,7 +3371,7 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3436,7 +3426,7 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3491,7 +3481,7 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3546,7 +3536,7 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3599,7 +3589,7 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3653,7 +3643,8 @@ export const pdfProducts: PdfProduct[] = [
       "diodes-and-rectifiers",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -3706,7 +3697,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3759,7 +3750,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3812,7 +3803,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3865,7 +3856,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3918,7 +3909,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -3971,7 +3962,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4024,7 +4015,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4077,7 +4068,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4130,7 +4121,8 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -4184,7 +4176,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4237,7 +4229,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4290,7 +4282,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4343,7 +4335,8 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -4396,7 +4389,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4449,7 +4442,7 @@ export const pdfProducts: PdfProduct[] = [
       "leds-and-optoelectronics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4502,7 +4495,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4555,7 +4548,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4608,7 +4601,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4661,7 +4654,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4714,7 +4707,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4767,7 +4760,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4820,7 +4813,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4873,7 +4866,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -4926,7 +4919,8 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -4979,7 +4973,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5032,7 +5026,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5085,7 +5079,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5138,7 +5132,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5191,7 +5185,7 @@ export const pdfProducts: PdfProduct[] = [
       "transistors",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5244,7 +5238,7 @@ export const pdfProducts: PdfProduct[] = [
       "mosfets-igbt-jfet-and-ujt",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5297,7 +5291,7 @@ export const pdfProducts: PdfProduct[] = [
       "mosfets-igbt-jfet-and-ujt",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5350,7 +5344,7 @@ export const pdfProducts: PdfProduct[] = [
       "mosfets-igbt-jfet-and-ujt",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5403,7 +5397,7 @@ export const pdfProducts: PdfProduct[] = [
       "mosfets-igbt-jfet-and-ujt",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5456,7 +5450,7 @@ export const pdfProducts: PdfProduct[] = [
       "mosfets-igbt-jfet-and-ujt",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5509,7 +5503,7 @@ export const pdfProducts: PdfProduct[] = [
       "mosfets-igbt-jfet-and-ujt",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5562,7 +5556,7 @@ export const pdfProducts: PdfProduct[] = [
       "mosfets-igbt-jfet-and-ujt",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5615,7 +5609,7 @@ export const pdfProducts: PdfProduct[] = [
       "mosfets-igbt-jfet-and-ujt",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5668,7 +5662,7 @@ export const pdfProducts: PdfProduct[] = [
       "mosfets-igbt-jfet-and-ujt",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5721,7 +5715,7 @@ export const pdfProducts: PdfProduct[] = [
       "scr-triac-and-diac",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5774,7 +5768,7 @@ export const pdfProducts: PdfProduct[] = [
       "scr-triac-and-diac",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5827,7 +5821,7 @@ export const pdfProducts: PdfProduct[] = [
       "scr-triac-and-diac",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5880,7 +5874,7 @@ export const pdfProducts: PdfProduct[] = [
       "scr-triac-and-diac",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5934,7 +5928,7 @@ export const pdfProducts: PdfProduct[] = [
       "voltage-regulators",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -5988,7 +5982,7 @@ export const pdfProducts: PdfProduct[] = [
       "voltage-regulators",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6042,7 +6036,7 @@ export const pdfProducts: PdfProduct[] = [
       "voltage-regulators",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6096,7 +6090,7 @@ export const pdfProducts: PdfProduct[] = [
       "voltage-regulators",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6150,7 +6144,7 @@ export const pdfProducts: PdfProduct[] = [
       "voltage-regulators",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6203,7 +6197,7 @@ export const pdfProducts: PdfProduct[] = [
       "voltage-regulators",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6256,7 +6250,7 @@ export const pdfProducts: PdfProduct[] = [
       "voltage-regulators",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6309,7 +6303,7 @@ export const pdfProducts: PdfProduct[] = [
       "voltage-regulators",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6362,7 +6356,7 @@ export const pdfProducts: PdfProduct[] = [
       "voltage-regulators",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6415,7 +6409,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6468,7 +6462,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6521,7 +6515,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6574,7 +6568,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6627,7 +6621,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6680,7 +6674,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6733,7 +6727,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6786,7 +6780,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6839,7 +6833,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6892,7 +6886,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6945,7 +6939,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -6998,7 +6992,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7051,7 +7045,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7104,7 +7098,7 @@ export const pdfProducts: PdfProduct[] = [
       "op-amps-comparators-timers-and-audio-amplifiers",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7157,7 +7151,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7210,7 +7204,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7263,7 +7257,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7316,7 +7310,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7369,7 +7363,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7422,7 +7416,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7475,7 +7469,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7528,7 +7522,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7581,7 +7575,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7634,7 +7628,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7687,7 +7681,7 @@ export const pdfProducts: PdfProduct[] = [
       "digital-logic-ics-74xx",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7740,7 +7734,7 @@ export const pdfProducts: PdfProduct[] = [
       "cmos-ics-cd4000",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7793,7 +7787,7 @@ export const pdfProducts: PdfProduct[] = [
       "cmos-ics-cd4000",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7846,7 +7840,7 @@ export const pdfProducts: PdfProduct[] = [
       "cmos-ics-cd4000",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7899,7 +7893,7 @@ export const pdfProducts: PdfProduct[] = [
       "cmos-ics-cd4000",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -7952,7 +7946,7 @@ export const pdfProducts: PdfProduct[] = [
       "cmos-ics-cd4000",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8005,7 +7999,7 @@ export const pdfProducts: PdfProduct[] = [
       "cmos-ics-cd4000",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8058,7 +8052,7 @@ export const pdfProducts: PdfProduct[] = [
       "cmos-ics-cd4000",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8111,7 +8105,7 @@ export const pdfProducts: PdfProduct[] = [
       "cmos-ics-cd4000",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8164,7 +8158,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8217,7 +8211,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -8270,7 +8265,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8323,7 +8318,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -8376,7 +8372,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -8429,7 +8426,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -8482,7 +8480,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8535,7 +8533,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8588,7 +8586,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -8641,7 +8640,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -8694,7 +8694,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8747,7 +8747,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8800,7 +8800,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -8853,7 +8853,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -8906,7 +8907,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -8959,7 +8961,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9012,7 +9015,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9065,7 +9069,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9118,7 +9123,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9171,7 +9177,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -9224,7 +9230,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -9277,7 +9283,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9330,7 +9337,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9383,7 +9391,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9436,7 +9445,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9489,7 +9499,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9542,7 +9553,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9595,7 +9607,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -9648,7 +9660,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9701,7 +9714,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9754,7 +9768,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -9807,7 +9821,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -9860,7 +9874,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9913,7 +9928,8 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -9966,7 +9982,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10019,7 +10035,7 @@ export const pdfProducts: PdfProduct[] = [
       "motor-drivers-and-special-purpose-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10072,7 +10088,7 @@ export const pdfProducts: PdfProduct[] = [
       "microcontroller-chips",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10125,7 +10141,7 @@ export const pdfProducts: PdfProduct[] = [
       "microcontroller-chips",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10178,7 +10194,7 @@ export const pdfProducts: PdfProduct[] = [
       "microcontroller-chips",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10231,7 +10247,7 @@ export const pdfProducts: PdfProduct[] = [
       "microcontroller-chips",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10284,7 +10300,7 @@ export const pdfProducts: PdfProduct[] = [
       "microcontroller-chips",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10337,7 +10353,7 @@ export const pdfProducts: PdfProduct[] = [
       "microcontroller-chips",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10390,7 +10406,7 @@ export const pdfProducts: PdfProduct[] = [
       "microcontroller-chips",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10444,7 +10460,7 @@ export const pdfProducts: PdfProduct[] = [
       "microcontroller-chips",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10497,7 +10513,7 @@ export const pdfProducts: PdfProduct[] = [
       "microcontroller-chips",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10550,7 +10566,8 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -10603,7 +10620,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10656,7 +10673,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10709,7 +10726,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10762,7 +10779,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10815,7 +10832,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10868,7 +10885,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10921,7 +10938,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -10974,7 +10991,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11027,7 +11044,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11080,7 +11097,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11134,7 +11151,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11187,7 +11204,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11240,7 +11257,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11293,7 +11310,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11346,7 +11363,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11399,7 +11416,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11452,7 +11469,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11505,7 +11522,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11558,7 +11575,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11611,7 +11628,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11664,7 +11681,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11717,7 +11734,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11770,7 +11787,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11823,7 +11840,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11876,7 +11893,7 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -11929,7 +11946,8 @@ export const pdfProducts: PdfProduct[] = [
       "development-boards-and-shields",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -11982,7 +12000,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-temperature-humidity-and-pressure",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12035,7 +12053,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-temperature-humidity-and-pressure",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12088,7 +12106,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-temperature-humidity-and-pressure",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12141,7 +12159,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-temperature-humidity-and-pressure",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12194,7 +12212,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-temperature-humidity-and-pressure",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12247,7 +12265,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-temperature-humidity-and-pressure",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12300,7 +12318,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-temperature-humidity-and-pressure",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12353,7 +12371,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-temperature-humidity-and-pressure",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12406,7 +12424,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-temperature-humidity-and-pressure",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12460,7 +12478,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-motion-and-orientation",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12513,7 +12531,8 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-motion-and-orientation",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -12567,7 +12586,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-motion-and-orientation",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12620,7 +12639,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-motion-and-orientation",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12673,7 +12692,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-motion-and-orientation",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12726,7 +12745,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-distance",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12779,7 +12798,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-distance",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12832,7 +12851,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-distance",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12885,7 +12904,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-distance",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12938,7 +12957,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-distance",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -12991,7 +13010,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-distance",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13044,7 +13063,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-presence-and-switch-type",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13097,7 +13116,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-presence-and-switch-type",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13150,7 +13169,8 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-presence-and-switch-type",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -13203,7 +13223,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-presence-and-switch-type",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13256,7 +13276,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-presence-and-switch-type",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13309,7 +13329,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-presence-and-switch-type",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13362,7 +13382,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-presence-and-switch-type",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13415,7 +13435,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-presence-and-switch-type",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13468,7 +13488,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-gas-and-air",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13521,7 +13541,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-gas-and-air",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13574,7 +13594,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-gas-and-air",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13627,7 +13647,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-gas-and-air",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13680,7 +13700,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-gas-and-air",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13733,7 +13753,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-gas-and-air",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13786,7 +13806,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-gas-and-air",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13839,7 +13859,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-gas-and-air",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13892,7 +13912,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-gas-and-air",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13945,7 +13965,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-light-and-colour",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -13998,7 +14018,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-light-and-colour",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14052,7 +14072,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-electrical",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14106,7 +14126,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-electrical",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14159,7 +14179,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-electrical",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14212,7 +14232,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-electrical",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14266,7 +14286,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-electrical",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14319,7 +14339,8 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-electrical",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -14372,7 +14393,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-electrical",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14425,7 +14446,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-electrical",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14478,7 +14499,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14531,7 +14552,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14584,7 +14605,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14637,7 +14658,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14690,7 +14711,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14743,7 +14764,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14796,7 +14817,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14849,7 +14870,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14902,7 +14923,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -14955,7 +14976,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15008,7 +15029,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15061,7 +15082,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15114,7 +15135,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15167,7 +15188,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15221,7 +15242,7 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15274,7 +15295,8 @@ export const pdfProducts: PdfProduct[] = [
       "sensors-environmental-bio-gps-and-camera",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -15327,7 +15349,7 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15380,7 +15402,7 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15433,7 +15455,7 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15486,7 +15508,8 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -15539,7 +15562,7 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15592,7 +15615,7 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15645,7 +15668,7 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15698,7 +15721,7 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15751,7 +15774,7 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15804,7 +15827,7 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15857,7 +15880,7 @@ export const pdfProducts: PdfProduct[] = [
       "displays",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15910,7 +15933,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -15963,7 +15986,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16016,7 +16039,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16069,7 +16092,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16122,7 +16145,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16175,7 +16198,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16228,7 +16251,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16282,7 +16305,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16335,7 +16358,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16388,7 +16411,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16441,7 +16464,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16494,7 +16517,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16547,7 +16570,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16600,7 +16623,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16653,7 +16676,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16706,7 +16729,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16759,7 +16782,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16812,7 +16835,7 @@ export const pdfProducts: PdfProduct[] = [
       "communication-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16865,7 +16888,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16918,7 +16941,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -16971,7 +16994,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17025,7 +17048,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17078,7 +17101,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17131,7 +17154,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17184,7 +17207,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17237,7 +17260,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17290,7 +17313,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17344,7 +17367,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17397,7 +17420,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17451,7 +17474,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17504,7 +17527,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17558,7 +17581,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17611,7 +17634,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17664,7 +17687,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17717,7 +17740,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17770,7 +17793,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17823,7 +17846,8 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -17876,7 +17900,7 @@ export const pdfProducts: PdfProduct[] = [
       "motors-actuators-and-sound",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17890,8 +17914,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 80,
     "compare_at_price": 100,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -17930,7 +17954,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17944,8 +17968,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 140,
     "compare_at_price": 175,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -17984,7 +18008,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -17998,8 +18022,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 240,
     "compare_at_price": 300,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18038,7 +18062,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18052,8 +18076,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 420,
     "compare_at_price": 525,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18092,7 +18116,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18106,8 +18130,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 80,
     "compare_at_price": 100,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -18145,7 +18169,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18159,8 +18183,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 80,
     "compare_at_price": 100,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18200,7 +18224,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18214,8 +18238,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 80,
     "compare_at_price": 100,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18254,7 +18278,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18268,8 +18292,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 80,
     "compare_at_price": 100,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18308,7 +18332,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18322,8 +18346,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18361,7 +18385,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18375,8 +18399,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18414,7 +18438,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18428,8 +18452,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18467,7 +18491,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18481,8 +18505,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18520,7 +18544,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18534,8 +18558,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -18573,7 +18597,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18587,8 +18611,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18626,7 +18650,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18640,8 +18664,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18679,7 +18703,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18693,8 +18717,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18732,7 +18756,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18746,8 +18770,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -18785,7 +18809,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18799,8 +18823,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18838,7 +18862,7 @@ export const pdfProducts: PdfProduct[] = [
       "relays-switches-and-input-devices",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18852,8 +18876,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18891,7 +18915,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18905,8 +18929,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18944,7 +18968,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -18958,8 +18982,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -18997,7 +19021,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19011,8 +19035,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -19050,7 +19074,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19064,8 +19088,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19104,7 +19128,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19118,8 +19142,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19157,7 +19181,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19171,8 +19195,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19210,7 +19234,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19224,8 +19248,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19263,7 +19287,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19277,8 +19301,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -19316,7 +19340,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19330,8 +19354,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19369,7 +19393,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19383,8 +19407,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19422,7 +19446,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19436,8 +19460,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19475,7 +19499,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19489,8 +19513,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19528,7 +19552,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19542,8 +19566,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -19581,7 +19605,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19595,8 +19619,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19634,7 +19658,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19648,8 +19672,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19687,7 +19711,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19701,8 +19725,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19742,7 +19766,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19756,8 +19780,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19797,7 +19821,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19811,8 +19835,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -19852,7 +19876,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19866,8 +19890,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19907,7 +19931,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -19921,8 +19945,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 95,
     "compare_at_price": 119,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -19962,7 +19986,8 @@ export const pdfProducts: PdfProduct[] = [
       "power-modules",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -19976,8 +20001,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 220,
     "compare_at_price": 275,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20016,7 +20041,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20030,8 +20055,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 220,
     "compare_at_price": 275,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20070,7 +20095,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20084,8 +20109,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 220,
     "compare_at_price": 275,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20124,7 +20149,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20138,8 +20163,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -20179,7 +20204,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20193,8 +20218,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20234,7 +20259,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20248,8 +20273,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20289,7 +20314,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20303,8 +20328,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20343,7 +20368,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20357,8 +20382,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -20396,7 +20421,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20410,8 +20435,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20449,7 +20474,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20463,8 +20488,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20502,7 +20527,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20516,8 +20541,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1450,
     "compare_at_price": 1813,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20557,7 +20582,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20571,8 +20596,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -20611,7 +20636,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20625,8 +20650,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20666,7 +20691,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20680,8 +20705,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20721,7 +20746,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20735,8 +20760,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20776,7 +20801,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20790,8 +20815,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20829,7 +20854,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20843,8 +20868,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20882,7 +20907,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20896,8 +20921,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -20935,7 +20960,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -20949,8 +20974,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -20988,7 +21013,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21002,8 +21027,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 280,
     "compare_at_price": 350,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21043,7 +21068,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21057,8 +21082,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 280,
     "compare_at_price": 350,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21097,7 +21122,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21111,8 +21136,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 280,
     "compare_at_price": 350,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21151,7 +21176,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21165,8 +21190,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21205,7 +21230,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21219,8 +21244,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21259,7 +21284,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21273,8 +21298,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21312,7 +21337,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21326,8 +21351,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 25,
     "compare_at_price": 31,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21365,7 +21390,7 @@ export const pdfProducts: PdfProduct[] = [
       "inductors-crystals-transformers-fuses-and-heatsinks",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21379,8 +21404,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 160,
     "compare_at_price": 200,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21418,7 +21443,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21432,8 +21457,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 90,
     "compare_at_price": 113,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21471,7 +21496,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21485,8 +21510,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -21524,7 +21549,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21538,8 +21563,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21577,7 +21602,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21591,8 +21616,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 85,
     "compare_at_price": 106,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21630,7 +21655,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21644,8 +21669,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 85,
     "compare_at_price": 106,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -21683,7 +21708,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21697,8 +21722,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 85,
     "compare_at_price": 106,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21736,7 +21761,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21750,8 +21775,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21789,7 +21814,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21803,8 +21828,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21842,7 +21867,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21856,8 +21881,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -21895,7 +21920,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21909,8 +21934,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -21948,7 +21973,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -21962,8 +21987,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22001,7 +22026,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22015,8 +22040,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22054,7 +22079,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22068,8 +22093,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22107,7 +22132,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22121,8 +22146,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22160,7 +22185,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22174,8 +22199,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22213,7 +22238,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22227,8 +22252,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -22266,7 +22291,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22280,8 +22305,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22319,7 +22344,7 @@ export const pdfProducts: PdfProduct[] = [
       "boards-connectors-and-wiring",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22333,8 +22358,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22372,7 +22397,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22386,8 +22411,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22425,7 +22450,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22439,8 +22464,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22478,7 +22503,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22492,8 +22517,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22531,7 +22556,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22545,8 +22570,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -22584,7 +22609,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22598,8 +22623,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22637,7 +22662,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22651,8 +22676,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22690,7 +22715,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22704,8 +22729,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22743,7 +22768,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22757,8 +22782,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22796,7 +22821,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22810,8 +22835,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 250,
     "compare_at_price": 313,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -22850,7 +22875,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22864,8 +22889,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 250,
     "compare_at_price": 313,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22904,7 +22929,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22918,8 +22943,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 250,
     "compare_at_price": 313,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -22958,7 +22983,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -22972,8 +22997,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 2400,
     "compare_at_price": 3000,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23011,7 +23036,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -23025,8 +23050,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -23064,7 +23089,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -23078,8 +23103,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 450,
     "compare_at_price": 563,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23118,7 +23143,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -23132,8 +23157,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23171,7 +23196,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -23185,8 +23210,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -23224,7 +23249,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -23238,8 +23263,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23277,7 +23302,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -23291,8 +23316,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -23330,7 +23355,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -23344,8 +23369,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -23383,7 +23408,7 @@ export const pdfProducts: PdfProduct[] = [
       "tools-and-consumables",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -23436,7 +23461,8 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-parts",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -23489,7 +23515,8 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-parts",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -23542,7 +23569,8 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-parts",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -23595,7 +23623,8 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-parts",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -23648,7 +23677,8 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-parts",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -23701,7 +23731,8 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-parts",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -23754,7 +23785,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -23807,7 +23839,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -23860,7 +23893,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -23914,7 +23948,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -23967,7 +24002,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24020,7 +24056,7 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -24073,7 +24109,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24126,7 +24163,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24179,7 +24217,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24232,7 +24271,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24285,7 +24325,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24338,7 +24379,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24391,7 +24433,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24444,7 +24487,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24497,7 +24541,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24550,7 +24595,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24603,7 +24649,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24656,7 +24703,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24709,7 +24757,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24762,7 +24811,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24815,7 +24865,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24868,7 +24919,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24921,7 +24973,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -24974,7 +25027,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -25027,7 +25081,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -25080,7 +25135,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -25133,7 +25189,8 @@ export const pdfProducts: PdfProduct[] = [
       "rapid-prototyping-kits-and-drones",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -25147,8 +25204,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25186,7 +25243,7 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-electric-and-measurement-tools",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25200,8 +25257,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25239,7 +25296,7 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-electric-and-measurement-tools",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25253,8 +25310,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25292,7 +25349,7 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-electric-and-measurement-tools",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25306,8 +25363,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25345,7 +25402,7 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-electric-and-measurement-tools",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25359,8 +25416,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25399,7 +25456,7 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-electric-and-measurement-tools",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25413,8 +25470,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25452,7 +25509,7 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-electric-and-measurement-tools",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25466,8 +25523,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25505,7 +25562,7 @@ export const pdfProducts: PdfProduct[] = [
       "mechanical-electric-and-measurement-tools",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25519,8 +25576,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25558,7 +25615,7 @@ export const pdfProducts: PdfProduct[] = [
       "safety-equipment-and-hardware-accessories",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25572,8 +25629,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25611,7 +25668,7 @@ export const pdfProducts: PdfProduct[] = [
       "safety-equipment-and-hardware-accessories",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25625,8 +25682,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25664,7 +25721,7 @@ export const pdfProducts: PdfProduct[] = [
       "safety-equipment-and-hardware-accessories",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25678,8 +25735,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25717,7 +25774,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-boards-and-gateways",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25731,8 +25788,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -25770,7 +25827,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-boards-and-gateways",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25784,8 +25841,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25823,7 +25880,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-boards-and-gateways",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25837,8 +25894,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -25876,7 +25933,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-boards-and-gateways",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25890,8 +25947,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25930,7 +25987,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25944,8 +26001,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -25983,7 +26040,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -25997,8 +26054,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26036,7 +26093,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26050,8 +26107,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26089,7 +26146,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26103,8 +26160,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26142,7 +26199,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26156,8 +26213,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26195,7 +26252,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26209,8 +26266,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -26248,7 +26305,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26262,8 +26319,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26301,7 +26358,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26315,8 +26372,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -26354,7 +26411,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-connectivity-modules-and-antennas",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26368,8 +26425,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26408,7 +26465,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26422,8 +26479,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26461,7 +26518,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26475,8 +26532,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26514,7 +26571,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26528,8 +26585,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26567,7 +26624,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26581,8 +26638,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26621,7 +26678,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26635,8 +26692,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26674,7 +26731,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26688,8 +26745,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -26727,7 +26784,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26741,8 +26798,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26780,7 +26837,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26794,8 +26851,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26833,7 +26890,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26847,8 +26904,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26886,7 +26943,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26900,8 +26957,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26939,7 +26996,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-sensors-and-interface-modules",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -26953,8 +27010,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -26993,7 +27050,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-actuators-and-control",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27007,8 +27064,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27047,7 +27104,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-actuators-and-control",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27061,8 +27118,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27101,7 +27158,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-actuators-and-control",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27115,8 +27172,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -27155,7 +27212,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-actuators-and-control",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27169,8 +27226,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27208,7 +27265,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-actuators-and-control",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27222,8 +27279,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27261,7 +27318,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-power-and-energy",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27275,8 +27332,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27314,7 +27371,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-power-and-energy",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27328,8 +27385,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27367,7 +27424,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-power-and-energy",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27381,8 +27438,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -27421,7 +27478,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-power-and-energy",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27435,8 +27492,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27474,7 +27531,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-power-and-energy",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27488,8 +27545,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27527,7 +27584,7 @@ export const pdfProducts: PdfProduct[] = [
       "iot-enclosures-hats-and-accessories",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27541,8 +27598,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27581,7 +27638,7 @@ export const pdfProducts: PdfProduct[] = [
       "specialty-and-interface-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27595,8 +27652,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27634,7 +27691,7 @@ export const pdfProducts: PdfProduct[] = [
       "specialty-and-interface-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27648,8 +27705,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -27688,7 +27745,7 @@ export const pdfProducts: PdfProduct[] = [
       "specialty-and-interface-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27702,8 +27759,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27741,7 +27798,7 @@ export const pdfProducts: PdfProduct[] = [
       "specialty-and-interface-ics",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27755,8 +27812,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27795,7 +27852,7 @@ export const pdfProducts: PdfProduct[] = [
       "robot-chassis-and-platform-kits",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27809,8 +27866,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27849,7 +27906,7 @@ export const pdfProducts: PdfProduct[] = [
       "robot-chassis-and-platform-kits",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27863,8 +27920,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 650,
     "compare_at_price": 813,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27902,7 +27959,7 @@ export const pdfProducts: PdfProduct[] = [
       "robot-chassis-and-platform-kits",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27916,8 +27973,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -27955,7 +28012,7 @@ export const pdfProducts: PdfProduct[] = [
       "robot-chassis-and-platform-kits",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -27969,8 +28026,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -28008,7 +28065,7 @@ export const pdfProducts: PdfProduct[] = [
       "robot-chassis-and-platform-kits",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -28022,8 +28079,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -28061,7 +28118,7 @@ export const pdfProducts: PdfProduct[] = [
       "robot-chassis-and-platform-kits",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -28075,8 +28132,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 1200,
     "compare_at_price": 1500,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -28114,1332 +28171,7 @@ export const pdfProducts: PdfProduct[] = [
       "robot-chassis-and-platform-kits",
       "electronics",
       "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-1",
-    "name": "Solar Robot / Solar Toy Kit",
-    "slug": "solar-robot-solar-toy-kit",
-    "sku": "HIT-44-001",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 1200,
-    "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "Solar Robot / Solar Toy Kit - DIY and Educational Project Kits",
-    "description": "High-grade Solar Robot / Solar Toy Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Solar Robot / Solar Toy Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Solar Robot / Solar Toy Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-2",
-    "name": "FM Radio Kit",
-    "slug": "fm-radio-kit",
-    "sku": "HIT-44-002",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "FM Radio Kit - DIY and Educational Project Kits",
-    "description": "High-grade FM Radio Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "FM Radio Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x FM Radio Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-3",
-    "name": "Mini Audio Amplifier Kit",
-    "slug": "mini-audio-amplifier-kit",
-    "sku": "HIT-44-003",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "Mini Audio Amplifier Kit - DIY and Educational Project Kits",
-    "description": "High-grade Mini Audio Amplifier Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Mini Audio Amplifier Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Mini Audio Amplifier Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-4",
-    "name": "Electronic Dice Kit",
-    "slug": "electronic-dice-kit",
-    "sku": "HIT-44-004",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Electronic Dice Kit - DIY and Educational Project Kits",
-    "description": "High-grade Electronic Dice Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Electronic Dice Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Electronic Dice Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-5",
-    "name": "Water Level Indicator Kit",
-    "slug": "water-level-indicator-kit",
-    "sku": "HIT-44-005",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": true,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Water Level Indicator Kit - DIY and Educational Project Kits",
-    "description": "High-grade Water Level Indicator Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Water Level Indicator Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Water Level Indicator Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-6",
-    "name": "LED Color Chaser Kit",
-    "slug": "led-color-chaser-kit",
-    "sku": "HIT-44-006",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "LED Color Chaser Kit - DIY and Educational Project Kits",
-    "description": "High-grade LED Color Chaser Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "LED Color Chaser Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x LED Color Chaser Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-7",
-    "name": "Digital Clock Kit",
-    "slug": "digital-clock-kit",
-    "sku": "HIT-44-007",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Digital Clock Kit - DIY and Educational Project Kits",
-    "description": "High-grade Digital Clock Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Digital Clock Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Digital Clock Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-8",
-    "name": "Mini Inverter Kit",
-    "slug": "mini-inverter-kit",
-    "sku": "HIT-44-008",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": true,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Mini Inverter Kit - DIY and Educational Project Kits",
-    "description": "High-grade Mini Inverter Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Mini Inverter Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Mini Inverter Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-9",
-    "name": "Joule Thief Kit",
-    "slug": "joule-thief-kit",
-    "sku": "HIT-44-009",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Joule Thief Kit - DIY and Educational Project Kits",
-    "description": "High-grade Joule Thief Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Joule Thief Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Joule Thief Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-10",
-    "name": "Burglar Alarm Kit",
-    "slug": "burglar-alarm-kit",
-    "sku": "HIT-44-010",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": true,
-    "is_bestseller": false,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Burglar Alarm Kit - DIY and Educational Project Kits",
-    "description": "High-grade Burglar Alarm Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Burglar Alarm Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Burglar Alarm Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-11",
-    "name": "Temperature Controlled Fan Kit",
-    "slug": "temperature-controlled-fan-kit",
-    "sku": "HIT-44-011",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 38,
-    "short_description": "Temperature Controlled Fan Kit - DIY and Educational Project Kits",
-    "description": "High-grade Temperature Controlled Fan Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Temperature Controlled Fan Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Temperature Controlled Fan Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-12",
-    "name": "RGB LED Cube Kit (4x4x4)",
-    "slug": "rgb-led-cube-kit-4x4x4",
-    "sku": "HIT-44-012",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 41,
-    "short_description": "RGB LED Cube Kit (4x4x4) - DIY and Educational Project Kits",
-    "description": "High-grade RGB LED Cube Kit (4x4x4) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "RGB LED Cube Kit (4x4x4)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x RGB LED Cube Kit (4x4x4)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-13",
-    "name": "Arduino Starter Kit",
-    "slug": "arduino-starter-kit",
-    "sku": "HIT-44-013",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 1850,
-    "compare_at_price": 2313,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 44,
-    "short_description": "Arduino Starter Kit - DIY and Educational Project Kits",
-    "description": "High-grade Arduino Starter Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Arduino Starter Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Arduino Starter Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-14",
-    "name": "Raspberry Pi Starter Kit",
-    "slug": "raspberry-pi-starter-kit",
-    "sku": "HIT-44-014",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 1850,
-    "compare_at_price": 2313,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 47,
-    "short_description": "Raspberry Pi Starter Kit - DIY and Educational Project Kits",
-    "description": "High-grade Raspberry Pi Starter Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Raspberry Pi Starter Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Raspberry Pi Starter Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-15",
-    "name": "IoT Starter Kit",
-    "slug": "iot-starter-kit",
-    "sku": "HIT-44-015",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 1850,
-    "compare_at_price": 2313,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 5,
-    "short_description": "IoT Starter Kit - DIY and Educational Project Kits",
-    "description": "High-grade IoT Starter Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "IoT Starter Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x IoT Starter Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-16",
-    "name": "Robotics Starter Kit",
-    "slug": "robotics-starter-kit",
-    "sku": "HIT-44-016",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 1200,
-    "compare_at_price": 1500,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 8,
-    "short_description": "Robotics Starter Kit - DIY and Educational Project Kits",
-    "description": "High-grade Robotics Starter Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Robotics Starter Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Robotics Starter Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-17",
-    "name": "Soldering Practice Kit",
-    "slug": "soldering-practice-kit",
-    "sku": "HIT-44-017",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 11,
-    "short_description": "Soldering Practice Kit - DIY and Educational Project Kits",
-    "description": "High-grade Soldering Practice Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Soldering Practice Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Soldering Practice Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-18",
-    "name": "555 Timer Projects Kit",
-    "slug": "555-timer-projects-kit",
-    "sku": "HIT-44-018",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 14,
-    "short_description": "555 Timer Projects Kit - DIY and Educational Project Kits",
-    "description": "High-grade 555 Timer Projects Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "555 Timer Projects Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x 555 Timer Projects Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-19",
-    "name": "Logic Gates Learning Kit",
-    "slug": "logic-gates-learning-kit",
-    "sku": "HIT-44-019",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 17,
-    "short_description": "Logic Gates Learning Kit - DIY and Educational Project Kits",
-    "description": "High-grade Logic Gates Learning Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Logic Gates Learning Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Logic Gates Learning Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-20",
-    "name": "Basic Electronics Component Kit (Assorted)",
-    "slug": "basic-electronics-component-kit-assorted",
-    "sku": "HIT-44-020",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": true,
-    "is_bestseller": true,
-    "is_new_arrival": true,
-    "rating": 4.5,
-    "review_count": 20,
-    "short_description": "Basic Electronics Component Kit (Assorted) - DIY and Educational Project Kits",
-    "description": "High-grade Basic Electronics Component Kit (Assorted) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Basic Electronics Component Kit (Assorted)",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Basic Electronics Component Kit (Assorted)"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-21",
-    "name": "Solar Panel Educational Kit",
-    "slug": "solar-panel-educational-kit",
-    "sku": "HIT-44-021",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.6,
-    "review_count": 23,
-    "short_description": "Solar Panel Educational Kit - DIY and Educational Project Kits",
-    "description": "High-grade Solar Panel Educational Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Solar Panel Educational Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Solar Panel Educational Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-22",
-    "name": "Home Automation Starter Kit",
-    "slug": "home-automation-starter-kit",
-    "sku": "HIT-44-022",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 1850,
-    "compare_at_price": 2313,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.7,
-    "review_count": 26,
-    "short_description": "Home Automation Starter Kit - DIY and Educational Project Kits",
-    "description": "High-grade Home Automation Starter Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Home Automation Starter Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Home Automation Starter Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "in-stock"
-    ]
-  },
-  {
-    "id": "prod-44-23",
-    "name": "Metal Detector Kit",
-    "slug": "metal-detector-kit",
-    "sku": "HIT-44-023",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.8,
-    "review_count": 29,
-    "short_description": "Metal Detector Kit - DIY and Educational Project Kits",
-    "description": "High-grade Metal Detector Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Metal Detector Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Metal Detector Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-24",
-    "name": "Morse Code Trainer Kit",
-    "slug": "morse-code-trainer-kit",
-    "sku": "HIT-44-024",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.9,
-    "review_count": 32,
-    "short_description": "Morse Code Trainer Kit - DIY and Educational Project Kits",
-    "description": "High-grade Morse Code Trainer Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Morse Code Trainer Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Morse Code Trainer Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
-    ]
-  },
-  {
-    "id": "prod-44-25",
-    "name": "Electromagnet Experiment Kit",
-    "slug": "electromagnet-experiment-kit",
-    "sku": "HIT-44-025",
-    "category_id": "cat-diy-and-educational-project-kits",
-    "category_name": "DIY and Educational Project Kits",
-    "brand_id": "brand-generic",
-    "brand_name": "Hi Technology",
-    "price": 650,
-    "compare_at_price": 813,
-    "stock": 0,
-    "is_in_stock": false,
-    "low_stock_threshold": 10,
-    "is_published": true,
-    "is_featured": false,
-    "is_bestseller": false,
-    "is_new_arrival": false,
-    "rating": 4.5,
-    "review_count": 35,
-    "short_description": "Electromagnet Experiment Kit - DIY and Educational Project Kits",
-    "description": "High-grade Electromagnet Experiment Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
-    ],
-    "specifications": {
-      "Category": "DIY and Educational Project Kits",
-      "Model": "Electromagnet Experiment Kit",
-      "RoHS Compliant": "Yes"
-    },
-    "features": [
-      "High quality and industrial reliability",
-      "Standard breadboard/PCB mounting footprint",
-      "Factory tested and verified",
-      "Compliant with electronic safety standards"
-    ],
-    "whats_included": [
-      "1x Electromagnet Experiment Kit"
-    ],
-    "compatibility": [
-      "Arduino",
-      "Raspberry Pi",
-      "ESP32",
-      "Breadboard & Perfboard"
-    ],
-    "tags": [
-      "diy-and-educational-project-kits",
-      "electronics",
-      "components",
-      "order-request"
+      "out-of-stock"
     ]
   },
   {
@@ -29453,8 +28185,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -29492,7 +28224,7 @@ export const pdfProducts: PdfProduct[] = [
       "connectors-headers-and-sockets",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -29506,8 +28238,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -29545,7 +28277,7 @@ export const pdfProducts: PdfProduct[] = [
       "connectors-headers-and-sockets",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -29559,8 +28291,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -29598,7 +28330,7 @@ export const pdfProducts: PdfProduct[] = [
       "connectors-headers-and-sockets",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -29612,8 +28344,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -29651,7 +28383,7 @@ export const pdfProducts: PdfProduct[] = [
       "connectors-headers-and-sockets",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -29665,8 +28397,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -29704,7 +28436,7 @@ export const pdfProducts: PdfProduct[] = [
       "connectors-headers-and-sockets",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -29718,8 +28450,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -29759,7 +28491,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -29773,8 +28505,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -29812,7 +28544,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -29826,8 +28558,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -29866,7 +28598,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -29880,8 +28612,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -29920,7 +28652,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -29934,8 +28666,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -29973,7 +28705,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -29987,8 +28719,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30026,7 +28758,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30040,8 +28772,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30081,7 +28813,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30095,8 +28827,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30136,7 +28868,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30150,8 +28882,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30189,7 +28921,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30203,8 +28935,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30242,7 +28974,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30256,8 +28988,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30295,7 +29027,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30309,8 +29041,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 45,
     "compare_at_price": 56,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30348,7 +29080,7 @@ export const pdfProducts: PdfProduct[] = [
       "batteries-cells-and-holders",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30362,8 +29094,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 5200,
     "compare_at_price": 6500,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30402,7 +29134,7 @@ export const pdfProducts: PdfProduct[] = [
       "test-and-measurement-equipment",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30416,8 +29148,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30455,7 +29187,7 @@ export const pdfProducts: PdfProduct[] = [
       "test-and-measurement-equipment",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30469,8 +29201,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30509,7 +29241,7 @@ export const pdfProducts: PdfProduct[] = [
       "test-and-measurement-equipment",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30523,8 +29255,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 150,
     "compare_at_price": 188,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30562,7 +29294,7 @@ export const pdfProducts: PdfProduct[] = [
       "test-and-measurement-equipment",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30576,8 +29308,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30617,7 +29349,7 @@ export const pdfProducts: PdfProduct[] = [
       "audio-components",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30631,8 +29363,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30672,7 +29404,7 @@ export const pdfProducts: PdfProduct[] = [
       "audio-components",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30686,8 +29418,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30725,7 +29457,7 @@ export const pdfProducts: PdfProduct[] = [
       "audio-components",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30739,8 +29471,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": true,
@@ -30778,7 +29510,7 @@ export const pdfProducts: PdfProduct[] = [
       "audio-components",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30792,8 +29524,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30832,7 +29564,7 @@ export const pdfProducts: PdfProduct[] = [
       "audio-components",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30846,8 +29578,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30886,7 +29618,7 @@ export const pdfProducts: PdfProduct[] = [
       "audio-components",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30900,8 +29632,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 99,
     "compare_at_price": 124,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -30940,7 +29672,7 @@ export const pdfProducts: PdfProduct[] = [
       "audio-components",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -30995,7 +29727,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31050,7 +29782,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31105,7 +29837,8 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -31158,7 +29891,8 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -31213,7 +29947,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31268,7 +30002,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31322,7 +30056,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31375,7 +30109,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31428,7 +30162,7 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31481,7 +30215,8 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -31535,7 +30270,8 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -31590,7 +30326,8 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -31643,7 +30380,8 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -31697,7 +30435,8 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -31750,7 +30489,8 @@ export const pdfProducts: PdfProduct[] = [
       "power-supply-components-transformers-smps-converters",
       "electronics",
       "components",
-      "order-request"
+      "order-request",
+      "out-of-stock"
     ]
   },
   {
@@ -31764,8 +30504,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 180,
     "compare_at_price": 225,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -31803,7 +30543,7 @@ export const pdfProducts: PdfProduct[] = [
       "enclosures-and-project-boxes",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31817,8 +30557,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 180,
     "compare_at_price": 225,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -31856,7 +30596,7 @@ export const pdfProducts: PdfProduct[] = [
       "enclosures-and-project-boxes",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31870,8 +30610,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 180,
     "compare_at_price": 225,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -31909,7 +30649,7 @@ export const pdfProducts: PdfProduct[] = [
       "enclosures-and-project-boxes",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31923,8 +30663,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 180,
     "compare_at_price": 225,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -31962,7 +30702,7 @@ export const pdfProducts: PdfProduct[] = [
       "enclosures-and-project-boxes",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -31976,8 +30716,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 180,
     "compare_at_price": 225,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -32015,7 +30755,7 @@ export const pdfProducts: PdfProduct[] = [
       "enclosures-and-project-boxes",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -32029,8 +30769,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -32068,7 +30808,7 @@ export const pdfProducts: PdfProduct[] = [
       "prototyping-and-wiring-supplies",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -32082,8 +30822,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -32121,7 +30861,7 @@ export const pdfProducts: PdfProduct[] = [
       "prototyping-and-wiring-supplies",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -32135,8 +30875,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -32174,7 +30914,7 @@ export const pdfProducts: PdfProduct[] = [
       "prototyping-and-wiring-supplies",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -32188,8 +30928,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -32227,7 +30967,7 @@ export const pdfProducts: PdfProduct[] = [
       "prototyping-and-wiring-supplies",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   },
   {
@@ -32241,8 +30981,8 @@ export const pdfProducts: PdfProduct[] = [
     "brand_name": "Hi Technology",
     "price": 35,
     "compare_at_price": 44,
-    "stock": 25,
-    "is_in_stock": true,
+    "stock": 0,
+    "is_in_stock": false,
     "low_stock_threshold": 10,
     "is_published": true,
     "is_featured": false,
@@ -32280,7 +31020,7 @@ export const pdfProducts: PdfProduct[] = [
       "prototyping-and-wiring-supplies",
       "electronics",
       "components",
-      "in-stock"
+      "out-of-stock"
     ]
   }
 ];

@@ -61,16 +61,16 @@ function setStorage<T>(key: string, value: T): void {
 }
 
 // In-memory / localStorage stores
-let products = getStorage<AdminProduct[]>('admin_products_v35', initialProducts);
+let products = getStorage<AdminProduct[]>('admin_products_v37', initialProducts);
 if (!products || products.length !== initialProducts.length) {
   products = initialProducts;
-  setStorage('admin_products_v35', products);
+  setStorage('admin_products_v37', products);
 }
 
-let categories = getStorage<AdminCategory[]>('admin_categories_v35', initialCategories);
+let categories = getStorage<AdminCategory[]>('admin_categories_v37', initialCategories);
 if (!categories || categories.length !== initialCategories.length) {
   categories = initialCategories;
-  setStorage('admin_categories_v35', categories);
+  setStorage('admin_categories_v37', categories);
 }
 let brands = getStorage<AdminBrand[]>('admin_brands', initialBrands);
 let orders = getStorage<AdminOrder[]>('admin_orders', initialOrders);
