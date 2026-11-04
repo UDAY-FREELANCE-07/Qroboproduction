@@ -33,7 +33,7 @@ export const GatewayRequest = z.object({
   filters: z.array(z.tuple([z.enum(SCALAR_OPS), z.string().max(64), z.union([Scalar, z.array(Scalar).max(500)])])).max(30).default([]),
   or: z.string().max(1000).optional(),
   order: z.array(z.object({ column: z.string().max(64), ascending: z.boolean().default(true) })).max(5).default([]),
-  limit: z.number().int().min(0).max(1000).optional(),
+  limit: z.number().int().min(0).max(5000).optional(),
   offset: z.number().int().min(0).max(1_000_000).optional(),
   count: z.literal('exact').optional(),
   single: z.enum(['single', 'maybe']).optional(),
@@ -47,7 +47,7 @@ export interface GatewayResult {
   count: number | null;
 }
 
-const MAX_LIMIT = { admin: 1000, other: 200 };
+const MAX_LIMIT = { admin: 5000, other: 2000 };
 const IDENT = /^[a-z_][a-z0-9_]*$/;
 const q = (c: string) => `"${c}"`;
 

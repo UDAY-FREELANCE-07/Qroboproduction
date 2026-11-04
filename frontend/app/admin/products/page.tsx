@@ -149,7 +149,12 @@ export default function AdminProductsPage() {
       {/* Top Header */}
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div>
-          <h1 className="text-2xl font-bold tracking-tight text-slate-900">Product Catalog</h1>
+          <div className="flex items-center gap-3">
+            <h1 className="text-2xl font-bold tracking-tight text-slate-900">Product Catalog</h1>
+            <span className="rounded-full bg-slate-100 px-2.5 py-0.5 text-xs font-semibold text-slate-700 border border-slate-200">
+              {filteredProducts.length} of {products.length} products
+            </span>
+          </div>
           <p className="text-xs sm:text-sm text-slate-500 mt-1">
             Manage your hardware inventory, pricing, specifications, and e-commerce listings.
           </p>
