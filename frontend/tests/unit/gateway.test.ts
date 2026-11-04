@@ -29,6 +29,18 @@ async function status(p: Promise<unknown>) {
 }
 
 describe('gateway SQL generation', () => {
+  it('supports tokenized keyword search across name, sku, short_description and tags', async () => {
+    const { db, calls } = fakeDb();
+    await executeGateway(db, { table: 'products', op: 'select', search: 'Resistor 1/4W 100 ohm' }, anon);
+    expect(calls[0].text).toContain('"name" ILIKE');
+    expect(calls[0].text).toContain('"sku" ILIKE');
+    expect(calls[0].text).toContain('"tags"::text ILIKE');
+    expect(calls[0].params).toContain('%resistor%');
+    expect(calls[0].params).toContain('%1/4w%');
+    expect(calls[0].params).toContain('%100%');
+    expect(calls[0].params).toContain('%ohm%');
+  });
+
   it('binds every value as a parameter (no SQL injection through values)', async () => {
     const { db, calls } = fakeDb();
     const evil = "x'; DROP TABLE users; --";

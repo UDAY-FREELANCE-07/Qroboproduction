@@ -89,7 +89,7 @@ export default function ShopPage() {
       .eq('is_published', true);
 
     if (searchQuery.trim()) {
-      query = query.or(`name.ilike.%${searchQuery}%,short_description.ilike.%${searchQuery}%,tags.cs.{${searchQuery}}`);
+      query = query.search(searchQuery.trim());
     }
 
     if (selectedCategory) {

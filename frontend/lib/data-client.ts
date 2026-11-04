@@ -33,6 +33,7 @@ export interface QueryBuilder extends PromiseLike<QueryResult> {
   like(column: string, pattern: string): QueryBuilder;
   ilike(column: string, pattern: string): QueryBuilder;
   or(filters: string): QueryBuilder;
+  search(query: string): QueryBuilder;
   order(column: string, options?: { ascending?: boolean }): QueryBuilder;
   limit(count: number): QueryBuilder;
   range(from: number, to: number): QueryBuilder;

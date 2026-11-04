@@ -32,6 +32,7 @@ export const GatewayRequest = z.object({
   select: z.string().max(500).optional(),
   filters: z.array(z.tuple([z.enum(SCALAR_OPS), z.string().max(64), z.union([Scalar, z.array(Scalar).max(500)])])).max(30).default([]),
   or: z.string().max(1000).optional(),
+  search: z.string().max(200).optional(),
   order: z.array(z.object({ column: z.string().max(64), ascending: z.boolean().default(true) })).max(5).default([]),
   limit: z.number().int().min(0).max(5000).optional(),
   offset: z.number().int().min(0).max(1_000_000).optional(),
@@ -47,7 +48,7 @@ export interface GatewayResult {
   count: number | null;
 }
 
-const MAX_LIMIT = { admin: 5000, other: 2000 };
+const MAX_LIMIT = { admin: 5000, other: 200 };
 const IDENT = /^[a-z_][a-z0-9_]*$/;
 const q = (c: string) => `"${c}"`;
 
@@ -224,6 +225,30 @@ async function runRead(db: Queryable, plan: ReadPlan, req: Partial<GatewayReques
   }
   for (const [op, col, value] of filters) where.push(scalarFilter(table, op, col, value, visible, p));
   if (req.or) where.push(parseOr(table, req.or, visible, p));
+    if (req.search && req.search.trim()) {
+      const rawTokens = req.search.trim().split(/\s+/).filter(Boolean);
+      const tokens = Array.from(new Set(rawTokens.map((t) => t.toLowerCase()))).slice(0, 6);
+      if (tokens.length > 0) {
+        if (table === 'products') {
+          for (const token of tokens) {
+            const pat = '%' + token + '%';
+            where.push(`("name" ILIKE ${p.add(pat)} OR "sku" ILIKE ${p.add(pat)} OR "short_description" ILIKE ${p.add(pat)} OR "tags"::text ILIKE ${p.add(pat)})`);
+          }
+        } else {
+          const textCols = visible.filter((c) => {
+            const t = TABLES[table][c];
+            return t === 'text' || t === 'text[]';
+          });
+          if (textCols.length > 0) {
+            for (const token of tokens) {
+              const pat = '%' + token + '%';
+              const sub = textCols.map((c) => `"${c}"::text ILIKE ${p.add(pat)}`).join(' OR ');
+              where.push(`(${sub})`);
+            }
+          }
+        }
+      }
+    }
   const whereSql = where.length ? ` WHERE ${where.join(' AND ')}` : '';
 
   // Always fetch columns needed to attach relations; strip them afterwards if not requested.

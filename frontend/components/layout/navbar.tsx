@@ -100,7 +100,7 @@ export function Navbar() {
       const { data } = await dataClient
         .from('products')
         .select('*')
-        .or(`name.ilike.%${searchQuery}%,tags.cs.{${searchQuery}}`)
+        .search(searchQuery.trim())
         .eq('is_published', true)
         .limit(5);
       setSearchResults(data || []);

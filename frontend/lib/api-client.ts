@@ -44,6 +44,7 @@ class ApiQueryBuilder implements PromiseLike<Result> {
     select?: string;
     filters: Filter[];
     or?: string;
+    search?: string;
     order: { column: string; ascending: boolean }[];
     limit?: number;
     offset?: number;
@@ -78,6 +79,10 @@ class ApiQueryBuilder implements PromiseLike<Result> {
   in(c: string, v: unknown[]) { return this.f('in', c, (Array.isArray(v) ? v : []).filter((x) => x !== undefined)); }
   or(filters: string) {
     this.req.or = filters;
+    return this;
+  }
+  search(query: string) {
+    this.req.search = query;
     return this;
   }
   order(column: string, options?: { ascending?: boolean }) {
