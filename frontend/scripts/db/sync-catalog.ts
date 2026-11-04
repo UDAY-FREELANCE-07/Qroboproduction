@@ -183,7 +183,7 @@ main(async (client) => {
       )
     `);
     await client.query(`
-      DELETE FROM wishlist_items WHERE product_id IN (
+      DELETE FROM wishlists WHERE product_id IN (
         SELECT id FROM products WHERE (
           EXISTS (SELECT 1 FROM unnest(images) img WHERE img LIKE '%pexels%')
           OR primary_image LIKE '%pexels%'
