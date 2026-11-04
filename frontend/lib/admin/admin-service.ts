@@ -272,9 +272,12 @@ export const adminService = {
       try {
         const updates: any = {};
         if (data.name !== undefined) updates.name = data.name;
-        if (data.price !== undefined) updates.price = data.price;
-        if (data.originalPrice !== undefined) updates.compare_at_price = data.originalPrice;
-        if (data.stock !== undefined) updates.stock = data.stock;
+        if (data.slug !== undefined) updates.slug = data.slug;
+        if (data.sku !== undefined) updates.sku = data.sku;
+        if (data.price !== undefined) updates.price = Number(data.price);
+        if (data.originalPrice !== undefined) updates.compare_at_price = Number(data.originalPrice);
+        if (data.stock !== undefined) updates.stock = Math.max(0, Math.floor(Number(data.stock) || 0));
+        if (data.lowStockThreshold !== undefined) updates.low_stock_threshold = Math.max(1, Math.floor(Number(data.lowStockThreshold) || 5));
         if (data.status !== undefined) updates.is_published = data.status === 'published';
         if (data.shortDescription !== undefined) updates.short_description = data.shortDescription;
         if (data.description !== undefined) updates.description = data.description;
@@ -283,8 +286,32 @@ export const adminService = {
         if (data.specifications !== undefined) updates.specifications = data.specifications;
         if (data.tags !== undefined) updates.tags = data.tags;
 
+        if (data.category) {
+          const catRes = await dataClient
+            .from('categories')
+            .select('id')
+            .search(data.category)
+            .limit(1)
+            .maybeSingle();
+          if (catRes.data?.id) updates.category_id = catRes.data.id;
+        }
+
+        if (data.brand) {
+          const brandRes = await dataClient
+            .from('brands')
+            .select('id')
+            .search(data.brand)
+            .limit(1)
+            .maybeSingle();
+          if (brandRes.data?.id) updates.brand_id = brandRes.data.id;
+        }
+
         if (Object.keys(updates).length > 0) {
-          await dataClient.from('products').update(updates).eq('id', id);
+          const res = await dataClient.from('products').update(updates).eq('id', id);
+          if (res.error) {
+            console.error('PostgreSQL updateProduct error:', res.error);
+            throw new Error(res.error.message || 'Failed to update product in database');
+          }
         }
       } catch (err) {
         console.warn('PostgreSQL updateProduct error:', err);
@@ -555,9 +582,14 @@ export const adminService = {
 
     if (CLIENT_DATA_SOURCE === 'postgres') {
       try {
-        await dataClient.from('products').update({ stock: newStock }).eq('id', productId);
+        const res = await dataClient.from('products').update({ stock: newStock }).eq('id', productId);
+        if (res.error) {
+          console.error('PostgreSQL adjustStock error:', res.error);
+          throw new Error(res.error.message || 'Failed to adjust stock in database');
+        }
       } catch (err) {
         console.warn('PostgreSQL adjustStock error:', err);
+        throw err;
       }
     }
 
