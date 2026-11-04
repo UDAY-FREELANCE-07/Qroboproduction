@@ -72,6 +72,8 @@ as_qrobo sh -c "cd '$REL/frontend' && npx tsx --env-file='$TMP_ENV' scripts/db/m
 if [[ "$SEED" == yes ]]; then
   as_qrobo sh -c "cd '$REL/frontend' && npx tsx --env-file='$TMP_ENV' scripts/db/seed.ts"
 fi
+log "Catalog sync (update categories, products & stock)"
+as_qrobo sh -c "cd '$REL/frontend' && npx tsx --env-file='$TMP_ENV' scripts/db/sync-catalog.ts"
 as_qrobo sh -c "cd '$REL/frontend' && npx tsx --env-file='$TMP_ENV' scripts/db/status.ts"
 
 log "Switch and restart"
