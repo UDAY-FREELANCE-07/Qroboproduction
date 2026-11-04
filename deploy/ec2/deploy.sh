@@ -55,7 +55,7 @@ if [[ ! -f "$REL/frontend/.next/BUILD_ID" ]]; then
   as_qrobo sh -c "git -C '$ROOT/repo' archive HEAD | tar -x -C '$REL'"
   as_qrobo sh -c "cd '$REL/frontend' && npm ci --no-audit --no-fund"
   # DATA_SOURCE is baked into the browser bundle at build time.
-  as_qrobo sh -c "cd '$REL/frontend' && DATA_SOURCE=postgres NEXT_TELEMETRY_DISABLED=1 npm run build"
+  as_qrobo sh -c "cd '$REL/frontend' && NODE_OPTIONS='--max-old-space-size=1536' DATA_SOURCE=postgres NEXT_TELEMETRY_DISABLED=1 npm run build"
 else
   echo "release $SHA already built"
 fi

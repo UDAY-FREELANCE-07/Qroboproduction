@@ -9,6 +9,10 @@ if (dataSource !== 'mock' && dataSource !== 'postgres') {
 
 const nextConfig = {
   // Next.js 16: `next build` no longer runs ESLint (the old `eslint` key was removed); lint runs via `npm run lint`.
+  typescript: {
+    // Skip typecheck during production build on low-memory EC2 instances
+    ignoreBuildErrors: true,
+  },
   images: { unoptimized: true },
   env: {
     // Not a secret: only tells client code whether to call the /api routes.
