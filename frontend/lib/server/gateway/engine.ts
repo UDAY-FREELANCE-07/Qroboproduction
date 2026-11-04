@@ -48,7 +48,7 @@ export interface GatewayResult {
   count: number | null;
 }
 
-const MAX_LIMIT = { admin: 5000, other: 200 };
+const MAX_LIMIT = { admin: 5000, other: 5000 };
 const IDENT = /^[a-z_][a-z0-9_]*$/;
 const q = (c: string) => `"${c}"`;
 

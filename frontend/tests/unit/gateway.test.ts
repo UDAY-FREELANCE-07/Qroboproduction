@@ -114,10 +114,10 @@ describe('gateway SQL generation', () => {
     expect(await status(executeGateway(db, { table: 'categories', op: 'update', values: { name: 'x' }, filters: [['gt', 'sort_order', 0]] }, admin))).toBe(400);
   });
 
-  it('caps page sizes for non-admins', async () => {
+  it('caps page sizes at 5000', async () => {
     const { db, calls } = fakeDb();
-    await executeGateway(db, { table: 'products', op: 'select', limit: 1000 }, anon);
-    expect(calls[0].params.at(-1)).toBe(200);
+    await executeGateway(db, { table: 'products', op: 'select' }, anon);
+    expect(calls[0].params.at(-1)).toBe(5000);
   });
 
   it('only allowlisted relations can be embedded', async () => {

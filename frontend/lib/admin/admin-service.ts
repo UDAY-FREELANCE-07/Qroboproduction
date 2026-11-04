@@ -175,7 +175,7 @@ export const adminService = {
     if (CLIENT_DATA_SOURCE === 'postgres') {
       try {
         const [prodRes, catRes, brandRes] = await Promise.all([
-          dataClient.from('products').select('*').limit(2000),
+          dataClient.from('products').select('*').limit(5000),
           dataClient.from('categories').select('id, name, slug').limit(500),
           dataClient.from('brands').select('id, name, slug').limit(500),
         ]);
