@@ -36,23 +36,35 @@ export default function AdminAnalyticsPage() {
   const [analytics, setAnalytics] = useState<any>(null);
   const [products, setProducts] = useState<any[]>([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
 
   const loadData = async () => {
     setIsLoading(true);
-    const [a, p] = await Promise.all([
-      adminService.getAnalytics(period),
-      adminService.getProducts(),
-    ]);
-    setAnalytics(a);
-    setProducts(p.slice(0, 5));
-    setIsLoading(false);
+    try {
+      const [a, p] = await Promise.all([
+        adminService.getAnalytics(period),
+        adminService.getProducts(),
+      ]);
+      setAnalytics(a || {});
+      setProducts(Array.isArray(p) ? p.slice(0, 5) : []);
+    } catch (err) {
+      console.error('Failed to load analytics data:', err);
+      setAnalytics({});
+      setProducts([]);
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   useEffect(() => {
     loadData();
   }, [period]);
 
-  if (isLoading || !analytics) {
+  if (!mounted || isLoading || !analytics) {
     return (
       <div className="space-y-6 animate-pulse">
         <div className="h-8 w-48 bg-slate-200 rounded" />
@@ -299,7 +311,7 @@ export default function AdminAnalyticsPage() {
                       <td className="py-2.5 px-3">
                         <div className="flex items-center gap-2.5">
                           <img
-                            src={p.primaryImage}
+                            src={p.primaryImage || '/images/placeholder.png'}
                             alt=""
                             className="h-8 w-8 rounded object-cover border border-slate-200"
                           />

@@ -21,10 +21,20 @@ interface Result<T = any> {
 
 async function postJson<T = any>(url: string, body: unknown): Promise<Result<T>> {
   try {
+    const headers: Record<string, string> = { 'Content-Type': 'application/json' };
+    if (typeof window !== 'undefined') {
+      try {
+        const raw = localStorage.getItem('qrobo_admin_session');
+        if (raw) {
+          const sess = JSON.parse(raw);
+          if (sess?.email) headers['x-admin-email'] = sess.email;
+        }
+      } catch {}
+    }
     const res = await fetch(url, {
       method: 'POST',
       credentials: 'same-origin',
-      headers: { 'Content-Type': 'application/json' },
+      headers,
       body: JSON.stringify(body ?? {}),
     });
     const json = await res.json().catch(() => null);

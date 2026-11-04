@@ -7,10 +7,11 @@
  * Updates:
  *   1. All categories upserted from pdfCategories
  *   2. Removed categories (e.g. diy-and-educational-project-kits) removed from DB
- *   3. All products upserted with current photos, tags, specs, and stock = 0
+ *   3. All products upserted with current photos, tags, specs; preserves admin-updated stock
  *   4. Pruned unlisted items removed from DB
  *   5. Removes all old demo seed products with yellow/pexels photos
  *   6. Updates daily deals, bestsellers, featured products & banners with clean photos
+ *   7. Ensures Super Admin chirrauday02@gmail.com is present in users & profiles
  */
 import { pdfCategories, pdfProducts } from '../../lib/pdf-catalog-data';
 import { main } from './_client';
@@ -21,7 +22,27 @@ main(async (client) => {
   await client.query('BEGIN');
 
   try {
-    // 1. Ensure default brand exists for products
+    // 1. Ensure Super Admin account exists
+    await client.query(`
+      INSERT INTO users (id, email, password_hash, created_at, updated_at)
+      VALUES (
+        '00000000-0000-0000-0000-000000000001',
+        'chirrauday02@gmail.com',
+        '$2b$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
+        now(),
+        now()
+      )
+      ON CONFLICT (email) DO NOTHING
+    `);
+    await client.query(`
+      INSERT INTO profiles (id, full_name, role, phone, created_at, updated_at)
+      SELECT id, 'Chirra Uday', 'admin', '9999999999', now(), now()
+      FROM users WHERE email = 'chirrauday02@gmail.com'
+      ON CONFLICT (id) DO UPDATE SET role = 'admin'
+    `);
+    console.log('Super Admin account confirmed.');
+
+    // 2. Ensure default brand exists for products
     const brandRes = await client.query(
       `INSERT INTO brands (name, slug, description)
        VALUES ('Hi Technology', 'hi-technology', 'Hi Technology Electronics & Robotics Components')
@@ -38,16 +59,17 @@ main(async (client) => {
       brandMap.set(b.name.toLowerCase(), b.id);
     }
 
-    // 2. Remove diy-and-educational-project-kits if present
+    // 3. Remove obsolete diy-and-educational-project-kits if present
     const diyCatRes = await client.query("SELECT id FROM categories WHERE slug = 'diy-and-educational-project-kits'");
     if (diyCatRes.rows.length > 0) {
       const diyId = diyCatRes.rows[0].id;
+      await client.query('DELETE FROM deals WHERE product_id IN (SELECT id FROM products WHERE category_id = $1)', [diyId]);
       await client.query('DELETE FROM products WHERE category_id = $1', [diyId]);
       await client.query('DELETE FROM categories WHERE id = $1', [diyId]);
       console.log('Removed diy-and-educational-project-kits and its products from database.');
     }
 
-    // 3. Upsert categories
+    // 4. Upsert categories
     const catIdMap = new Map<string, string>();
     for (const cat of pdfCategories) {
       const res = await client.query(
@@ -68,7 +90,7 @@ main(async (client) => {
     }
     console.log(`Synchronized ${pdfCategories.length} categories.`);
 
-    // 4. Upsert products
+    // 5. Upsert products (Stock is preserved if already updated by admin)
     let upsertedCount = 0;
     const validSkus = new Set<string>();
 
@@ -115,7 +137,7 @@ main(async (client) => {
                whats_included = EXCLUDED.whats_included,
                compatibility = EXCLUDED.compatibility,
                tags = EXCLUDED.tags,
-               stock = EXCLUDED.stock,
+               stock = COALESCE(products.stock, EXCLUDED.stock),
                is_published = EXCLUDED.is_published,
                updated_at = now()`,
         [
@@ -134,9 +156,9 @@ main(async (client) => {
           p.features || [],
           p.whats_included || [],
           p.compatibility || [],
-          p.tags || ['out-of-stock'],
-          0, // stock = 0 (all out of stock)
-          0, // reserved_stock = 0
+          p.tags || [],
+          0, // initial stock for new products
+          0,
           p.low_stock_threshold || 5,
           p.is_featured || false,
           p.is_bestseller || false,
@@ -148,9 +170,27 @@ main(async (client) => {
       );
       upsertedCount++;
     }
-    console.log(`Upserted ${upsertedCount} products with current photos, tags, specs and out-of-stock.`);
+    console.log(`Upserted ${upsertedCount} products with current photos, tags, specs (preserved existing refilled stock).`);
 
-    // 5. Delete any dummy products containing pexels images from previous seed data
+    // 6. Clean removal of old seed products with yellow/pexels photos
+    await client.query('DELETE FROM deals');
+    await client.query(`
+      DELETE FROM cart_items WHERE product_id IN (
+        SELECT id FROM products WHERE (
+          EXISTS (SELECT 1 FROM unnest(images) img WHERE img LIKE '%pexels%')
+          OR primary_image LIKE '%pexels%'
+        )
+      )
+    `);
+    await client.query(`
+      DELETE FROM wishlist_items WHERE product_id IN (
+        SELECT id FROM products WHERE (
+          EXISTS (SELECT 1 FROM unnest(images) img WHERE img LIKE '%pexels%')
+          OR primary_image LIKE '%pexels%'
+        )
+      )
+    `);
+
     const delPexRes = await client.query(`
       DELETE FROM products 
       WHERE (
@@ -159,9 +199,18 @@ main(async (client) => {
       )
       AND id NOT IN (SELECT product_id FROM order_items WHERE product_id IS NOT NULL)
     `);
-    console.log(`Deleted ${delPexRes.rowCount || 0} products with yellow/pexels dummy images.`);
+    console.log(`Deleted ${delPexRes.rowCount || 0} dummy products with yellow/pexels photos.`);
 
-    // 6. Prune items in synced categories that are not in validSkus (excluding orders-linked products)
+    // If any old pexels product couldn't be deleted due to orders, replace its images with clean assets
+    await client.query(`
+      UPDATE products 
+      SET primary_image = '/images/products/development-boards-and-shields/arduino-uno-r3.png',
+          images = ARRAY['/images/products/development-boards-and-shields/arduino-uno-r3.png']
+      WHERE primary_image LIKE '%pexels%'
+         OR EXISTS (SELECT 1 FROM unnest(images) img WHERE img LIKE '%pexels%')
+    `);
+
+    // 7. Prune items in synced categories that are not in validSkus (excluding orders-linked products)
     const syncedCatIds = Array.from(catIdMap.values());
     const pruneRes = await client.query(
       `DELETE FROM products
@@ -172,7 +221,7 @@ main(async (client) => {
     );
     console.log(`Pruned ${pruneRes.rowCount || 0} unlisted/balance products from synced categories.`);
 
-    // 7. Prune obsolete categories that have no products
+    // 8. Prune obsolete categories that have no products
     const delCatRes = await client.query(
       `DELETE FROM categories 
        WHERE slug != ALL($1)
@@ -181,8 +230,7 @@ main(async (client) => {
     );
     console.log(`Pruned ${delCatRes.rowCount || 0} obsolete categories.`);
 
-    // 8. Rebuild active Daily Deals with real hardware components (clean white background photos)
-    await client.query('DELETE FROM deals');
+    // 9. Rebuild active Daily Deals with real hardware components (clean white background photos)
     const dealItems = [
       { slug: 'arduino-uno-r3', discount: 20, sale: 1200, orig: 1500, title: 'Arduino Uno R3 Deal', desc: '20% off Arduino Uno R3 development board' },
       { slug: '2wd-robot-car-chassis-kit', discount: 20, sale: 1200, orig: 1500, title: '2WD Robot Car Kit Sale', desc: '20% off complete 2WD robot chassis kit' },
@@ -205,7 +253,7 @@ main(async (client) => {
     }
     console.log('Synchronized deals with clean hardware products.');
 
-    // 9. Update Bestsellers, Featured, and New Arrivals with real hardware products
+    // 10. Update Bestsellers, Featured, and New Arrivals with real hardware products
     await client.query('UPDATE products SET is_bestseller = false, is_featured = false, is_new_arrival = false');
 
     const bestSellerSlugs = [
@@ -249,7 +297,7 @@ main(async (client) => {
     await client.query('UPDATE products SET is_new_arrival = true WHERE slug = ANY($1)', [newArrivalSlugs]);
     console.log('Set bestsellers, featured and new arrivals with clean component photos.');
 
-    // 10. Update promo cards and banners with clean photos
+    // 11. Update promo cards and banners with clean photos
     await client.query(`
       UPDATE promo_cards SET 
         image_url = '/images/products/development-boards-and-shields/arduino-uno-r3.png'
