@@ -128,7 +128,7 @@ export default function HomePage() {
             {/* Hardware cutout image on the right */}
             <div className="absolute -right-3 -bottom-3 w-40 sm:w-44 h-36 sm:h-40 rounded-2xl overflow-hidden shadow-lg border-2 border-white/90 transform rotate-[-4deg] group-hover:rotate-0 group-hover:scale-105 transition-all duration-500 select-none">
               <img
-                src="https://images.pexels.com/photos/35673120/pexels-photo-35673120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                src="/images/products/development-boards-and-shields/arduino-uno-r3.png"
                 alt="Microcontrollers & Arduino Deals"
                 className="w-full h-full object-cover"
                 loading="lazy"
@@ -178,7 +178,7 @@ export default function HomePage() {
             {/* Hardware cutout image on the right */}
             <div className="absolute -right-3 -bottom-3 w-40 sm:w-44 h-36 sm:h-40 rounded-2xl overflow-hidden shadow-lg border-2 border-white/20 transform rotate-[4deg] group-hover:rotate-0 group-hover:scale-105 transition-all duration-500 select-none">
               <img
-                src="https://images.pexels.com/photos/8438967/pexels-photo-8438967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                src="/images/products/robot-chassis-and-platform-kits/2wd-robot-car-chassis-kit.png"
                 alt="Robotics & DIY Kits"
                 className="w-full h-full object-cover"
                 loading="lazy"
@@ -228,7 +228,7 @@ export default function HomePage() {
             {/* Hardware cutout image on the right */}
             <div className="absolute -right-3 -bottom-3 w-40 sm:w-44 h-36 sm:h-40 rounded-2xl overflow-hidden shadow-lg border-2 border-cyan-500/30 transform rotate-[-3deg] group-hover:rotate-0 group-hover:scale-105 transition-all duration-500 select-none">
               <img
-                src="https://images.pexels.com/photos/33977799/pexels-photo-33977799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                src="/images/products/development-boards-and-shields/esp32-cam.png"
                 alt="Power Modules"
                 className="w-full h-full object-cover"
                 loading="lazy"

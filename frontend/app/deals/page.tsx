@@ -154,7 +154,7 @@ export default function DealsPage() {
           {/* Angled Hardware Photo */}
           <div className="absolute -right-3 -bottom-3 w-36 sm:w-40 h-32 sm:h-36 rounded-2xl overflow-hidden shadow-lg border-2 border-white/90 transform rotate-[-4deg] group-hover:rotate-0 group-hover:scale-105 transition-all duration-500 select-none">
             <img
-              src="https://images.pexels.com/photos/35673120/pexels-photo-35673120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+              src="/images/products/development-boards-and-shields/arduino-uno-r3.png"
               alt="Maker Essentials"
               className="w-full h-full object-cover"
               loading="lazy"
@@ -180,7 +180,7 @@ export default function DealsPage() {
 
         {/* Card 2: Robotics & Hardware Exclusives (Deep Blue) */}
         <Link
-          href="/shop?category=robotics"
+          href="/shop?category=robot-chassis-and-platform-kits"
           className="group relative min-h-[170px] overflow-hidden rounded-2xl bg-gradient-to-br from-blue-700 via-blue-600 to-indigo-800 p-5 sm:p-6 text-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-xl flex flex-col justify-between"
         >
           <div className="absolute inset-0 campaign-grid opacity-20 pointer-events-none" />
@@ -188,7 +188,7 @@ export default function DealsPage() {
           {/* Angled Hardware Photo */}
           <div className="absolute -right-3 -bottom-3 w-36 sm:w-40 h-32 sm:h-36 rounded-2xl overflow-hidden shadow-lg border-2 border-white/20 transform rotate-[4deg] group-hover:rotate-0 group-hover:scale-105 transition-all duration-500 select-none">
             <img
-              src="https://images.pexels.com/photos/8438967/pexels-photo-8438967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+              src="/images/products/robot-chassis-and-platform-kits/2wd-robot-car-chassis-kit.png"
               alt="Robotics Exclusives"
               className="w-full h-full object-cover"
               loading="lazy"
