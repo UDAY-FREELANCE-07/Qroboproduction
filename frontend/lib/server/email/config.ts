@@ -41,9 +41,8 @@ export function loadEmailConfig(env: Env = process.env): EmailConfig {
     throw new ConfigError('APP_URL must use https:// in production.');
   }
 
-  if (provider === 'log') return { provider, from: env.EMAIL_FROM?.trim() || 'Qrobo <no-reply@localhost>', appUrl };
-
-  const from = required(env, 'EMAIL_FROM');
+  const from = env.EMAIL_FROM?.trim() || 'Qrobo Support <support@qrobo.in>';
+  if (provider === 'log') return { provider, from, appUrl };
   if (provider === 'resend') return { provider, from, appUrl, resendApiKey: required(env, 'RESEND_API_KEY') };
 
   const port = Number(env.SMTP_PORT || 587);
