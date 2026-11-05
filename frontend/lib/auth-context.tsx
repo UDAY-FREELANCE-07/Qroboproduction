@@ -9,7 +9,7 @@ interface AuthContextType {
   profile: { id: string; full_name: string | null; role: string; phone: string | null } | null;
   isLoading: boolean;
   signIn: (email: string, password: string) => Promise<{ error: string | null }>;
-  signUp: (email: string, password: string, fullName: string) => Promise<{ error: string | null }>;
+  signUp: (email: string, password: string, fullName: string, phone?: string) => Promise<{ error: string | null }>;
   signOut: () => Promise<void>;
   refreshProfile: () => Promise<void>;
 }
@@ -108,11 +108,11 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     return { error: res.error?.message ?? null };
   };
 
-  const signUp = async (email: string, password: string, fullName: string) => {
+  const signUp = async (email: string, password: string, fullName: string, phone?: string) => {
     const res = await dataClient.auth.signUp({
       email,
       password,
-      options: { data: { full_name: fullName } },
+      options: { data: { full_name: fullName, phone: phone || '' } },
     });
     if (res.error && (res.error.message?.includes('demo site') || res.error.message?.includes('disabled'))) {
       const mockCustomer: User = {

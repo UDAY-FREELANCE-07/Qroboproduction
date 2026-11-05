@@ -527,3 +527,60 @@ export function testEmail(appUrl: string): RenderedEmail {
     text: `This is a test message from the Qrobo admin dashboard. ${appUrl}\n`,
   };
 }
+
+
+export interface ContactInquiryInput {
+  name: string;
+  email: string;
+  phone?: string | null;
+  subject: string;
+  message: string;
+}
+
+export function contactInquiryAdmin(input: ContactInquiryInput, appUrl: string): RenderedEmail {
+  const phoneHtml = input.phone
+    ? '<strong>Phone / WhatsApp:</strong> <a href="tel:' + escapeHtml(input.phone) + '" style="color:' + BLUE + '">' + escapeHtml(input.phone) + '</a><br>'
+    : '';
+
+  return {
+    template: 'contact_inquiry_admin',
+    subject: 'New Contact Inquiry from ' + input.name + ': ' + input.subject,
+    html: layout({
+      appUrl,
+      preheader: 'Customer message from ' + input.name + ' (' + input.email + ')',
+      title: 'New Customer Inquiry',
+      body:
+        p('You received a new inquiry through the Qrobo website "Get in Touch" form:') +
+        box(
+          '<strong>From:</strong> ' + escapeHtml(input.name) + '<br>' +
+          '<strong>Email:</strong> <a href="mailto:' + escapeHtml(input.email) + '" style="color:' + BLUE + '">' + escapeHtml(input.email) + '</a><br>' +
+          phoneHtml +
+          '<strong>Subject:</strong> ' + escapeHtml(input.subject) + '<br><br>' +
+          '<strong>Message:</strong><br>' +
+          '<div style="background:#ffffff;padding:12px;border-radius:6px;border:1px solid ' + BORDER + ';white-space:pre-wrap;margin-top:6px">' + escapeHtml(input.message) + '</div>'
+        ) +
+        p('Reply directly to the customer at <a href="mailto:' + escapeHtml(input.email) + '">' + escapeHtml(input.email) + '</a>.'),
+      footerNote: 'This notification was delivered to Qrobo administrators.',
+    }),
+    text: 'New Customer Inquiry\nFrom: ' + input.name + ' <' + input.email + '>\nPhone: ' + (input.phone || 'N/A') + '\nSubject: ' + input.subject + '\n\nMessage:\n' + input.message + '\n',
+  };
+}
+
+export function contactInquiryAcknowledgment(name: string, appUrl: string): RenderedEmail {
+  return {
+    template: 'contact_inquiry_ack',
+    subject: 'We received your message — Qrobo Support',
+    html: layout({
+      appUrl,
+      preheader: 'Thank you for reaching out to Qrobo. Our team will get back to you shortly.',
+      title: 'Thanks for reaching out!',
+      body:
+        hi(name) +
+        p('Thank you for getting in touch with Qrobo. We have received your message and our engineering team is reviewing it.') +
+        p('We typically respond within 2 to 4 business hours. If your inquiry is regarding an urgent project component or order, you can also reach us on WhatsApp or call at <strong>+91 98765 43210</strong>.'),
+      cta: { label: 'Explore Hardware Catalog', url: appUrl + '/shop' },
+      footerNote: 'You received this confirmation because you submitted a contact inquiry on Qrobo.',
+    }),
+    text: 'Hi ' + name + ',\n\nThank you for reaching out to Qrobo. We received your message and will reply shortly.\n\nExplore Qrobo: ' + appUrl + '/shop\n',
+  };
+}

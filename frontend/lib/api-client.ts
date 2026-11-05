@@ -182,9 +182,13 @@ const auth = {
     if (!r.error && r.data?.user) emit('SIGNED_IN', { user: r.data.user });
     return { data: r.data, error: r.error };
   },
-  async signUp({ email, password, options }: { email: string; password: string; options?: { data?: { full_name?: string } } }) {
-    // Only email, password and display name are sent; the server always assigns role "customer".
-    const r = await postJson('/api/auth/register', { email, password, full_name: options?.data?.full_name ?? '' });
+  async signUp({ email, password, options }: { email: string; password: string; options?: { data?: { full_name?: string; phone?: string } } }) {
+    const r = await postJson('/api/auth/register', {
+      email,
+      password,
+      full_name: options?.data?.full_name ?? '',
+      phone: options?.data?.phone ?? '',
+    });
     if (!r.error && r.data?.user) emit('SIGNED_IN', { user: r.data.user });
     return { data: r.data, error: r.error };
   },

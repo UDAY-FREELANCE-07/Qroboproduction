@@ -15,6 +15,7 @@ const Body = z.object({
   email: z.string().trim().toLowerCase().email().max(254),
   password: z.string().max(1024),
   full_name: z.string().trim().max(120).optional().default(''),
+  phone: z.string().trim().max(30).optional().default(''),
 });
 
 export const POST = handler(async (req: Request) => {
@@ -37,7 +38,7 @@ export const POST = handler(async (req: Request) => {
     const id = inserted.rows[0].id;
     // Role is hard-coded: registration can never create an administrator. Bootstrap admins
     // (ADMIN_EMAILS) are promoted only after proving they own the inbox (/api/auth/verify-email).
-    await db.query(`INSERT INTO profiles (id, full_name, role) VALUES ($1, $2, 'customer')`, [id, body.full_name || null]);
+    await db.query(`INSERT INTO profiles (id, full_name, phone, role) VALUES ($1, $2, $3, 'customer')`, [id, body.full_name || null, body.phone || null]);
     const verifyToken = await createEmailToken(db, id, 'verify_email');
     await enqueueEmail(db, body.email, templates.verifyEmail(body.full_name || null, `${baseUrl}/verify-email?token=${encodeURIComponent(verifyToken)}`));
     const token = await createSession(db, id);
@@ -51,7 +52,7 @@ export const POST = handler(async (req: Request) => {
   kickOutbox();
 
   const res = ok(
-    publicUser({ id: result.id, email: body.email, role: 'customer', full_name: body.full_name || null, phone: null, email_verified: false }),
+    publicUser({ id: result.id, email: body.email, role: 'customer', full_name: body.full_name || null, phone: body.phone || null, email_verified: false }),
     { status: 201 },
   );
   setSessionCookie(res, result.token);

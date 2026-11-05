@@ -7,6 +7,7 @@ import { dataClient } from '@/lib/data-client';
 import type { Database } from '@/lib/data-client';
 import { ProductCard } from '@/components/product/product-card';
 import { NewsletterForm } from '@/components/home/newsletter-form';
+import { GetInTouchSection } from '@/components/home/get-in-touch';
 import { Button } from '@/components/ui/button';
 import { formatPrice, timeLeftUntil } from '@/lib/format';
 import { cn } from '@/lib/utils';
@@ -432,6 +433,9 @@ export default function HomePage() {
           ))}
         </div>
       </Section>
+
+      {/* Get in Touch */}
+      <GetInTouchSection />
 
       {/* Newsletter */}
       <section id="newsletter" className="w-full px-4 sm:px-8 lg:px-16 xl:px-24 py-12">
