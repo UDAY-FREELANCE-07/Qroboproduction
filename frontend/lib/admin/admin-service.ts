@@ -105,10 +105,10 @@ function mapDbProductToAdmin(p: any, catMap: Map<string, string>, brandMap: Map<
 }
 
 // In-memory / localStorage stores
-let products = getStorage<AdminProduct[]>('admin_products_v38', initialProducts);
+let products = getStorage<AdminProduct[]>('admin_products_v39', initialProducts);
 if (!products || products.length < initialProducts.length) {
   products = initialProducts;
-  setStorage('admin_products_v38', products);
+  setStorage('admin_products_v39', products);
 }
 let categories = getStorage<AdminCategory[]>('admin_categories_v37', initialCategories);
 let brands = getStorage<AdminBrand[]>('admin_brands', initialBrands);
@@ -197,19 +197,19 @@ export const adminService = {
 
           const dbProducts = prodRes.data.map((p: any) => mapDbProductToAdmin(p, catMap, brandMap));
           products = dbProducts;
-          setStorage('admin_products_v38', dbProducts);
+          setStorage('admin_products_v39', dbProducts);
           return dbProducts;
         }
       } catch (err) {
         console.warn('PostgreSQL getProducts error:', err);
       }
     }
-    const stored = getStorage<AdminProduct[]>('admin_products_v38', initialProducts);
+    const stored = getStorage<AdminProduct[]>('admin_products_v39', initialProducts);
     if (stored && stored.length >= initialProducts.length) {
       products = stored;
     } else {
       products = initialProducts;
-      setStorage('admin_products_v38', products);
+      setStorage('admin_products_v39', products);
     }
     return [...products];
   },
@@ -283,7 +283,7 @@ export const adminService = {
       updatedAt: new Date().toISOString(),
     };
     products = [newProduct, ...products];
-    setStorage('admin_products_v38', products);
+    setStorage('admin_products_v39', products);
     return newProduct;
   },
 
@@ -347,7 +347,7 @@ export const adminService = {
         ? { ...p, ...data, updatedAt: new Date().toISOString() }
         : p
     );
-    setStorage('admin_products_v38', products);
+    setStorage('admin_products_v39', products);
     return products.find((p) => p.id === id || p.slug === data.slug || p.sku === data.sku) || null;
   },
 
@@ -368,7 +368,7 @@ export const adminService = {
       }
     }
     products = products.filter((p) => p.id !== id);
-    setStorage('admin_products_v38', products);
+    setStorage('admin_products_v39', products);
     return true;
   },
 
@@ -631,7 +631,7 @@ export const adminService = {
     product.stock = newStock;
     product.updatedAt = new Date().toISOString();
     products = products.map((p) => (p.id === productId ? { ...p, stock: newStock } : p));
-    setStorage('admin_products_v37', products);
+    setStorage('admin_products_v39', products);
 
     const log: InventoryAdjustment = {
       id: `adj-${Date.now()}`,

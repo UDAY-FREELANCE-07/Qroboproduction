@@ -8119,9 +8119,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "IC ULN2003 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC ULN2003 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8172,9 +8172,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "IC ULN2803 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC ULN2803 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/cmos-ics-cd4000/ic-cd4017.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/cmos-ics-cd4000/ic-cd4017.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8226,9 +8226,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "IC L293D - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC L293D selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8279,9 +8279,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "IC L298N - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC L298N selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8333,9 +8333,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "IC SN754410 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC SN754410 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8387,9 +8387,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "IC TB6612FNG - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC TB6612FNG selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/ams1117-33v-ldo-regulator-ic.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/ams1117-33v-ldo-regulator-ic.jpg"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8441,9 +8441,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "IC A4988 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC A4988 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/motors-actuators-and-sound/nema17-stepper.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/motors-actuators-and-sound/nema17-stepper.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8494,9 +8494,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "IC DRV8825 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC DRV8825 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/motors-actuators-and-sound/nema17-stepper.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/motors-actuators-and-sound/nema17-stepper.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8547,9 +8547,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "IC DRV8833 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC DRV8833 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/motors-actuators-and-sound/bo-motor.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/motors-actuators-and-sound/bo-motor.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8601,9 +8601,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "IC TMC2209 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC TMC2209 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/motors-actuators-and-sound/nema17-stepper.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/motors-actuators-and-sound/nema17-stepper.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8655,9 +8655,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "IC MAX232 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC MAX232 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/communication-modules/cp2102-usb-serial.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/communication-modules/cp2102-usb-serial.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8708,9 +8708,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "IC MAX485 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC MAX485 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8761,9 +8761,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "IC MAX7219 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC MAX7219 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/displays/max7219-8x8-led-matrix.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/displays/max7219-8x8-led-matrix.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8814,9 +8814,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "IC MAX6675 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC MAX6675 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/sensors-temperature-humidity-and-pressure/k-type-thermocouple-with-max6675.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/sensors-temperature-humidity-and-pressure/k-type-thermocouple-with-max6675.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8868,9 +8868,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "IC ADS1115 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC ADS1115 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/ads1115-16-bit-adc-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/ads1115-16-bit-adc-module.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8922,9 +8922,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "IC ADC0804 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC ADC0804 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/cmos-ics-cd4000/ic-cd4017.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/cmos-ics-cd4000/ic-cd4017.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -8976,9 +8976,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "IC ADC0808 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC ADC0808 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/cmos-ics-cd4000/ic-cd4017.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/cmos-ics-cd4000/ic-cd4017.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9030,9 +9030,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "IC MCP3008 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC MCP3008 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9084,9 +9084,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "IC MCP4725 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC MCP4725 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/logic-level-converter-4-channel-bidirectional.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/logic-level-converter-4-channel-bidirectional.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9138,9 +9138,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "IC DS1307 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC DS1307 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9191,9 +9191,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "IC DS3231 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC DS3231 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/iot-sensors-and-interface-modules/ds3231-rtc-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/iot-sensors-and-interface-modules/ds3231-rtc-module.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9244,9 +9244,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "IC PCF8574 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC PCF8574 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/displays/i2c-backpack-for-lcd.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/displays/i2c-backpack-for-lcd.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9298,9 +9298,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "IC PCF8591 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC PCF8591 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/specialty-and-interface-ics/l293d-motor-driver-ic-bare-dip-16.jpg"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9352,9 +9352,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "IC AT24C02 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC AT24C02 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9406,9 +9406,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "IC 24LC256 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC 24LC256 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9460,9 +9460,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "IC ICL7660 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC ICL7660 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9514,9 +9514,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "IC ICL7107 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC ICL7107 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/microcontroller-chips/pic16f877a.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/microcontroller-chips/pic16f877a.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9568,9 +9568,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "IC MC34063 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC MC34063 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/op-amps-comparators-timers-and-audio-amplifiers/timer-pwm-driver-ic-ne555.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9621,9 +9621,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "IC LM2576 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC LM2576 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/voltage-regulators/lm317t-adjustable-voltage-regulator.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/voltage-regulators/lm317t-adjustable-voltage-regulator.jpg"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9675,9 +9675,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "IC LM2596 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC LM2596 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/voltage-regulators/lm317t-adjustable-voltage-regulator.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/voltage-regulators/lm317t-adjustable-voltage-regulator.jpg"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9729,9 +9729,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "IC HT12E - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC HT12E selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/communication-modules/433mhz-tx-rx-pair.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/communication-modules/433mhz-tx-rx-pair.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9782,9 +9782,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "IC HT12D - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC HT12D selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/communication-modules/433mhz-tx-rx-pair.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/communication-modules/433mhz-tx-rx-pair.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9835,9 +9835,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "IC PT2262 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC PT2262 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/communication-modules/433mhz-4-channel-remote.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/communication-modules/433mhz-4-channel-remote.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9889,9 +9889,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "IC PT2272 - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade IC PT2272 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/communication-modules/433-mhz-receiver-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/communication-modules/433-mhz-receiver-module.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9943,9 +9943,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "L298N Motor Driver Module - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade L298N Motor Driver Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/motors-actuators-and-sound/28byj-48-stepper-with-uln2003.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/motors-actuators-and-sound/28byj-48-stepper-with-uln2003.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -9996,9 +9996,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "BTS7960B Motor Driver - Motor Drivers and Special-Purpose ICs",
     "description": "High-grade BTS7960B Motor Driver selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/motors-actuators-and-sound/esc-30a.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/motors-actuators-and-sound/esc-30a.png"
     ],
     "specifications": {
       "Category": "Motor Drivers and Special-Purpose ICs",
@@ -23422,9 +23422,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Robot chassis with wheels - Mechanical Parts",
     "description": "High-grade Robot chassis with wheels selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/4wd-robot-car-chassis-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/4wd-robot-car-chassis-kit.png"
     ],
     "specifications": {
       "Category": "Mechanical Parts",
@@ -23476,9 +23476,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Chassis / frame - Mechanical Parts",
     "description": "High-grade Chassis / frame selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/2wd-robot-car-chassis-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/2wd-robot-car-chassis-kit.png"
     ],
     "specifications": {
       "Category": "Mechanical Parts",
@@ -23530,9 +23530,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "Motor mounts, brackets and axles - Mechanical Parts",
     "description": "High-grade Motor mounts, brackets and axles selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/motors-actuators-and-sound/mg996-servo-pantilt.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80"
+      "/images/products/motors-actuators-and-sound/mg996-servo-pantilt.png"
     ],
     "specifications": {
       "Category": "Mechanical Parts",
@@ -23584,9 +23584,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "Payload compartment (box / tray) - Mechanical Parts",
     "description": "High-grade Payload compartment (box / tray) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/enclosures-and-project-boxes/plastic-project-box-large-150x100x50mm.png",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/plastic-project-box-large-150x100x50mm.png"
     ],
     "specifications": {
       "Category": "Mechanical Parts",
@@ -23638,9 +23638,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "Suspension / ground clearance - Mechanical Parts",
     "description": "High-grade Suspension / ground clearance selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/caster-wheel-ball-wheel-for-robots.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/caster-wheel-ball-wheel-for-robots.png"
     ],
     "specifications": {
       "Category": "Mechanical Parts",
@@ -23692,9 +23692,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "Protective enclosure for electronics - Mechanical Parts",
     "description": "High-grade Protective enclosure for electronics selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/enclosures-and-project-boxes/arduino-uno-enclosure-case.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/arduino-uno-enclosure-case.jpg"
     ],
     "specifications": {
       "Category": "Mechanical Parts",
@@ -23746,9 +23746,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Gd-118 Pro Drone (WiFi FPV, 4K HD Camera) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Gd-118 Pro Drone (WiFi FPV, 4K HD Camera) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=600&q=80"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -23800,9 +23800,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "U8 Drone (3-Axis Gimbal, GPS, Brushless, 8K) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade U8 Drone (3-Axis Gimbal, GPS, Brushless, 8K) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=600&q=80"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -23854,9 +23854,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "E99 PRO Drone (WiFi FPV, 4K, Foldable) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade E99 PRO Drone (WiFi FPV, 4K, Foldable) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=600&q=80"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -23908,9 +23908,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "BEAST 3E SG906 MAX2 Drone (4K, 3-Axis Gimbal, GPS) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade BEAST 3E SG906 MAX2 Drone (4K, 3-Axis Gimbal, GPS) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=600&q=80"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -23963,9 +23963,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "3D Printer (FDM) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade 3D Printer (FDM) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "https://images.unsplash.com/photo-1581092162384-8987c1d64718?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1581092162384-8987c1d64718?auto=format&fit=crop&w=600&q=80"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24017,9 +24017,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "3D Printer Filament 1 kg - Rapid Prototyping, Kits and Drones",
     "description": "High-grade 3D Printer Filament 1 kg selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "https://images.unsplash.com/photo-1616401784845-180882ba9ba8?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1616401784845-180882ba9ba8?auto=format&fit=crop&w=600&q=80"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24070,9 +24070,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "Robotics DIY Kit (Programmable Brain/Brick) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Robotics DIY Kit (Programmable Brain/Brick) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/obstacle-avoider-robot-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/obstacle-avoider-robot-kit.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24124,9 +24124,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "Mechanical Modular Construction Kit - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Mechanical Modular Construction Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/tank-caterpillar-chassis-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/tank-caterpillar-chassis-kit.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24178,9 +24178,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "Drone Kit (Educational) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Drone Kit (Educational) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "https://images.unsplash.com/photo-1507582020432-2a3bc4ff723c?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1507582020432-2a3bc4ff723c?auto=format&fit=crop&w=600&q=80"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24232,9 +24232,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "Aerospace Kit - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Aerospace Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/sensors-environmental-bio-gps-and-camera/neo-6m-gps.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/sensors-environmental-bio-gps-and-camera/neo-6m-gps.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24286,9 +24286,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "Automobile Kit - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Automobile Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/robot-chassis-and-platform-kits/self-balancing-robot-kit.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/robot-chassis-and-platform-kits/self-balancing-robot-kit.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24340,9 +24340,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "Bio-Medical Kit - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Bio-Medical Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/sensors-environmental-bio-gps-and-camera/ad8232-ecg-sensor.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/sensors-environmental-bio-gps-and-camera/ad8232-ecg-sensor.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24394,9 +24394,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "Agri-Tech Kit - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Agri-Tech Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/sensors-environmental-bio-gps-and-camera/soil-moisture-sensor-fc-28.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/sensors-environmental-bio-gps-and-camera/soil-moisture-sensor-fc-28.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24448,9 +24448,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "Water/Sanitation Kit - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Water/Sanitation Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/sensors-environmental-bio-gps-and-camera/yf-s201-flow-sensor.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/sensors-environmental-bio-gps-and-camera/yf-s201-flow-sensor.jpg"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24502,9 +24502,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "Bio Tech Kit - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Bio Tech Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/sensors-environmental-bio-gps-and-camera/pulse-sensor.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/sensors-environmental-bio-gps-and-camera/pulse-sensor.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24556,9 +24556,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Other Potential STEM Application Kit - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Other Potential STEM Application Kit selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/development-boards-and-shields/arduino-uno-r3.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/development-boards-and-shields/arduino-uno-r3.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24610,9 +24610,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "UPS / Power Backup (2-hour) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade UPS / Power Backup (2-hour) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/smps-12v-5a.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-12v-5a.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24664,9 +24664,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "Filament Storage Box - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Filament Storage Box selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/enclosures-and-project-boxes/aluminum-enclosure-box.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=600&q=80"
+      "/images/products/enclosures-and-project-boxes/aluminum-enclosure-box.jpg"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24718,9 +24718,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "Cardboard - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Cardboard selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/prototyping-and-wiring-supplies/veroboard-stripboard.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/veroboard-stripboard.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24772,9 +24772,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "Foam Core Board - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Foam Core Board selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/prototyping-and-wiring-supplies/dot-pcb-board-double-sided.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/prototyping-and-wiring-supplies/dot-pcb-board-double-sided.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24826,9 +24826,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "String Spool 20 m (Assorted Colours) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade String Spool 20 m (Assorted Colours) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/hookup-wire-spool-red.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/hookup-wire-spool-red.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24880,9 +24880,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "Rubber Band - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Rubber Band selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/heat-shrink-assortment.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/heat-shrink-assortment.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24934,9 +24934,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "Popsicle Stick - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Popsicle Stick selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/tweezers.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/tweezers.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -24988,9 +24988,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "Wood Glue 500 ml - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Wood Glue 500 ml selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/glue-gun.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/glue-gun.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -25042,9 +25042,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "DIY Paper Microscope - Rapid Prototyping, Kits and Drones",
     "description": "High-grade DIY Paper Microscope selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/sensors-environmental-bio-gps-and-camera/ov7670-camera.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/sensors-environmental-bio-gps-and-camera/ov7670-camera.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -25096,9 +25096,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "Telescope (Altazimuth Mount) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Telescope (Altazimuth Mount) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/sensors-environmental-bio-gps-and-camera/raspberry-pi-ir-night-vision-camera-module-500w.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/sensors-environmental-bio-gps-and-camera/raspberry-pi-ir-night-vision-camera-module-500w.jpg"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -25150,9 +25150,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "Sewing Kit (Semi-Automatic Machine) - Rapid Prototyping, Kits and Drones",
     "description": "High-grade Sewing Kit (Semi-Automatic Machine) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/tools-and-consumables/soldering-station-936.png",
     "images": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80"
+      "/images/products/tools-and-consumables/soldering-station-936.png"
     ],
     "specifications": {
       "Category": "Rapid Prototyping, Kits and Drones",
@@ -29686,9 +29686,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 8,
     "short_description": "Step-Down Transformer (230V to 12V, 1A) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Step-Down Transformer (230V to 12V, 1A) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12-0-12-1a.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12-0-12-1a.jpg"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -29741,9 +29741,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 11,
     "short_description": "Step-Down Transformer (230V to 9V, 500mA) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Step-Down Transformer (230V to 9V, 500mA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-9v.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-9v.jpg"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -29796,9 +29796,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 14,
     "short_description": "Step-Down Transformer (230V to 24V, 2A) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Step-Down Transformer (230V to 24V, 2A) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12v-05a.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/inductors-crystals-transformers-fuses-and-heatsinks/transformer-12v-05a.jpg"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -29852,9 +29852,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 17,
     "short_description": "Bridge Rectifier Module (Encapsulated) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Bridge Rectifier Module (Encapsulated) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/diodes-and-rectifiers/bridge-rectifier-2w10.png",
     "images": [
-      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"
+      "/images/products/diodes-and-rectifiers/bridge-rectifier-2w10.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -29906,9 +29906,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 20,
     "short_description": "SMPS Module (5V, 2A) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade SMPS Module (5V, 2A) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/smps-5v-3a.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-5v-3a.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -29961,9 +29961,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 23,
     "short_description": "SMPS Module (12V, 2A) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade SMPS Module (12V, 2A) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/smps-12v-2a.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-12v-2a.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -30016,9 +30016,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 26,
     "short_description": "AC-DC Converter Module (220V to 5V, Isolated) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade AC-DC Converter Module (220V to 5V, Isolated) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/smps-5v-3a.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-5v-3a.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -30070,9 +30070,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 29,
     "short_description": "Adjustable Buck Converter Module (LM2596) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Adjustable Buck Converter Module (LM2596) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/lm2596-buck-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/lm2596-buck-module.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -30123,9 +30123,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 32,
     "short_description": "Adjustable Boost Converter Module (XL6009) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Adjustable Boost Converter Module (XL6009) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/xl6009-boost-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/xl6009-boost-module.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -30176,9 +30176,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 35,
     "short_description": "Buck-Boost Converter Module, Adjustable (SEPIC) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Buck-Boost Converter Module, Adjustable (SEPIC) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/xl4015-buck-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/xl4015-buck-module.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -30230,9 +30230,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 38,
     "short_description": "Isolated DC-DC Converter Module (12V to 5V) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Isolated DC-DC Converter Module (12V to 5V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/dc-power-adapter-5v-2a.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/dc-power-adapter-5v-2a.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -30285,9 +30285,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 41,
     "short_description": "Mini AC-DC Power Supply Board (5V, 700mA) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Mini AC-DC Power Supply Board (5V, 700mA) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/smps-5v-3a.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/smps-5v-3a.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -30341,9 +30341,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 44,
     "short_description": "Battery Eliminator Circuit (BEC) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Battery Eliminator Circuit (BEC) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/motors-actuators-and-sound/esc-30a.png",
     "images": [
-      "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?auto=format&fit=crop&w=600&q=80"
+      "/images/products/motors-actuators-and-sound/esc-30a.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -30395,9 +30395,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 47,
     "short_description": "Power Bank Charging/Boost Module (5V) - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Power Bank Charging/Boost Module (5V) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/ip5306-power-bank-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/ip5306-power-bank-module.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
@@ -30450,9 +30450,9 @@ export const pdfProducts: PdfProduct[] = [
     "review_count": 5,
     "short_description": "Voltage Doubler Module - Power Supply Components (Transformers, SMPS, Converters)",
     "description": "High-grade Voltage Doubler Module selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
-    "primary_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "primary_image": "/images/products/power-modules/mt3608-boost-module.png",
     "images": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+      "/images/products/power-modules/mt3608-boost-module.png"
     ],
     "specifications": {
       "Category": "Power Supply Components (Transformers, SMPS, Converters)",
