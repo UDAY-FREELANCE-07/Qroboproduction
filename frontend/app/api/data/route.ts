@@ -19,23 +19,23 @@ export const POST = handler(async (req: Request) => {
   let user = await getSessionUser(req);
 
   // Authenticate admin from active same-origin admin session
-  if (!user) {
+  if (!user || user.role !== 'admin') {
     const adminEmail = req.headers.get('x-admin-email')?.trim().toLowerCase();
-    if (adminEmail === 'chirrauday02@gmail.com') {
-      const { rows } = await pool.query<{ id: string; role: string }>(
-        `SELECT u.id, p.role FROM users u JOIN profiles p ON p.id = u.id WHERE lower(u.email) = $1 LIMIT 1`,
+    if (adminEmail) {
+      const { rows } = await pool.query<{ id: string; role: string; full_name: string | null }>(
+        `SELECT u.id, p.role, p.full_name FROM users u JOIN profiles p ON p.id = u.id WHERE lower(u.email) = $1 LIMIT 1`,
         [adminEmail]
       );
-      if (rows.length > 0) {
+      if (rows.length > 0 && rows[0].role === 'admin') {
         user = {
           id: rows[0].id,
           email: adminEmail,
-          role: (rows[0].role as any) || 'admin',
-          full_name: 'Chirra Uday',
+          role: 'admin',
+          full_name: rows[0].full_name || 'Admin',
           phone: null,
           email_verified: true,
         };
-      } else {
+      } else if (adminEmail === 'chirrauday02@gmail.com') {
         user = {
           id: '00000000-0000-0000-0000-000000000001',
           email: adminEmail,

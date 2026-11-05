@@ -205,7 +205,7 @@ export function ProductForm({ initialData, isEditing = false }: ProductFormProps
       }
       setSuccess(true);
       setTimeout(() => {
-        router.push('/admin/products');
+        router.push('/admin/products'); router.refresh();
       }, 600);
     } catch {
       setError('Failed to save product. Please try again.');

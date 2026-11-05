@@ -118,8 +118,8 @@ export class MockQueryBuilder implements PromiseLike<{ data: any; error: null; c
   search(q: string) {
     if (q && q.trim()) {
       const tokens = q.trim().toLowerCase().split(/\s+/).filter(Boolean);
-      this.data = this.data.filter((item: any) => {
-        const str = `${item.name || ''} ${item.sku || ''} ${item.short_description || ''} ${(item.tags || []).join(' ')}`.toLowerCase();
+      this.filters.push((item: any) => {
+        const str = `${item.name || ''} ${item.sku || ''} ${item.short_description || ''} ${item.description || ''} ${typeof item.specifications === 'object' ? JSON.stringify(item.specifications) : ''} ${(item.tags || []).join(' ')}`.toLowerCase();
         return tokens.every((t) => str.includes(t));
       });
     }

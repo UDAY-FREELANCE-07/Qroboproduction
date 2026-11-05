@@ -105,7 +105,11 @@ function mapDbProductToAdmin(p: any, catMap: Map<string, string>, brandMap: Map<
 }
 
 // In-memory / localStorage stores
-let products = getStorage<AdminProduct[]>('admin_products_v37', initialProducts);
+let products = getStorage<AdminProduct[]>('admin_products_v38', initialProducts);
+if (!products || products.length < initialProducts.length) {
+  products = initialProducts;
+  setStorage('admin_products_v38', products);
+}
 let categories = getStorage<AdminCategory[]>('admin_categories_v37', initialCategories);
 let brands = getStorage<AdminBrand[]>('admin_brands', initialBrands);
 let orders = getStorage<AdminOrder[]>('admin_orders', initialOrders);
@@ -193,11 +197,19 @@ export const adminService = {
 
           const dbProducts = prodRes.data.map((p: any) => mapDbProductToAdmin(p, catMap, brandMap));
           products = dbProducts;
+          setStorage('admin_products_v38', dbProducts);
           return dbProducts;
         }
       } catch (err) {
         console.warn('PostgreSQL getProducts error:', err);
       }
+    }
+    const stored = getStorage<AdminProduct[]>('admin_products_v38', initialProducts);
+    if (stored && stored.length >= initialProducts.length) {
+      products = stored;
+    } else {
+      products = initialProducts;
+      setStorage('admin_products_v38', products);
     }
     return [...products];
   },
@@ -205,7 +217,15 @@ export const adminService = {
   async getProductById(id: string): Promise<AdminProduct | null> {
     if (CLIENT_DATA_SOURCE === 'postgres') {
       try {
-        const { data } = await dataClient.from('products').select('*').eq('id', id).maybeSingle();
+        const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(id);
+        let query = dataClient.from('products').select('*');
+        if (isUuid) {
+          query = query.eq('id', id);
+        } else {
+          const mockMatch = initialProducts.find((p) => p.id === id);
+          query = query.eq('slug', mockMatch?.slug || id);
+        }
+        const { data } = await query.maybeSingle();
         if (data) {
           const cats = await this.getCategories();
           const brs = await this.getBrands();
@@ -219,7 +239,7 @@ export const adminService = {
         console.warn('PostgreSQL getProductById error:', err);
       }
     }
-    return products.find((p) => p.id === id) || null;
+    return products.find((p) => p.id === id || p.slug === id || p.sku === id) || null;
   },
 
   async createProduct(data: Omit<AdminProduct, 'id' | 'createdAt' | 'updatedAt'>) {
@@ -263,77 +283,92 @@ export const adminService = {
       updatedAt: new Date().toISOString(),
     };
     products = [newProduct, ...products];
-    setStorage('admin_products_v37', products);
+    setStorage('admin_products_v38', products);
     return newProduct;
   },
 
   async updateProduct(id: string, data: Partial<AdminProduct>) {
     if (CLIENT_DATA_SOURCE === 'postgres') {
-      try {
-        const updates: any = {};
-        if (data.name !== undefined) updates.name = data.name;
-        if (data.slug !== undefined) updates.slug = data.slug;
-        if (data.sku !== undefined) updates.sku = data.sku;
-        if (data.price !== undefined) updates.price = Number(data.price);
-        if (data.originalPrice !== undefined) updates.compare_at_price = Number(data.originalPrice);
-        if (data.stock !== undefined) updates.stock = Math.max(0, Math.floor(Number(data.stock) || 0));
-        if (data.lowStockThreshold !== undefined) updates.low_stock_threshold = Math.max(1, Math.floor(Number(data.lowStockThreshold) || 5));
-        if (data.status !== undefined) updates.is_published = data.status === 'published';
-        if (data.shortDescription !== undefined) updates.short_description = data.shortDescription;
-        if (data.description !== undefined) updates.description = data.description;
-        if (data.primaryImage !== undefined) updates.primary_image = data.primaryImage;
-        if (data.galleryImages !== undefined) updates.images = data.galleryImages;
-        if (data.specifications !== undefined) updates.specifications = data.specifications;
-        if (data.tags !== undefined) updates.tags = data.tags;
+      const updates: any = {};
+      if (data.name !== undefined) updates.name = data.name;
+      if (data.slug !== undefined) updates.slug = data.slug;
+      if (data.sku !== undefined) updates.sku = data.sku;
+      if (data.price !== undefined) updates.price = Number(data.price);
+      if (data.originalPrice !== undefined) updates.compare_at_price = Number(data.originalPrice);
+      if (data.stock !== undefined) updates.stock = Math.max(0, Math.floor(Number(data.stock) || 0));
+      if (data.lowStockThreshold !== undefined) updates.low_stock_threshold = Math.max(1, Math.floor(Number(data.lowStockThreshold) || 5));
+      if (data.status !== undefined) updates.is_published = data.status === 'published';
+      if (data.shortDescription !== undefined) updates.short_description = data.shortDescription;
+      if (data.description !== undefined) updates.description = data.description;
+      if (data.primaryImage !== undefined) updates.primary_image = data.primaryImage;
+      if (data.galleryImages !== undefined) updates.images = data.galleryImages;
+      if (data.specifications !== undefined) updates.specifications = data.specifications;
+      if (data.tags !== undefined) updates.tags = data.tags;
 
-        if (data.category) {
-          const catRes = await dataClient
-            .from('categories')
-            .select('id')
-            .search(data.category)
-            .limit(1)
-            .maybeSingle();
-          if (catRes.data?.id) updates.category_id = catRes.data.id;
-        }
+      if (data.category) {
+        const catRes = await dataClient
+          .from('categories')
+          .select('id')
+          .search(data.category)
+          .limit(1)
+          .maybeSingle();
+        if (catRes.data?.id) updates.category_id = catRes.data.id;
+      }
 
-        if (data.brand) {
-          const brandRes = await dataClient
-            .from('brands')
-            .select('id')
-            .search(data.brand)
-            .limit(1)
-            .maybeSingle();
-          if (brandRes.data?.id) updates.brand_id = brandRes.data.id;
-        }
+      if (data.brand) {
+        const brandRes = await dataClient
+          .from('brands')
+          .select('id')
+          .search(data.brand)
+          .limit(1)
+          .maybeSingle();
+        if (brandRes.data?.id) updates.brand_id = brandRes.data.id;
+      }
 
-        if (Object.keys(updates).length > 0) {
-          const res = await dataClient.from('products').update(updates).eq('id', id);
-          if (res.error) {
-            console.error('PostgreSQL updateProduct error:', res.error);
-            throw new Error(res.error.message || 'Failed to update product in database');
-          }
+      if (Object.keys(updates).length > 0) {
+        const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(id);
+        let query = dataClient.from('products').update(updates);
+        if (isUuid) {
+          query = query.eq('id', id);
+        } else {
+          const mockMatch = initialProducts.find((p) => p.id === id);
+          const targetSlug = data.slug || mockMatch?.slug || id;
+          query = query.eq('slug', targetSlug);
         }
-      } catch (err) {
-        console.warn('PostgreSQL updateProduct error:', err);
+        const res = await query;
+        if (res.error) {
+          console.error('PostgreSQL updateProduct error:', res.error);
+          throw new Error(res.error.message || 'Failed to update product in database');
+        }
       }
     }
     products = products.map((p) =>
-      p.id === id ? { ...p, ...data, updatedAt: new Date().toISOString() } : p
+      p.id === id || p.slug === data.slug || p.sku === data.sku
+        ? { ...p, ...data, updatedAt: new Date().toISOString() }
+        : p
     );
-    setStorage('admin_products_v37', products);
-    return products.find((p) => p.id === id) || null;
+    setStorage('admin_products_v38', products);
+    return products.find((p) => p.id === id || p.slug === data.slug || p.sku === data.sku) || null;
   },
 
   async deleteProduct(id: string) {
     if (CLIENT_DATA_SOURCE === 'postgres') {
       try {
-        await dataClient.from('products').delete().eq('id', id);
+        const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(id);
+        let query = dataClient.from('products').delete();
+        if (isUuid) {
+          query = query.eq('id', id);
+        } else {
+          const mockMatch = initialProducts.find((p) => p.id === id);
+          query = query.eq('slug', mockMatch?.slug || id);
+        }
+        await query;
       } catch (err) {
         console.warn('PostgreSQL deleteProduct error:', err);
       }
     }
     products = products.filter((p) => p.id !== id);
-    setStorage('admin_products_v37', products);
+    setStorage('admin_products_v38', products);
     return true;
   },
 

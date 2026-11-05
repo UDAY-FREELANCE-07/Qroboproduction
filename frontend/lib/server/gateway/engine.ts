@@ -227,12 +227,12 @@ async function runRead(db: Queryable, plan: ReadPlan, req: Partial<GatewayReques
   if (req.or) where.push(parseOr(table, req.or, visible, p));
     if (req.search && req.search.trim()) {
       const rawTokens = req.search.trim().split(/\s+/).filter(Boolean);
-      const tokens = Array.from(new Set(rawTokens.map((t) => t.toLowerCase()))).slice(0, 6);
+      const tokens = Array.from(new Set(rawTokens.map((t) => t.toLowerCase()))).slice(0, 10);
       if (tokens.length > 0) {
         if (table === 'products') {
           for (const token of tokens) {
             const pat = '%' + token + '%';
-            where.push(`("name" ILIKE ${p.add(pat)} OR "sku" ILIKE ${p.add(pat)} OR "short_description" ILIKE ${p.add(pat)} OR "tags"::text ILIKE ${p.add(pat)})`);
+            where.push(`("name" ILIKE ${p.add(pat)} OR "sku" ILIKE ${p.add(pat)} OR "short_description" ILIKE ${p.add(pat)} OR "description" ILIKE ${p.add(pat)} OR "specifications"::text ILIKE ${p.add(pat)} OR "tags"::text ILIKE ${p.add(pat)})`);
           }
         } else {
           const textCols = visible.filter((c) => {

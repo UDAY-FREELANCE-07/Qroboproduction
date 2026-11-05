@@ -48,3 +48,4 @@ export const POST = handler(async (req: Request) => {
 
   return ok({ message: 'Thank you! Your message has been sent successfully. We will contact you soon.' });
 });
+
