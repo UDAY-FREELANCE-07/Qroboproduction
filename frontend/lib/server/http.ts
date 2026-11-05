@@ -58,7 +58,7 @@ export function mapDbError(err: any): ApiError | null {
 export function toErrorResponse(err: unknown) {
   if (err instanceof ApiError) return fail(err.status, err.code, err.message, err.details);
   if (err instanceof ZodError) {
-    return fail(400, 'validation_error', 'Invalid request.', err.issues.map((i) => ({ path: i.path.join('.'), message: i.message })));
+    return fail(400, 'validation_error', err.issues[0]?.message || 'Invalid request.', err.issues.map((i) => ({ path: i.path.join('.'), message: i.message })));
   }
   if (err instanceof DataSourceDisabledError) {
     return fail(503, 'data_source_disabled', 'This endpoint requires DATA_SOURCE=postgres.');

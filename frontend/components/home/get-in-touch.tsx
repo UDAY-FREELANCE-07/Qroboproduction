@@ -33,7 +33,7 @@ export function GetInTouchSection() {
       });
       const data = await res.json();
       if (!res.ok) {
-        throw new Error(data?.error?.message || 'Failed to submit inquiry');
+        throw new Error(data?.error?.message || data?.error?.details?.[0]?.message || 'Failed to submit inquiry');
       }
 
       setIsSubmitted(true);

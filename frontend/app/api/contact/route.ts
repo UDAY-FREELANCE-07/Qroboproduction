@@ -11,11 +11,11 @@ export const dynamic = 'force-dynamic';
 const contactLimiter = new RateLimiter({ windowMs: 10 * 60 * 1000, max: 6 });
 
 const ContactSchema = z.object({
-  name: z.string().trim().min(2, 'Name must be at least 2 characters').max(100),
+  name: z.string().trim().min(1, 'Name is required').max(100),
   email: z.string().trim().toLowerCase().email('Invalid email address').max(254),
   phone: z.string().trim().max(30).optional().default(''),
-  subject: z.string().trim().min(3, 'Subject must be at least 3 characters').max(200),
-  message: z.string().trim().min(10, 'Message must be at least 10 characters').max(3000),
+  subject: z.string().trim().min(1, 'Subject is required').max(200).default('General Inquiry'),
+  message: z.string().trim().min(1, 'Message is required').max(5000),
 });
 
 export const POST = handler(async (req: Request) => {
