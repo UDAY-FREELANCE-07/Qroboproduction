@@ -321,14 +321,14 @@ export const pdfAdminCategories: AdminCategory[] = [
     "status": "active"
   },
   {
-    "id": "cat-boards-connectors-and-wiring",
-    "name": "Boards, Connectors and Wiring",
-    "slug": "boards-connectors-and-wiring",
-    "description": "Official Boards, Connectors and Wiring component collection from Hi Technology component catalog.",
-    "iconName": "Cpu",
-    "productCount": 18,
-    "sortOrder": 30,
-    "isFeatured": false,
+    "id": "cat-connectors",
+    "name": "Connectors",
+    "slug": "connectors",
+    "description": "Official Connectors, Headers, IC Sockets, Screw Terminals, Jumper Wires, and Prototyping Wiring collection from Hi Technology component catalog.",
+    "iconName": "Link2",
+    "productCount": 23,
+    "sortOrder": 10,
+    "isFeatured": true,
     "status": "active"
   },
   {
@@ -471,17 +471,6 @@ export const pdfAdminCategories: AdminCategory[] = [
     "iconName": "Cpu",
     "productCount": 7,
     "sortOrder": 43,
-    "isFeatured": false,
-    "status": "active"
-  },
-  {
-    "id": "cat-connectors-headers-and-sockets",
-    "name": "Connectors, Headers and Sockets",
-    "slug": "connectors-headers-and-sockets",
-    "description": "Official Connectors, Headers and Sockets component collection from Hi Technology component catalog.",
-    "iconName": "Cpu",
-    "productCount": 5,
-    "sortOrder": 45,
     "isFeatured": false,
     "status": "active"
   },
@@ -16262,9 +16251,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "breadboard-830",
     "sku": "HIT-30-001",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Breadboard 830 - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Breadboard 830 - Connectors",
     "description": "High-grade Breadboard 830 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 160,
     "originalPrice": 200,
@@ -16288,7 +16277,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16302,9 +16291,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "breadboard-400",
     "sku": "HIT-30-002",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Breadboard 400 - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Breadboard 400 - Connectors",
     "description": "High-grade Breadboard 400 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 90,
     "originalPrice": 113,
@@ -16328,7 +16317,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16342,9 +16331,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "perfboard-5x7",
     "sku": "HIT-30-005",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Perfboard 5x7 - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Perfboard 5x7 - Connectors",
     "description": "High-grade Perfboard 5x7 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16368,7 +16357,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16382,9 +16371,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "perfboard-9x15",
     "sku": "HIT-30-006",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Perfboard 9x15 - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Perfboard 9x15 - Connectors",
     "description": "High-grade Perfboard 9x15 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16408,7 +16397,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16422,9 +16411,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "jumper-wires-male-male",
     "sku": "HIT-30-009",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Jumper Wires Male-Male - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Jumper Wires Male - Connectors",
     "description": "High-grade Jumper Wires Male-Male selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 85,
     "originalPrice": 106,
@@ -16448,7 +16437,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16462,9 +16451,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "jumper-wires-male-female",
     "sku": "HIT-30-010",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Jumper Wires Male-Female - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Jumper Wires Male - Connectors",
     "description": "High-grade Jumper Wires Male-Female selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 85,
     "originalPrice": 106,
@@ -16488,7 +16477,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16502,9 +16491,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "jumper-wires-female-female",
     "sku": "HIT-30-011",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Jumper Wires Female-Female - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Jumper Wires Female - Connectors",
     "description": "High-grade Jumper Wires Female-Female selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 85,
     "originalPrice": 106,
@@ -16528,7 +16517,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16542,9 +16531,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "male-header-pins",
     "sku": "HIT-30-012",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Male Header Pins - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Male Header Pins - Connectors",
     "description": "High-grade Male Header Pins selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16568,7 +16557,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16582,9 +16571,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "female-header-pins",
     "sku": "HIT-30-013",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Female Header Pins - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Female Header Pins - Connectors",
     "description": "High-grade Female Header Pins selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16608,7 +16597,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16622,9 +16611,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "screw-terminal-2p",
     "sku": "HIT-30-020",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Screw Terminal 2P - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Screw Terminal 2P - Connectors",
     "description": "High-grade Screw Terminal 2P selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16648,7 +16637,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16662,9 +16651,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "screw-terminal-3p",
     "sku": "HIT-30-021",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Screw Terminal 3P - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Screw Terminal 3P - Connectors",
     "description": "High-grade Screw Terminal 3P selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16688,7 +16677,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16702,9 +16691,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "dc-barrel-jack",
     "sku": "HIT-30-023",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "DC Barrel Jack - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "DC Barrel Jack - Connectors",
     "description": "High-grade DC Barrel Jack selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16728,7 +16717,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16742,9 +16731,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "ic-socket-8-pin",
     "sku": "HIT-30-031",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "IC Socket 8-pin - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "IC Socket 8 - Connectors",
     "description": "High-grade IC Socket 8-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16768,7 +16757,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16782,9 +16771,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "ic-socket-14-pin",
     "sku": "HIT-30-032",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "IC Socket 14-pin - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "IC Socket 14 - Connectors",
     "description": "High-grade IC Socket 14-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16808,7 +16797,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16822,9 +16811,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "ic-socket-16-pin",
     "sku": "HIT-30-033",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "IC Socket 16-pin - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "IC Socket 16 - Connectors",
     "description": "High-grade IC Socket 16-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16848,7 +16837,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16862,9 +16851,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "ic-socket-28-pin",
     "sku": "HIT-30-034",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "IC Socket 28-pin - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "IC Socket 28 - Connectors",
     "description": "High-grade IC Socket 28-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16888,7 +16877,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16902,9 +16891,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "ic-socket-40-pin",
     "sku": "HIT-30-035",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "IC Socket 40-pin - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "IC Socket 40 - Connectors",
     "description": "High-grade IC Socket 40-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16928,7 +16917,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -16942,9 +16931,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "arduino-uno-usb-cable",
     "sku": "HIT-30-042",
     "brand": "Hi Technology",
-    "category": "Boards, Connectors and Wiring",
-    "subcategory": "Boards, Connectors and Wiring",
-    "shortDescription": "Arduino Uno USB Cable - Boards, Connectors and Wiring",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Arduino Uno USB Cable - Connectors",
     "description": "High-grade Arduino Uno USB Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -16968,7 +16957,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -21360,9 +21349,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "dc-barrel-plug-male",
     "sku": "HIT-45-001",
     "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "DC Barrel Plug (Male) - Connectors, Headers and Sockets",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "DC Barrel Plug (Male) - Connectors",
     "description": "High-grade DC Barrel Plug (Male) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -21386,7 +21375,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "connectors-headers-and-sockets",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -21400,9 +21389,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "male-pin-header-straight-40-pin",
     "sku": "HIT-45-008",
     "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Male Pin Header (Straight, 40-Pin) - Connectors, Headers and Sockets",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Male Pin Header (Straight, 40 - Connectors",
     "description": "High-grade Male Pin Header (Straight, 40-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -21426,7 +21415,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "connectors-headers-and-sockets",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -21440,9 +21429,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "female-pin-header-straight-40-pin",
     "sku": "HIT-45-009",
     "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "Female Pin Header (Straight, 40-Pin) - Connectors, Headers and Sockets",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "Female Pin Header (Straight, 40 - Connectors",
     "description": "High-grade Female Pin Header (Straight, 40-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -21466,7 +21455,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "connectors-headers-and-sockets",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -21480,9 +21469,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "18650-battery-holder-single-cell",
     "sku": "HIT-45-019",
     "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "18650 Battery Holder (Single Cell) - Connectors, Headers and Sockets",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "18650 Battery Holder (Single Cell) - Connectors",
     "description": "High-grade 18650 Battery Holder (Single Cell) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -21506,7 +21495,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "connectors-headers-and-sockets",
+      "connectors",
       "electronics",
       "components",
       "in-stock"
@@ -21520,9 +21509,9 @@ export const pdfAdminProducts: AdminProduct[] = [
     "slug": "18650-battery-holder-2-cell",
     "sku": "HIT-45-020",
     "brand": "Hi Technology",
-    "category": "Connectors, Headers and Sockets",
-    "subcategory": "Connectors, Headers and Sockets",
-    "shortDescription": "18650 Battery Holder (2-Cell) - Connectors, Headers and Sockets",
+    "category": "Connectors",
+    "subcategory": "Connectors",
+    "shortDescription": "18650 Battery Holder (2 - Connectors",
     "description": "High-grade 18650 Battery Holder (2-Cell) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "price": 35,
     "originalPrice": 44,
@@ -21546,7 +21535,7 @@ export const pdfAdminProducts: AdminProduct[] = [
       "RoHS Compliant": "Yes"
     },
     "tags": [
-      "connectors-headers-and-sockets",
+      "connectors",
       "electronics",
       "components",
       "in-stock"

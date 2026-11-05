@@ -90,6 +90,20 @@ main(async (client) => {
     }
     console.log(`Synchronized ${pdfCategories.length} categories.`);
 
+    // 4b. Reassign products from legacy connector categories to the unified 'connectors' category
+    const connCatId = catIdMap.get('connectors');
+    if (connCatId) {
+      await client.query(
+        `UPDATE products SET category_id = $1 
+         WHERE category_id IN (
+           SELECT id FROM categories WHERE slug IN ('boards-connectors-and-wiring', 'connectors-headers-and-sockets')
+         )`,
+        [connCatId]
+      );
+      await client.query("DELETE FROM categories WHERE slug IN ('boards-connectors-and-wiring', 'connectors-headers-and-sockets')");
+      console.log('Migrated legacy connector categories to unified "Connectors" category.');
+    }
+
     // 5. Upsert products (Stock is preserved if already updated by admin)
     let upsertedCount = 0;
     const validSkus = new Set<string>();

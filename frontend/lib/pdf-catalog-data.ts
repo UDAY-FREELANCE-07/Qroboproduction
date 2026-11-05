@@ -365,14 +365,14 @@ export const pdfCategories: PdfCategory[] = [
     "highlighted_count": 0
   },
   {
-    "id": "cat-boards-connectors-and-wiring",
-    "name": "Boards, Connectors and Wiring",
-    "slug": "boards-connectors-and-wiring",
-    "description": "Official Boards, Connectors and Wiring component collection from Hi Technology component catalog.",
-    "icon_name": "Share2",
-    "is_featured": false,
-    "sort_order": 30,
-    "product_count": 18,
+    "id": "cat-connectors",
+    "name": "Connectors",
+    "slug": "connectors",
+    "description": "Official Connectors, Headers, IC Sockets, Screw Terminals, Jumper Wires, and Prototyping Wiring collection from Hi Technology component catalog.",
+    "icon_name": "Link2",
+    "is_featured": true,
+    "sort_order": 10,
+    "product_count": 23,
     "highlighted_count": 0
   },
   {
@@ -516,17 +516,6 @@ export const pdfCategories: PdfCategory[] = [
     "is_featured": false,
     "sort_order": 43,
     "product_count": 7,
-    "highlighted_count": 0
-  },
-  {
-    "id": "cat-connectors-headers-and-sockets",
-    "name": "Connectors, Headers and Sockets",
-    "slug": "connectors-headers-and-sockets",
-    "description": "Official Connectors, Headers and Sockets component collection from Hi Technology component catalog.",
-    "icon_name": "Link2",
-    "is_featured": false,
-    "sort_order": 45,
-    "product_count": 5,
     "highlighted_count": 0
   },
   {
@@ -21398,8 +21387,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Breadboard 830",
     "slug": "breadboard-830",
     "sku": "HIT-30-001",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 160,
@@ -21413,7 +21402,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.6,
     "review_count": 8,
-    "short_description": "Breadboard 830 - Boards, Connectors and Wiring",
+    "short_description": "Breadboard 830 - Connectors",
     "description": "High-grade Breadboard 830 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/breadboard-830.png",
     "images": [
@@ -21440,7 +21429,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21451,8 +21440,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Breadboard 400",
     "slug": "breadboard-400",
     "sku": "HIT-30-002",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 90,
@@ -21466,7 +21455,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.7,
     "review_count": 11,
-    "short_description": "Breadboard 400 - Boards, Connectors and Wiring",
+    "short_description": "Breadboard 400 - Connectors",
     "description": "High-grade Breadboard 400 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/breadboard-400.jpg",
     "images": [
@@ -21493,7 +21482,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21504,8 +21493,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Perfboard 5x7",
     "slug": "perfboard-5x7",
     "sku": "HIT-30-005",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -21519,7 +21508,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.5,
     "review_count": 20,
-    "short_description": "Perfboard 5x7 - Boards, Connectors and Wiring",
+    "short_description": "Perfboard 5x7 - Connectors",
     "description": "High-grade Perfboard 5x7 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/perfboard-5x7.png",
     "images": [
@@ -21546,7 +21535,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21557,8 +21546,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Perfboard 9x15",
     "slug": "perfboard-9x15",
     "sku": "HIT-30-006",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -21572,7 +21561,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.6,
     "review_count": 23,
-    "short_description": "Perfboard 9x15 - Boards, Connectors and Wiring",
+    "short_description": "Perfboard 9x15 - Connectors",
     "description": "High-grade Perfboard 9x15 selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/perfboard-9x15.png",
     "images": [
@@ -21599,7 +21588,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21610,8 +21599,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Jumper Wires Male-Male",
     "slug": "jumper-wires-male-male",
     "sku": "HIT-30-009",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 85,
@@ -21625,7 +21614,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.9,
     "review_count": 32,
-    "short_description": "Jumper Wires Male-Male - Boards, Connectors and Wiring",
+    "short_description": "Jumper Wires Male - Connectors",
     "description": "High-grade Jumper Wires Male-Male selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/jumper-wires-male-male.jpg",
     "images": [
@@ -21652,7 +21641,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21663,8 +21652,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Jumper Wires Male-Female",
     "slug": "jumper-wires-male-female",
     "sku": "HIT-30-010",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 85,
@@ -21678,7 +21667,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": true,
     "rating": 4.5,
     "review_count": 35,
-    "short_description": "Jumper Wires Male-Female - Boards, Connectors and Wiring",
+    "short_description": "Jumper Wires Male - Connectors",
     "description": "High-grade Jumper Wires Male-Female selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/jumper-wires-male-female.jpg",
     "images": [
@@ -21705,7 +21694,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21716,8 +21705,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Jumper Wires Female-Female",
     "slug": "jumper-wires-female-female",
     "sku": "HIT-30-011",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 85,
@@ -21731,7 +21720,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.6,
     "review_count": 38,
-    "short_description": "Jumper Wires Female-Female - Boards, Connectors and Wiring",
+    "short_description": "Jumper Wires Female - Connectors",
     "description": "High-grade Jumper Wires Female-Female selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/jumper-wires-female-female.jpg",
     "images": [
@@ -21758,7 +21747,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21769,8 +21758,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Male Header Pins",
     "slug": "male-header-pins",
     "sku": "HIT-30-012",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -21784,7 +21773,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.7,
     "review_count": 41,
-    "short_description": "Male Header Pins - Boards, Connectors and Wiring",
+    "short_description": "Male Header Pins - Connectors",
     "description": "High-grade Male Header Pins selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/male-header-pins.jpg",
     "images": [
@@ -21811,7 +21800,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21822,8 +21811,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Female Header Pins",
     "slug": "female-header-pins",
     "sku": "HIT-30-013",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -21837,7 +21826,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.8,
     "review_count": 44,
-    "short_description": "Female Header Pins - Boards, Connectors and Wiring",
+    "short_description": "Female Header Pins - Connectors",
     "description": "High-grade Female Header Pins selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/female-header-pins.jpg",
     "images": [
@@ -21864,7 +21853,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21875,8 +21864,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Screw Terminal 2P",
     "slug": "screw-terminal-2p",
     "sku": "HIT-30-020",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -21890,7 +21879,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": true,
     "rating": 4.5,
     "review_count": 20,
-    "short_description": "Screw Terminal 2P - Boards, Connectors and Wiring",
+    "short_description": "Screw Terminal 2P - Connectors",
     "description": "High-grade Screw Terminal 2P selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/screw-terminal-2p.jpg",
     "images": [
@@ -21917,7 +21906,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21928,8 +21917,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Screw Terminal 3P",
     "slug": "screw-terminal-3p",
     "sku": "HIT-30-021",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -21943,7 +21932,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.6,
     "review_count": 23,
-    "short_description": "Screw Terminal 3P - Boards, Connectors and Wiring",
+    "short_description": "Screw Terminal 3P - Connectors",
     "description": "High-grade Screw Terminal 3P selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/screw-terminal-3p.jpg",
     "images": [
@@ -21970,7 +21959,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -21981,8 +21970,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "DC Barrel Jack",
     "slug": "dc-barrel-jack",
     "sku": "HIT-30-023",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -21996,7 +21985,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.8,
     "review_count": 29,
-    "short_description": "DC Barrel Jack - Boards, Connectors and Wiring",
+    "short_description": "DC Barrel Jack - Connectors",
     "description": "High-grade DC Barrel Jack selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/dc-barrel-jack.jpg",
     "images": [
@@ -22023,7 +22012,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -22034,8 +22023,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "IC Socket 8-pin",
     "slug": "ic-socket-8-pin",
     "sku": "HIT-30-031",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -22049,7 +22038,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.6,
     "review_count": 8,
-    "short_description": "IC Socket 8-pin - Boards, Connectors and Wiring",
+    "short_description": "IC Socket 8 - Connectors",
     "description": "High-grade IC Socket 8-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/ic-socket-8-pin.jpg",
     "images": [
@@ -22076,7 +22065,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -22087,8 +22076,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "IC Socket 14-pin",
     "slug": "ic-socket-14-pin",
     "sku": "HIT-30-032",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -22102,7 +22091,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.7,
     "review_count": 11,
-    "short_description": "IC Socket 14-pin - Boards, Connectors and Wiring",
+    "short_description": "IC Socket 14 - Connectors",
     "description": "High-grade IC Socket 14-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/ic-socket-14-pin.jpg",
     "images": [
@@ -22129,7 +22118,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -22140,8 +22129,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "IC Socket 16-pin",
     "slug": "ic-socket-16-pin",
     "sku": "HIT-30-033",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -22155,7 +22144,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.8,
     "review_count": 14,
-    "short_description": "IC Socket 16-pin - Boards, Connectors and Wiring",
+    "short_description": "IC Socket 16 - Connectors",
     "description": "High-grade IC Socket 16-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/ic-socket-16-pin.jpg",
     "images": [
@@ -22182,7 +22171,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -22193,8 +22182,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "IC Socket 28-pin",
     "slug": "ic-socket-28-pin",
     "sku": "HIT-30-034",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -22208,7 +22197,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.9,
     "review_count": 17,
-    "short_description": "IC Socket 28-pin - Boards, Connectors and Wiring",
+    "short_description": "IC Socket 28 - Connectors",
     "description": "High-grade IC Socket 28-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/ic-socket-28-pin.jpg",
     "images": [
@@ -22235,7 +22224,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -22246,8 +22235,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "IC Socket 40-pin",
     "slug": "ic-socket-40-pin",
     "sku": "HIT-30-035",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -22261,7 +22250,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.5,
     "review_count": 20,
-    "short_description": "IC Socket 40-pin - Boards, Connectors and Wiring",
+    "short_description": "IC Socket 40 - Connectors",
     "description": "High-grade IC Socket 40-pin selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/ic-socket-40-pin.jpg",
     "images": [
@@ -22288,7 +22277,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -22299,8 +22288,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Arduino Uno USB Cable",
     "slug": "arduino-uno-usb-cable",
     "sku": "HIT-30-042",
-    "category_id": "cat-boards-connectors-and-wiring",
-    "category_name": "Boards, Connectors and Wiring",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -22314,7 +22303,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.7,
     "review_count": 41,
-    "short_description": "Arduino Uno USB Cable - Boards, Connectors and Wiring",
+    "short_description": "Arduino Uno USB Cable - Connectors",
     "description": "High-grade Arduino Uno USB Cable selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/boards-connectors-and-wiring/arduino-uno-usb-cable.jpg",
     "images": [
@@ -22341,7 +22330,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "boards-connectors-and-wiring",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -28179,8 +28168,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "DC Barrel Plug (Male)",
     "slug": "dc-barrel-plug-male",
     "sku": "HIT-45-001",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -28194,7 +28183,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.6,
     "review_count": 8,
-    "short_description": "DC Barrel Plug (Male) - Connectors, Headers and Sockets",
+    "short_description": "DC Barrel Plug (Male) - Connectors",
     "description": "High-grade DC Barrel Plug (Male) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/connectors-headers-and-sockets/dc-barrel-plug-male.png",
     "images": [
@@ -28221,7 +28210,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "connectors-headers-and-sockets",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -28232,8 +28221,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Male Pin Header (Straight, 40-Pin)",
     "slug": "male-pin-header-straight-40-pin",
     "sku": "HIT-45-008",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -28247,7 +28236,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.8,
     "review_count": 29,
-    "short_description": "Male Pin Header (Straight, 40-Pin) - Connectors, Headers and Sockets",
+    "short_description": "Male Pin Header (Straight, 40 - Connectors",
     "description": "High-grade Male Pin Header (Straight, 40-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/connectors-headers-and-sockets/male-pin-header-straight-40-pin.png",
     "images": [
@@ -28274,7 +28263,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "connectors-headers-and-sockets",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -28285,8 +28274,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "Female Pin Header (Straight, 40-Pin)",
     "slug": "female-pin-header-straight-40-pin",
     "sku": "HIT-45-009",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -28300,7 +28289,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.9,
     "review_count": 32,
-    "short_description": "Female Pin Header (Straight, 40-Pin) - Connectors, Headers and Sockets",
+    "short_description": "Female Pin Header (Straight, 40 - Connectors",
     "description": "High-grade Female Pin Header (Straight, 40-Pin) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/connectors-headers-and-sockets/female-pin-header-straight-40-pin.png",
     "images": [
@@ -28327,7 +28316,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "connectors-headers-and-sockets",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -28338,8 +28327,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "18650 Battery Holder (Single Cell)",
     "slug": "18650-battery-holder-single-cell",
     "sku": "HIT-45-019",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -28353,7 +28342,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": false,
     "rating": 4.9,
     "review_count": 17,
-    "short_description": "18650 Battery Holder (Single Cell) - Connectors, Headers and Sockets",
+    "short_description": "18650 Battery Holder (Single Cell) - Connectors",
     "description": "High-grade 18650 Battery Holder (Single Cell) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/connectors-headers-and-sockets/18650-battery-holder-single-cell.png",
     "images": [
@@ -28380,7 +28369,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "connectors-headers-and-sockets",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
@@ -28391,8 +28380,8 @@ export const pdfProducts: PdfProduct[] = [
     "name": "18650 Battery Holder (2-Cell)",
     "slug": "18650-battery-holder-2-cell",
     "sku": "HIT-45-020",
-    "category_id": "cat-connectors-headers-and-sockets",
-    "category_name": "Connectors, Headers and Sockets",
+    "category_id": "cat-connectors",
+    "category_name": "Connectors",
     "brand_id": "brand-generic",
     "brand_name": "Hi Technology",
     "price": 35,
@@ -28406,7 +28395,7 @@ export const pdfProducts: PdfProduct[] = [
     "is_new_arrival": true,
     "rating": 4.5,
     "review_count": 20,
-    "short_description": "18650 Battery Holder (2-Cell) - Connectors, Headers and Sockets",
+    "short_description": "18650 Battery Holder (2 - Connectors",
     "description": "High-grade 18650 Battery Holder (2-Cell) selected for professional engineering, robotics prototyping, and laboratory electronics projects. Sourced from authentic industrial electronics distributors with guaranteed specifications.",
     "primary_image": "/images/products/connectors-headers-and-sockets/18650-battery-holder-2-cell.png",
     "images": [
@@ -28433,7 +28422,7 @@ export const pdfProducts: PdfProduct[] = [
       "Breadboard & Perfboard"
     ],
     "tags": [
-      "connectors-headers-and-sockets",
+      "connectors",
       "electronics",
       "components",
       "out-of-stock"
